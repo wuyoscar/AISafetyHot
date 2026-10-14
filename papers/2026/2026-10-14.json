@@ -36,6 +36,42 @@
     "discoveredAt": "2026-10-14T10:31:30.771Z"
   },
   {
+    "arxivId": "2610.14488",
+    "title": "Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents",
+    "titleZh": "名称不是对象：面向被攻陷编码 Agent 的对象绑定隔离机制",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14488",
+      "aisafetyhot": "https://aisafetyhot.com/items/mnwoxto4aojq901hrwrrfk0w5"
+    },
+    "publishedAt": "2026-10-10T02:38:11.000Z",
+    "timelineAt": "2026-10-14T11:47:33.536Z",
+    "discoveredAt": "2026-10-14T11:47:33.536Z"
+  },
+  {
+    "arxivId": "2610.15883",
+    "title": "What the Model Cannot See: Covert and Provable Text Invisibility in LLMs",
+    "titleZh": "模型看不见什么：大语言模型中隐蔽且可证明的文本不可见性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.15883",
+      "aisafetyhot": "https://aisafetyhot.com/items/t5hhzznpq8gua25g8s8qy1cpw"
+    },
+    "publishedAt": "2026-10-11T20:00:37.000Z",
+    "timelineAt": "2026-10-14T11:57:29.760Z",
+    "discoveredAt": "2026-10-14T11:57:29.760Z"
+  },
+  {
     "arxivId": "2610.18465",
     "title": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
     "titleZh": "ChatGPT 的健康建议有多安全？来自四个全球南方国家真实用户对话的证据",
@@ -52,41 +88,5 @@
     "publishedAt": "2026-10-13T14:30:12.000Z",
     "timelineAt": "2026-10-14T10:44:28.981Z",
     "discoveredAt": "2026-10-14T10:44:28.981Z"
-  },
-  {
-    "arxivId": "2610.18105",
-    "title": "Chain of Thought Monitoring Can Fail Even When CoT Is Necessary",
-    "titleZh": "思维链监控即使在思维链必要时也可能失效",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.18105",
-      "aisafetyhot": "https://aisafetyhot.com/items/obtik05l01gloixpzqv4stw9y"
-    },
-    "publishedAt": "2026-10-13T10:22:01.000Z",
-    "timelineAt": "2026-10-14T10:31:30.810Z",
-    "discoveredAt": "2026-10-14T10:31:30.810Z"
-  },
-  {
-    "arxivId": "2610.14431",
-    "title": "MemForm: Benchmarking Memory Formation Poisoning in LLM Agents",
-    "titleZh": "MemForm：面向 LLM Agent 记忆形成投毒的基准测试",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.14431",
-      "aisafetyhot": "https://aisafetyhot.com/items/esyxtm9azwz8irhnojgbh8ouf"
-    },
-    "publishedAt": "2026-10-10T00:52:32.000Z",
-    "timelineAt": "2026-10-14T10:46:33.519Z",
-    "discoveredAt": "2026-10-14T10:46:33.519Z"
   }
 ]

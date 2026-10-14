@@ -46,6 +46,52 @@
     }
   },
   {
+    "id": "mnwoxto4aojq901hrwrrfk0w5",
+    "arxivId": "2610.14488",
+    "title": "Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents",
+    "titleEn": "Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14488",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/mnwoxto4aojq901hrwrrfk0w5"
+    },
+    "publishedAt": "2026-10-10T02:38:11.000Z",
+    "timelineAt": "2026-10-14T11:47:33.536Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "t5hhzznpq8gua25g8s8qy1cpw",
+    "arxivId": "2610.15883",
+    "title": "What the Model Cannot See: Covert and Provable Text Invisibility in LLMs",
+    "titleEn": "What the Model Cannot See: Covert and Provable Text Invisibility in LLMs",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.15883",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/t5hhzznpq8gua25g8s8qy1cpw"
+    },
+    "publishedAt": "2026-10-11T20:00:37.000Z",
+    "timelineAt": "2026-10-14T11:57:29.760Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
     "id": "bh4vfr3yu9xk269bvy1x10g5y",
     "arxivId": "2610.18465",
     "title": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
@@ -58,52 +104,6 @@
     },
     "publishedAt": "2026-10-13T14:30:12.000Z",
     "timelineAt": "2026-10-14T10:44:28.981Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
-      "status": "partial"
-    }
-  },
-  {
-    "id": "obtik05l01gloixpzqv4stw9y",
-    "arxivId": "2610.18105",
-    "title": "Chain of Thought Monitoring Can Fail Even When CoT Is Necessary",
-    "titleEn": "Chain of Thought Monitoring Can Fail Even When CoT Is Necessary",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.18105",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/obtik05l01gloixpzqv4stw9y"
-    },
-    "publishedAt": "2026-10-13T10:22:01.000Z",
-    "timelineAt": "2026-10-14T10:31:30.810Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
-      "status": "partial"
-    }
-  },
-  {
-    "id": "esyxtm9azwz8irhnojgbh8ouf",
-    "arxivId": "2610.14431",
-    "title": "MemForm: Benchmarking Memory Formation Poisoning in LLM Agents",
-    "titleEn": "MemForm: Benchmarking Memory Formation Poisoning in LLM Agents",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.14431",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/esyxtm9azwz8irhnojgbh8ouf"
-    },
-    "publishedAt": "2026-10-10T00:52:32.000Z",
-    "timelineAt": "2026-10-14T10:46:33.519Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
