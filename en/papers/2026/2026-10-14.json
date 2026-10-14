@@ -63,8 +63,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
+      "translated": 2,
+      "pending": 2,
       "status": "partial"
     }
   },
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
     }
   }
 ]
