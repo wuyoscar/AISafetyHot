@@ -1,0 +1,117 @@
+[
+  {
+    "id": "gfwybi9zwmi9tz8am2qkhklou",
+    "arxivId": "2610.17301",
+    "title": "The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow",
+    "titleEn": "The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.17301",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gfwybi9zwmi9tz8am2qkhklou"
+    },
+    "publishedAt": "2026-10-12T18:53:33.000Z",
+    "timelineAt": "2026-10-14T10:31:30.795Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "on84ig2ho8jdobojgnth1y8w9",
+    "arxivId": "2610.15961",
+    "title": "Unfair and Unsafe: Everyday Bias Triggers Emergent Misalignment",
+    "titleEn": "Unfair and Unsafe: Everyday Bias Triggers Emergent Misalignment",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.15961",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/on84ig2ho8jdobojgnth1y8w9"
+    },
+    "publishedAt": "2026-10-11T22:31:46.000Z",
+    "timelineAt": "2026-10-14T10:31:30.771Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "bh4vfr3yu9xk269bvy1x10g5y",
+    "arxivId": "2610.18465",
+    "title": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
+    "titleEn": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.18465",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/bh4vfr3yu9xk269bvy1x10g5y"
+    },
+    "publishedAt": "2026-10-13T14:30:12.000Z",
+    "timelineAt": "2026-10-14T10:44:28.981Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "obtik05l01gloixpzqv4stw9y",
+    "arxivId": "2610.18105",
+    "title": "Chain of Thought Monitoring Can Fail Even When CoT Is Necessary",
+    "titleEn": "Chain of Thought Monitoring Can Fail Even When CoT Is Necessary",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.18105",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/obtik05l01gloixpzqv4stw9y"
+    },
+    "publishedAt": "2026-10-13T10:22:01.000Z",
+    "timelineAt": "2026-10-14T10:31:30.810Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "esyxtm9azwz8irhnojgbh8ouf",
+    "arxivId": "2610.14431",
+    "title": "MemForm: Benchmarking Memory Formation Poisoning in LLM Agents",
+    "titleEn": "MemForm: Benchmarking Memory Formation Poisoning in LLM Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14431",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/esyxtm9azwz8irhnojgbh8ouf"
+    },
+    "publishedAt": "2026-10-10T00:52:32.000Z",
+    "timelineAt": "2026-10-14T10:46:33.519Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  }
+]
