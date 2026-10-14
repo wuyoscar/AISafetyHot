@@ -511,5 +511,23 @@
     "publishedAt": "2026-10-09T16:22:16.000Z",
     "timelineAt": "2026-10-09T16:22:16.000Z",
     "discoveredAt": "2026-10-12T05:04:07.679Z"
+  },
+  {
+    "arxivId": "2610.14530",
+    "title": "Who to Trust in Multi-Robot Systems: Joint Robot and Object Hypothesis Trust Inference via Neural-Symbolic Cross-Validation",
+    "titleZh": "多机器人系统中该信任谁：NeST-Bayes 以神经符号交叉验证联合推断机器人与物体假设信任",
+    "authors": [],
+    "category": "tip",
+    "selected": false,
+    "attention": null,
+    "summaryZh": "NeST-Bayes 是一个神经符号框架，仅凭机器人间的观测一致性联合推断机器人信任与物体假设信任，无需预设机器人信任、声誉信息或旁路身份信号。它从自我中心关系图推理即时信任证据分数，再以 Beta 分布信任信念的贝叶斯更新随时间累积。论文称，它在所有基准设置下取得最高平均物体精度与机器人召回率，在优化攻击下达到 98.8% 机器人精度、93.8% 召回率与 98.3% 物体精度、95.4% 召回率。",
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14530",
+      "aisafetyhot": "https://aisafetyhot.com/items/c530ptzz6cie3ev8a1ajfegi0"
+    },
+    "publishedAt": "2026-10-10T03:41:27.000Z",
+    "timelineAt": "2026-10-10T03:41:27.000Z",
+    "discoveredAt": "2026-10-14T19:28:44.744Z"
   }
 ]

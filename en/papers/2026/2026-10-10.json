@@ -384,9 +384,30 @@
     "id": "d9mkvhcgpxmelgwjo2u0g2wc0",
     "arxivId": "2610.13810",
     "title": "Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion",
-    "titleEn": "Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion",
-    "summary": null,
-    "quickRead": null,
+    "titleEn": "Using subsequence association filtering and breadth-aware selection to suppress hallucinated words in LLM query expansion",
+    "summary": "SAFE-QE suppresses hallucinated words in LLM query expansion through subsequence association filtering and breadth-aware selection. On TREC and BEIR, its nDCG@10 is not statistically different from generative and corpus-guided expansion, but it injects 4.3 unsupported words per query, while Query2doc and HyDE inject 27.8 and 57.5. The method is training-free and retriever-agnostic, scores candidate words by cross-context reproducibility conditioned on the corpus, down-weights words that recur under random contexts but lack support from pseudo-relevance sets, and proposes the Hallucinated Expansion Term Rate to measure query-side faithfulness.",
+    "quickRead": {
+      "parts": [
+        {
+          "text": "LLM query expansion can inject entities unsupported by the corpus and off-topic words, increasing ranking noise and potentially harming strong retrievers. Existing filtering typically keeps or discards words based on co-occurrence with retrieval evidence, and how many words to keep is left to fixed top-k or tuned weights.",
+          "label": "Questions"
+        },
+        {
+          "text": "SAFE-QE does not train. After sampling candidate terms with an open instruction-tuned LLM, it scores them using reproducibility across random contexts and support from pseudo-relevant documents, penalizing terms that are highly reproducible and unsupported; then it greedily maximizes coverage under grounding constraints and filters by resampling frequency. It also defines a query-side HETR.",
+          "label": "Methods"
+        },
+        {
+          "text": "In Table 1, except for the no-expansion row, corrected p > 0.5 for nDCG@10 vs. HyDE, CSQE, MILL; Query2doc p = 0.021. Table 3 macro-average: SAFE-QE unsupported word load 4.79, Query2doc 27.83, HyDE 57.47.",
+          "label": "Experiments and results"
+        },
+        {
+          "text": "The authors state that τg is fixed and should be calibrated per retriever, component ablations were not done, and limited-sample analysis of breadth and consistency remains open. The experiments use six collections, three retrievers, and four generators; the paper does not report the values of each hyperparameter.",
+          "label": "Limitations and future work"
+        }
+      ],
+      "sourceName": "论文 PDF（AI 生成）",
+      "sourceUrl": "https://arxiv.org/abs/2610.13810"
+    },
     "links": {
       "paper": "https://arxiv.org/abs/2610.13810",
       "aisafetyhot": "https://aisafetyhot.com/en/items/d9mkvhcgpxmelgwjo2u0g2wc0"
@@ -398,9 +419,32 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 36,
-      "translated": 14,
-      "pending": 22,
-      "status": "partial"
+      "translated": 36,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "c530ptzz6cie3ev8a1ajfegi0",
+    "arxivId": "2610.14530",
+    "title": "Who to Trust in Multi-Robot Systems: Joint Robot and Object Hypothesis Trust Inference via Neural-Symbolic Cross-Validation",
+    "titleEn": "Who to Trust in Multi-Robot Systems: Joint Robot and Object Hypothesis Trust Inference via Neural-Symbolic Cross-Validation",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14530",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/c530ptzz6cie3ev8a1ajfegi0"
+    },
+    "publishedAt": "2026-10-10T03:41:27.000Z",
+    "timelineAt": "2026-10-10T03:41:27.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 2,
+      "translated": 0,
+      "pending": 2,
+      "status": "original"
     }
   }
 ]
