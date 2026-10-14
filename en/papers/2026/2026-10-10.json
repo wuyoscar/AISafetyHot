@@ -224,6 +224,29 @@
     }
   },
   {
+    "id": "lh0pjzi830c8dsbf768w4n2wo",
+    "arxivId": "2610.14609",
+    "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+    "titleEn": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14609",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/lh0pjzi830c8dsbf768w4n2wo"
+    },
+    "publishedAt": "2026-10-10T05:52:41.000Z",
+    "timelineAt": "2026-10-10T05:52:41.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 35,
+      "translated": 13,
+      "pending": 22,
+      "status": "partial"
+    }
+  },
+  {
     "id": "j60gmjz75xb72a7mwwidy8yh0",
     "arxivId": "2610.13889",
     "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",

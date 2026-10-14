@@ -273,6 +273,45 @@
     "discoveredAt": "2026-10-09T17:19:19.856Z"
   },
   {
+    "arxivId": "2610.14609",
+    "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+    "titleZh": "EviScene：超越\"是否为 AI 生成\"的智能体图像事实性评估",
+    "authors": [],
+    "category": "eval",
+    "selected": false,
+    "attention": null,
+    "summaryZh": "EviScene 在 1,527 张测试图像上以 Qwen3.5-9B 取得 79.05% 平衡准确率与 52.26% 严格证据充分率（SESR），较同骨干基础智能体分别提升 6.71 和 9.37 个百分点。这一多模态 ReAct 智能体面向图像事实性评估：给定图像与通用验证指令，在无文本主张时逐步细化事实问题并对齐外部证据，输出 supported 或 refuted 判定与解释。专家审核的 EviLens 基准含 10,174 张图像、覆盖 12 类事实错误，训练采用教师轨迹监督微调加特权同策略自蒸馏。",
+    "quickRead": {
+      "parts": [
+        {
+          "text": "判断图像是否AI生成，并不能确定所绘情境有无事实支持。只给图像和通用核验指令、不提供文本声明时，系统要给出supported或refuted，并用外部证据解释。",
+          "label": "问题"
+        },
+        {
+          "text": "EviLens含10,174张专家复核图像和十二类事实错误。EviScene以ReAct交替视觉检查、检索和证据核对，并用新发现细化问题。Qwen3.5-9B先在4,872条教师轨迹上SFT，再对已验证决策做PSD。",
+          "label": "方法"
+        },
+        {
+          "text": "在1,527张测试图上，训练后的Qwen3.5-9B达到79.05% BAcc和52.26% SESR，高于同骨干Base。作者称五个共享骨干上调查提高了SESR；Gemini 3.1 Pro的BAcc没有上升。去掉网页搜索后SESR为35.89%。",
+          "label": "实验与结果"
+        },
+        {
+          "text": "论文未专门讨论局限。实验在EviLens的1,527张测试图上比较直接判定与EviScene；终判用Gemini 3.7 Flash对照私有参考。论文未报告评审与人工一致性及按十二类错误划分的测试指标。",
+          "label": "局限与可以继续做的"
+        }
+      ],
+      "sourceName": "论文 PDF（AI 生成）",
+      "sourceUrl": "https://arxiv.org/abs/2610.14609"
+    },
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14609",
+      "aisafetyhot": "https://aisafetyhot.com/items/lh0pjzi830c8dsbf768w4n2wo"
+    },
+    "publishedAt": "2026-10-10T05:52:41.000Z",
+    "timelineAt": "2026-10-10T05:52:41.000Z",
+    "discoveredAt": "2026-10-14T08:08:28.460Z"
+  },
+  {
     "arxivId": "2610.13889",
     "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
     "titleZh": "RATED：通过执行动态实现可靠性感知的 AI 智能体工具检索",
