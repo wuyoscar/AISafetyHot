@@ -1,5 +1,28 @@
 [
   {
+    "id": "xzxwajx5bbwgcvowqayya4e92",
+    "arxivId": "2610.14766",
+    "title": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
+    "titleEn": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14766",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/xzxwajx5bbwgcvowqayya4e92"
+    },
+    "publishedAt": "2026-10-10T09:42:56.000Z",
+    "timelineAt": "2026-10-10T09:42:56.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "status": "original"
+    }
+  },
+  {
     "id": "lqvgsrfg28ywli6ha5m9f9jgx",
     "arxivId": "2610.11169",
     "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",

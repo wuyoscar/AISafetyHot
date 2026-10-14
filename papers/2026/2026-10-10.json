@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.14766",
+    "title": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
+    "titleZh": "Last Secure Code Benchmark：vibe coding 写出的代码安全吗？",
+    "authors": [],
+    "category": "eval",
+    "selected": true,
+    "attention": 82,
+    "summaryZh": "新加坡国立大学与阿里巴巴 Qwen Team 的研究者发布编码 Agent 安全代码生成基准 LSCBench，用 150 个真实漏洞场景构造 450 个任务，评测六款前沿 Agent 写出的代码是否同时满足功能与安全，论文见 https://huggingface.co/papers/2610.14766。基准覆盖 Java、C、C++、JavaScript、Python、PHP、Go 七种语言和 24 类 CWE，含 2025 CWE Top 25 中的 21 类，每个场景分为填函数、写文件、从零重建源码树三种粒度；任务规格只描述功能、不提示安全，由隐藏的功能测试与安全测试共同判定。论文称，加入一句安全提醒后，多数模型同时通过两类测试的比例提升 15 至 21 个百分点，但信息暴露与 SSRF 等取决于规格未写明策略的漏洞仍很少被防住。",
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14766",
+      "aisafetyhot": "https://aisafetyhot.com/items/xzxwajx5bbwgcvowqayya4e92"
+    },
+    "publishedAt": "2026-10-10T09:42:56.000Z",
+    "timelineAt": "2026-10-10T09:42:56.000Z",
+    "discoveredAt": "2026-10-14T12:47:27.787Z"
+  },
+  {
     "arxivId": "2610.11169",
     "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
     "titleZh": "研究重建 GitHub 上 Agent 技能的复制供应链网络",
