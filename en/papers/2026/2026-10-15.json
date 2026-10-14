@@ -1,0 +1,48 @@
+[
+  {
+    "id": "gkb54g8ay6jlk68wy9k3hlqgt",
+    "arxivId": "2610.14360",
+    "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+    "titleEn": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14360",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gkb54g8ay6jlk68wy9k3hlqgt"
+    },
+    "publishedAt": "2026-10-09T22:19:04.000Z",
+    "timelineAt": "2026-10-14T16:32:29.104Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "z0x1igmff2euyvkve4zj6ktn1",
+    "arxivId": "2610.17989",
+    "title": "Seeing Through the Forgery Is Not Enough: Regressive Sycophancy under Fabricated Evidence in Medical Vision-Language Models",
+    "titleEn": "Seeing Through the Forgery Is Not Enough: Regressive Sycophancy under Fabricated Evidence in Medical Vision-Language Models",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.17989",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/z0x1igmff2euyvkve4zj6ktn1"
+    },
+    "publishedAt": "2026-10-13T08:55:06.000Z",
+    "timelineAt": "2026-10-14T16:32:29.210Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  }
+]

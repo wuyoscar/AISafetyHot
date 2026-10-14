@@ -16,9 +16,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 6,
-      "pending": 6,
+      "total": 36,
+      "translated": 14,
+      "pending": 22,
       "status": "partial"
     }
   },
@@ -39,9 +39,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 6,
-      "pending": 6,
+      "total": 37,
+      "translated": 12,
+      "pending": 25,
       "status": "partial"
     }
   },
@@ -62,9 +62,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
+      "total": 12,
+      "translated": 6,
+      "pending": 6,
       "status": "partial"
     }
   },
@@ -85,9 +85,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
+      "total": 12,
+      "translated": 6,
+      "pending": 6,
       "status": "partial"
     }
   },

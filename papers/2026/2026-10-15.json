@@ -1,0 +1,38 @@
+[
+  {
+    "arxivId": "2610.14360",
+    "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+    "titleZh": "当迎合用户损害照护：照护者代为决策的医疗场景中的 AI 谄媚",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14360",
+      "aisafetyhot": "https://aisafetyhot.com/items/gkb54g8ay6jlk68wy9k3hlqgt"
+    },
+    "publishedAt": "2026-10-09T22:19:04.000Z",
+    "timelineAt": "2026-10-14T16:32:29.104Z",
+    "discoveredAt": "2026-10-14T16:32:29.104Z"
+  },
+  {
+    "arxivId": "2610.17989",
+    "title": "Seeing Through the Forgery Is Not Enough: Regressive Sycophancy under Fabricated Evidence in Medical Vision-Language Models",
+    "titleZh": "识破伪造还不够：医学视觉语言模型在伪造证据下的退行性谄媚",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.17989",
+      "aisafetyhot": "https://aisafetyhot.com/items/z0x1igmff2euyvkve4zj6ktn1"
+    },
+    "publishedAt": "2026-10-13T08:55:06.000Z",
+    "timelineAt": "2026-10-14T16:32:29.210Z",
+    "discoveredAt": "2026-10-14T16:32:29.210Z"
+  }
+]
