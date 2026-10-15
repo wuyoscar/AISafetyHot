@@ -44,5 +44,28 @@
       "pending": 6,
       "status": "partial"
     }
+  },
+  {
+    "id": "h6xvr7oroc52wcroeqgdww4bj",
+    "arxivId": "2610.19306",
+    "title": "论文：越狱评测的裁判模型一换，报告的攻击成功率最多差 82 个百分点",
+    "titleEn": null,
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19306",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/h6xvr7oroc52wcroeqgdww4bj"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-15T03:45:40.167Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 2,
+      "pending": 1,
+      "status": "partial"
+    }
   }
 ]
