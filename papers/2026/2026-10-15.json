@@ -1,5 +1,41 @@
 [
   {
+    "arxivId": "2610.19384",
+    "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+    "titleZh": "MMA-SafetyBench：多模态 Agent 安全评测基准",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19384",
+      "aisafetyhot": "https://aisafetyhot.com/items/qfmerf8uzz0temzmx3q1fugzp"
+    },
+    "publishedAt": "2026-10-14T01:30:03.000Z",
+    "timelineAt": "2026-10-15T04:46:26.296Z",
+    "discoveredAt": "2026-10-15T04:46:26.296Z"
+  },
+  {
+    "arxivId": "2610.20049",
+    "title": "CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection",
+    "titleZh": "CoRedSkill：通过 AST 引导注入实现隐蔽的 Agent 技能组合攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.20049",
+      "aisafetyhot": "https://aisafetyhot.com/items/ycc6i10uiqv3vqedgv65o9dee"
+    },
+    "publishedAt": "2026-10-14T11:52:03.000Z",
+    "timelineAt": "2026-10-15T05:49:41.238Z",
+    "discoveredAt": "2026-10-15T05:49:41.238Z"
+  },
+  {
     "arxivId": "2610.14360",
     "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
     "titleZh": "当迎合用户损害照护：照护者代为决策的医疗场景中的 AI 谄媚",
@@ -36,9 +72,9 @@
     "discoveredAt": "2026-10-14T16:32:29.210Z"
   },
   {
-    "arxivId": "2610.19306",
-    "title": "论文：越狱评测的裁判模型一换，报告的攻击成功率最多差 82 个百分点",
-    "titleZh": "论文：越狱评测的裁判模型一换，报告的攻击成功率最多差 82 个百分点",
+    "arxivId": "2610.19372",
+    "title": "Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards",
+    "titleZh": "策略校验自训练：从可验证策略奖励中学习 Agent 合规",
     "authors": [],
     "category": null,
     "selected": true,
@@ -46,47 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.19306",
-      "aisafetyhot": "https://aisafetyhot.com/items/h6xvr7oroc52wcroeqgdww4bj"
+      "paper": "https://arxiv.org/abs/2610.19372",
+      "aisafetyhot": "https://aisafetyhot.com/items/tsk3ww2ab17v95djqrhbd6gbo"
     },
-    "publishedAt": "2026-10-13T23:32:17.000Z",
-    "timelineAt": "2026-10-15T03:45:40.167Z",
-    "discoveredAt": "2026-10-15T03:45:40.167Z"
-  },
-  {
-    "arxivId": "2610.19832",
-    "title": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
-    "titleZh": "寻租的语言模型：奖励模型决定价格，频繁审计抑制租金",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.19832",
-      "aisafetyhot": "https://aisafetyhot.com/items/xmoud1r4xq56ifikadr2ep3co"
-    },
-    "publishedAt": "2026-10-14T09:06:00.000Z",
-    "timelineAt": "2026-10-15T04:33:28.403Z",
-    "discoveredAt": "2026-10-15T04:33:28.403Z"
-  },
-  {
-    "arxivId": "2610.19731",
-    "title": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
-    "titleZh": "目标发生了什么？目标误泛化中策略对齐的不同失败模式",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.19731",
-      "aisafetyhot": "https://aisafetyhot.com/items/w62eh6xtvlal1khhkjn5apg1a"
-    },
-    "publishedAt": "2026-10-14T07:52:24.000Z",
-    "timelineAt": "2026-10-15T04:33:28.382Z",
-    "discoveredAt": "2026-10-15T04:33:28.382Z"
+    "publishedAt": "2026-10-14T01:16:15.000Z",
+    "timelineAt": "2026-10-15T05:49:41.139Z",
+    "discoveredAt": "2026-10-15T05:49:41.139Z"
   }
 ]

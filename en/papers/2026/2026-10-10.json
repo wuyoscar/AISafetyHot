@@ -16,9 +16,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 36,
+      "total": 37,
       "translated": 10,
-      "pending": 26,
+      "pending": 27,
       "status": "partial"
     }
   },
@@ -441,10 +441,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 2,
-      "translated": 0,
-      "pending": 2,
-      "status": "original"
+      "total": 37,
+      "translated": 10,
+      "pending": 27,
+      "status": "partial"
     }
   }
 ]

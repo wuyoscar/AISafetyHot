@@ -1,5 +1,51 @@
 [
   {
+    "id": "qfmerf8uzz0temzmx3q1fugzp",
+    "arxivId": "2610.19384",
+    "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+    "titleEn": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19384",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/qfmerf8uzz0temzmx3q1fugzp"
+    },
+    "publishedAt": "2026-10-14T01:30:03.000Z",
+    "timelineAt": "2026-10-15T04:46:26.296Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "ycc6i10uiqv3vqedgv65o9dee",
+    "arxivId": "2610.20049",
+    "title": "CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection",
+    "titleEn": "CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.20049",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ycc6i10uiqv3vqedgv65o9dee"
+    },
+    "publishedAt": "2026-10-14T11:52:03.000Z",
+    "timelineAt": "2026-10-15T05:49:41.238Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
     "id": "gkb54g8ay6jlk68wy9k3hlqgt",
     "arxivId": "2610.14360",
     "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
@@ -46,64 +92,18 @@
     }
   },
   {
-    "id": "h6xvr7oroc52wcroeqgdww4bj",
-    "arxivId": "2610.19306",
-    "title": "论文：越狱评测的裁判模型一换，报告的攻击成功率最多差 82 个百分点",
-    "titleEn": null,
+    "id": "tsk3ww2ab17v95djqrhbd6gbo",
+    "arxivId": "2610.19372",
+    "title": "Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards",
+    "titleEn": "Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.19306",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/h6xvr7oroc52wcroeqgdww4bj"
+      "paper": "https://arxiv.org/abs/2610.19372",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/tsk3ww2ab17v95djqrhbd6gbo"
     },
-    "publishedAt": "2026-10-13T23:32:17.000Z",
-    "timelineAt": "2026-10-15T03:45:40.167Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 2,
-      "pending": 1,
-      "status": "partial"
-    }
-  },
-  {
-    "id": "xmoud1r4xq56ifikadr2ep3co",
-    "arxivId": "2610.19832",
-    "title": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
-    "titleEn": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.19832",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/xmoud1r4xq56ifikadr2ep3co"
-    },
-    "publishedAt": "2026-10-14T09:06:00.000Z",
-    "timelineAt": "2026-10-15T04:33:28.403Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
-      "status": "partial"
-    }
-  },
-  {
-    "id": "w62eh6xtvlal1khhkjn5apg1a",
-    "arxivId": "2610.19731",
-    "title": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
-    "titleEn": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.19731",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/w62eh6xtvlal1khhkjn5apg1a"
-    },
-    "publishedAt": "2026-10-14T07:52:24.000Z",
-    "timelineAt": "2026-10-15T04:33:28.382Z",
+    "publishedAt": "2026-10-14T01:16:15.000Z",
+    "timelineAt": "2026-10-15T05:49:41.139Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
