@@ -86,7 +86,28 @@
     "selected": true,
     "attention": 77,
     "summaryZh": "论文在 Qwen3-1.7B、4B 和 8B 上用 GRPO 在无思考模式下训练，提出其准确率提升很大部分来自思维泄漏，即重新激活模型原有思考模式的推理能力，而非学到新的解题行为。训练中回答变长、反思词增多，原始模型判定其更像思考模式，8B 上这一比例达 94%，内部激活沿思考方向偏移达 0.56。干预实验显示，缩放 RL 权重更新会把模型推向思考模式但不超出其准确率，替换 8 维思考子空间可移除 75% 的增益、反向替换可传递 50%，且变化经由读取空 think block 的注意力头。作者将这一优化压力的来源追溯到 GRPO 优势信号更偏好像思考模式的回答。",
-    "quickRead": null,
+    "quickRead": {
+      "parts": [
+        {
+          "text": "混合推理模型（如 Qwen3）可在 think 与 no-think 两种模式间切换，常见做法是在 no-think 模式下做 RLVR 并报告推理提升。作者质疑这种提升是否真的学到了新能力，还是只是重新激活了模型原有的 think 模式能力。",
+          "label": "问题"
+        },
+        {
+          "text": "用 GRPO 在 no-think 模式下训练 Qwen3-1.7B/4B/8B，并测量响应长度、反思词、原模型判定的 think 相似度（TWR）与内部激活沿 think 方向的偏移 α。再通过缩放权重更新、在 8 维 think 子空间做跨模型激活替换、以及注意力头 knockout 与单头替换，检验增益是否来自 think 模式。",
+          "label": "方法"
+        },
+        {
+          "text": "训练后准确率、响应长度、反思词与 TWR 同步上升，激活向 think 方向偏移（8B 达 0.56）。缩放权重更新会让模型生成 </think> 并逼近但不超越原模型 think 模式准确率；替换 think 子空间可移除 75% 增益或转移 50%；RL 引起的偏移经过读取空 think block 的少数注意力头。GRPO 优势偏向更像 think 的响应，一步梯度即把模型推向 think 状态。",
+          "label": "实验与结果"
+        },
+        {
+          "text": "作者称这些结果只是提示 no-think 模式下的 RL 增益很大部分来自 thinking leakage，而非证明模型没有学到任何新能力；权重缩放实验在训练范围外且在同一批 AIME 题上探索，属于探索性证据。作者建议后续评估应区分 RL 是否增加新能力与是否改变已有能力的调用方式。",
+          "label": "局限与可以继续做的"
+        }
+      ],
+      "sourceName": "论文全文（AI 生成）",
+      "sourceUrl": "https://arxiv.org/abs/2610.14270"
+    },
     "links": {
       "paper": "https://arxiv.org/abs/2610.14270",
       "aisafetyhot": "https://aisafetyhot.com/items/nekujcjkmyj44aqkyz0viqy2p"
