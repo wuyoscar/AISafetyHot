@@ -49,7 +49,7 @@
     "id": "mnwoxto4aojq901hrwrrfk0w5",
     "arxivId": "2610.14488",
     "title": "Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents",
-    "titleEn": "Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents",
+    "titleEn": "Names Are Not Objects: Object-Bound Isolation for Compromised Coding Agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,16 +63,16 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 40,
-      "translated": 15,
-      "pending": 25,
-      "status": "partial"
+      "translated": 40,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
     "id": "t5hhzznpq8gua25g8s8qy1cpw",
     "arxivId": "2610.15883",
     "title": "What the Model Cannot See: Covert and Provable Text Invisibility in LLMs",
-    "titleEn": "What the Model Cannot See: Covert and Provable Text Invisibility in LLMs",
+    "titleEn": "What Models Cannot See: Covert and Provable Text Invisibility in Large Language Models",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -86,9 +86,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 40,
-      "translated": 15,
-      "pending": 25,
-      "status": "partial"
+      "translated": 40,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {

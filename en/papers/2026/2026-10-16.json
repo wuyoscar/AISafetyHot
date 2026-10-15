@@ -1,0 +1,25 @@
+[
+  {
+    "id": "o8dsfdudrd4zonj0udj7t11py",
+    "arxivId": "2610.19342",
+    "title": "论文：跨委托人 Agent 协作的 20 种失效模式，Agent 从不主动核实对方",
+    "titleEn": null,
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19342",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/o8dsfdudrd4zonj0udj7t11py"
+    },
+    "publishedAt": "2026-10-14T00:36:08.000Z",
+    "timelineAt": "2026-10-15T21:40:18.331Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  }
+]

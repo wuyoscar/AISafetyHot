@@ -197,12 +197,12 @@
   {
     "arxivId": "2610.14216",
     "title": "Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules",
-    "titleZh": "Cortex：以测量门控演进与剪枝编码 Agent 的技能和规则",
+    "titleZh": "Cortex：测量门控的编码 Agent 技能与规则演化及剪枝",
     "authors": [],
     "category": "tip",
     "selected": false,
     "attention": null,
-    "summaryZh": "论文作者发布 Cortex，一个在改动编码 Agent 的 harness（项目文件、可自行打开的 skills、自动加载的 rules）前先做重复运行验证的工具，只在净增益且没有任务明显变差时保留改动。它把开发者会话中的修正保存为可重放任务，找出反复出现的修正，每次只写一条 skill 或 rule，删除前也以同样方式测试，且不会增删 Agent 从未用过的文本。作者在专为测试构建的仓库上用 Claude Haiku 4.5 验证：在留出任务上，Cortex 构建的 harness 让 Agent 遵循约定的频率远高于没有 skills 或 rules 时，对照区域保持不变，也没有增加每轮都会读取的文本；自动加载的 rules 贡献最大，skills 只在随任务涉及文件一起提供时有用，每轮都提供的 skills 很少被打开。作者发布了工具、实验环境和数据。",
+    "summaryZh": "Cortex 是一个通过回放开发者纠正来检验编码 Agent harness 改动的工具，只保留经重复运行验证有净收益且不拖累其他任务的规则或技能。它把开发者会话中的修复存成可重放任务，找出反复出现的纠正，每次只写入一条技能或规则，删除前也先做同样的测试。论文用 Claude Haiku 4.5 在专门构建的仓库上测试，其生成的 harness 让 Agent 更常遵守约定，对照区域保持不变，也没有增加每轮读取的文本；自动加载的规则贡献最大，技能只在随任务相关文件提供时有用。研究者植入的无用或有害建议均未被保留，但 Agent 从未打开无用的建议或有害技能，也未对有害规则作出判定，因此该测试表明 Cortex 不保留未使用的文本，而非能检测危害。在 Claude Sonnet 5 下单次运行的 harness 增益很小，在开发者很少纠正的真实开源项目上未发现可学内容。",
     "quickRead": {
       "parts": [
         {
