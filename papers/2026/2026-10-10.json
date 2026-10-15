@@ -39,24 +39,6 @@
     "discoveredAt": "2026-10-14T12:47:27.787Z"
   },
   {
-    "arxivId": "2610.14270",
-    "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
-    "titleZh": "大语言模型强化学习中的思维泄漏",
-    "authors": [],
-    "category": "alignment",
-    "selected": true,
-    "attention": 80,
-    "summaryZh": "一项研究为 NO-THINK 模式的强化学习增益提供新解释，认为增益主要来自重新激活原模型 THINK 模式的推理能力，而非学到更强的推理行为。研究者用 GRPO 在 NO-THINK 模式下训练 Qwen3-1.7B、4B 和 8B，发现准确率提升的同时回答变长、更像原模型自己的思考，内部激活也向 THINK 模式偏移。在 Qwen3-8B 上，用原模型的值替换 RL 训练模型的低维 THINK 相关激活子空间可消除大部分增益，反向替换则把相当一部分增益转移给原模型，RL 引起的偏移经过读取空 think 块的注意力头。论文还指出 GRPO 训练信号中更受优势加权更新青睐的回答更像 THINK，据此计算的一步梯度会把模型推向 THINK 状态。",
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.14270",
-      "aisafetyhot": "https://aisafetyhot.com/items/nekujcjkmyj44aqkyz0viqy2p"
-    },
-    "publishedAt": "2026-10-09T19:43:51.000Z",
-    "timelineAt": "2026-10-09T19:43:51.000Z",
-    "discoveredAt": "2026-10-15T11:25:39.357Z"
-  },
-  {
     "arxivId": "2610.11169",
     "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
     "titleZh": "研究重建 GitHub 上 Agent 技能的复制供应链网络",
@@ -94,6 +76,24 @@
     "publishedAt": "2026-10-08T03:25:22.000Z",
     "timelineAt": "2026-10-09T18:56:24.268Z",
     "discoveredAt": "2026-10-09T18:56:24.268Z"
+  },
+  {
+    "arxivId": "2610.14270",
+    "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
+    "titleZh": "LLM 强化学习中的思维泄漏",
+    "authors": [],
+    "category": "alignment",
+    "selected": true,
+    "attention": 77,
+    "summaryZh": "作者在论文中报告，用强化学习训练的 Qwen3 模型（1.7B–8B）在 NO-THINK 模式下会越来越像其原本的 THINK 模式，作者称之为思维泄漏。通过对权重、激活和注意力头的干预，作者给出因果证据：扩大 RL 更新量可恢复 THINK 模式行为，修补 8 维思维子空间会消除 75% 的准确率增益，关键注意力头介导了向 THINK 模式的转变。作者认为，GRPO 天然偏好更接近 THINK 的回复，因此 RL 带来的提升可能主要来自复用已有推理能力，而非学会全新能力。",
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14270",
+      "aisafetyhot": "https://aisafetyhot.com/items/nekujcjkmyj44aqkyz0viqy2p"
+    },
+    "publishedAt": "2026-10-09T19:43:51.000Z",
+    "timelineAt": "2026-10-09T19:43:51.000Z",
+    "discoveredAt": "2026-10-15T11:25:39.357Z"
   },
   {
     "arxivId": "2610.12083",
