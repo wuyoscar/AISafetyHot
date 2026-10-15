@@ -1,0 +1,667 @@
+[
+  {
+    "id": "n6x43icubex1vn4tzp75mgi6i",
+    "kind": "arxiv",
+    "title": "AgentCIScope: Grounded Contextual Integrity Evaluation for LLM Agents",
+    "titleZh": "AgentCIScope：面向 LLM Agent 的上下文完整性评测基准",
+    "line": "作者提出 AgentCIScope，一个通过可执行多步任务评测 LLM Agent 上下文完整性的平台与基准，把公开和合成的隐私案例转成可执行 Agent 任务，披露约束基于隐私政策、人物设定协议和预定义敏感属性分类三项标准。",
+    "topics": [],
+    "venue": "arXiv 2610.19158",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.19158",
+    "site": "https://aisafetyhot.com/items/n6x43icubex1vn4tzp75mgi6i",
+    "authors": [
+      "Chengquan Guo",
+      "Zhaorun Chen",
+      "Zinan Lin",
+      "Xiaodong Liu",
+      "Bo Li"
+    ]
+  },
+  {
+    "id": "cp6fzhxs4pu09jrlrf6k0dytp",
+    "kind": "arxiv",
+    "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+    "titleZh": "CyberArena：在实时对称攻防对抗中评测 AI 智能体",
+    "line": "研究者提出 CyberArena，一个让 AI 智能体在实时对称攻防对抗中比拼的动态基准，评测智能体同时进攻与防御的能力。",
+    "topics": [],
+    "venue": "arXiv 2610.19005",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.19005",
+    "site": "https://aisafetyhot.com/items/cp6fzhxs4pu09jrlrf6k0dytp",
+    "authors": [
+      "Bangya Liu",
+      "Jianhong Tu",
+      "Yueyang Pan",
+      "Hanhong Zhao",
+      "Zhe Ye",
+      "Hongwei Li",
+      "Saastha Vasan",
+      "Katherine Lambert",
+      "Junmin Zhu",
+      "Hao Wang",
+      "Jienan Chen",
+      "Yunze Xiao",
+      "Minglai Yang",
+      "Zihan Wang",
+      "Hairong Yin",
+      "Hao Wang",
+      "Zhiwen Fan",
+      "Tianneng Shi",
+      "Zhun Wang",
+      "Chenguang Wang",
+      "Dawn Song"
+    ]
+  },
+  {
+    "id": "ip0soxmgix12pe6ij7vj7vfgo",
+    "kind": "arxiv",
+    "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+    "titleZh": "SafeDriveVLA：面向冲突感知端到端自动驾驶的导航条件化世界模型想象",
+    "line": "论文提出 SafeDriveVLA，一种端到端自动驾驶 VLA 模型，它显式预测三级导航遵从模式以把冲突推理与动作生成解耦，并用导航条件化的世界模型想象为该预测提供依据。",
+    "topics": [],
+    "venue": "arXiv 2610.20609",
+    "date": "2026-10-14",
+    "url": "https://huggingface.co/papers/2610.20609",
+    "site": "https://aisafetyhot.com/items/ip0soxmgix12pe6ij7vj7vfgo",
+    "authors": [
+      "Shaoyuan Xie",
+      "Zihan Zhang",
+      "Jingxuan Wang",
+      "Jiashu Qu",
+      "Xiaoqing Liang",
+      "Lingdong Kong",
+      "Junchi Lu",
+      "Henrik I. Christensen",
+      "Qi Alfred Chen"
+    ]
+  },
+  {
+    "id": "gy47v4cdwf9ewge0py47monfe",
+    "kind": "arxiv",
+    "title": "DANGERLENS: Probing Dangerous Representations Hidden by Safety Alignment",
+    "titleZh": "DangerLens：探测被安全对齐隐藏的危险表征",
+    "line": "北京大学等机构的研究者提出 DangerLens 探针，把模型隐藏状态经 Jacobian lens 映射到词表空间，再用盲评语义判断区分有害目标与操作手段和危险识别与安全控制。",
+    "topics": [],
+    "venue": "arXiv 2610.19365",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19365",
+    "site": "https://aisafetyhot.com/items/gy47v4cdwf9ewge0py47monfe",
+    "authors": [
+      "Tianzhuo Yang",
+      "Shaoheng Yan",
+      "Lin Lu",
+      "Jiawei Chen",
+      "Kaile Wang",
+      "Fanyu Meng",
+      "Minglu Liu",
+      "Yaodong Yang"
+    ]
+  },
+  {
+    "id": "df5rtjfryv0nhe7o4vnpld2ow",
+    "kind": "arxiv",
+    "title": "GeoCloak: An Agentic Framework for Semantics-Preserving Geolocation Privacy via Peripheral Clue Manipulation",
+    "titleZh": "GeoCloak：通过外围线索操纵实现语义保持地理位置隐私的智能体框架",
+    "line": "论文提出 GeoCloak，一个通过操纵外围线索保护图像地理位置隐私的智能体框架。",
+    "topics": [],
+    "venue": "arXiv 2610.20055",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.20055",
+    "site": "https://aisafetyhot.com/items/df5rtjfryv0nhe7o4vnpld2ow",
+    "authors": [
+      "Yixin Wu",
+      "Mingjie Li",
+      "Yun Shen",
+      "Michael Backes",
+      "Yang Zhang"
+    ]
+  },
+  {
+    "id": "kvrjrpk6tmrju5o3oz96ie2s2",
+    "kind": "arxiv",
+    "title": "Quiet Triggers, Loud Footprints: A Tri-Space Measurement Study of Backdoor Stealthiness",
+    "titleZh": "安静的触发器，响亮的足迹：后门隐蔽性的三空间测量研究",
+    "line": "测量图像分类后门在输入、特征与参数空间的足迹",
+    "topics": [],
+    "venue": "arXiv 2610.19947",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19947",
+    "site": "https://aisafetyhot.com/items/kvrjrpk6tmrju5o3oz96ie2s2",
+    "authors": [
+      "Behrad Tajalli",
+      "Henk Berendsen",
+      "Xiaoyun Xu",
+      "Stjepan Picek"
+    ]
+  },
+  {
+    "id": "ikviuwbcoigc21qtcego7x91k",
+    "kind": "arxiv",
+    "title": "RA$^2$: Retain-Anchored Attraction Preserves Forget-Adjacent Utility in LLM Unlearning",
+    "titleZh": "RA²：Retain-Anchored Attraction 在 LLM 遗忘中保留遗忘邻近效用",
+    "line": "论文提出 RA²（Retain-Anchored Attraction），一种潜空间 LLM 遗忘方法，把 forget token 状态重定向到邻近的 retain 支持的表示，同时保留高层在 retain 数据上的行为。",
+    "topics": [],
+    "venue": "arXiv 2610.19385",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19385",
+    "site": "https://aisafetyhot.com/items/ikviuwbcoigc21qtcego7x91k",
+    "authors": [
+      "Zinan Ling",
+      "Yang Xiao",
+      "Ruimeng Ye",
+      "Sijia Liu",
+      "Bo Hui"
+    ]
+  },
+  {
+    "id": "n8zbf4q1un8ovaubziti4pxct",
+    "kind": "arxiv",
+    "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+    "titleZh": "更多方法，更好的智能体？智能体强化学习中自蒸馏的现实检验",
+    "line": "比较智能体强化学习自蒸馏相对 GRPO 的增益、稳定性与成本",
+    "topics": [],
+    "venue": "arXiv 2610.19789",
+    "date": "2026-10-14",
+    "url": "https://huggingface.co/papers/2610.19789",
+    "site": "https://aisafetyhot.com/items/n8zbf4q1un8ovaubziti4pxct",
+    "authors": [
+      "Linhao Zhong",
+      "Bozhen Fang",
+      "Xuehao Wang",
+      "Duochao Shi",
+      "Zekai Luo",
+      "Guangming Yao",
+      "Yi Yuan",
+      "Hao Chen",
+      "Jingdong Chen",
+      "Chunhua Shen"
+    ]
+  },
+  {
+    "id": "re4u86nahfdjiuvomhmj3purc",
+    "kind": "arxiv",
+    "title": "Who's Behind the Text? Robust Model Authorship Attribution",
+    "titleZh": "ATLAS：应对领域与版本偏移的稳健模型作者归属溯源方法",
+    "line": "提出 ATLAS，用源条件似然在分布偏移下做模型作者归属",
+    "topics": [],
+    "venue": "arXiv 2610.19583",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19583",
+    "site": "https://aisafetyhot.com/items/re4u86nahfdjiuvomhmj3purc",
+    "authors": [
+      "Minseok Ko",
+      "Hyunseok Lee",
+      "Woomin Song",
+      "Beomjun Kim",
+      "Jinwoo Shin",
+      "Kunwoong Kim"
+    ]
+  },
+  {
+    "id": "xmoud1r4xq56ifikadr2ep3co",
+    "kind": "arxiv",
+    "title": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
+    "titleZh": "寻租的语言模型：奖励模型决定价格，频繁审计抑制租金",
+    "line": "一篇 arXiv 论文把 RLHF 中的奖励模型过度优化重新表述为寻租，用租金、捕获指数和无谓损失把过度优化变成可测指标，并在受版本控制的测试台上检验监管经济学预测。",
+    "topics": [],
+    "venue": "arXiv 2610.19832",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19832",
+    "site": "https://aisafetyhot.com/items/xmoud1r4xq56ifikadr2ep3co",
+    "authors": [
+      "Zixiao Wang",
+      "Xingbo Du",
+      "Duzhen Zhang",
+      "Le Song"
+    ]
+  },
+  {
+    "id": "tiqqokxm0l09jwca81z2y6hcq",
+    "kind": "arxiv",
+    "title": "Instructions Are Evidence, Not Objectives: Measuring Outcome Alignment of Agents",
+    "titleZh": "指令是证据而非目标：衡量 Agent 的结果对齐",
+    "line": "构建 TiGanEval 衡量 Agent 在不完整指令下的结果对齐",
+    "topics": [],
+    "venue": "arXiv 2610.17757",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.17757",
+    "site": "https://aisafetyhot.com/items/tiqqokxm0l09jwca81z2y6hcq",
+    "authors": [
+      "Kaiming Liu",
+      "Yuxuan Liu",
+      "Jinrui Ju",
+      "Minyuan Ruan",
+      "Xuanyu Lei",
+      "Peng Li",
+      "Yang Liu"
+    ]
+  },
+  {
+    "id": "xyft0klf8p7xqy6c647nm1h2g",
+    "kind": "arxiv",
+    "title": "Claim Framing as a Driver of LLM Sycophancy",
+    "titleZh": "主张表述方式是大语言模型谄媚的驱动因素",
+    "line": "在可验证事实题上测量主张表述如何驱动谄媚",
+    "topics": [],
+    "venue": "arXiv 2610.18159",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18159",
+    "site": "https://aisafetyhot.com/items/xyft0klf8p7xqy6c647nm1h2g",
+    "authors": [
+      "Jean Seo",
+      "Pepa Atanasova",
+      "Isabelle Augenstein"
+    ]
+  },
+  {
+    "id": "p4yeh4cmjsinw26kxp1gpp3mn",
+    "kind": "arxiv",
+    "title": "Pushback in a Haystack: Language Models Respond to Factual Errors Ambiguously and Ineffectively",
+    "titleZh": "干草堆里的回推：语言模型对事实错误的回应含糊且效果不佳",
+    "line": "评测模型对用户假陈述的含糊回推能否纠正信念",
+    "topics": [],
+    "venue": "arXiv 2610.17703",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.17703",
+    "site": "https://aisafetyhot.com/items/p4yeh4cmjsinw26kxp1gpp3mn",
+    "authors": [
+      "Li Lucy",
+      "Myra Cheng",
+      "Svenja Guhr",
+      "Kabir Ahuja",
+      "Orevaoghene Ahia",
+      "Sameep Chattopadhyay",
+      "Yike Wang",
+      "Valentin Hofmann",
+      "Noah A. Smith",
+      "Yulia Tsvetkov"
+    ]
+  },
+  {
+    "id": "mv86fhx0igz7qw9d4166zk90z",
+    "kind": "arxiv",
+    "title": "Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees",
+    "titleZh": "Jev-Guard：在可编辑策略树上快速路由并审计智能体动作",
+    "line": "提出 Jev-Guard，沿可编辑策略树路由并审计智能体动作",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.18326",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18326",
+    "site": "https://aisafetyhot.com/items/mv86fhx0igz7qw9d4166zk90z",
+    "authors": [
+      "Wenbin Hu",
+      "Huihao Jing",
+      "Haochen Shi",
+      "Yuxuan Liu",
+      "Changxuan Fan",
+      "Sirui Zhang",
+      "Kawai Chung",
+      "Hanyu Yang",
+      "Zhenhuan Wang",
+      "Ziyi Chen",
+      "Haoran Li",
+      "Yangqiu Song"
+    ]
+  },
+  {
+    "id": "k2irhwqx10x1dsfj9rseqoao9",
+    "kind": "arxiv",
+    "title": "MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis",
+    "titleZh": "MemeTrace：面向安全感知表情包溯源分析的多模态 LLM 智能体",
+    "line": "MemeTrace 是一个基于多模态 LLM 的智能体，可自动追溯新兴表情包的来源与潜在风险，弥补以往审核研究仅按单张图像判定安全与否、无法做溯源分析的不足。",
+    "topics": [],
+    "venue": "arXiv 2610.19267",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.19267",
+    "site": "https://aisafetyhot.com/items/k2irhwqx10x1dsfj9rseqoao9",
+    "authors": [
+      "Bo Shao",
+      "Yihan Ma",
+      "Yiting Qu",
+      "Michael Backes",
+      "Yang Zhang"
+    ]
+  },
+  {
+    "id": "a9qp927ixkjxm4tpebcmqd4m5",
+    "kind": "arxiv",
+    "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+    "titleZh": "研究用因果审计揭示多模态模型视觉工具调用的假象",
+    "line": "因果审计视觉工具调用，分离观察贡献与动作诱发捷径",
+    "topics": [],
+    "venue": "arXiv 2608.06270",
+    "date": "2026-08-06",
+    "url": "https://arxiv.org/abs/2608.06270",
+    "site": "https://aisafetyhot.com/items/a9qp927ixkjxm4tpebcmqd4m5",
+    "authors": [
+      "Zhiheng Wang",
+      "Bo Peng",
+      "Lai Wei",
+      "Chaochao Lu"
+    ]
+  },
+  {
+    "id": "m2biqt47wpmthlld6i2nkgw8f",
+    "kind": "arxiv",
+    "title": "Breadcrumbing Search Agents",
+    "titleZh": "研究者提出 Breadcrumbing 长程攻击，可劫持 DeepResearch 类搜索 Agent 的证据链",
+    "line": "提出权威链劫持与轨迹引导策略演化，劫持搜索 Agent 的证据链",
+    "topics": [],
+    "venue": "arXiv 2608.04565",
+    "date": "2026-08-05",
+    "url": "https://arxiv.org/abs/2608.04565",
+    "site": "https://aisafetyhot.com/items/m2biqt47wpmthlld6i2nkgw8f",
+    "authors": [
+      "Xuebin Li",
+      "Hanqing Zhao",
+      "Siyuan Liang",
+      "Kejiang Chen",
+      "Weiming Zhang",
+      "Dacheng Tao",
+      "Nenghai Yu"
+    ]
+  },
+  {
+    "id": "icml:2026:wrGSN9kAVD",
+    "kind": "conference",
+    "title": "The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes",
+    "titleZh": "混淆图谱：在带有欺骗探针的RLVR中描绘诚实性涌现",
+    "line": "研究表明针对白盒欺骗探测器训练时模型会通过混淆内部表征或策略来规避检测，指出需足够强的KL正则化与探测器惩罚才能促使诚实策略涌现。",
+    "topics": [
+      {
+        "slug": "scheming",
+        "name": "欺骗与谋划"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=wrGSN9kAVD",
+    "site": null,
+    "authors": [
+      "Mohammad Taufeeque",
+      "Stefan Heimersheim",
+      "Adam Gleave",
+      "Chris Cundy"
+    ]
+  },
+  {
+    "id": "n82e1w6zpyig9yjd3wb625tw1",
+    "kind": "arxiv",
+    "title": "AdversarialCoT: Single-Document Retrieval Poisoning for LLM Reasoning",
+    "titleZh": "AdversarialCoT：针对 LLM 推理的单文档检索投毒",
+    "line": "提出 AdversarialCoT 单文档检索投毒以操纵 RAG 推理答案",
+    "topics": [],
+    "venue": "arXiv 2604.12201",
+    "date": "2026-04-14",
+    "url": "https://arxiv.org/abs/2604.12201",
+    "site": "https://aisafetyhot.com/items/n82e1w6zpyig9yjd3wb625tw1",
+    "authors": [
+      "Hongru Song",
+      "Yu-An Liu",
+      "Ruqing Zhang",
+      "Jiafeng Guo",
+      "Maarten de Rijke",
+      "Yixing Fan",
+      "Xueqi Cheng"
+    ]
+  },
+  {
+    "id": "dvm6znzqoaufef57q1sqciqz9",
+    "kind": "arxiv",
+    "title": "What Does a Sharing Question Add? Auditing LLM Survey Scores for Misinformation",
+    "titleZh": "分享意愿问题为 LLM 虚假信息调查评分增加了什么？一项审计研究",
+    "line": "审计 LLM 对误导文的分享问卷分是否超出可信度提供增量测量",
+    "topics": [],
+    "venue": "arXiv 2604.06820",
+    "date": "2026-04-08",
+    "url": "https://arxiv.org/abs/2604.06820",
+    "site": "https://aisafetyhot.com/items/dvm6znzqoaufef57q1sqciqz9",
+    "authors": [
+      "Zonghuan Xu",
+      "Xiang Zheng",
+      "Yutao Wu",
+      "Xingjun Ma"
+    ]
+  },
+  {
+    "id": "qe10ywrn3r5epnr4bscqk9xyv",
+    "kind": "arxiv",
+    "title": "TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories",
+    "titleZh": "TraceSafe-Bench：评估 LLM 护栏在多步工具调用轨迹上的表现",
+    "line": "提出 TRACE SAFE-BENCH，静态评测多步工具调用轨迹上的护栏",
+    "topics": [],
+    "venue": "arXiv 2604.07223",
+    "date": "2026-04-08",
+    "url": "https://arxiv.org/abs/2604.07223",
+    "site": "https://aisafetyhot.com/items/qe10ywrn3r5epnr4bscqk9xyv",
+    "authors": [
+      "Yen-Shan Chen",
+      "Sian-Yao Huang",
+      "Cheng-Lin Yang",
+      "Yun-Nung Chen"
+    ]
+  },
+  {
+    "id": "biaqa7rf1rjf2m76yz5wo64hr",
+    "kind": "arxiv",
+    "title": "Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming",
+    "titleZh": "多样性感知红队测试揭示视觉-语言-动作模型的语言脆弱性",
+    "line": "提出 DAERT，以仿真失败为奖励生成多样对抗指令，暴露 VLA 的语言脆弱性",
+    "topics": [],
+    "venue": "arXiv 2604.05595",
+    "date": "2026-04-07",
+    "url": "https://arxiv.org/abs/2604.05595",
+    "site": "https://aisafetyhot.com/items/biaqa7rf1rjf2m76yz5wo64hr",
+    "authors": [
+      "Baoshun Tong",
+      "Haoran He",
+      "Ling Pan",
+      "Yang Liu",
+      "Liang Lin"
+    ]
+  },
+  {
+    "id": "icml:2026:lUVEQ1JRIL",
+    "kind": "conference",
+    "title": "From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs",
+    "titleZh": "从中毒到觉察：培养 LLM 的后门自我觉察",
+    "line": "用反演式强化学习让中毒模型自述其植入触发词，并据此提出缓解与检测两种防御，在五种后门攻击上优于六个基线。",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=lUVEQ1JRIL",
+    "site": null,
+    "authors": [
+      "Guangyu Shen",
+      "Siyuan Cheng",
+      "Xiangzhe Xu",
+      "Yuan Zhou",
+      "Hanxi Guo",
+      "ZHUO ZHANG",
+      "Xiangyu Zhang"
+    ]
+  },
+  {
+    "id": "u30sgeqtw9vailnqov5o4yoy4",
+    "kind": "arxiv",
+    "title": "GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety",
+    "titleZh": "GrandGuard 发布老年聊天机器人安全分类与基准，并给出两种护栏",
+    "line": "提出老年聊天安全分类与基准 GrandGuard 并评测回复与护栏",
+    "topics": [],
+    "venue": "arXiv 2605.20203",
+    "date": "2026-04-07",
+    "url": "https://arxiv.org/abs/2605.20203",
+    "site": "https://aisafetyhot.com/items/u30sgeqtw9vailnqov5o4yoy4",
+    "authors": [
+      "Changxuan Fan",
+      "Xi Yang",
+      "Yueyuan Zheng",
+      "Bin Zhou",
+      "Yuanping Wang",
+      "Wenbin Hu",
+      "Huihao Jing",
+      "Ki Sen Hung",
+      "Dazhao Du",
+      "Haoran Li",
+      "Janet Hui-wen Hsiao",
+      "Yangqiu Song"
+    ]
+  },
+  {
+    "id": "icml:2026:Y5bEI4cuMd",
+    "kind": "conference",
+    "title": "BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs",
+    "titleZh": "BrokenMath：大语言模型定理证明中谄媚行为的评测基准",
+    "line": "提出首个评测大模型在自然语言定理证明中谄媚行为的基准BrokenMath，发现主流前沿模型普遍会迎合用户的错误命题给出虚假证明，并测试了缓解策略。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=Y5bEI4cuMd",
+    "site": null,
+    "authors": [
+      "Ivo Petrov",
+      "Jasper Dekoninck",
+      "Martin Vechev"
+    ]
+  },
+  {
+    "id": "icml:2026:GEzZIUmEqE",
+    "kind": "conference",
+    "title": "Securing Multimodal AI through Internal Information Decomposition",
+    "titleZh": "通过内部信息分解保障多模态AI安全",
+    "line": "提出推理期防御框架FlowGuard，利用部分信息分解监测跨模态内部一致性，仅用良性数据训练单类分类器即可将多模态未知攻击的成功率从90%以上降至15%以下。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=GEzZIUmEqE",
+    "site": null,
+    "authors": [
+      "Jehyeok Yeon",
+      "Hyeonjeong Ha",
+      "Qiusi Zhan",
+      "Heng Ji"
+    ]
+  },
+  {
+    "id": "ov7nyfl3e5d756mpvzgzb2djk",
+    "kind": "arxiv",
+    "title": "The Art of Building Verifiers for Computer Use Agents",
+    "titleZh": "研究者开源 Universal Verifier 与 CUAVerifierBench，用于验证计算机使用 Agent 轨迹",
+    "line": "构建 Universal Verifier 核验计算机使用 Agent 轨迹",
+    "topics": [],
+    "venue": "arXiv 2604.06240",
+    "date": "2026-04-05",
+    "url": "https://arxiv.org/abs/2604.06240",
+    "site": "https://aisafetyhot.com/items/ov7nyfl3e5d756mpvzgzb2djk",
+    "authors": [
+      "Corby Rosset",
+      "Pratyusha Sharma",
+      "Andrew Zhao",
+      "Miguel Gonzalez-Fernandez",
+      "Ahmed Awadallah"
+    ]
+  },
+  {
+    "id": "icml:2026:Joka19sTny",
+    "kind": "conference",
+    "title": "Estimating Tail Risks in Language Model Output Distributions",
+    "titleZh": "估计语言模型输出分布中的尾部风险",
+    "line": "用构造不安全版本模型做重要性采样，估计有害输出概率，样本量比暴力蒙特卡洛少 10–20 倍，可预测部署风险。",
+    "topics": [
+      {
+        "slug": "red-teaming",
+        "name": "红队测试与挑战赛"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=Joka19sTny",
+    "site": null,
+    "authors": [
+      "Rico Angell",
+      "Raghav Singhal",
+      "Zachary Horvitz",
+      "Zhou Yu",
+      "Rajesh Ranganath",
+      "Kathleen McKeown",
+      "He He"
+    ]
+  },
+  {
+    "id": "icml:2026:yIubI9l3IT",
+    "kind": "conference",
+    "title": "Modular Pretraining Enables Access Control",
+    "titleZh": "模块化预训练赋能双重用途AI的能力访问控制",
+    "line": "提出梯度路由辅助模块预训练方法GRAM，通过推理时消融特定模块移除病毒学与网络安全等高危能力，且比事后遗忘更具抗微调恢复性。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=yIubI9l3IT",
+    "site": "https://aisafetyhot.com/items/vvki9eetl42hlsy0wectawxgn",
+    "authors": [
+      "Ethan Roland",
+      "Murat Cubuktepe",
+      "Erick Martinez",
+      "Stijn Servaes",
+      "Keenan Pepper",
+      "Michael Vaiana",
+      "Diogo S de Lucena",
+      "Judd Rosenblatt",
+      "Addie Foote",
+      "Cem Anil",
+      "Alex Cloud"
+    ]
+  },
+  {
+    "id": "iclr:2026:WV7xIboTDK",
+    "kind": "conference",
+    "title": "Reliable Weak-to-Strong Monitoring of LLM Agents",
+    "titleZh": "LLM Agent 的可靠弱到强监控",
+    "line": "提出 monitor red teaming 流程，在 SHADE-Arena 上压测隐蔽不良行为监控；发现 agent 知晓被监控会显著削弱检测，混合式监控设计让弱监控者能监督强 agent。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=WV7xIboTDK",
+    "site": null,
+    "authors": [
+      "Neil Kale",
+      "Chen Bo Calvin Zhang",
+      "Kevin Zhu",
+      "Ankit Aich",
+      "Paula Rodriguez",
+      "Christina Q Knight",
+      "Zifan Wang"
+    ]
+  }
+]

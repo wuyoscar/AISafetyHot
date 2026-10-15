@@ -1,0 +1,29 @@
+[
+  {
+    "id": "iclr:2026:WV7xIboTDK",
+    "kind": "conference",
+    "title": "Reliable Weak-to-Strong Monitoring of LLM Agents",
+    "titleZh": "LLM Agent 的可靠弱到强监控",
+    "line": "提出 monitor red teaming 流程，在 SHADE-Arena 上压测隐蔽不良行为监控；发现 agent 知晓被监控会显著削弱检测，混合式监控设计让弱监控者能监督强 agent。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=WV7xIboTDK",
+    "site": null,
+    "authors": [
+      "Neil Kale",
+      "Chen Bo Calvin Zhang",
+      "Kevin Zhu",
+      "Ankit Aich",
+      "Paula Rodriguez",
+      "Christina Q Knight",
+      "Zifan Wang"
+    ],
+    "pushedOn": "2026-10-15"
+  }
+]

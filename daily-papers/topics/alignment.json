@@ -1,5 +1,28 @@
 [
   {
+    "id": "icml:2026:Y5bEI4cuMd",
+    "kind": "conference",
+    "title": "BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs",
+    "titleZh": "BrokenMath：大语言模型定理证明中谄媚行为的评测基准",
+    "line": "提出首个评测大模型在自然语言定理证明中谄媚行为的基准BrokenMath，发现主流前沿模型普遍会迎合用户的错误命题给出虚假证明，并测试了缓解策略。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=Y5bEI4cuMd",
+    "site": null,
+    "authors": [
+      "Ivo Petrov",
+      "Jasper Dekoninck",
+      "Martin Vechev"
+    ],
+    "pushedOn": "2026-10-15"
+  },
+  {
     "id": "iclr:2026:sC6A1bFDUt",
     "kind": "conference",
     "title": "What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data",

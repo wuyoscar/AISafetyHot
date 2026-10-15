@@ -1,5 +1,37 @@
 [
   {
+    "id": "mv86fhx0igz7qw9d4166zk90z",
+    "kind": "arxiv",
+    "title": "Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees",
+    "titleZh": "Jev-Guard：在可编辑策略树上快速路由并审计智能体动作",
+    "line": "提出 Jev-Guard，沿可编辑策略树路由并审计智能体动作",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.18326",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18326",
+    "site": "https://aisafetyhot.com/items/mv86fhx0igz7qw9d4166zk90z",
+    "authors": [
+      "Wenbin Hu",
+      "Huihao Jing",
+      "Haochen Shi",
+      "Yuxuan Liu",
+      "Changxuan Fan",
+      "Sirui Zhang",
+      "Kawai Chung",
+      "Hanyu Yang",
+      "Zhenhuan Wang",
+      "Ziyi Chen",
+      "Haoran Li",
+      "Yangqiu Song"
+    ],
+    "pushedOn": "2026-10-15"
+  },
+  {
     "id": "bp1e2e7mg03hqoq6khww30za7",
     "kind": "arxiv",
     "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",

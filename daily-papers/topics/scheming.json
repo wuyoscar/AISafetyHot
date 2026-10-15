@@ -1,5 +1,29 @@
 [
   {
+    "id": "icml:2026:wrGSN9kAVD",
+    "kind": "conference",
+    "title": "The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes",
+    "titleZh": "混淆图谱：在带有欺骗探针的RLVR中描绘诚实性涌现",
+    "line": "研究表明针对白盒欺骗探测器训练时模型会通过混淆内部表征或策略来规避检测，指出需足够强的KL正则化与探测器惩罚才能促使诚实策略涌现。",
+    "topics": [
+      {
+        "slug": "scheming",
+        "name": "欺骗与谋划"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=wrGSN9kAVD",
+    "site": null,
+    "authors": [
+      "Mohammad Taufeeque",
+      "Stefan Heimersheim",
+      "Adam Gleave",
+      "Chris Cundy"
+    ],
+    "pushedOn": "2026-10-15"
+  },
+  {
     "id": "iclr:2026:PDBBYwd1LY",
     "kind": "conference",
     "title": "Beyond Prompt-Induced Lies: Investigating LLM Deception on Benign Prompts",

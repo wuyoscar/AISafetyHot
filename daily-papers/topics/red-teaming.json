@@ -1,0 +1,29 @@
+[
+  {
+    "id": "icml:2026:Joka19sTny",
+    "kind": "conference",
+    "title": "Estimating Tail Risks in Language Model Output Distributions",
+    "titleZh": "估计语言模型输出分布中的尾部风险",
+    "line": "用构造不安全版本模型做重要性采样，估计有害输出概率，样本量比暴力蒙特卡洛少 10–20 倍，可预测部署风险。",
+    "topics": [
+      {
+        "slug": "red-teaming",
+        "name": "红队测试与挑战赛"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=Joka19sTny",
+    "site": null,
+    "authors": [
+      "Rico Angell",
+      "Raghav Singhal",
+      "Zachary Horvitz",
+      "Zhou Yu",
+      "Rajesh Ranganath",
+      "Kathleen McKeown",
+      "He He"
+    ],
+    "pushedOn": "2026-10-15"
+  }
+]

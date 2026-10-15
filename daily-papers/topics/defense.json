@@ -1,5 +1,60 @@
 [
   {
+    "id": "icml:2026:GEzZIUmEqE",
+    "kind": "conference",
+    "title": "Securing Multimodal AI through Internal Information Decomposition",
+    "titleZh": "通过内部信息分解保障多模态AI安全",
+    "line": "提出推理期防御框架FlowGuard，利用部分信息分解监测跨模态内部一致性，仅用良性数据训练单类分类器即可将多模态未知攻击的成功率从90%以上降至15%以下。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=GEzZIUmEqE",
+    "site": null,
+    "authors": [
+      "Jehyeok Yeon",
+      "Hyeonjeong Ha",
+      "Qiusi Zhan",
+      "Heng Ji"
+    ],
+    "pushedOn": "2026-10-15"
+  },
+  {
+    "id": "icml:2026:yIubI9l3IT",
+    "kind": "conference",
+    "title": "Modular Pretraining Enables Access Control",
+    "titleZh": "模块化预训练赋能双重用途AI的能力访问控制",
+    "line": "提出梯度路由辅助模块预训练方法GRAM，通过推理时消融特定模块移除病毒学与网络安全等高危能力，且比事后遗忘更具抗微调恢复性。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=yIubI9l3IT",
+    "site": "https://aisafetyhot.com/items/vvki9eetl42hlsy0wectawxgn",
+    "authors": [
+      "Ethan Roland",
+      "Murat Cubuktepe",
+      "Erick Martinez",
+      "Stijn Servaes",
+      "Keenan Pepper",
+      "Michael Vaiana",
+      "Diogo S de Lucena",
+      "Judd Rosenblatt",
+      "Addie Foote",
+      "Cem Anil",
+      "Alex Cloud"
+    ],
+    "pushedOn": "2026-10-15"
+  },
+  {
     "id": "n0pl4tgv52bli3d2e5olutzbp",
     "kind": "arxiv",
     "title": "ReSI: Recursive Safety Improvement toward Resistant and Resilient AI",

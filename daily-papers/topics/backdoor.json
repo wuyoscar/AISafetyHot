@@ -1,5 +1,32 @@
 [
   {
+    "id": "icml:2026:lUVEQ1JRIL",
+    "kind": "conference",
+    "title": "From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs",
+    "titleZh": "从中毒到觉察：培养 LLM 的后门自我觉察",
+    "line": "用反演式强化学习让中毒模型自述其植入触发词，并据此提出缓解与检测两种防御，在五种后门攻击上优于六个基线。",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=lUVEQ1JRIL",
+    "site": null,
+    "authors": [
+      "Guangyu Shen",
+      "Siyuan Cheng",
+      "Xiangzhe Xu",
+      "Yuan Zhou",
+      "Hanxi Guo",
+      "ZHUO ZHANG",
+      "Xiangyu Zhang"
+    ],
+    "pushedOn": "2026-10-15"
+  },
+  {
     "id": "ylmaojlfv5xtuhigjqo7pdgtj",
     "kind": "arxiv",
     "title": "AI Models Can Provably Hide Arbitrary Capabilities",
