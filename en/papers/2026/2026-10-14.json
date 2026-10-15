@@ -95,7 +95,7 @@
     "id": "bh4vfr3yu9xk269bvy1x10g5y",
     "arxivId": "2610.18465",
     "title": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
-    "titleEn": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
+    "titleEn": "How Safe Are ChatGPT's Health Recommendations? Evidence from Real User Conversations in Four Global South Countries",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 37,
-      "translated": 16,
-      "pending": 21,
-      "status": "partial"
+      "translated": 37,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
