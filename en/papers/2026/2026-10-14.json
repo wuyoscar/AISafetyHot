@@ -17,8 +17,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 38,
-      "translated": 18,
-      "pending": 20,
+      "translated": 37,
+      "pending": 1,
       "status": "partial"
     }
   },
@@ -26,7 +26,7 @@
     "id": "on84ig2ho8jdobojgnth1y8w9",
     "arxivId": "2610.15961",
     "title": "Unfair and Unsafe: Everyday Bias Triggers Emergent Misalignment",
-    "titleEn": "Unfair and Unsafe: Everyday Bias Triggers Emergent Misalignment",
+    "titleEn": "Unfair and unsafe: everyday biases trigger emergent misalignment",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -40,9 +40,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 38,
-      "translated": 19,
-      "pending": 19,
-      "status": "partial"
+      "translated": 38,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {

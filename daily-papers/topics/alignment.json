@@ -1,5 +1,34 @@
 [
   {
+    "id": "iclr:2026:qNlTH4kYJZ",
+    "kind": "conference",
+    "title": "AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference",
+    "titleZh": "AdAEM：自适应且自动扩展的大语言模型价值差异度量",
+    "line": "提出自扩展评测算法AdAEM，通过上下文优化探测跨文化多模型的内部价值边界并提取争议性话题，自适应生成新问题以持续追踪模型的价值差异与对齐动态。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=qNlTH4kYJZ",
+    "site": null,
+    "authors": [
+      "Jing Yao",
+      "Shitong Duan",
+      "Xiaoyuan Yi",
+      "Dongkuan Xu",
+      "Peng Zhang",
+      "Tun Lu",
+      "Ning Gu",
+      "Zhicheng Dou",
+      "Xing Xie"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
     "id": "icml:2026:Y5bEI4cuMd",
     "kind": "conference",
     "title": "BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs",

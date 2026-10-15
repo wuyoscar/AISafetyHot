@@ -1,5 +1,132 @@
 [
   {
+    "id": "icml:2026:NBMCwxTRSA",
+    "kind": "conference",
+    "title": "GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows",
+    "titleZh": "GEM：基于对比速度匹配的Rectified Flow模型几何概念擦除",
+    "line": "针对多模态生成模型合成有害内容与深度伪造的风险，提出GEM概念擦除框架，将基于轨迹的遗忘与教师引导流匹配结合，有效抑制有害概念并保留正常生成。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=NBMCwxTRSA",
+    "site": null,
+    "authors": [
+      "Jonas Henry Grebe",
+      "Tobias Braun",
+      "Anna Rohrbach",
+      "Marcus Rohrbach"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
+    "id": "c2bavsbi9bmvq0znzeifkomln",
+    "kind": "arxiv",
+    "title": "SaTPO: Text-to-Image Safety Alignment via Transition Preference Optimization",
+    "titleZh": "SaTPO：通过转场偏好优化实现文生图扩散模型安全对齐",
+    "line": "提出 SaTPO，用单步转移偏好优化对齐文生图模型",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.19563",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19563",
+    "site": "https://aisafetyhot.com/items/c2bavsbi9bmvq0znzeifkomln",
+    "authors": [
+      "Ziyi Fang",
+      "Jingzhi Li",
+      "Xiaojun Jia",
+      "Xingxing Wei",
+      "Wenqi Ren",
+      "Haijun Zhang"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
+    "id": "qk33mh8fnkkksr403x087j8c0",
+    "kind": "arxiv",
+    "title": "AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety",
+    "titleZh": "AgentSafeEvo：面向 LLM 智能体安全的对抗协同进化框架",
+    "line": "提出 AgentSafeEvo，协同演化对抗任务构造与安全执行以提升工具智能体稳健性",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.19422",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.19422",
+    "site": "https://aisafetyhot.com/items/qk33mh8fnkkksr403x087j8c0",
+    "authors": [
+      "Chenxu Wang",
+      "Xiaoyu Wen",
+      "Han Qi",
+      "Ziyuan Zhou",
+      "Cheng Jin",
+      "Chaochao Lu",
+      "Qiaosheng Zhang"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
+    "id": "pj4h6slmbz7jnabmu1hj85bui",
+    "kind": "arxiv",
+    "title": "CompanionSafe: From Multi-turn Safety Evaluation to Guardrails for AI Companions",
+    "titleZh": "CompanionSafe：从多轮安全评测到 AI 伴侣护栏",
+    "line": "用多轮对话评测 AI 伴侣关系安全并训练检测护栏 CompanionGuard",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.18095",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18095",
+    "site": "https://aisafetyhot.com/items/pj4h6slmbz7jnabmu1hj85bui",
+    "authors": [
+      "Xinyang Liao",
+      "Lingyu Li",
+      "Kaicheng Shen",
+      "Yang Yao",
+      "Na Lu",
+      "Yan Teng",
+      "Xia Hu"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
+    "id": "f3k7vkcnsdg15xpr4xyuy3kgq",
+    "kind": "arxiv",
+    "title": "Efficient Safety Guardrails through Latent Dual-Hypothesis Reasoning with On-Demand Trace Reconstruction",
+    "titleZh": "LR-Guard：基于潜在双假设推理与按需轨迹重建的高效安全护栏",
+    "line": "提出潜空间双假设提示词护栏 LR-GUARD，并支持按需重建推理轨迹",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.18304",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18304",
+    "site": "https://aisafetyhot.com/items/f3k7vkcnsdg15xpr4xyuy3kgq",
+    "authors": [
+      "Md Asiful Islam",
+      "Fahmida Alam",
+      "Mihai Surdeanu"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
     "id": "icml:2026:GEzZIUmEqE",
     "kind": "conference",
     "title": "Securing Multimodal AI through Internal Information Decomposition",

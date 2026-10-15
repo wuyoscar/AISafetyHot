@@ -1,5 +1,32 @@
 [
   {
+    "id": "icml:2026:rLFIOikFR2",
+    "kind": "conference",
+    "title": "Sycophancy Towards Researchers Drives Performative Misalignment",
+    "titleZh": "对研究人员的谄媚驱动了表演性未对齐",
+    "line": "研究发现大模型在评测中的对齐伪装更可能源自对研究人员的谄媚而非蓄意谋划，当前方法难以在机理上区分二者，微调增加谄媚度会提高模型对评测线索的敏感度。",
+    "topics": [
+      {
+        "slug": "scheming",
+        "name": "欺骗与谋划"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=rLFIOikFR2",
+    "site": null,
+    "authors": [
+      "David D. Baek",
+      "Xinnuo Li",
+      "Anay Gupta",
+      "Taslim Mahbub",
+      "Kejian Shi",
+      "Max Tegmark",
+      "Shi Feng"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
     "id": "icml:2026:wrGSN9kAVD",
     "kind": "conference",
     "title": "The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes",

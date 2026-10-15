@@ -1,5 +1,29 @@
 [
   {
+    "id": "iclr:2026:yfM2e8Icsw",
+    "kind": "conference",
+    "title": "Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning",
+    "titleZh": "小心脚下：大模型微调时激活的潜伏对抗行为",
+    "line": "提出FAB攻击，通过元学习构造出表面良性但在下游微调后会激活潜伏对抗行为（如越狱、过度拒答）的受损模型，揭示了微调过程中的安全风险。",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=yfM2e8Icsw",
+    "site": null,
+    "authors": [
+      "Thibaud Gloaguen",
+      "Mark Vero",
+      "Robin Staab",
+      "Martin Vechev"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
     "id": "icml:2026:lUVEQ1JRIL",
     "kind": "conference",
     "title": "From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs",

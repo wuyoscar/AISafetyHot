@@ -1,5 +1,57 @@
 [
   {
+    "id": "iclr:2026:jY7fAo9rfK",
+    "kind": "conference",
+    "title": "Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models",
+    "titleZh": "大语言模型微调经验隐私保护基准评测",
+    "line": "系统评估了差分隐私微调大模型在成员推断与金丝雀提取攻击下的实际隐私风险，发现分布偏移对经验隐私保护具有显著影响。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=jY7fAo9rfK",
+    "site": null,
+    "authors": [
+      "Bartłomiej Marek",
+      "Lorenzo Rossi",
+      "Vincent Hanke",
+      "Xun Wang",
+      "Michael Backes",
+      "Franziska Boenisch",
+      "Adam Dziedzic"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
+    "id": "iclr:2026:0FJYicpOj0",
+    "kind": "conference",
+    "title": "Gaussian certified unlearning in high dimensions: A hypothesis testing approach",
+    "titleZh": "高维空间中的高斯可认证机器遗忘：基于假设检验的方法",
+    "line": "提出面向高维机制的ε-高斯可认证性，理论证明单步牛顿法结合高斯噪声即可同时实现隐私消除与模型精度。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=0FJYicpOj0",
+    "site": null,
+    "authors": [
+      "Aaradhya Pandey",
+      "Arnab Auddy",
+      "Haolin Zou",
+      "Arian Maleki",
+      "Sanjeev Kulkarni"
+    ],
+    "pushedOn": "2026-10-16"
+  },
+  {
     "id": "icml:2026:bA6BgSbaUi",
     "kind": "conference",
     "title": "How much can language models memorize?",
