@@ -56,7 +56,7 @@
       "paper": "https://arxiv.org/abs/2610.19306",
       "aisafetyhot": "https://aisafetyhot.com/en/items/h6xvr7oroc52wcroeqgdww4bj"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-10-13T23:32:17.000Z",
     "timelineAt": "2026-10-15T03:45:40.167Z",
     "translation": {
       "locale": "en",
@@ -65,6 +65,52 @@
       "total": 3,
       "translated": 2,
       "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "xmoud1r4xq56ifikadr2ep3co",
+    "arxivId": "2610.19832",
+    "title": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
+    "titleEn": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19832",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/xmoud1r4xq56ifikadr2ep3co"
+    },
+    "publishedAt": "2026-10-14T09:06:00.000Z",
+    "timelineAt": "2026-10-15T04:33:28.403Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "w62eh6xtvlal1khhkjn5apg1a",
+    "arxivId": "2610.19731",
+    "title": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
+    "titleEn": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19731",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/w62eh6xtvlal1khhkjn5apg1a"
+    },
+    "publishedAt": "2026-10-14T07:52:24.000Z",
+    "timelineAt": "2026-10-15T04:33:28.382Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 2,
+      "pending": 2,
       "status": "partial"
     }
   }

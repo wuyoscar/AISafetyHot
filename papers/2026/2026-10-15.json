@@ -49,8 +49,44 @@
       "paper": "https://arxiv.org/abs/2610.19306",
       "aisafetyhot": "https://aisafetyhot.com/items/h6xvr7oroc52wcroeqgdww4bj"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-10-13T23:32:17.000Z",
     "timelineAt": "2026-10-15T03:45:40.167Z",
     "discoveredAt": "2026-10-15T03:45:40.167Z"
+  },
+  {
+    "arxivId": "2610.19832",
+    "title": "Rent-Seeking Language Models: Reward Models Set the Prices, Frequent Audits Curb the Rent",
+    "titleZh": "寻租的语言模型：奖励模型决定价格，频繁审计抑制租金",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19832",
+      "aisafetyhot": "https://aisafetyhot.com/items/xmoud1r4xq56ifikadr2ep3co"
+    },
+    "publishedAt": "2026-10-14T09:06:00.000Z",
+    "timelineAt": "2026-10-15T04:33:28.403Z",
+    "discoveredAt": "2026-10-15T04:33:28.403Z"
+  },
+  {
+    "arxivId": "2610.19731",
+    "title": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
+    "titleZh": "目标发生了什么？目标误泛化中策略对齐的不同失败模式",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.19731",
+      "aisafetyhot": "https://aisafetyhot.com/items/w62eh6xtvlal1khhkjn5apg1a"
+    },
+    "publishedAt": "2026-10-14T07:52:24.000Z",
+    "timelineAt": "2026-10-15T04:33:28.382Z",
+    "discoveredAt": "2026-10-15T04:33:28.382Z"
   }
 ]
