@@ -136,6 +136,29 @@
     }
   },
   {
+    "id": "jdavvk1t7xyv5h44b0mgv9ej2",
+    "arxivId": "2610.14216",
+    "title": "Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules",
+    "titleEn": "Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14216",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/jdavvk1t7xyv5h44b0mgv9ej2"
+    },
+    "publishedAt": "2026-10-09T18:29:48.000Z",
+    "timelineAt": "2026-10-09T18:29:48.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 36,
+      "translated": 10,
+      "pending": 26,
+      "status": "partial"
+    }
+  },
+  {
     "id": "of8dpno9hcfswb26ubo3vxvru",
     "arxivId": "2610.04888",
     "title": "研究：事实核查评测可能混入声明时不可知的未来证据",
@@ -528,8 +551,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 37,
-      "translated": 10,
-      "pending": 27,
+      "translated": 12,
+      "pending": 25,
       "status": "partial"
     }
   }

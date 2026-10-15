@@ -195,6 +195,45 @@
     "discoveredAt": "2026-10-14T04:01:42.918Z"
   },
   {
+    "arxivId": "2610.14216",
+    "title": "Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules",
+    "titleZh": "Cortex：以测量门控演进与剪枝编码 Agent 的技能和规则",
+    "authors": [],
+    "category": "tip",
+    "selected": false,
+    "attention": null,
+    "summaryZh": "论文作者发布 Cortex，一个在改动编码 Agent 的 harness（项目文件、可自行打开的 skills、自动加载的 rules）前先做重复运行验证的工具，只在净增益且没有任务明显变差时保留改动。它把开发者会话中的修正保存为可重放任务，找出反复出现的修正，每次只写一条 skill 或 rule，删除前也以同样方式测试，且不会增删 Agent 从未用过的文本。作者在专为测试构建的仓库上用 Claude Haiku 4.5 验证：在留出任务上，Cortex 构建的 harness 让 Agent 遵循约定的频率远高于没有 skills 或 rules 时，对照区域保持不变，也没有增加每轮都会读取的文本；自动加载的 rules 贡献最大，skills 只在随任务涉及文件一起提供时有用，每轮都提供的 skills 很少被打开。作者发布了工具、实验环境和数据。",
+    "quickRead": {
+      "parts": [
+        {
+          "text": "coding agent还要遵守开发者写的项目说明、skill和rule。作者称这些文本常因纠正留下，但同一任务可过可不过，看一次成功算不上证据，且每步都在上下文里的文本每次都要付费。",
+          "label": "问题"
+        },
+        {
+          "text": "Cortex把修好的会话存成可回放任务，针对反复纠正每次写一条skill或rule。与当前harness成对多跑几次，只在有净增益、触发过、且单项任务未超出容差变差时保留；没触发的不留，没见过触发的不删。",
+          "label": "方法"
+        },
+        {
+          "text": "shopkit上Haiku 4.5的四次run，未见过的四规则族通过率比无skill/rule高55.0点，对照族−0.8点。留下的多为自动载入的rule。同一R1 harness在Sonnet 5上增益为+5.6点。",
+          "label": "实验与结果"
+        },
+        {
+          "text": "作者称实验室是为让模型有改进空间而校准的，主结果来自Claude Haiku 4.5；脚本扮演开发者，评估run为4次、对照1次。structlog上很少被纠正，循环没保留文本。下一步包括会破约定的真实仓库、能看见伤害的测试，以及单commit沙箱。",
+          "label": "局限与可以继续做的"
+        }
+      ],
+      "sourceName": "论文 PDF（AI 生成）",
+      "sourceUrl": "https://arxiv.org/abs/2610.14216"
+    },
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.14216",
+      "aisafetyhot": "https://aisafetyhot.com/items/jdavvk1t7xyv5h44b0mgv9ej2"
+    },
+    "publishedAt": "2026-10-09T18:29:48.000Z",
+    "timelineAt": "2026-10-09T18:29:48.000Z",
+    "discoveredAt": "2026-10-15T17:36:24.657Z"
+  },
+  {
     "arxivId": "2610.04888",
     "title": "研究：事实核查评测可能混入声明时不可知的未来证据",
     "titleZh": "研究：事实核查评测可能混入声明时不可知的未来证据",
