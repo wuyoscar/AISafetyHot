@@ -34,5 +34,59 @@
     "publishedAt": "2026-10-14T00:36:08.000Z",
     "timelineAt": "2026-10-15T21:40:18.331Z",
     "discoveredAt": "2026-10-15T21:40:18.331Z"
+  },
+  {
+    "arxivId": "2610.22333",
+    "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+    "titleZh": "英语之外的评测感知：LLM 在被测试时用印度语言会表现不同吗？",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22333",
+      "aisafetyhot": "https://aisafetyhot.com/items/qod2myodyfh40xw4194kjk7mm"
+    },
+    "publishedAt": "2026-10-15T17:53:33.000Z",
+    "timelineAt": "2026-10-16T04:47:28.221Z",
+    "discoveredAt": "2026-10-16T04:47:28.221Z"
+  },
+  {
+    "arxivId": "2610.21200",
+    "title": "Poisoning the corpora of protein design systems during pre-training and retrieval",
+    "titleZh": "在预训练和检索阶段投毒蛋白质设计系统的语料库",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.21200",
+      "aisafetyhot": "https://aisafetyhot.com/items/xdeb21iafpvhgh1zgscrtllog"
+    },
+    "publishedAt": "2026-10-15T04:00:17.000Z",
+    "timelineAt": "2026-10-16T04:50:28.206Z",
+    "discoveredAt": "2026-10-16T04:50:28.206Z"
+  },
+  {
+    "arxivId": "2610.21789",
+    "title": "In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases",
+    "titleZh": "以纠正为名：提问框架与文化适配如何削弱 LLM 在真实刑事案件上的安全性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.21789",
+      "aisafetyhot": "https://aisafetyhot.com/items/hdgtfxlxf7vu8vm7mk6orfjxu"
+    },
+    "publishedAt": "2026-10-15T12:44:04.000Z",
+    "timelineAt": "2026-10-16T04:47:28.195Z",
+    "discoveredAt": "2026-10-16T04:47:28.195Z"
   }
 ]
