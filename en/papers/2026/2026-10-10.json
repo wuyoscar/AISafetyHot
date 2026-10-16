@@ -54,23 +54,23 @@
     "quickRead": {
       "parts": [
         {
-          "text": "Hybrid reasoning models (such as Qwen3) can switch between think and no-think modes. A common practice is to do RLVR in no-think mode and report reasoning improvements. The authors question whether this improvement truly learns new capabilities or merely reactivates the model's original think-mode capabilities.",
+          "text": "Hybrid reasoning models trained via RLVR in no-think mode often show improved reasoning accuracy. This paper investigates whether this gain comes from the model learning new problem-solving abilities or merely reactivating reasoning capabilities already present in the model from pretraining or the original think mode (thinking leakage).",
           "label": "Questions"
         },
         {
-          "text": "Train Qwen3-1.7B/4B/8B with GRPO in no-think mode, and measure response length, reflection words, think similarity (TWR) as judged by the original model, and the offset α of internal activations along the think direction. Then, by scaling weight updates, performing cross-model activation replacement in an 8-dimensional think subspace, and attention head knockout and single-head replacement, test whether the gains come from think mode.",
+          "text": "The authors trained Qwen3 models with GRPO in no-think mode and designed causal intervention experiments at three levels: weights, activations, and attention heads, testing the mechanism through weight difference scaling, cross-model exchange of the 8-dimensional think activation subspace, and ablation and patching of key attention heads that read the empty thinking block.",
           "label": "Methods"
         },
         {
-          "text": "Post-training accuracy, response length, reflection words, and TWR rise together, and activations shift toward the think direction (reaching 0.56 at 8B). Scaling weight updates makes the model generate </think> and approach but not exceed the original model's think-mode accuracy; replacing the think subspace can remove 75% of the gain or transfer 50%; the RL-induced shift passes through a few attention heads that read empty think blocks. GRPO advantage favors responses that are more think-like, and a single gradient step pushes the model toward the think state.",
+          "text": "On Qwen3-8B, replacing the 8-dimensional think subspace eliminated 75% of the RL gain, while backporting transferred 50% of the gain; a few attention heads that read the empty think block carried most of the pattern-shift signal; the GRPO advantage function naturally assigns stronger positive updates to answers with more think-like features.",
           "label": "Experiments and results"
         },
         {
-          "text": "The authors state that these results only suggest that a large part of the RL gains in no-think mode comes from thinking leakage, rather than proving that the model learns no new capabilities; the weight scaling experiments are outside the training range and explored on the same batch of AIME problems, constituting exploratory evidence. The authors suggest that future evaluations should distinguish whether RL adds new capabilities or changes how existing capabilities are invoked.",
+          "text": "Limitations: only drawn from question 5; weight scaling hyperparameters were not validated on a held-out test set; experiments only covered Qwen3 1.7B, 4B, and 8B models and 90 AIME math problems; the paper does not report generalization to multi-turn dialogue, other task domains, or other model architectures.",
           "label": "Limitations and future work"
         }
       ],
-      "sourceName": "论文全文（AI 生成）",
+      "sourceName": "论文 PDF（Gemini 生成）",
       "sourceUrl": "https://arxiv.org/abs/2610.14270"
     },
     "links": {
@@ -83,8 +83,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 11,
-      "translated": 11,
+      "total": 37,
+      "translated": 37,
       "pending": 0,
       "status": "complete"
     }
