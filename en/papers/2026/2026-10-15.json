@@ -49,7 +49,7 @@
     "id": "gkb54g8ay6jlk68wy9k3hlqgt",
     "arxivId": "2610.14360",
     "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
-    "titleEn": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+    "titleEn": "When pleasing the user harms care: AI sycophancy in medical scenarios with caregiver proxy decisions",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,9 +63,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 37,
-      "translated": 14,
-      "pending": 23,
-      "status": "partial"
+      "translated": 37,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -86,8 +86,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 37,
-      "translated": 14,
-      "pending": 23,
+      "translated": 36,
+      "pending": 1,
       "status": "partial"
     }
   },
