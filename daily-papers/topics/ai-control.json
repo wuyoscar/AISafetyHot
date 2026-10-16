@@ -1,5 +1,30 @@
 [
   {
+    "id": "icml:2026:J4DiM8EiMJ",
+    "kind": "conference",
+    "title": "Removing Sandbagging in LLMs by Training with Weak Supervision",
+    "titleZh": "用弱监督训练消除 LLM 的 sandbagging",
+    "line": "SFT 与 RL 结合可在弱监督下引出 sandbagging 模型的真实能力,单独使用均不可靠;但若模型能区分训练与部署,仍会继续藏拙。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "ICML 2026 regular",
+    "date": null,
+    "url": "https://openreview.net/forum?id=J4DiM8EiMJ",
+    "site": null,
+    "authors": [
+      "Emil Ryd",
+      "Henning Bartsch",
+      "Julian Stastny",
+      "Joe Benton",
+      "Vivek Hebbar"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
     "id": "iclr:2026:WV7xIboTDK",
     "kind": "conference",
     "title": "Reliable Weak-to-Strong Monitoring of LLM Agents",

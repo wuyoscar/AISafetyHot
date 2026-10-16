@@ -1,5 +1,34 @@
 [
   {
+    "id": "acl:2026:2026.findings-acl.506",
+    "kind": "conference",
+    "title": "Red-Teaming NSFW Image Classifiers as Text-to-Image Safeguards",
+    "titleZh": "对文生图安全护栏中的NSFW图像分类器开展红队测试",
+    "line": "提出自动化红队框架，发现良性画面元素的变化可导致NSFW漏检，利用失败案例训练的提示改写模型将检测规避概率提高至多六倍。",
+    "topics": [
+      {
+        "slug": "red-teaming",
+        "name": "红队测试与挑战赛"
+      }
+    ],
+    "venue": "ACL 2026 findings",
+    "date": null,
+    "url": "https://aclanthology.org/2026.findings-acl.506/",
+    "site": null,
+    "authors": [
+      "Tinghao Xie",
+      "Yueqi Xie",
+      "Alireza Zareian",
+      "Shuming Hu",
+      "Felix Juefei-Xu",
+      "Xiaowen Lin",
+      "Ankit Jain",
+      "Prateek Mittal",
+      "Li Chen"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
     "id": "icml:2026:Joka19sTny",
     "kind": "conference",
     "title": "Estimating Tail Risks in Language Model Output Distributions",

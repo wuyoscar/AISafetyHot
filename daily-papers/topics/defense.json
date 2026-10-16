@@ -1,5 +1,100 @@
 [
   {
+    "id": "s8ncf672tvvvi7j4dbeh1nqm0",
+    "kind": "arxiv",
+    "title": "Resisting Harmful Instructions through Training-Free Weight Editing",
+    "titleZh": "通过免训练权重编辑抵抗有害指令",
+    "line": "提出免训练权重编辑，降低模型对指定不良指令的遵从",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.21189",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21189",
+    "site": "https://aisafetyhot.com/items/s8ncf672tvvvi7j4dbeh1nqm0",
+    "authors": [
+      "Ali Ebrahimpour-Boroojeny",
+      "Xiaocong Yang",
+      "Samuel Schapiro",
+      "Zahra Borhani",
+      "Francisco R. Ortega",
+      "Yujia Zheng",
+      "ChengXiang Zhai"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
+    "id": "iclr:2026:PJdw4VBsXD",
+    "kind": "conference",
+    "title": "SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety",
+    "titleZh": "SafeDPO：兼顾高安全性的简易直接偏好优化方法",
+    "line": "基于安全对齐目标的闭式最优解，提出仅需一个额外超参数的轻量级安全训练方法SafeDPO，无需奖励模型即可在PKU-SafeRLHF基准上显著提升模型安全性。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=PJdw4VBsXD",
+    "site": null,
+    "authors": [
+      "Geon-Hyeong Kim",
+      "Yu Jin Kim",
+      "Byoungjip Kim",
+      "Honglak Lee",
+      "Kyunghoon Bae",
+      "Youngsoo Jang",
+      "Moontae Lee"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
+    "id": "icml:2026:Alelgxnwgs",
+    "kind": "conference",
+    "title": "Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?",
+    "titleZh": "混合空间感知随机化防御能否提升经验与认证对抗鲁棒性？",
+    "line": "提出 HySCAN，在权重与特征空间同时注入随机性，认证鲁棒性最多提升约 9.6%，经验鲁棒性提升约 5%，且不降低干净准确率。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 regular",
+    "date": null,
+    "url": "https://openreview.net/forum?id=Alelgxnwgs",
+    "site": null,
+    "authors": [
+      "Joy Dhar",
+      "Manish Kumar Pandey",
+      "Behzad Bozorgtabar",
+      "Nayyar Zaidi",
+      "Wenyu Zhang",
+      "Wei-Hong Li",
+      "Tingting Mu",
+      "Dwarikanath Mahapatra",
+      "Mahsa Baktashmotlagh",
+      "Trung Le",
+      "Chen Chen",
+      "Sajib Mistry",
+      "Camila Gonzalez",
+      "Samira Ebrahimi Kahou",
+      "Lina Yao",
+      "Piotr Koniusz",
+      "Robert Burns Fisher",
+      "Dinh Phung",
+      "Bohyung Han",
+      "Nuno Vasconcelos",
+      "Pietro Lio"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
     "id": "icml:2026:NBMCwxTRSA",
     "kind": "conference",
     "title": "GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows",

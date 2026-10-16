@@ -1,5 +1,31 @@
 [
   {
+    "id": "dk33qgs4xq8rrphdz7fip26ye",
+    "kind": "arxiv",
+    "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
+    "titleZh": "StepSafe：以上下文感知安全推理学习及时干预",
+    "line": "用 ASPO 训练步级护栏，在智能体动作执行前及时干预",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.20960",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.20960",
+    "site": "https://aisafetyhot.com/items/dk33qgs4xq8rrphdz7fip26ye",
+    "authors": [
+      "Siyi Gu",
+      "Kunhan Gao",
+      "Chao Peter Yang",
+      "Sukanta Ganguly",
+      "Rex Ying",
+      "Arman Cohan"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
     "id": "mv86fhx0igz7qw9d4166zk90z",
     "kind": "arxiv",
     "title": "Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees",

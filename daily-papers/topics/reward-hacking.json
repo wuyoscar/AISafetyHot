@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dez0weqpvh7wav82u5cymrhk5",
+    "kind": "arxiv",
+    "title": "Multi-Reward Hacking: From Aggregation-Induced Drift to Trust-Anchored Defense",
+    "titleZh": "多奖励作弊：从聚合诱导的漂移到信任锚定的防御",
+    "line": "提出信任锚定门控 TAG，缓解多奖励投机引起的策略漂移",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2610.21404",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21404",
+    "site": "https://aisafetyhot.com/items/dez0weqpvh7wav82u5cymrhk5",
+    "authors": [
+      "Yushu Li",
+      "Jiin Woo",
+      "Xiaoxiao Li",
+      "Youngsuk Park"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
+    "id": "jytib083944kip9mmvts3vcjf",
+    "kind": "arxiv",
+    "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
+    "titleZh": "研究揭示修辞如何对 AI 审稿人实施奖励作弊",
+    "line": "测量内容保留的修辞改写如何改变 AI 审稿分数",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2608.08975",
+    "date": "2026-08-10",
+    "url": "https://arxiv.org/abs/2608.08975",
+    "site": "https://aisafetyhot.com/items/jytib083944kip9mmvts3vcjf",
+    "authors": [
+      "Ming Li",
+      "Chenguang Wang",
+      "Xirui Li",
+      "Xinyue Zeng",
+      "Dianqi Li",
+      "Peng Shi",
+      "Dawei Zhou",
+      "Tianyi Zhou"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
+    "id": "icml:2026:DfhMMHXDuu",
+    "kind": "conference",
+    "title": "Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling",
+    "titleZh": "通过贝叶斯非负奖励建模缓解 RLHF 中的奖励作弊",
+    "line": "提出 BNRM，将非负因子分析融入 Bradley–Terry 模型，以稀疏潜因子抑制长度等偏差，缓解奖励过优化并增强分布偏移下的鲁棒性。",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=DfhMMHXDuu",
+    "site": null,
+    "authors": [
+      "Zhibin Duan",
+      "Guowei Rong",
+      "Zhuo Li",
+      "Bo Chen",
+      "Mingyuan Zhou",
+      "Dandan Guo"
+    ],
+    "pushedOn": "2026-10-17"
+  }
+]

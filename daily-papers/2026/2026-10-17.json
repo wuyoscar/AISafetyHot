@@ -1,0 +1,710 @@
+[
+  {
+    "id": "k3ztzw5mgwhzry4dr8zc9eixx",
+    "kind": "arxiv",
+    "title": "Can Capability Enhancement be Localized?",
+    "titleZh": "能力增强能否定位到特定注意力头？",
+    "line": "提出能力增强定位，用两阶段搜索找出删头即可提升任务的稀疏注意力头",
+    "topics": [],
+    "venue": "arXiv 2610.21294",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21294",
+    "site": "https://aisafetyhot.com/items/k3ztzw5mgwhzry4dr8zc9eixx",
+    "authors": [
+      "Anh Tuan Nguyen",
+      "Anna Bair",
+      "Zico Kolter"
+    ]
+  },
+  {
+    "id": "f2splfuxjd7l6nuru9fhc76gp",
+    "kind": "arxiv",
+    "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+    "titleZh": "Screwtape：面向监控器红队测试的对抗性对话记录编辑",
+    "line": "Redwood Research 研究者提出 Screwtape 流水线，通过改写真实 Agent 对话记录来对只看动作的监控器做红队测试。攻击者由 LLM 编辑对话记录，使 Agent 造成指定危害并反复修改，直到监控器不再标记。",
+    "topics": [],
+    "venue": "arXiv 2610.20941",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.20941",
+    "site": "https://aisafetyhot.com/items/f2splfuxjd7l6nuru9fhc76gp",
+    "authors": [
+      "Gosha Kozhevnikov",
+      "Tyler Tracy"
+    ]
+  },
+  {
+    "id": "s7ttl80f3815t4zgjhyvmvvro",
+    "kind": "arxiv",
+    "title": "A team of Gemini 4 Argon agents beats Minecraft",
+    "titleZh": "Gemini 4 Argon 智能体团队通关 Minecraft",
+    "line": "展示通用编程智能体团队自主协作通关 Minecraft",
+    "topics": [],
+    "venue": "arXiv 2610.22319",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.22319",
+    "site": "https://aisafetyhot.com/items/s7ttl80f3815t4zgjhyvmvvro",
+    "authors": [
+      "Maxence Faldor",
+      "Satinder Singh",
+      "Roberta Raileanu"
+    ]
+  },
+  {
+    "id": "fyjbfho534ccso6r5zq258yiu",
+    "kind": "arxiv",
+    "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
+    "titleZh": "解释 MoE 大语言模型中专家在个性化中的作用",
+    "line": "用两阶段微调与 crosscoder 解析 MoE 专家的个性化路由",
+    "topics": [],
+    "venue": "arXiv 2610.22127",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.22127",
+    "site": "https://aisafetyhot.com/items/fyjbfho534ccso6r5zq258yiu",
+    "authors": [
+      "Sekh Mainul Islam",
+      "Pepa Atanasova",
+      "Isabelle Augenstein"
+    ]
+  },
+  {
+    "id": "k37rzf8a0agz24tzkxh32wcj5",
+    "kind": "arxiv",
+    "title": "JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs",
+    "titleZh": "JevAgentHarness：对与 LLM 共享控制权的决策模型进行基准测试、部署与训练",
+    "line": "用 JevAgentHarness 评测并训练与 LLM 共享控制的决策模型",
+    "topics": [],
+    "venue": "arXiv 2610.21412",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.21412",
+    "site": "https://aisafetyhot.com/items/k37rzf8a0agz24tzkxh32wcj5",
+    "authors": [
+      "Kunlun Zhu",
+      "Tao Feng",
+      "Xu Han",
+      "Heng Wang",
+      "Ling Yang",
+      "Xiangru Tang",
+      "Jiaxuan You",
+      "Heng Ji"
+    ]
+  },
+  {
+    "id": "nl5ocpwxx1lqtnlizbn3hpncg",
+    "kind": "arxiv",
+    "title": "CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance",
+    "titleZh": "CarryOn：面向个性化与可靠机器人辅助的双循环框架",
+    "line": "提出 CarryOn 双环框架，为冻结 VLA 做个性化规划与危险接触防护",
+    "topics": [],
+    "venue": "arXiv 2610.21453",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.21453",
+    "site": "https://aisafetyhot.com/items/nl5ocpwxx1lqtnlizbn3hpncg",
+    "authors": [
+      "Zixuan Wang",
+      "Yuqi Liu",
+      "Yuxin Chen",
+      "Sengqiao Yang",
+      "Jinhui Ye",
+      "Pengguang Chen",
+      "Changsheng Lu",
+      "Shu Liu",
+      "Bei Yu",
+      "Jiaya Jia"
+    ]
+  },
+  {
+    "id": "s8ncf672tvvvi7j4dbeh1nqm0",
+    "kind": "arxiv",
+    "title": "Resisting Harmful Instructions through Training-Free Weight Editing",
+    "titleZh": "通过免训练权重编辑抵抗有害指令",
+    "line": "提出免训练权重编辑，降低模型对指定不良指令的遵从",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.21189",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21189",
+    "site": "https://aisafetyhot.com/items/s8ncf672tvvvi7j4dbeh1nqm0",
+    "authors": [
+      "Ali Ebrahimpour-Boroojeny",
+      "Xiaocong Yang",
+      "Samuel Schapiro",
+      "Zahra Borhani",
+      "Francisco R. Ortega",
+      "Yujia Zheng",
+      "ChengXiang Zhai"
+    ]
+  },
+  {
+    "id": "jrrnu8ues39ytuaseypkua19n",
+    "kind": "arxiv",
+    "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+    "titleZh": "去中心化 Agent 群体中的自组织学习：基于市场的后训练（MPT）",
+    "line": "提出 MPT，让去中心化 Agent 群体同时学会行动与自我编排",
+    "topics": [],
+    "venue": "arXiv 2610.22322",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.22322",
+    "site": "https://aisafetyhot.com/items/jrrnu8ues39ytuaseypkua19n",
+    "authors": [
+      "Guowei Xu",
+      "Zhenting Qi",
+      "Amani Kiruga",
+      "Himabindu Lakkaraju",
+      "Yilun Du"
+    ]
+  },
+  {
+    "id": "dez0weqpvh7wav82u5cymrhk5",
+    "kind": "arxiv",
+    "title": "Multi-Reward Hacking: From Aggregation-Induced Drift to Trust-Anchored Defense",
+    "titleZh": "多奖励作弊：从聚合诱导的漂移到信任锚定的防御",
+    "line": "提出信任锚定门控 TAG，缓解多奖励投机引起的策略漂移",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2610.21404",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21404",
+    "site": "https://aisafetyhot.com/items/dez0weqpvh7wav82u5cymrhk5",
+    "authors": [
+      "Yushu Li",
+      "Jiin Woo",
+      "Xiaoxiao Li",
+      "Youngsuk Park"
+    ]
+  },
+  {
+    "id": "ie3p39yx4u40tk6wl0mkm9w0y",
+    "kind": "arxiv",
+    "title": "SCARCE: Emergent Institutions in Long-Horizon Multi-Agent Coding Systems",
+    "titleZh": "SCARCE：长周期多智能体编码系统中的涌现制度",
+    "line": "研究者提出 SCARCE 框架，让多个编码智能体在长周期任务中反复协商对单一共享执行资源的访问，发现智能体会自发形成以声誉、互惠和先例为基础的持久规则，作者称之为制度行为。",
+    "topics": [],
+    "venue": "arXiv 2610.21029",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21029",
+    "site": "https://aisafetyhot.com/items/ie3p39yx4u40tk6wl0mkm9w0y",
+    "authors": [
+      "Abhinav Kumar",
+      "Rediet Abebe",
+      "Eugene Bagdasarian",
+      "Sahar Abdelnabi"
+    ]
+  },
+  {
+    "id": "mpsxc1vl8apx1ac5abz2xefi8",
+    "kind": "arxiv",
+    "title": "A Phenomenology of Neural Geometry in Vision-Language-Action Models",
+    "titleZh": "视觉-语言-动作模型中的神经几何现象学",
+    "line": "用扫描和激活干预刻画 VLA 控制概念的实现几何",
+    "topics": [],
+    "venue": "arXiv 2610.20840",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.20840",
+    "site": "https://aisafetyhot.com/items/mpsxc1vl8apx1ac5abz2xefi8",
+    "authors": [
+      "Mozes Jacobs",
+      "Aiden Swann",
+      "Mathilde Papillon",
+      "Siddharth Boppana",
+      "Fenil R. Doshi",
+      "Usha Bhalla",
+      "Thomas Icard",
+      "Matt Feiszli",
+      "Thomas McGrath",
+      "Vasudev Shyam",
+      "Demba Ba",
+      "Leon Bergen",
+      "Nina Miolane",
+      "Owen Lewis",
+      "Jack Merullo",
+      "Ekdeep Singh Lubana",
+      "Atticus Geiger",
+      "Matthew Kowal",
+      "Thomas Fel"
+    ]
+  },
+  {
+    "id": "q8vx59ti88vfdnlucg0v6mtod",
+    "kind": "arxiv",
+    "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+    "titleZh": "MAI-Gym：面向移动与电脑环境的 GUI Agent 评测与 RL 训练开源一体化平台",
+    "line": "阿里 MAI-UI 团队发布 MAI-Gym，一个覆盖移动、电脑与网页环境的 GUI Agent 评测与在线 RL 训练开源平台，并用它训练出统一 9B 模型 MAI-Gym-9B。",
+    "topics": [],
+    "venue": "arXiv 2610.20939",
+    "date": "2026-10-14",
+    "url": "https://huggingface.co/papers/2610.20939",
+    "site": "https://aisafetyhot.com/items/q8vx59ti88vfdnlucg0v6mtod",
+    "authors": [
+      "Panrong Tong",
+      "Quyu Kong",
+      "Pengxiang Li",
+      "Tianyu Xia",
+      "Hanzhang Zhou",
+      "Lei Wang",
+      "Chenglin Cai",
+      "Long Li",
+      "Long Chen",
+      "Jianan Zhang",
+      "Zhengwen Zeng",
+      "Xu Zhang",
+      "Gongjie Zhang",
+      "Yue Wang",
+      "Steven Hoi"
+    ]
+  },
+  {
+    "id": "dk33qgs4xq8rrphdz7fip26ye",
+    "kind": "arxiv",
+    "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
+    "titleZh": "StepSafe：以上下文感知安全推理学习及时干预",
+    "line": "用 ASPO 训练步级护栏，在智能体动作执行前及时干预",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.20960",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.20960",
+    "site": "https://aisafetyhot.com/items/dk33qgs4xq8rrphdz7fip26ye",
+    "authors": [
+      "Siyi Gu",
+      "Kunhan Gao",
+      "Chao Peter Yang",
+      "Sukanta Ganguly",
+      "Rex Ying",
+      "Arman Cohan"
+    ]
+  },
+  {
+    "id": "hicxebr3g3zihpfzec8241h9z",
+    "kind": "arxiv",
+    "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+    "titleZh": "GEO-Flag：检测与测量面向生成式引擎优化的网页内容",
+    "line": "提出 GEOFlagBench 与 IPT，检测并测量生成式引擎优化网页",
+    "topics": [],
+    "venue": "arXiv 2608.16824",
+    "date": "2026-08-17",
+    "url": "https://arxiv.org/abs/2608.16824",
+    "site": "https://aisafetyhot.com/items/hicxebr3g3zihpfzec8241h9z",
+    "authors": [
+      "Junjie Chu",
+      "Ye Leng",
+      "Mingjie Li",
+      "Yun Shen",
+      "Xinyue Shen",
+      "Yang Zhang"
+    ]
+  },
+  {
+    "id": "yzv5ysxofep6027m0y6bxx4ot",
+    "kind": "arxiv",
+    "title": "Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents",
+    "titleZh": "研究用统计力学预测 AI 智能体群体的集体行为",
+    "line": "用 Ising 式耦合规则预测语言模型智能体的集体意见演化",
+    "topics": [],
+    "venue": "arXiv 2608.16578",
+    "date": "2026-08-17",
+    "url": "https://arxiv.org/abs/2608.16578",
+    "site": "https://aisafetyhot.com/items/yzv5ysxofep6027m0y6bxx4ot",
+    "authors": [
+      "Batu El",
+      "Jinhee Paeng",
+      "Fatih Dinc",
+      "Shiye Su",
+      "Mete Erdogan",
+      "Aneesh Pappu",
+      "Haotian Ye",
+      "Wanjia Zhao",
+      "Surya Ganguli",
+      "James Zou"
+    ]
+  },
+  {
+    "id": "jytib083944kip9mmvts3vcjf",
+    "kind": "arxiv",
+    "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
+    "titleZh": "研究揭示修辞如何对 AI 审稿人实施奖励作弊",
+    "line": "测量内容保留的修辞改写如何改变 AI 审稿分数",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2608.08975",
+    "date": "2026-08-10",
+    "url": "https://arxiv.org/abs/2608.08975",
+    "site": "https://aisafetyhot.com/items/jytib083944kip9mmvts3vcjf",
+    "authors": [
+      "Ming Li",
+      "Chenguang Wang",
+      "Xirui Li",
+      "Xinyue Zeng",
+      "Dianqi Li",
+      "Peng Shi",
+      "Dawei Zhou",
+      "Tianyi Zhou"
+    ]
+  },
+  {
+    "id": "icml:2026:J4DiM8EiMJ",
+    "kind": "conference",
+    "title": "Removing Sandbagging in LLMs by Training with Weak Supervision",
+    "titleZh": "用弱监督训练消除 LLM 的 sandbagging",
+    "line": "SFT 与 RL 结合可在弱监督下引出 sandbagging 模型的真实能力,单独使用均不可靠;但若模型能区分训练与部署,仍会继续藏拙。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "ICML 2026 regular",
+    "date": null,
+    "url": "https://openreview.net/forum?id=J4DiM8EiMJ",
+    "site": null,
+    "authors": [
+      "Emil Ryd",
+      "Henning Bartsch",
+      "Julian Stastny",
+      "Joe Benton",
+      "Vivek Hebbar"
+    ]
+  },
+  {
+    "id": "iclr:2026:PJdw4VBsXD",
+    "kind": "conference",
+    "title": "SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety",
+    "titleZh": "SafeDPO：兼顾高安全性的简易直接偏好优化方法",
+    "line": "基于安全对齐目标的闭式最优解，提出仅需一个额外超参数的轻量级安全训练方法SafeDPO，无需奖励模型即可在PKU-SafeRLHF基准上显著提升模型安全性。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=PJdw4VBsXD",
+    "site": null,
+    "authors": [
+      "Geon-Hyeong Kim",
+      "Yu Jin Kim",
+      "Byoungjip Kim",
+      "Honglak Lee",
+      "Kyunghoon Bae",
+      "Youngsoo Jang",
+      "Moontae Lee"
+    ]
+  },
+  {
+    "id": "icml:2026:DfhMMHXDuu",
+    "kind": "conference",
+    "title": "Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling",
+    "titleZh": "通过贝叶斯非负奖励建模缓解 RLHF 中的奖励作弊",
+    "line": "提出 BNRM，将非负因子分析融入 Bradley–Terry 模型，以稀疏潜因子抑制长度等偏差，缓解奖励过优化并增强分布偏移下的鲁棒性。",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=DfhMMHXDuu",
+    "site": null,
+    "authors": [
+      "Zhibin Duan",
+      "Guowei Rong",
+      "Zhuo Li",
+      "Bo Chen",
+      "Mingyuan Zhou",
+      "Dandan Guo"
+    ]
+  },
+  {
+    "id": "icml:2026:R80JLmXXPJ",
+    "kind": "conference",
+    "title": "Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance",
+    "titleZh": "迈向稳定的价值对齐：引入独立模块实现一致的价值引导",
+    "line": "针对模型残差流中价值表征脆弱动态的问题，提出SVGT架构，通过独立的规范价值空间建模与显式行为引导Token，在保持生成流畅的同时降低超70%的有害得分。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=R80JLmXXPJ",
+    "site": null,
+    "authors": [
+      "Wenhao Chen",
+      "Sirui Sun",
+      "Shengyuan Bai",
+      "Guojie Song"
+    ]
+  },
+  {
+    "id": "acl:2026:2026.findings-acl.506",
+    "kind": "conference",
+    "title": "Red-Teaming NSFW Image Classifiers as Text-to-Image Safeguards",
+    "titleZh": "对文生图安全护栏中的NSFW图像分类器开展红队测试",
+    "line": "提出自动化红队框架，发现良性画面元素的变化可导致NSFW漏检，利用失败案例训练的提示改写模型将检测规避概率提高至多六倍。",
+    "topics": [
+      {
+        "slug": "red-teaming",
+        "name": "红队测试与挑战赛"
+      }
+    ],
+    "venue": "ACL 2026 findings",
+    "date": null,
+    "url": "https://aclanthology.org/2026.findings-acl.506/",
+    "site": null,
+    "authors": [
+      "Tinghao Xie",
+      "Yueqi Xie",
+      "Alireza Zareian",
+      "Shuming Hu",
+      "Felix Juefei-Xu",
+      "Xiaowen Lin",
+      "Ankit Jain",
+      "Prateek Mittal",
+      "Li Chen"
+    ]
+  },
+  {
+    "id": "icml:2026:Alelgxnwgs",
+    "kind": "conference",
+    "title": "Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?",
+    "titleZh": "混合空间感知随机化防御能否提升经验与认证对抗鲁棒性？",
+    "line": "提出 HySCAN，在权重与特征空间同时注入随机性，认证鲁棒性最多提升约 9.6%，经验鲁棒性提升约 5%，且不降低干净准确率。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 regular",
+    "date": null,
+    "url": "https://openreview.net/forum?id=Alelgxnwgs",
+    "site": null,
+    "authors": [
+      "Joy Dhar",
+      "Manish Kumar Pandey",
+      "Behzad Bozorgtabar",
+      "Nayyar Zaidi",
+      "Wenyu Zhang",
+      "Wei-Hong Li",
+      "Tingting Mu",
+      "Dwarikanath Mahapatra",
+      "Mahsa Baktashmotlagh",
+      "Trung Le",
+      "Chen Chen",
+      "Sajib Mistry",
+      "Camila Gonzalez",
+      "Samira Ebrahimi Kahou",
+      "Lina Yao",
+      "Piotr Koniusz",
+      "Robert Burns Fisher",
+      "Dinh Phung",
+      "Bohyung Han",
+      "Nuno Vasconcelos",
+      "Pietro Lio"
+    ]
+  },
+  {
+    "id": "kp0awqcdmkn3s4l20j626gy9l",
+    "kind": "arxiv",
+    "title": "Rubric Judgments Lack Uncertainty: Conformal Weighting for LLM Evaluation",
+    "titleZh": "评分标准判定缺少不确定性：面向 LLM 评测的共形加权",
+    "line": "提出 URW，用释义模板与共形 p 值加权 rubric 判断",
+    "topics": [],
+    "venue": "arXiv 2610.21214",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21214",
+    "site": "https://aisafetyhot.com/items/kp0awqcdmkn3s4l20j626gy9l",
+    "authors": [
+      "Licheng Pan",
+      "Haocheng Yang",
+      "Haoxuan Li",
+      "Yuzhou Chen",
+      "Yichen Sun",
+      "Yuan Lu",
+      "Xiaoxi Li",
+      "Hao Wang",
+      "Zhixuan Chu",
+      "Kui Ren"
+    ]
+  },
+  {
+    "id": "dqbm2tgz5yzv12kd1xlcnw6zu",
+    "kind": "arxiv",
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "titleZh": "MLExpert：面向自主机器学习工程的通用智能体模型",
+    "line": "提出 WIRL 与分层智能体微调，后训练自主机器学习工程模型",
+    "topics": [],
+    "venue": "arXiv 2610.22344",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.22344",
+    "site": "https://aisafetyhot.com/items/dqbm2tgz5yzv12kd1xlcnw6zu",
+    "authors": [
+      "Shangheng Du",
+      "Jinxin Shi",
+      "Shuaiyu Zhang",
+      "Yiming Wu",
+      "Junpeng Zhao",
+      "Shiyang Feng",
+      "Xin Li",
+      "Liang He",
+      "Xiangchao Yan",
+      "Bo Zhang"
+    ]
+  },
+  {
+    "id": "ceocbp3544nsw2l31z4577ku8",
+    "kind": "arxiv",
+    "title": "From Perception to Prediction and Intervention: Benchmarking Proactive Video Assistants in Real-Life Scenarios",
+    "titleZh": "从感知到预测与干预：在真实场景中评测主动式视频助手",
+    "line": "提出 P3IBench 评测主动式视频助手的感知、预测与干预",
+    "topics": [],
+    "venue": "arXiv 2610.21568",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21568",
+    "site": "https://aisafetyhot.com/items/ceocbp3544nsw2l31z4577ku8",
+    "authors": [
+      "Boyu Cui",
+      "Junhao Luo",
+      "Zhihao Wang",
+      "Linghan Chen",
+      "Zejun Li",
+      "Jiwen Zhang",
+      "Siyuan Wang",
+      "Zhongyu Wei"
+    ]
+  },
+  {
+    "id": "e56rjgbjkjll370dwls5nu0f7",
+    "kind": "arxiv",
+    "title": "FusionAudit: Pathway-Conditioned Robustness Auditing for Native Multimodal Models",
+    "titleZh": "FusionAudit：面向原生多模态模型的路径条件化鲁棒性审计",
+    "line": "提出 FusionAudit 双通路审计，只改图像翻转多模态问答答案",
+    "topics": [],
+    "venue": "arXiv 2610.21667",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21667",
+    "site": "https://aisafetyhot.com/items/e56rjgbjkjll370dwls5nu0f7",
+    "authors": [
+      "Jiaming Zhang",
+      "Zherui Li",
+      "Siqi Guo",
+      "Junhao Dong",
+      "Kun Wang",
+      "Wei Yang Bryan Lim"
+    ]
+  },
+  {
+    "id": "w6nt9seo88wj9e2rh6d9b1ncy",
+    "kind": "arxiv",
+    "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+    "titleZh": "阿里 MAI-UI 团队发布 OpenGCUA：面向通用计算机使用智能体的开放全栈",
+    "line": "提出 OpenGCUA，让模型自行决定计算机使用的观察、行动与组织方式",
+    "topics": [],
+    "venue": "arXiv 2610.22200",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.22200",
+    "site": "https://aisafetyhot.com/items/w6nt9seo88wj9e2rh6d9b1ncy",
+    "authors": [
+      "Hanzhang Zhou",
+      "Long Li",
+      "Quyu Kong",
+      "Lei Wang",
+      "Panrong Tong",
+      "Long Chen",
+      "Tianyu Xia",
+      "Gongjie Zhang",
+      "Xu Zhang",
+      "Chen Liu",
+      "Jianan Zhang",
+      "Chenglin Cai",
+      "Zhengwen Zeng",
+      "Steven Hoi",
+      "Yue Wang"
+    ]
+  },
+  {
+    "id": "xj6g2176eqwed1j78j7yy7yjc",
+    "kind": "arxiv",
+    "title": "Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse",
+    "titleZh": "干净数据仍可携带后门：面向模型复用的支撑持久型后门",
+    "line": "提出 DAR 支撑持久后门，使干净蒸馏后的学生仍可被触发",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2610.21208",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21208",
+    "site": "https://aisafetyhot.com/items/xj6g2176eqwed1j78j7yy7yjc",
+    "authors": [
+      "Junhoo Lee",
+      "Baekseung Kim",
+      "Seungyeon Kim",
+      "Nojun Kwak"
+    ]
+  },
+  {
+    "id": "f7gkbkicrzd30j2mlza43a6e4",
+    "kind": "arxiv",
+    "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
+    "titleZh": "DialFork：超越事实性，评估对话智能体的流程幻觉",
+    "line": "发布 DIALFORK，评测对话智能体的流程幻觉",
+    "topics": [],
+    "venue": "arXiv 2610.21561",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21561",
+    "site": "https://aisafetyhot.com/items/f7gkbkicrzd30j2mlza43a6e4",
+    "authors": [
+      "Sergio Burdisso",
+      "Esaú Villatoro-Tello",
+      "Dairazalia Sánchez-Cortés",
+      "Yanis Labrak",
+      "Jordi Luque",
+      "Milos Cernak",
+      "Petr Motlicek"
+    ]
+  },
+  {
+    "id": "ihgy0aqvcz1bmcvru2gvgslai",
+    "kind": "arxiv",
+    "title": "MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs",
+    "titleZh": "MAppPrint：通过流量行为关联图实现鲁棒、实时的移动 App 指纹识别",
+    "line": "提出 MAppPrint，用流量行为关联图从加密流量识别移动应用",
+    "topics": [],
+    "venue": "arXiv 2610.22148",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.22148",
+    "site": "https://aisafetyhot.com/items/ihgy0aqvcz1bmcvru2gvgslai",
+    "authors": [
+      "Tao Duan",
+      "Junzhou Zhao",
+      "Jianglong Li",
+      "RongHua Li",
+      "Youqian Zhang",
+      "Nuo Xu",
+      "Pinghui Wang",
+      "Haibo Hu"
+    ]
+  }
+]

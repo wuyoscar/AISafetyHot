@@ -1,5 +1,29 @@
 [
   {
+    "id": "icml:2026:R80JLmXXPJ",
+    "kind": "conference",
+    "title": "Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance",
+    "titleZh": "迈向稳定的价值对齐：引入独立模块实现一致的价值引导",
+    "line": "针对模型残差流中价值表征脆弱动态的问题，提出SVGT架构，通过独立的规范价值空间建模与显式行为引导Token，在保持生成流畅的同时降低超70%的有害得分。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=R80JLmXXPJ",
+    "site": null,
+    "authors": [
+      "Wenhao Chen",
+      "Sirui Sun",
+      "Shengyuan Bai",
+      "Guojie Song"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
     "id": "iclr:2026:qNlTH4kYJZ",
     "kind": "conference",
     "title": "AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference",

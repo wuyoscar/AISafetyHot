@@ -1,5 +1,29 @@
 [
   {
+    "id": "xj6g2176eqwed1j78j7yy7yjc",
+    "kind": "arxiv",
+    "title": "Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse",
+    "titleZh": "干净数据仍可携带后门：面向模型复用的支撑持久型后门",
+    "line": "提出 DAR 支撑持久后门，使干净蒸馏后的学生仍可被触发",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2610.21208",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21208",
+    "site": "https://aisafetyhot.com/items/xj6g2176eqwed1j78j7yy7yjc",
+    "authors": [
+      "Junhoo Lee",
+      "Baekseung Kim",
+      "Seungyeon Kim",
+      "Nojun Kwak"
+    ],
+    "pushedOn": "2026-10-17"
+  },
+  {
     "id": "iclr:2026:yfM2e8Icsw",
     "kind": "conference",
     "title": "Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning",
