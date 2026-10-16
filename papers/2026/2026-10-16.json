@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.20941",
+    "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+    "titleZh": "Screwtape：面向监控器红队测试的对抗性对话记录编辑",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.20941",
+      "aisafetyhot": "https://aisafetyhot.com/items/f2splfuxjd7l6nuru9fhc76gp"
+    },
+    "publishedAt": "2026-10-14T21:08:21.000Z",
+    "timelineAt": "2026-10-16T05:51:32.051Z",
+    "discoveredAt": "2026-10-16T05:51:32.051Z"
+  },
+  {
     "arxivId": "2610.21055",
     "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
     "titleZh": "Athanor：面向自主后训练研究的智能体原生系统",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-10-15T04:00:17.000Z",
     "timelineAt": "2026-10-16T04:50:28.206Z",
     "discoveredAt": "2026-10-16T04:50:28.206Z"
-  },
-  {
-    "arxivId": "2610.21789",
-    "title": "In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases",
-    "titleZh": "以纠正为名：提问框架与文化适配如何削弱 LLM 在真实刑事案件上的安全性",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.21789",
-      "aisafetyhot": "https://aisafetyhot.com/items/hdgtfxlxf7vu8vm7mk6orfjxu"
-    },
-    "publishedAt": "2026-10-15T12:44:04.000Z",
-    "timelineAt": "2026-10-16T04:47:28.195Z",
-    "discoveredAt": "2026-10-16T04:47:28.195Z"
   }
 ]

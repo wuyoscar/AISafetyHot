@@ -1,5 +1,28 @@
 [
   {
+    "id": "f2splfuxjd7l6nuru9fhc76gp",
+    "arxivId": "2610.20941",
+    "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+    "titleEn": "Screwtape: Adversarial Dialogue Editing for Red-Teaming Monitors",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.20941",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/f2splfuxjd7l6nuru9fhc76gp"
+    },
+    "publishedAt": "2026-10-14T21:08:21.000Z",
+    "timelineAt": "2026-10-16T05:51:32.051Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "rd1t9jxqrmt5twhb89gntvaie",
     "arxivId": "2610.21055",
     "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
@@ -16,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 12,
+      "translated": 12,
       "pending": 0,
       "status": "complete"
     }
@@ -72,7 +95,7 @@
     "id": "xdeb21iafpvhgh1zgscrtllog",
     "arxivId": "2610.21200",
     "title": "Poisoning the corpora of protein design systems during pre-training and retrieval",
-    "titleEn": "Poisoning the corpora of protein design systems during pre-training and retrieval",
+    "titleEn": "Poisoning the Corpus of Protein Design Systems During Pretraining and Retrieval",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -81,29 +104,6 @@
     },
     "publishedAt": "2026-10-15T04:00:17.000Z",
     "timelineAt": "2026-10-16T04:50:28.206Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
-      "status": "partial"
-    }
-  },
-  {
-    "id": "hdgtfxlxf7vu8vm7mk6orfjxu",
-    "arxivId": "2610.21789",
-    "title": "In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases",
-    "titleEn": "In the Name of Correction: How Question Framing and Cultural Adaptation Undermine LLM Safety on Real Criminal Cases",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.21789",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/hdgtfxlxf7vu8vm7mk6orfjxu"
-    },
-    "publishedAt": "2026-10-15T12:44:04.000Z",
-    "timelineAt": "2026-10-16T04:47:28.195Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
