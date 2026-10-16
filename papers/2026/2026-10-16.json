@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.21055",
+    "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
+    "titleZh": "Athanor：面向自主后训练研究的智能体原生系统",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.21055",
+      "aisafetyhot": "https://aisafetyhot.com/items/rd1t9jxqrmt5twhb89gntvaie"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-16T02:54:29.214Z",
+    "discoveredAt": "2026-10-16T02:54:29.214Z"
+  },
+  {
     "arxivId": "2610.19342",
     "title": "Salesforce 等提出 A2-Failures：跨委托人 Agent 协作的 20 种失效模式，Agent 从不主动核实对方",
     "titleZh": "Salesforce 等提出 A2-Failures：跨委托人 Agent 协作的 20 种失效模式，Agent 从不主动核实对方",
