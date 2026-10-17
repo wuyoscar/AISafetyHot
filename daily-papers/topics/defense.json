@@ -1,5 +1,55 @@
 [
   {
+    "id": "l63s1pb0o8n9x5cc49g697335",
+    "kind": "arxiv",
+    "title": "When Reasoning Is Not Enough: Proactive Inquiry for Cross-Modal Safety in Multimodal Large Language Models",
+    "titleZh": "当推理不够用：面向多模态大语言模型跨模态安全的主动询问",
+    "line": "提出 SAFE-PRO，以风险条件不确定性调度跨模态安全的主动澄清与路径优化",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.22068",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.22068",
+    "site": "https://aisafetyhot.com/items/l63s1pb0o8n9x5cc49g697335",
+    "authors": [
+      "Wei Cai",
+      "Jian Zhao",
+      "Yuchen Yuan",
+      "Xuelong Li"
+    ],
+    "pushedOn": "2026-10-18"
+  },
+  {
+    "id": "dvuk045xsun0xt6nnbuh5tzpg",
+    "kind": "arxiv",
+    "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+    "titleZh": "反事实邻域风险场：面向视觉语言模型的证据驱动选择性安全",
+    "line": "提出 CNRF，用反事实邻域证据对视觉语言模型做选择性防御",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.20679",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.20679",
+    "site": "https://aisafetyhot.com/items/dvuk045xsun0xt6nnbuh5tzpg",
+    "authors": [
+      "Tianshi Wang",
+      "Jingsong Wang",
+      "Fengling Li",
+      "Jingjing Li",
+      "Xin Li",
+      "Lei Zhu"
+    ],
+    "pushedOn": "2026-10-18"
+  },
+  {
     "id": "s8ncf672tvvvi7j4dbeh1nqm0",
     "kind": "arxiv",
     "title": "Resisting Harmful Instructions through Training-Free Weight Editing",

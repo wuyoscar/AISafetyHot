@@ -1,5 +1,29 @@
 [
   {
+    "id": "acl:2026:2026.acl-long.72",
+    "kind": "conference",
+    "title": "Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection",
+    "titleZh": "别动我的图片:用视觉提示注入阻止 MLLM 分析图像",
+    "line": "提出 ImageProtector,在图像中嵌入近乎不可见的扰动使 MLLM 拒答,在六个模型和四个数据集上有效,对部分对策仍具抵抗力。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ACL 2026 long",
+    "date": null,
+    "url": "https://aclanthology.org/2026.acl-long.72/",
+    "site": null,
+    "authors": [
+      "Zedian Shao",
+      "Hongbin Liu",
+      "Yuepeng Hu",
+      "Neil Zhenqiang Gong"
+    ],
+    "pushedOn": "2026-10-18"
+  },
+  {
     "id": "iclr:2026:jY7fAo9rfK",
     "kind": "conference",
     "title": "Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models",
