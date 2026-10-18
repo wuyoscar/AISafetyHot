@@ -1,5 +1,58 @@
 [
   {
+    "id": "wya4msbotn9zey4mxb0kl8ycc",
+    "kind": "arxiv",
+    "title": "The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision",
+    "titleZh": "SADDER：面向文本扩散模型的安全感知去噪与方向嵌入修正",
+    "line": "提出 SADDER，在文本扩散去噪中按嵌入方向门控并修正 token 分布",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.17636",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.17636",
+    "site": "https://aisafetyhot.com/items/wya4msbotn9zey4mxb0kl8ycc",
+    "authors": [
+      "Amman Yusuf",
+      "Jiwoo Shin",
+      "Ruizhi Deng",
+      "Heitor Rodrigues Guimarães",
+      "Nikita Dvornik",
+      "Mijung Park"
+    ],
+    "pushedOn": "2026-10-19"
+  },
+  {
+    "id": "p7rjwq0nm56rvtb0szt8gsmgd",
+    "kind": "arxiv",
+    "title": "Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance",
+    "titleZh": "Decoupled Safety Control（DSC）：面向免训练安全引导的安全控制算法",
+    "line": "提出 DSC，在文生图采样中按当前状态路由免训练安全引导",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.21569",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21569",
+    "site": "https://aisafetyhot.com/items/p7rjwq0nm56rvtb0szt8gsmgd",
+    "authors": [
+      "Huilin Zhou",
+      "Ruoxi Cheng",
+      "Yuhang Wang",
+      "Yuming Liu",
+      "Minghao Sun",
+      "Ruolong Ma",
+      "Lan Zhang"
+    ],
+    "pushedOn": "2026-10-19"
+  },
+  {
     "id": "l63s1pb0o8n9x5cc49g697335",
     "kind": "arxiv",
     "title": "When Reasoning Is Not Enough: Proactive Inquiry for Cross-Modal Safety in Multimodal Large Language Models",

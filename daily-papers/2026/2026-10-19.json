@@ -1,0 +1,614 @@
+[
+  {
+    "id": "l6iyjpnrw15m4pm8gy0x09c9s",
+    "kind": "arxiv",
+    "title": "Discovery or Memorization? A Faithful Benchmark for Real-World Business-Logic Vulnerability Discovery",
+    "titleZh": "发现还是记忆？面向真实业务逻辑漏洞挖掘的忠实基准",
+    "line": "提出 AnonVul ，检验漏洞发现智能体是真实发现还是记忆公开漏洞",
+    "topics": [],
+    "venue": "arXiv 2610.17542",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.17542",
+    "site": "https://aisafetyhot.com/items/l6iyjpnrw15m4pm8gy0x09c9s",
+    "authors": [
+      "Rui Yang",
+      "Yichao Xu",
+      "Zhuohao Zhang",
+      "Jiahao Ji",
+      "Chaowei Xiao",
+      "Yinzhi Cao",
+      "Ziyang Li"
+    ]
+  },
+  {
+    "id": "siegmtzwyaq9l3kmcmvrv7kgl",
+    "kind": "arxiv",
+    "title": "ElasticBack: Stealthy Conditional Backdoor in LLM-Agent Skills via Coupled Trigger-Rule Optimization",
+    "titleZh": "ElasticBack：通过触发词与规则耦合在 LLM Agent 技能中植入条件后门",
+    "line": "提出 ElasticBack，在单个 Agent 技能中植入条件后门",
+    "topics": [],
+    "venue": "arXiv 2608.09577",
+    "date": "2026-08-10",
+    "url": "https://arxiv.org/abs/2608.09577",
+    "site": "https://aisafetyhot.com/items/siegmtzwyaq9l3kmcmvrv7kgl",
+    "authors": [
+      "Hao Sui",
+      "Simeng Qin",
+      "Jie Liao",
+      "Xiaojun Jia",
+      "Bing Chen",
+      "Yang Liu"
+    ]
+  },
+  {
+    "id": "dflxexv5z4ggrzwygpfxhcig6",
+    "kind": "arxiv",
+    "title": "What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?",
+    "titleZh": "用户拒绝自杀念头转介后，AI 聊天机器人会怎么做？",
+    "line": "评测聊天机器人在用户拒绝自杀转介后是否持续提供危机转介",
+    "topics": [],
+    "venue": "arXiv 2610.21253",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21253",
+    "site": "https://aisafetyhot.com/items/dflxexv5z4ggrzwygpfxhcig6",
+    "authors": [
+      "Subigya Nepal",
+      "Ruth Heo",
+      "Emma M Parrish",
+      "Colin A Depp"
+    ]
+  },
+  {
+    "id": "p46y4fgv3xnhk94yqu0frmpxv",
+    "kind": "arxiv",
+    "title": "ContextLift: Breaking the Spurious Correlation Behind Conditional Emergent Misalignment",
+    "titleZh": "ContextLift：打破条件性涌现失配背后的伪相关",
+    "line": "提出 ContextLift，将微调情境句拼入安全样本以打破条件涌现失准",
+    "topics": [],
+    "venue": "arXiv 2610.21633",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21633",
+    "site": "https://aisafetyhot.com/items/p46y4fgv3xnhk94yqu0frmpxv",
+    "authors": [
+      "Florian Mai",
+      "David Kaczér"
+    ]
+  },
+  {
+    "id": "xdeb21iafpvhgh1zgscrtllog",
+    "kind": "arxiv",
+    "title": "Poisoning the corpora of protein design systems during pre-training and retrieval",
+    "titleZh": "在预训练和检索阶段投毒蛋白质设计系统的语料库",
+    "line": "论文展示了两种仅靠数据投毒的蛋白质设计系统攻击。",
+    "topics": [],
+    "venue": "arXiv 2610.21200",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21200",
+    "site": "https://aisafetyhot.com/items/xdeb21iafpvhgh1zgscrtllog",
+    "authors": [
+      "Charalampos Koilakos",
+      "Kimon-Antonios Provatas",
+      "Michail Patsakis",
+      "Candace SY Chan",
+      "Georgios A. Pavlopoulos",
+      "Ilias Georgakopoulos-Soares"
+    ]
+  },
+  {
+    "id": "tn5ivezfjjm910ikkk28dopxo",
+    "kind": "arxiv",
+    "title": "Big-Big-SycoBench: A Benchmark to Detect Sycophancy Through Model Responses to Valid vs. Invalid Arguments",
+    "titleZh": "Big-Big-SycoBench：通过模型对有效与无效论证的回应检测谄媚的基准",
+    "line": "提出 Big-Big-SycoBench，检测模型对无效论证的谄媚式改分",
+    "topics": [],
+    "venue": "arXiv 2610.15634",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.15634",
+    "site": "https://aisafetyhot.com/items/tn5ivezfjjm910ikkk28dopxo",
+    "authors": [
+      "Marthe Ballon",
+      "Arne Vanhoyweghen",
+      "Seorin Kim",
+      "Francesca Carlon",
+      "Lynn Delcon",
+      "Melika Mobini",
+      "Vincent Holst",
+      "Lukas Van de Voorde",
+      "Tibo Vanleke",
+      "Mathieu Louis",
+      "Bert Verbruggen",
+      "Brecht F. Verbeken",
+      "Andres Algaba",
+      "Vincent Ginis"
+    ]
+  },
+  {
+    "id": "h1mnu7o07w4g2cdn0awhy2x8a",
+    "kind": "arxiv",
+    "title": "Same Attack, Different Judge: A First Controlled Adversarial Comparison of Jev, LLM Judges, and Purpose-Built Safety Classifiers",
+    "titleZh": "同一攻击，不同裁判：Jev、LLM 裁判与专用安全分类器的首次受控对抗对比",
+    "line": "在受控设定下对比安全裁判面对相同对抗输入的鲁棒性",
+    "topics": [],
+    "venue": "arXiv 2610.17820",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.17820",
+    "site": "https://aisafetyhot.com/items/h1mnu7o07w4g2cdn0awhy2x8a",
+    "authors": [
+      "Xiang Li",
+      "Aichun Huang",
+      "Mingming Zhang",
+      "Zheli Liu"
+    ]
+  },
+  {
+    "id": "f8eybbisbad608jeauo67rrb8",
+    "kind": "arxiv",
+    "title": "ReTerm: Recovery Training for Self-Improving Terminal Agents",
+    "titleZh": "ReTerm：面向自我改进终端 Agent 的恢复训练",
+    "line": "提出 ReTerm 恢复训练，教终端 Agent 从自身失败状态恢复并完成任务",
+    "topics": [],
+    "venue": "arXiv 2610.18484",
+    "date": "2026-10-13",
+    "url": "https://huggingface.co/papers/2610.18484",
+    "site": "https://aisafetyhot.com/items/f8eybbisbad608jeauo67rrb8",
+    "authors": [
+      "Wei Xie",
+      "Kaituo Feng",
+      "Shiming Fu",
+      "Yong Liu",
+      "Xiangyu Yue",
+      "Shuangjia Zheng"
+    ]
+  },
+  {
+    "id": "j1hs2sdnmallm0ua1ngedkeci",
+    "kind": "arxiv",
+    "title": "inLoRA-MINT: Internal Representations for Auditing Training Data in Domain-adapted LLMs",
+    "titleZh": "inLoRA-MINT：用内部表示审计领域适配 LLM 的训练数据",
+    "line": "提出 inLoRA-MINT，用内部表示判断样本是否属于 LoRA 微调集",
+    "topics": [],
+    "venue": "arXiv 2610.18051",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18051",
+    "site": "https://aisafetyhot.com/items/j1hs2sdnmallm0ua1ngedkeci",
+    "authors": [
+      "Gonzalo Mancera",
+      "Julian Fierrez",
+      "Aythami Morales",
+      "Ruben Tolosana",
+      "Daniel DeAlcala",
+      "Francisco Jurado"
+    ]
+  },
+  {
+    "id": "s9kw0trnd0v5gkqc8tw6dq78r",
+    "kind": "arxiv",
+    "title": "Genesis Steering: Better Activation Steering Through Training Data",
+    "titleZh": "Genesis Steering：通过训练数据实现更好的激活引导",
+    "line": "提出 genesis steering，用微调数据改进激活转向方向",
+    "topics": [],
+    "venue": "arXiv 2610.19114",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.19114",
+    "site": "https://aisafetyhot.com/items/s9kw0trnd0v5gkqc8tw6dq78r",
+    "authors": [
+      "Tora Bodin",
+      "Eric Aubinais",
+      "Ilaria Torre",
+      "Chih-Hong Cheng"
+    ]
+  },
+  {
+    "id": "blblsi2j5p3woug0vk1cxg86a",
+    "kind": "arxiv",
+    "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
+    "titleZh": "DecisionRobust：评测 JEV 风格决策模型在文本与视觉上的鲁棒性",
+    "line": "提出 DecisionRobust 并评测决策模型对文本与图像扰动及提示注入的鲁棒性",
+    "topics": [],
+    "venue": "arXiv 2610.19118",
+    "date": "2026-10-13",
+    "url": "https://huggingface.co/papers/2610.19118",
+    "site": "https://aisafetyhot.com/items/blblsi2j5p3woug0vk1cxg86a",
+    "authors": [
+      "Yifan Lan",
+      "Zhongye Liu",
+      "Yurui Chang",
+      "Hanyu Wang",
+      "Yongkang Du",
+      "Lu Lin",
+      "Jinghui Chen"
+    ]
+  },
+  {
+    "id": "huikc6tosa3i21r8imxidgyan",
+    "kind": "arxiv",
+    "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
+    "titleZh": "Agent-Reflex：教语言智能体反思性行动",
+    "line": "提出 Agent-Reflex，把失败反思内化为工具智能体策略",
+    "topics": [],
+    "venue": "arXiv 2610.17953",
+    "date": "2026-10-13",
+    "url": "https://huggingface.co/papers/2610.17953",
+    "site": "https://aisafetyhot.com/items/huikc6tosa3i21r8imxidgyan",
+    "authors": [
+      "Guanting Dong",
+      "Xinyu Yang",
+      "Jiajie Jin",
+      "Yuyang Hu",
+      "Xiaoshuai Song",
+      "Yifei Chen",
+      "Xiaoxi Li",
+      "Jiejun Tan",
+      "Yutao Zhu",
+      "Tat-Seng Chua",
+      "Ji-Rong Wen",
+      "Zhicheng Dou"
+    ]
+  },
+  {
+    "id": "rupil14p35c43wtumdbj10oy2",
+    "kind": "arxiv",
+    "title": "Prompt-Injection Probes Learn the Conversation, Not Just the Injection",
+    "titleZh": "提示注入探针学到的是对话，而不只是注入内容",
+    "line": "用匹配负样本训练注入探针，使其识别注入而非对话捷径",
+    "topics": [],
+    "venue": "arXiv 2610.18408",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18408",
+    "site": "https://aisafetyhot.com/items/rupil14p35c43wtumdbj10oy2",
+    "authors": [
+      "Kaan Kale",
+      "Sriram Vishwanath"
+    ]
+  },
+  {
+    "id": "hsu28rdju69ehqyi161kj55gd",
+    "kind": "arxiv",
+    "title": "Hallucination-aware Faithful Reasoning in Remote Sensing",
+    "titleZh": "FaithRS：面向遥感的幻觉感知忠实推理框架",
+    "line": "提出 FaithRS，用幻觉诊断约束遥感模型的选择性忠实推理",
+    "topics": [],
+    "venue": "arXiv 2610.18369",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18369",
+    "site": "https://aisafetyhot.com/items/hsu28rdju69ehqyi161kj55gd",
+    "authors": [
+      "Yi Liu",
+      "Jing Zhang",
+      "Xiang Feng",
+      "Xiaoyu Tian",
+      "Haonan Guo",
+      "Di Wang",
+      "Zengmao Wang",
+      "Bo Du"
+    ]
+  },
+  {
+    "id": "s7kxsfdqto3kwneulxn5ywo23",
+    "kind": "arxiv",
+    "title": "MA-Bench: Measuring Operational Planning in Language Models",
+    "titleZh": "MA-Bench：衡量语言模型的作战规划能力",
+    "line": "提出 MA-Bench，评测语言模型的作战规划判断能力",
+    "topics": [],
+    "venue": "arXiv 2610.19138",
+    "date": "2026-10-13",
+    "url": "https://huggingface.co/papers/2610.19138",
+    "site": "https://aisafetyhot.com/items/s7kxsfdqto3kwneulxn5ywo23",
+    "authors": [
+      "Rodney Lafuente-Mercado",
+      "Robert Sincero",
+      "Phil Sage",
+      "Yuan Xue"
+    ]
+  },
+  {
+    "id": "wya4msbotn9zey4mxb0kl8ycc",
+    "kind": "arxiv",
+    "title": "The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision",
+    "titleZh": "SADDER：面向文本扩散模型的安全感知去噪与方向嵌入修正",
+    "line": "提出 SADDER，在文本扩散去噪中按嵌入方向门控并修正 token 分布",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.17636",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.17636",
+    "site": "https://aisafetyhot.com/items/wya4msbotn9zey4mxb0kl8ycc",
+    "authors": [
+      "Amman Yusuf",
+      "Jiwoo Shin",
+      "Ruizhi Deng",
+      "Heitor Rodrigues Guimarães",
+      "Nikita Dvornik",
+      "Mijung Park"
+    ]
+  },
+  {
+    "id": "bh4vfr3yu9xk269bvy1x10g5y",
+    "kind": "arxiv",
+    "title": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
+    "titleZh": "ChatGPT 的健康建议有多安全？来自四个全球南方国家真实用户对话的证据",
+    "line": "评测真实用户健康对话建议的安全性，对比孤立与结合历史档案的评分",
+    "topics": [],
+    "venue": "arXiv 2610.18465",
+    "date": "2026-10-13",
+    "url": "https://arxiv.org/abs/2610.18465",
+    "site": "https://aisafetyhot.com/items/bh4vfr3yu9xk269bvy1x10g5y",
+    "authors": [
+      "Shreyasi Roy Chowdhury",
+      "Kiran Garimella"
+    ]
+  },
+  {
+    "id": "n6vbzthbq9n7q5y0mb9ivbhar",
+    "kind": "arxiv",
+    "title": "Choosing LLMs for Strategic Agent Interactions",
+    "titleZh": "为策略性智能体交互选择 LLM",
+    "line": "比较策略博弈中针对未知对手在线选择上场模型的方法",
+    "topics": [],
+    "venue": "arXiv 2610.18354",
+    "date": "2026-10-13",
+    "url": "https://huggingface.co/papers/2610.18354",
+    "site": "https://aisafetyhot.com/items/n6vbzthbq9n7q5y0mb9ivbhar",
+    "authors": [
+      "Arastun Mammadli",
+      "Herbert Woisetschläger",
+      "Jawad Fayaz",
+      "Shiqiang Wang"
+    ]
+  },
+  {
+    "id": "i29x7a7s6g99s0x075eraqscb",
+    "kind": "arxiv",
+    "title": "Not All Change Is Damage: Update-Matched Unlearning for Large Language Models",
+    "titleZh": "并非所有变化都是损害：面向大语言模型的更新匹配遗忘",
+    "line": "提出 UMU，使已删知识在后续微调下仍受抑制并保留可塑性",
+    "topics": [],
+    "venue": "arXiv 2610.21230",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21230",
+    "site": "https://aisafetyhot.com/items/i29x7a7s6g99s0x075eraqscb",
+    "authors": [
+      "Jie Li",
+      "Youming Tao",
+      "Bowei He",
+      "Meng Ding"
+    ]
+  },
+  {
+    "id": "n47xl0ywofrsb5wd7tvovkqp5",
+    "kind": "arxiv",
+    "title": "Poisoning the Neighborhood: A Topology-Aware Topic-Level Attack on Large-Scale HNSW-based RAG Systems",
+    "titleZh": "毒化邻域：针对大规模 HNSW-RAG 系统的拓扑感知主题级投毒攻击",
+    "line": "提出针对 HNSW-RAG 的拓扑感知主题级投毒攻击",
+    "topics": [],
+    "venue": "arXiv 2610.21464",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21464",
+    "site": "https://aisafetyhot.com/items/n47xl0ywofrsb5wd7tvovkqp5",
+    "authors": [
+      "Yufei Chen",
+      "Yao Wang",
+      "Haibin Zhang"
+    ]
+  },
+  {
+    "id": "qod2myodyfh40xw4194kjk7mm",
+    "kind": "arxiv",
+    "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+    "titleZh": "英语之外的评测感知：LLM 在被测试时用印度语言会表现不同吗？",
+    "line": "测量 LLM 在印度语言中识别安全测试后的拒答抬升",
+    "topics": [],
+    "venue": "arXiv 2610.22333",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.22333",
+    "site": "https://aisafetyhot.com/items/qod2myodyfh40xw4194kjk7mm",
+    "authors": [
+      "Trizal Garg",
+      "Sibayan Mitra",
+      "Arya Karanjkar",
+      "Advait Singh",
+      "Jagat Sesh Challa",
+      "Yash Sinha",
+      "Siddharth Mehrotra",
+      "Dhruv Kumar",
+      "Pratham Yogish Maliya"
+    ]
+  },
+  {
+    "id": "bwcmrrfqnzvrnvac0flcaa8va",
+    "kind": "arxiv",
+    "title": "FDE-Gym: The Last Mile of AI Delivery",
+    "titleZh": "FDE-Gym：AI 交付的最后一公里",
+    "line": "提出 FDE-Gym 评测 Agent 在约束未说清的客户交付任务上的表现",
+    "topics": [],
+    "venue": "arXiv 2610.22350",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.22350",
+    "site": "https://aisafetyhot.com/items/bwcmrrfqnzvrnvac0flcaa8va",
+    "authors": [
+      "Dongxu Yang",
+      "Hongda Yan",
+      "Renxin Wang",
+      "Baoli Zhang",
+      "Haojia Zuo",
+      "Ying Zhao",
+      "Youmin Chen",
+      "Xiaojian Liao",
+      "Congming Gao",
+      "Tianyang Jiang",
+      "Yixiao Chen",
+      "Qing Wang",
+      "Zhiguo Yu",
+      "Xiaqing Li",
+      "Yuhao Zhang",
+      "Jiawen Sun",
+      "Renzhe Xu",
+      "De Mi",
+      "Tiancheng Wu",
+      "Xianya Fu",
+      "Xuanlu Zhao",
+      "Bo Feng",
+      "Meixuan Ren",
+      "Guanming Lin",
+      "Ziheng Zhou",
+      "Xinhua Wang"
+    ]
+  },
+  {
+    "id": "jq0my2comqt0pffajrxqtf0xo",
+    "kind": "arxiv",
+    "title": "Encoded but Exposed: Language Embeddings can Reveal More Than They Should in Recommender Systems",
+    "titleZh": "已编码却仍暴露：语言嵌入在推荐系统中泄露的信息超出应有范围",
+    "line": "用余弦相似度从物品语言嵌入恢复物品身份",
+    "topics": [],
+    "venue": "arXiv 2610.21713",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21713",
+    "site": "https://aisafetyhot.com/items/jq0my2comqt0pffajrxqtf0xo",
+    "authors": [
+      "Linda Beková",
+      "Rodrigo Alves"
+    ]
+  },
+  {
+    "id": "ti0dz61yjl7mfhagzg90rbo47",
+    "kind": "arxiv",
+    "title": "Stronger Judges Do Not See More: Deployment-Integrity Blindness in LLM Evaluation",
+    "titleZh": "更强的评测器并不会看得更多：LLM 评测中的部署完整性盲区",
+    "line": "提出 DIB-Bench，度量评测器对部署篡改的完整性盲区",
+    "topics": [],
+    "venue": "arXiv 2610.21135",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21135",
+    "site": "https://aisafetyhot.com/items/ti0dz61yjl7mfhagzg90rbo47",
+    "authors": [
+      "Jianchang Su",
+      "Dawei Xiang",
+      "Yifan Zhang",
+      "Wei Zhang"
+    ]
+  },
+  {
+    "id": "zfgqzhqb3in1bv7s89jy6mzip",
+    "kind": "arxiv",
+    "title": "Specification Gaming and a Constrained Reinforcement Learning Mitigation in a Cleaning Gridworld",
+    "titleZh": "清洁网格世界中的规格博弈与约束强化学习缓解方法",
+    "line": "展示网格清洁任务中的规格博弈，并用约束惩罚缓解",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2610.22152",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.22152",
+    "site": "https://aisafetyhot.com/items/zfgqzhqb3in1bv7s89jy6mzip",
+    "authors": [
+      "Hilda Adwubi Osei"
+    ]
+  },
+  {
+    "id": "p7rjwq0nm56rvtb0szt8gsmgd",
+    "kind": "arxiv",
+    "title": "Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance",
+    "titleZh": "Decoupled Safety Control（DSC）：面向免训练安全引导的安全控制算法",
+    "line": "提出 DSC，在文生图采样中按当前状态路由免训练安全引导",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.21569",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21569",
+    "site": "https://aisafetyhot.com/items/p7rjwq0nm56rvtb0szt8gsmgd",
+    "authors": [
+      "Huilin Zhou",
+      "Ruoxi Cheng",
+      "Yuhang Wang",
+      "Yuming Liu",
+      "Minghao Sun",
+      "Ruolong Ma",
+      "Lan Zhang"
+    ]
+  },
+  {
+    "id": "kwho2ts4izizky0bx63ly8th8",
+    "kind": "arxiv",
+    "title": "Market Incentives for AI Safety Investment",
+    "titleZh": "AI 安全投资的市场激励：LLM 供应链博弈分析",
+    "line": "用博弈模型分析 LLM 供应链中的安全投入激励",
+    "topics": [],
+    "venue": "arXiv 2610.21607",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21607",
+    "site": "https://aisafetyhot.com/items/kwho2ts4izizky0bx63ly8th8",
+    "authors": [
+      "Nikita Tsoy"
+    ]
+  },
+  {
+    "id": "ata6wy165653h0p4gxtkslf8n",
+    "kind": "arxiv",
+    "title": "Federated Art Chase: Privacy Leakage and Data Poisoning in Federated Fine-Tuning",
+    "titleZh": "Federated Art Chase：联邦微调中的隐私泄露与数据投毒",
+    "line": "测量只更新分类头的联邦微调中的隐私泄露与数据投毒",
+    "topics": [],
+    "venue": "arXiv 2610.21547",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21547",
+    "site": "https://aisafetyhot.com/items/ata6wy165653h0p4gxtkslf8n",
+    "authors": [
+      "Vasileios Perifanis",
+      "Nikolaos Pavlidis"
+    ]
+  },
+  {
+    "id": "rd1t9jxqrmt5twhb89gntvaie",
+    "kind": "arxiv",
+    "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
+    "titleZh": "Athanor：面向自主后训练研究的智能体原生系统",
+    "line": "提出智能体原生系统 Athanor，支持智能体自主开展后训练研究",
+    "topics": [],
+    "venue": "arXiv 2610.21055",
+    "date": "2026-10-15",
+    "url": "https://huggingface.co/papers/2610.21055",
+    "site": "https://aisafetyhot.com/items/rd1t9jxqrmt5twhb89gntvaie",
+    "authors": [
+      "Yufa Zhou",
+      "Yichen Wang",
+      "Jiakun Fan",
+      "Ziqi Shu",
+      "Zhichao Liu",
+      "Anru R. Zhang",
+      "Neiwen Ling",
+      "Zijun Wei"
+    ]
+  },
+  {
+    "id": "y1qimk3lfaj3hsu9a6i7l8ghi",
+    "kind": "arxiv",
+    "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
+    "titleZh": "学会何时撤回：微调语言智能体中的课程覆盖与规则级失败",
+    "line": "分析课程覆盖不足如何导致微调语言智能体出现规则级撤回失败",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.21045",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21045",
+    "site": "https://aisafetyhot.com/items/y1qimk3lfaj3hsu9a6i7l8ghi",
+    "authors": [
+      "Mohamed Abouzahra"
+    ]
+  }
+]

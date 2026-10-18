@@ -1,5 +1,26 @@
 [
   {
+    "id": "zfgqzhqb3in1bv7s89jy6mzip",
+    "kind": "arxiv",
+    "title": "Specification Gaming and a Constrained Reinforcement Learning Mitigation in a Cleaning Gridworld",
+    "titleZh": "清洁网格世界中的规格博弈与约束强化学习缓解方法",
+    "line": "展示网格清洁任务中的规格博弈，并用约束惩罚缓解",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2610.22152",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.22152",
+    "site": "https://aisafetyhot.com/items/zfgqzhqb3in1bv7s89jy6mzip",
+    "authors": [
+      "Hilda Adwubi Osei"
+    ],
+    "pushedOn": "2026-10-19"
+  },
+  {
     "id": "dez0weqpvh7wav82u5cymrhk5",
     "kind": "arxiv",
     "title": "Multi-Reward Hacking: From Aggregation-Induced Drift to Trust-Anchored Defense",

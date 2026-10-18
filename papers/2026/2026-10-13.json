@@ -2,7 +2,7 @@
   {
     "arxivId": "2610.18052",
     "title": "Can Agents Forget When Asked? A Benchmark for Memory Unlearning in LLM Agents",
-    "titleZh": "LLM 智能体能否按要求遗忘？记忆遗忘基准 Bemula",
+    "titleZh": "智能体在被要求遗忘时能遗忘吗？面向 LLM 智能体记忆遗忘的基准",
     "authors": [],
     "category": null,
     "selected": true,

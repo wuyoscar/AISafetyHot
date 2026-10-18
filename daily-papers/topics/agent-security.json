@@ -1,5 +1,26 @@
 [
   {
+    "id": "y1qimk3lfaj3hsu9a6i7l8ghi",
+    "kind": "arxiv",
+    "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
+    "titleZh": "学会何时撤回：微调语言智能体中的课程覆盖与规则级失败",
+    "line": "分析课程覆盖不足如何导致微调语言智能体出现规则级撤回失败",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.21045",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.21045",
+    "site": "https://aisafetyhot.com/items/y1qimk3lfaj3hsu9a6i7l8ghi",
+    "authors": [
+      "Mohamed Abouzahra"
+    ],
+    "pushedOn": "2026-10-19"
+  },
+  {
     "id": "o8dsfdudrd4zonj0udj7t11py",
     "kind": "arxiv",
     "title": "Salesforce 等提出 A2-Failures：跨委托人 Agent 协作的 20 种失效模式，Agent 从不主动核实对方",
