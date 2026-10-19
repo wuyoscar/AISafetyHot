@@ -3,7 +3,7 @@
     "id": "wd5x5gztipurgec9y4eaq1ksu",
     "arxivId": "2610.23726",
     "title": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
-    "titleEn": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+    "titleEn": "RedDarwin: Evolving Jailbreak Skills Against Frontier LLMs",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -95,7 +95,7 @@
     "id": "bqknnoggjjx5vubfz983mv8f6",
     "arxivId": "2610.22805",
     "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
-    "titleEn": "Compression first, content decides: emergent misalignment in reward models",
+    "titleEn": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -108,10 +108,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 37,
+      "translated": 34,
+      "pending": 3,
+      "status": "partial"
     }
   }
 ]
