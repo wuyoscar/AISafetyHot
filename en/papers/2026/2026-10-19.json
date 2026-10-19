@@ -49,7 +49,7 @@
     "id": "ujwh1kjbpakh2acmxnmy3vh92",
     "arxivId": "2610.22467",
     "title": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
-    "titleEn": "Benign Recursive Self-Distillation Can Induce Progressive Misalignment",
+    "titleEn": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 37,
+      "translated": 36,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
