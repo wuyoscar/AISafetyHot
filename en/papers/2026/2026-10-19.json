@@ -1,0 +1,117 @@
+[
+  {
+    "id": "wd5x5gztipurgec9y4eaq1ksu",
+    "arxivId": "2610.23726",
+    "title": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+    "titleEn": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.23726",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/wd5x5gztipurgec9y4eaq1ksu"
+    },
+    "publishedAt": "2026-10-14T08:26:44.000Z",
+    "timelineAt": "2026-10-19T04:54:41.181Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "ywsjr23dx77p1wq7vdiminlyc",
+    "arxivId": "2610.23109",
+    "title": "Trojan Horse: Automated Repository Poisoning against Coding Agents",
+    "titleEn": "Trojan Horse: Automated Repository Poisoning Against Coding Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.23109",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ywsjr23dx77p1wq7vdiminlyc"
+    },
+    "publishedAt": "2026-10-16T08:19:44.000Z",
+    "timelineAt": "2026-10-19T04:55:41.425Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "m78i4nc8zk2tl80yzhqt2vik1",
+    "arxivId": "2610.23847",
+    "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+    "titleEn": "Behavioral coupling in language models: from formation to behavioral emergence",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.23847",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/m78i4nc8zk2tl80yzhqt2vik1"
+    },
+    "publishedAt": "2026-10-16T17:58:08.000Z",
+    "timelineAt": "2026-10-19T04:42:42.508Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "ud8dymf914u4s943nn62cco1j",
+    "arxivId": "2610.23257",
+    "title": "Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To",
+    "titleEn": "Reasoning models can control their own chain of thought under self-instruction",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.23257",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ud8dymf914u4s943nn62cco1j"
+    },
+    "publishedAt": "2026-10-16T10:31:27.000Z",
+    "timelineAt": "2026-10-19T04:42:42.480Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "bqknnoggjjx5vubfz983mv8f6",
+    "arxivId": "2610.22805",
+    "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
+    "titleEn": "Compression first, content decides: emergent misalignment in reward models",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22805",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/bqknnoggjjx5vubfz983mv8f6"
+    },
+    "publishedAt": "2026-10-16T01:31:52.000Z",
+    "timelineAt": "2026-10-19T04:42:42.462Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
