@@ -16,8 +16,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 40,
+      "translated": 40,
       "pending": 0,
       "status": "complete"
     }
@@ -39,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 40,
+      "translated": 40,
       "pending": 0,
       "status": "complete"
     }
@@ -49,7 +49,7 @@
     "id": "ujwh1kjbpakh2acmxnmy3vh92",
     "arxivId": "2610.22467",
     "title": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
-    "titleEn": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+    "titleEn": "Benign Recursive Self-Distillation Can Induce Progressive Misalignment",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,16 +63,16 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
     "id": "ywsjr23dx77p1wq7vdiminlyc",
     "arxivId": "2610.23109",
     "title": "Trojan Horse: Automated Repository Poisoning against Coding Agents",
-    "titleEn": "Trojan Horse: Automated Repository Poisoning Against Coding Agents",
+    "titleEn": "Trojan Horse: Automated Repository Poisoning against Coding Agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -85,10 +85,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 38,
+      "translated": 37,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -108,8 +108,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 12,
+      "translated": 12,
       "pending": 0,
       "status": "complete"
     }
