@@ -1,5 +1,28 @@
 [
   {
+    "id": "wb676773yg4qnifhc3h2s47ll",
+    "arxivId": "2610.22987",
+    "title": "From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents",
+    "titleEn": "From approval to abuse: privilege escalation attacks against coding Agents protected by execution frameworks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22987",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/wb676773yg4qnifhc3h2s47ll"
+    },
+    "publishedAt": "2026-10-16T06:13:06.000Z",
+    "timelineAt": "2026-10-19T05:58:41.404Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "wd5x5gztipurgec9y4eaq1ksu",
     "arxivId": "2610.23726",
     "title": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
@@ -20,6 +43,29 @@
       "translated": 4,
       "pending": 0,
       "status": "complete"
+    }
+  },
+  {
+    "id": "ujwh1kjbpakh2acmxnmy3vh92",
+    "arxivId": "2610.22467",
+    "title": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+    "titleEn": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22467",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ujwh1kjbpakh2acmxnmy3vh92"
+    },
+    "publishedAt": "2026-10-15T17:39:51.000Z",
+    "timelineAt": "2026-10-19T05:58:41.334Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -66,52 +112,6 @@
       "translated": 4,
       "pending": 0,
       "status": "complete"
-    }
-  },
-  {
-    "id": "ud8dymf914u4s943nn62cco1j",
-    "arxivId": "2610.23257",
-    "title": "Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To",
-    "titleEn": "Reasoning models can control their own chain of thought under self-instruction",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.23257",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/ud8dymf914u4s943nn62cco1j"
-    },
-    "publishedAt": "2026-10-16T10:31:27.000Z",
-    "timelineAt": "2026-10-19T04:42:42.480Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "bqknnoggjjx5vubfz983mv8f6",
-    "arxivId": "2610.22805",
-    "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
-    "titleEn": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.22805",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/bqknnoggjjx5vubfz983mv8f6"
-    },
-    "publishedAt": "2026-10-16T01:31:52.000Z",
-    "timelineAt": "2026-10-19T04:42:42.462Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 37,
-      "translated": 34,
-      "pending": 3,
-      "status": "partial"
     }
   }
 ]

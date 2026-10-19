@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.22987",
+    "title": "From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents",
+    "titleZh": "从批准到滥用：针对受执行框架保护的编码 Agent 的权限提升攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22987",
+      "aisafetyhot": "https://aisafetyhot.com/items/wb676773yg4qnifhc3h2s47ll"
+    },
+    "publishedAt": "2026-10-16T06:13:06.000Z",
+    "timelineAt": "2026-10-19T05:58:41.404Z",
+    "discoveredAt": "2026-10-19T05:58:41.404Z"
+  },
+  {
     "arxivId": "2610.23726",
     "title": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
     "titleZh": "RedDarwin：演化针对前沿 LLM 的越狱技能",
@@ -16,6 +34,24 @@
     "publishedAt": "2026-10-14T08:26:44.000Z",
     "timelineAt": "2026-10-19T04:54:41.181Z",
     "discoveredAt": "2026-10-19T04:54:41.181Z"
+  },
+  {
+    "arxivId": "2610.22467",
+    "title": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+    "titleZh": "良性递归自蒸馏可能引发渐进式不对齐",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22467",
+      "aisafetyhot": "https://aisafetyhot.com/items/ujwh1kjbpakh2acmxnmy3vh92"
+    },
+    "publishedAt": "2026-10-15T17:39:51.000Z",
+    "timelineAt": "2026-10-19T05:58:41.334Z",
+    "discoveredAt": "2026-10-19T05:58:41.334Z"
   },
   {
     "arxivId": "2610.23109",
@@ -52,41 +88,5 @@
     "publishedAt": "2026-10-16T17:58:08.000Z",
     "timelineAt": "2026-10-19T04:42:42.508Z",
     "discoveredAt": "2026-10-19T04:42:42.508Z"
-  },
-  {
-    "arxivId": "2610.23257",
-    "title": "Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To",
-    "titleZh": "推理模型在自我指示下能够控制自己的思维链",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.23257",
-      "aisafetyhot": "https://aisafetyhot.com/items/ud8dymf914u4s943nn62cco1j"
-    },
-    "publishedAt": "2026-10-16T10:31:27.000Z",
-    "timelineAt": "2026-10-19T04:42:42.480Z",
-    "discoveredAt": "2026-10-19T04:42:42.480Z"
-  },
-  {
-    "arxivId": "2610.22805",
-    "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
-    "titleZh": "压缩先行、内容决定：奖励模型中的涌现性失配",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.22805",
-      "aisafetyhot": "https://aisafetyhot.com/items/bqknnoggjjx5vubfz983mv8f6"
-    },
-    "publishedAt": "2026-10-16T01:31:52.000Z",
-    "timelineAt": "2026-10-19T04:42:42.462Z",
-    "discoveredAt": "2026-10-19T04:42:42.462Z"
   }
 ]
