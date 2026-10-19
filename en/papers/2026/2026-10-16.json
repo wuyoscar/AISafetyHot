@@ -1,5 +1,28 @@
 [
   {
+    "id": "y9ttj7w5r6wudwsqmwxroxtn8",
+    "arxivId": "2610.22578",
+    "title": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
+    "titleEn": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22578",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/y9ttj7w5r6wudwsqmwxroxtn8"
+    },
+    "publishedAt": "2026-10-15T19:26:27.000Z",
+    "timelineAt": "2026-10-15T19:26:27.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 38,
+      "translated": 36,
+      "pending": 2,
+      "status": "partial"
+    }
+  },
+  {
     "id": "f2splfuxjd7l6nuru9fhc76gp",
     "arxivId": "2610.20941",
     "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
@@ -20,29 +43,6 @@
       "translated": 38,
       "pending": 0,
       "status": "complete"
-    }
-  },
-  {
-    "id": "y9ttj7w5r6wudwsqmwxroxtn8",
-    "arxivId": "2610.22578",
-    "title": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
-    "titleEn": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.22578",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/y9ttj7w5r6wudwsqmwxroxtn8"
-    },
-    "publishedAt": "2026-10-15T19:26:27.000Z",
-    "timelineAt": "2026-10-15T19:26:27.000Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 16,
-      "pending": 22,
-      "status": "partial"
     }
   },
   {

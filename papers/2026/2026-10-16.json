@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.22578",
+    "title": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
+    "titleZh": "模型即木马：植入 LLM Agent 权重的自激活隐蔽 DNS 外泄",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22578",
+      "aisafetyhot": "https://aisafetyhot.com/items/y9ttj7w5r6wudwsqmwxroxtn8"
+    },
+    "publishedAt": "2026-10-15T19:26:27.000Z",
+    "timelineAt": "2026-10-15T19:26:27.000Z",
+    "discoveredAt": "2026-10-19T08:45:39.106Z"
+  },
+  {
     "arxivId": "2610.20941",
     "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
     "titleZh": "Screwtape：面向监控器红队测试的对抗性对话记录编辑",
@@ -16,24 +34,6 @@
     "publishedAt": "2026-10-14T21:08:21.000Z",
     "timelineAt": "2026-10-16T05:51:32.051Z",
     "discoveredAt": "2026-10-16T05:51:32.051Z"
-  },
-  {
-    "arxivId": "2610.22578",
-    "title": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
-    "titleZh": "Model-as-a-Trojan：将可自激活的隐蔽 DNS 外泄植入 LLM Agent 权重",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.22578",
-      "aisafetyhot": "https://aisafetyhot.com/items/y9ttj7w5r6wudwsqmwxroxtn8"
-    },
-    "publishedAt": "2026-10-15T19:26:27.000Z",
-    "timelineAt": "2026-10-15T19:26:27.000Z",
-    "discoveredAt": "2026-10-19T08:45:39.106Z"
   },
   {
     "arxivId": "2610.21055",
