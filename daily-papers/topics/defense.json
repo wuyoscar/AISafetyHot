@@ -1,5 +1,85 @@
 [
   {
+    "id": "ovvtanex4ex50foane563p5zl",
+    "kind": "arxiv",
+    "title": "LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs",
+    "titleZh": "LEMON：面向新 LLM 零样本不当行为监控的注意力图等变学习",
+    "line": "提出注意力等变监控器 LEMON，零样本监测幻觉与越狱",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.22723",
+    "date": "2026-10-15",
+    "url": "https://arxiv.org/abs/2610.22723",
+    "site": "https://aisafetyhot.com/items/ovvtanex4ex50foane563p5zl",
+    "authors": [
+      "Guy Bar-Shalom",
+      "Mor Geva",
+      "Fabrizio Frasca",
+      "Haggai Maron"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
+    "id": "icml:2026:s7NR3XGdwq",
+    "kind": "conference",
+    "title": "Concept Removal for Frontier Image Generative Models",
+    "titleZh": "前沿图像生成模型的概念移除",
+    "line": "用 transcoder 替换模型内部瓶颈层，使特定概念特征可被关闭；在 SD3.5、Flux、Infinity 上取得领先的概念移除效果，并对对抗提示保持鲁棒。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 regular",
+    "date": null,
+    "url": "https://openreview.net/forum?id=s7NR3XGdwq",
+    "site": null,
+    "authors": [
+      "Aditya Kumar",
+      "Pierre Joly",
+      "Adam Dziedzic",
+      "Franziska Boenisch"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
+    "id": "c00tegsmue8goswm3ywr4vu7s",
+    "kind": "arxiv",
+    "title": "Rethinking GRPO for Large Reasoning Model Safety Alignment",
+    "titleZh": "重新思考用于大型推理模型安全对齐的 GRPO",
+    "line": "提出 Beacon，用 SSR 与 SUDA 改进推理模型的 GRPO 安全对齐",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.23085",
+    "date": "2026-10-16",
+    "url": "https://arxiv.org/abs/2610.23085",
+    "site": "https://aisafetyhot.com/items/c00tegsmue8goswm3ywr4vu7s",
+    "authors": [
+      "Jiawei Chen",
+      "Yi Zhang",
+      "Jiawei Du",
+      "Zhonghou Lv",
+      "Tairan Chen",
+      "Junyuan Shang",
+      "Jinchang Hou",
+      "Xiao Yang",
+      "Yu Tian",
+      "Chenfu Bao",
+      "Chao Yu",
+      "Zhaoxia Yin"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
     "id": "wya4msbotn9zey4mxb0kl8ycc",
     "kind": "arxiv",
     "title": "The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision",

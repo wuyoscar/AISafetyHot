@@ -1,5 +1,54 @@
 [
   {
+    "id": "xkmz0kgr6d8yttxlsa8zs4he6",
+    "kind": "arxiv",
+    "title": "Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks",
+    "titleZh": "多轮短视野：测量越狱中的有效视野压缩",
+    "line": "测量多轮越狱的有效视界压缩，并用短查询后缀重放续攻",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2610.22928",
+    "date": "2026-10-16",
+    "url": "https://arxiv.org/abs/2610.22928",
+    "site": "https://aisafetyhot.com/items/xkmz0kgr6d8yttxlsa8zs4he6",
+    "authors": [
+      "Zhipeng Wei",
+      "Michael Lee",
+      "N. Benjamin Erichson"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
+    "id": "wd5x5gztipurgec9y4eaq1ksu",
+    "kind": "arxiv",
+    "title": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+    "titleZh": "RedDarwin：演化针对前沿 LLM 的越狱技能",
+    "line": "提出 REDDARWIN，将越狱方法演化为可执行技能以攻击前沿 LLM",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2610.23726",
+    "date": "2026-10-14",
+    "url": "https://arxiv.org/abs/2610.23726",
+    "site": "https://aisafetyhot.com/items/wd5x5gztipurgec9y4eaq1ksu",
+    "authors": [
+      "Zhouyuan Ma",
+      "Yutao Wu",
+      "Hanxun Huang",
+      "Xiang Zheng",
+      "Yi Liu",
+      "Xingjun Ma"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
     "id": "wbnhewi0o0jmeiehm11r6u51k",
     "kind": "arxiv",
     "title": "Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks",

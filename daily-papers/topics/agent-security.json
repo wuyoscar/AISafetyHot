@@ -1,5 +1,32 @@
 [
   {
+    "id": "wb676773yg4qnifhc3h2s47ll",
+    "kind": "arxiv",
+    "title": "From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents",
+    "titleZh": "从批准到滥用：针对受执行框架保护的编码 Agent 的权限提升攻击",
+    "line": "提出用对抗仓库内容诱导编码 Agent 申请可重用权限并静默越权的攻击",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.22987",
+    "date": "2026-10-16",
+    "url": "https://arxiv.org/abs/2610.22987",
+    "site": "https://aisafetyhot.com/items/wb676773yg4qnifhc3h2s47ll",
+    "authors": [
+      "Xianglin Yang",
+      "Yechao Zhang",
+      "Jiahao Liu",
+      "Yulin Chen",
+      "Yuxin Cao",
+      "Bryan Hooi",
+      "Jiaheng Zhang"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
     "id": "y1qimk3lfaj3hsu9a6i7l8ghi",
     "kind": "arxiv",
     "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",

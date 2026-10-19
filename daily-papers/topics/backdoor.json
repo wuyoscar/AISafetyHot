@@ -1,5 +1,29 @@
 [
   {
+    "id": "tl0z3j1aupwtk5bf9736kehki",
+    "kind": "arxiv",
+    "title": "ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers",
+    "titleZh": "ShadowFPT：通过影子触发器对联邦提示微调植入后门",
+    "line": "提出 ShadowFPT，用影子触发器在联邦提示微调中植入定向后门",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2610.22871",
+    "date": "2026-10-16",
+    "url": "https://arxiv.org/abs/2610.22871",
+    "site": "https://aisafetyhot.com/items/tl0z3j1aupwtk5bf9736kehki",
+    "authors": [
+      "Kun Zhai",
+      "Teng Li",
+      "Yunhao Feng",
+      "Xingjun Ma"
+    ],
+    "pushedOn": "2026-10-20"
+  },
+  {
     "id": "xj6g2176eqwed1j78j7yy7yjc",
     "kind": "arxiv",
     "title": "Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse",
