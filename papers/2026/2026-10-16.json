@@ -36,6 +36,24 @@
     "discoveredAt": "2026-10-16T02:54:29.214Z"
   },
   {
+    "arxivId": "2610.23254",
+    "title": "Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents",
+    "titleZh": "被忽略而非拒答：低提示注入成功率在小型工具调用智能体上掩盖了什么",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.23254",
+      "aisafetyhot": "https://aisafetyhot.com/items/vf3ekh3leanpg4p2hy7obu89r"
+    },
+    "publishedAt": "2026-10-16T10:26:23.000Z",
+    "timelineAt": "2026-10-16T10:26:23.000Z",
+    "discoveredAt": "2026-10-19T02:04:24.817Z"
+  },
+  {
     "arxivId": "2610.19342",
     "title": "Salesforce 等提出 A2-Failures：跨委托人 Agent 协作的 20 种失效模式，Agent 从不主动核实对方",
     "titleZh": "Salesforce 等提出 A2-Failures：跨委托人 Agent 协作的 20 种失效模式，Agent 从不主动核实对方",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-10-15T17:53:33.000Z",
     "timelineAt": "2026-10-16T04:47:28.221Z",
     "discoveredAt": "2026-10-16T04:47:28.221Z"
-  },
-  {
-    "arxivId": "2610.21200",
-    "title": "Poisoning the corpora of protein design systems during pre-training and retrieval",
-    "titleZh": "在预训练和检索阶段投毒蛋白质设计系统的语料库",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.21200",
-      "aisafetyhot": "https://aisafetyhot.com/items/xdeb21iafpvhgh1zgscrtllog"
-    },
-    "publishedAt": "2026-10-15T04:00:17.000Z",
-    "timelineAt": "2026-10-16T04:50:28.206Z",
-    "discoveredAt": "2026-10-16T04:50:28.206Z"
   }
 ]
