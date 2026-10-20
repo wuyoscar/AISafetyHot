@@ -1,5 +1,88 @@
 [
   {
+    "id": "fjvlb327orrkqb6yw58bgjj2d",
+    "kind": "arxiv",
+    "title": "Write Once, Check Many: Reusable Ledgers for Post-Hoc Policy Compliance Auditing of Agent Trajectories",
+    "titleZh": "一次写入、多次核查：用于 Agent 轨迹事后策略合规审计的可复用账本",
+    "line": "提出策略无关的可复用账本，事后审计 Agent 轨迹是否违规",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.24483",
+    "date": "2026-10-17",
+    "url": "https://arxiv.org/abs/2610.24483",
+    "site": "https://aisafetyhot.com/items/fjvlb327orrkqb6yw58bgjj2d",
+    "authors": [
+      "Ashwin Nagarajan",
+      "Gursimran Panesar",
+      "Alicia Yang",
+      "Mona T. Diab",
+      "Virginia Smith",
+      "Aashiq Muhamed"
+    ],
+    "pushedOn": "2026-10-21"
+  },
+  {
+    "id": "cr3jsr0plahbtitl6tlk16pj0",
+    "kind": "arxiv",
+    "title": "RATION: Towards Quantitative Risk-Based Access Control for AI Agents",
+    "titleZh": "RATION：迈向 AI 智能体的定量风险访问控制",
+    "line": "提出 RATION，用任务级定量风险策略约束智能体工具调用",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.24311",
+    "date": "2026-10-16",
+    "url": "https://arxiv.org/abs/2610.24311",
+    "site": "https://aisafetyhot.com/items/cr3jsr0plahbtitl6tlk16pj0",
+    "authors": [
+      "Yuntao Du",
+      "Harsh Chaudhari",
+      "Yuetian Chen",
+      "Ron Heichman",
+      "Ashish Jayamohan",
+      "Kumar Pallav",
+      "Mahim Patel",
+      "Kaiyuan Zhang",
+      "Kyle Polley",
+      "Jerry Ma",
+      "Ninghui Li"
+    ],
+    "pushedOn": "2026-10-21"
+  },
+  {
+    "id": "sp:2026:3610c1659b0d4f2e",
+    "kind": "conference",
+    "title": "Towards Automating Data Access Permissions in AI Agents",
+    "titleZh": "实现 AI Agent 数据访问权限的自动化",
+    "line": null,
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "IEEE S&P 2026",
+    "date": null,
+    "url": "https://sp2026.ieee-security.org/program.html",
+    "site": null,
+    "authors": [
+      "Yuhao Wu",
+      "Ke Yang",
+      "Franziska Roesner",
+      "Tadayoshi Kohno",
+      "Ning Zhang",
+      "Umar Iqbal"
+    ],
+    "pushedOn": "2026-10-21"
+  },
+  {
     "id": "wb676773yg4qnifhc3h2s47ll",
     "kind": "arxiv",
     "title": "From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents",

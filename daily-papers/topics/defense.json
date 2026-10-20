@@ -1,5 +1,29 @@
 [
   {
+    "id": "wfp2wlfdgxteanseiqx23rc24",
+    "kind": "arxiv",
+    "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",
+    "titleZh": "安全中期训练：将 LLM 安全内化为基础能力",
+    "line": "提出 safety mid-training，在预训练与后训练之间内化安全",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.26809",
+    "date": "2026-10-19",
+    "url": "https://arxiv.org/abs/2610.26809",
+    "site": "https://aisafetyhot.com/items/wfp2wlfdgxteanseiqx23rc24",
+    "authors": [
+      "Zhengyue Zhao",
+      "Liwei Jiang",
+      "Yejin Choi",
+      "Chaowei Xiao1"
+    ],
+    "pushedOn": "2026-10-21"
+  },
+  {
     "id": "ovvtanex4ex50foane563p5zl",
     "kind": "arxiv",
     "title": "LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs",

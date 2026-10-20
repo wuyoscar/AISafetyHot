@@ -1,5 +1,35 @@
 [
   {
+    "id": "glsembbaas25wl0zhoni27a5w",
+    "kind": "arxiv",
+    "title": "RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation",
+    "titleZh": "RAGLeak：检索增强生成中的供应链隐私后门",
+    "line": "提出 RAGLeak，用投毒微调植入可逆混淆后门以泄露 RAG 检索文档",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2610.25937",
+    "date": "2026-10-19",
+    "url": "https://arxiv.org/abs/2610.25937",
+    "site": "https://aisafetyhot.com/items/glsembbaas25wl0zhoni27a5w",
+    "authors": [
+      "Yuchen Chen",
+      "Wei Cheng",
+      "Yuan Xiao",
+      "Junda He",
+      "Jieke Shi",
+      "PingPing OuYang",
+      "Quanjun Zhang",
+      "Chunrong Fang",
+      "David Lo",
+      "Zhenyu Chen"
+    ],
+    "pushedOn": "2026-10-21"
+  },
+  {
     "id": "tl0z3j1aupwtk5bf9736kehki",
     "kind": "arxiv",
     "title": "ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers",
