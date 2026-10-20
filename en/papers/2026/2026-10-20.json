@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ed83kjsqsr676rfx71n3bonxk",
+    "arxivId": "2610.22301",
+    "title": "\"My Credentials, Please\": Detecting Filesystem Capability Laundering in MCP Servers at Scale",
+    "titleEn": "\"Please show your credentials\": detecting filesystem capability laundering in MCP servers at scale",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.22301",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ed83kjsqsr676rfx71n3bonxk"
+    },
+    "publishedAt": "2026-10-15T17:48:10.000Z",
+    "timelineAt": "2026-10-20T01:58:54.129Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 39,
+      "translated": 39,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
