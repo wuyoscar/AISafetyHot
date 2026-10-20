@@ -62,8 +62,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 37,
+      "translated": 37,
       "pending": 0,
       "status": "complete"
     }
@@ -92,18 +92,18 @@
     }
   },
   {
-    "id": "gexawmv1fyij2t9hba4gv89xd",
-    "arxivId": "2610.26438",
-    "title": "Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents",
-    "titleEn": "Fake News, Real Crashes: Information Injection Attacks Against LLM Financial Trading Agents",
+    "id": "iutqyyuf6odqok45xlaqcqzjz",
+    "arxivId": "2610.25064",
+    "title": "One Skill Takes Over: Clashing Agent Skills and a One-File Fix",
+    "titleEn": "One Skill Takes Over: Same-Function Agent Skill Conflicts and a Single-File Fix",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.26438",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/gexawmv1fyij2t9hba4gv89xd"
+      "paper": "https://arxiv.org/abs/2610.25064",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/iutqyyuf6odqok45xlaqcqzjz"
     },
-    "publishedAt": "2026-10-19T13:58:50.000Z",
-    "timelineAt": "2026-10-20T04:58:30.028Z",
+    "publishedAt": "2026-10-18T07:11:24.000Z",
+    "timelineAt": "2026-10-20T06:12:21.581Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
