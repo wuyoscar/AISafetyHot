@@ -16,5 +16,23 @@
     "publishedAt": "2026-10-15T17:48:10.000Z",
     "timelineAt": "2026-10-20T01:58:54.129Z",
     "discoveredAt": "2026-10-20T01:58:54.129Z"
+  },
+  {
+    "arxivId": "2610.20962",
+    "title": "PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration",
+    "titleZh": "PAGE404：通过硬件辅助页迁移突破 GPU 隔离",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.20962",
+      "aisafetyhot": "https://aisafetyhot.com/items/wt7nl8os0e6a2ezxh0vsk32s3"
+    },
+    "publishedAt": "2026-10-14T21:34:01.000Z",
+    "timelineAt": "2026-10-20T02:52:17.780Z",
+    "discoveredAt": "2026-10-20T02:52:17.780Z"
   }
 ]

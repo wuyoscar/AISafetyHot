@@ -21,5 +21,28 @@
       "pending": 0,
       "status": "complete"
     }
+  },
+  {
+    "id": "wt7nl8os0e6a2ezxh0vsk32s3",
+    "arxivId": "2610.20962",
+    "title": "PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration",
+    "titleEn": "PAGE404: Breaking GPU Isolation via Hardware-Assisted Page Migration",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.20962",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/wt7nl8os0e6a2ezxh0vsk32s3"
+    },
+    "publishedAt": "2026-10-14T21:34:01.000Z",
+    "timelineAt": "2026-10-20T02:52:17.780Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 38,
+      "translated": 38,
+      "pending": 0,
+      "status": "complete"
+    }
   }
 ]
