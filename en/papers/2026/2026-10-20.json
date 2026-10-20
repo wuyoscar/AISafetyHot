@@ -26,7 +26,7 @@
     "id": "wt7nl8os0e6a2ezxh0vsk32s3",
     "arxivId": "2610.20962",
     "title": "PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration",
-    "titleEn": "PAGE404: Breaking GPU Isolation via Hardware-Assisted Page Migration",
+    "titleEn": "PAGE404: Breaking GPU Isolation Using Hardware-Assisted Page Migration",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -39,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 38,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }

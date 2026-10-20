@@ -20,7 +20,7 @@
   {
     "arxivId": "2610.20962",
     "title": "PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration",
-    "titleZh": "PAGE404：通过硬件辅助页迁移突破 GPU 隔离",
+    "titleZh": "PAGE404：利用硬件辅助页迁移突破 GPU 隔离",
     "authors": [],
     "category": null,
     "selected": true,
