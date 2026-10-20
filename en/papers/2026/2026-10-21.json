@@ -1,0 +1,25 @@
+[
+  {
+    "id": "d7glgqda8himoln1q135jmds1",
+    "arxivId": "2610.21646",
+    "title": "The Self-Improvement Problem",
+    "titleEn": "The self-improvement problem",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.21646",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/d7glgqda8himoln1q135jmds1"
+    },
+    "publishedAt": "2026-10-15T10:27:00.000Z",
+    "timelineAt": "2026-10-20T17:27:31.572Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
