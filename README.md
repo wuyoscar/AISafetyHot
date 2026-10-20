@@ -1,93 +1,122 @@
-<p align="center"><img src="assets/logo.svg" width="80" alt="AI Safety HOT"></p>
+<p align="center"><img src="assets/logo.svg" width="64" alt="AI Safety HOT"></p>
 
 <h1 align="center">AI Safety HOT Hub</h1>
 
-<p align="center"><b>一行命令，让你的 Agent 每天读懂 AI 安全：越狱、提示注入、Agent 安全、评测、事故和政策，外加每天 30 篇精选论文。</b></p>
+<p align="center"><b>追踪 AI 安全新闻、论文与事件。一站阅读，也能接入你的 Agent。</b></p>
 
 <p align="center">
-  <a href="https://aisafetyhot.com"><img src="https://img.shields.io/badge/website-aisafetyhot.com-e4572e" alt="website"></a>
-  <a href="https://aisafetyhot.com/api/mcp"><img src="https://img.shields.io/badge/MCP-streamable%20http-6f42c1" alt="MCP"></a>
-  <a href="#技能"><img src="https://img.shields.io/badge/skills-6-2ea44f" alt="skills"></a>
-  <a href="daily-papers"><img src="https://img.shields.io/badge/papers-30%2Fday-0969da" alt="daily papers"></a>
-  <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="stars"></a>
+  <a href="https://aisafetyhot.com/zh"><img src="https://img.shields.io/badge/Website-aisafetyhot.com-e4572e" alt="Website"></a>
+  <a href="docs/agent.md"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-6f42c1" alt="MCP"></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-6-2ea44f" alt="6 Agent skills"></a>
+  <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="GitHub stars"></a>
 </p>
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
 
-<p align="center"><a href="https://aisafetyhot.com"><img src="assets/news-monitor-demo.webp" width="1000" alt="AI Safety HOT"></a></p>
+<p align="center"><a href="https://aisafetyhot.com/zh"><img src="assets/observatory.gif" width="1000" alt="新版科研观测台实录：材料扫描、立体星图与新闻流"></a></p>
 
-## 安装
+<p align="center"><a href="https://aisafetyhot.com/zh">打开观测台</a> · <a href="https://aisafetyhot.com/zh/featured">实时新闻</a> · <a href="https://aisafetyhot.com/zh/papers">找论文</a> · <a href="https://aisafetyhot.com/zh/daily">读日报</a> · <a href="#agent">接入 Agent</a></p>
 
-**Claude Code**（技能包 + MCP 一起装）
+**AI Safety HOT** 持续整理越狱、提示注入、Agent 安全、防御与护栏、对齐、评测、真实事件和治理政策。网站提供中英文阅读；这个 Hub 保存公开论文清单、日报归档和 Agent 技能。
+
+## 从一条动态，看到它关联的研究与事件
+
+首页是一座可以探索的**科研观测台**：材料卡片逐条扫描，汇入由信源、事件和论文研究方向组成的立体星图；往下是最近 72 小时的新闻流，以及汇集报道与社区讨论的热点观察。拖动星图旋转，点选节点，沿链接继续阅读。
+
+上面的 GIF 来自真实网站录屏。[查看高清静态图](assets/site-overview.webp) · [查看新闻流与热点观察](assets/site-news-flow.webp)
+
+| 想看什么 | 从这里开始 |
+| --- | --- |
+| 最近发生了什么 | [实时新闻](https://aisafetyhot.com/zh/featured)：浏览动态、阅读导读，回到原文。 |
+| 一件事怎样发展 | [热点新闻](https://aisafetyhot.com/zh/hot)：把相关报道放在一起，查看事件进展与讨论。 |
+| 一个方向有哪些研究 | [实时论文](https://aisafetyhot.com/zh/papers)与[会议论文](https://aisafetyhot.com/zh/conferences)：按研究方向筛选，查看题录、速读和原文。 |
+| 每天集中读一遍 | [安全日报](https://aisafetyhot.com/zh/daily)：按方向整理，当天的新进展补进同一期。 |
+
+<details>
+<summary><b>展开新版页面截图</b></summary>
+
+### 实时新闻
+
+按时间浏览新闻，结合搜索与筛选找到你关心的动态。
+
+<a href="https://aisafetyhot.com/zh/featured"><img src="assets/site-featured.webp" width="1000" alt="实时新闻页面：新闻列表与筛选"></a>
+
+### 热点新闻
+
+从一个事件进入，查看相关报道和讨论。
+
+<a href="https://aisafetyhot.com/zh/hot"><img src="assets/site-hot.webp" width="1000" alt="热点新闻页面：事件排名与相关报道"></a>
+
+### 实时论文
+
+按研究方向、论文类型和 Agent 场景筛选，继续阅读速读与原文。
+
+<a href="https://aisafetyhot.com/zh/papers"><img src="assets/site-papers.webp" width="1000" alt="实时论文页面：研究方向与论文列表"></a>
+
+### 会议论文
+
+浏览 AI 与安全会议中的相关工作，按方向查找论文。
+
+<a href="https://aisafetyhot.com/zh/conferences"><img src="assets/site-conferences.webp" width="1000" alt="会议论文页面：会议与研究方向"></a>
+
+### 安全日报
+
+把当天值得关注的新闻和研究集中读完。
+
+<a href="https://aisafetyhot.com/zh/daily"><img src="assets/site-daily.webp" width="1000" alt="安全日报页面：按方向整理的新闻与论文"></a>
+
+</details>
+
+<a id="agent"></a>
+
+## 让你的 Agent 一起读
+
+连接 MCP，再安装技能，就可以直接用自然语言查动态、找研究线索、追踪实验室或事件。
+
+**Claude Code** · 安装技能包与 MCP
 
 ```bash
 /plugin marketplace add wuyoscar/AISafetyHot-Hub
 /plugin install aisafetyhot@aisafetyhot-hub
 ```
 
-**Codex / Cursor / 其他 Agent**
+**Codex**
 
 ```bash
 npx skills add wuyoscar/AISafetyHot-Hub
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
 ```
 
-不需要 API Key。别的客户端把 MCP 地址 `https://aisafetyhot.com/api/mcp`（Streamable HTTP）加进去即可。
+**Cursor / 其他 Agent** · 用 `npx skills add wuyoscar/AISafetyHot-Hub` 安装支持的技能，再在客户端添加 MCP 地址 `https://aisafetyhot.com/api/mcp`，选择 Streamable HTTP。
 
+近期 News 简报无需 API Key。历史查询与完整论文解读等需要只读授权，具体范围和接入方法见 [Agent 指南](docs/agent.md)；网站可直接阅读。
+
+<a id="skills"></a>
 <a id="技能"></a>
 
-## 技能
+### 六个技能，按需要使用
 
-装好后直接用自然语言说，Agent 会自己选技能：
-
-| 技能 | 做什么 | 你可以这样说 |
+| 技能 | 用途 | 可以这样问 |
 | --- | --- | --- |
-| [`aisafety-brief`](skills/aisafety-brief/SKILL.md) | 最近 24 小时 / 7 天的 AI 安全简报 | 「这周 AI 安全有什么大事？」 |
-| [`aisafety-paper-scout`](skills/aisafety-paper-scout/SKILL.md) | 按方向找论文，一句话看懂，附 BibTeX | 「找 15 篇 Agent 提示注入的论文，给 BibTeX」 |
-| [`aisafety-related-work`](skills/aisafety-related-work/SKILL.md) | 按你的摘要起草 Related Work | 「帮我这篇关于 reward hacking 的论文写 related work」 |
-| [`aisafety-lab-watch`](skills/aisafety-lab-watch/SKILL.md) | 盯一家实验室最近的安全动态 | 「Anthropic 最近一周在安全上做了什么？」 |
-| [`aisafety-incident-check`](skills/aisafety-incident-check/SKILL.md) | 查一个模型或工具最近有没有出事 | 「Cursor 最近有没有被曝漏洞？」 |
-| [`aisafetyhot`](skills/aisafetyhot/SKILL.md) | MCP 工具说明（其他技能的底座） | — |
+| [`aisafety-brief`](skills/aisafety-brief/SKILL.md) | 近期安全简报 | 这周 AI 安全有什么大事？ |
+| [`aisafety-paper-scout`](skills/aisafety-paper-scout/SKILL.md) | 查找论文与引用线索 | 找 Agent 提示注入相关论文。 |
+| [`aisafety-related-work`](skills/aisafety-related-work/SKILL.md) | 从研究问题整理相关工作 | 根据这份摘要，整理 reward hacking 的相关工作。 |
+| [`aisafety-lab-watch`](skills/aisafety-lab-watch/SKILL.md) | 追踪一家实验室 | Anthropic 最近一周有哪些安全进展？ |
+| [`aisafety-incident-check`](skills/aisafety-incident-check/SKILL.md) | 查找事件与漏洞报道 | Cursor 最近有哪些安全事件？ |
+| [`aisafetyhot`](skills/aisafetyhot/SKILL.md) | MCP 工具与查询说明 | 查看工具、筛选和分页用法。 |
 
-MCP 工具和匿名可用范围见 [Agent 接入指南](docs/agent.md) 和[示例](docs/mcp-examples.md)。
+[查看调用示例](docs/mcp-examples.md)
 
-## 网站有什么
+## 每日论文与公开归档
 
-网站 [aisafetyhot.com](https://aisafetyhot.com) 免费阅读，中英文切换。
+[每日论文](daily-papers)从论文库中每天挑选 30 篇，跨日去重，兼顾近期研究与较早的重要工作；保留原始发表日期、原文和站内阅读链接。也可以按[研究方向](daily-papers/topics)浏览。
 
-**[观测台](https://aisafetyhot.com/zh)**：首页。一眼看到材料从哪来、落在哪些方向、现在什么最热。
-
-<img src="assets/site-overview.webp" width="900" alt="观测台">
-
-**[新闻流](https://aisafetyhot.com/zh)**：每条新闻从信源流向它所属的方向，话题随新闻到达逐个亮起。
-
-<img src="assets/site-news-flow.webp" width="900" alt="新闻流">
-
-**[News](https://aisafetyhot.com/zh/featured)**：编辑精选的时间线，每条一段导读加原文链接；右侧是正在发酵的话题。
-
-<img src="assets/site-featured.webp" width="900" alt="News">
-
-**[热点事件](https://aisafetyhot.com/zh/hot)**：同一件事的多篇报道归成一个事件，按关注度排名，带热度曲线。
-
-<img src="assets/site-hot.webp" width="900" alt="热点事件">
-
-**[论文](https://aisafetyhot.com/zh/papers)**：近两千篇 AI 安全论文，按方向和类型筛选，每篇有一句话和速读。
-
-<img src="assets/site-papers.webp" width="900" alt="论文">
-
-**[会议](https://aisafetyhot.com/zh/conferences)**：ICLR、ICML、NeurIPS、ACL 和四大安全会议（S&P、USENIX Security、CCS、NDSS）的 AI 安全论文，按方向分组。
-
-<img src="assets/site-conferences.webp" width="900" alt="会议">
-
-**[日报](https://aisafetyhot.com/zh/daily)**：每天一期，按方向分组，当天随新进展更新。
-
-<img src="assets/site-daily.webp" width="900" alt="日报">
-
-发现内容有错，欢迎到[留言板](https://aisafetyhot.com/board)告诉我们。
-
-## 每日论文
-
-每天从论文库挑 30 篇，不重复，只挑知名研究者、顶级实验室和名校团队的工作：一半是近两个月的新论文，其余来自半年内和更早的论文、会议论文，越新越优先。
+| 归档 | 内容 |
+| --- | --- |
+| [daily-papers](daily-papers) | 每日论文推荐与方向索引 |
+| [daily](daily) · [English](en) | 已公开的日报归档 |
+| [papers](papers) | 按日期导出的论文 Markdown、JSON 与 BibTeX |
+| [archive](archive) | 年度索引 |
 
 <!-- papers:start -->
 ### 2026-10-21 · 30 篇
@@ -158,8 +187,10 @@ MCP 工具和匿名可用范围见 [Agent 接入指南](docs/agent.md) 和[示�
 **按方向**：[防御与护栏](daily-papers/topics/defense.md) 20 · [Agent 安全](daily-papers/topics/agent-security.md) 11 · [后门与投毒](daily-papers/topics/backdoor.md) 7 · [隐私与数据泄露](daily-papers/topics/privacy.md) 5 · [对齐](daily-papers/topics/alignment.md) 4 · [奖励作弊](daily-papers/topics/reward-hacking.md) 4 · [越狱与攻击](daily-papers/topics/jailbreak.md) 4 · [欺骗与谋划](daily-papers/topics/scheming.md) 3 · [红队测试与挑战赛](daily-papers/topics/red-teaming.md) 2 · [监控与 AI 控制](daily-papers/topics/ai-control.md) 2 · [可解释性](daily-papers/topics/interpretability.md) 1
 <!-- papers:end -->
 
-## 支持
+## 反馈与支持
 
-觉得有用，欢迎点个 Star，或[请作者喝杯咖啡](https://buymeacoffee.com/wuyoscar)。
+内容摘要和解读由 AI 辅助整理，关键结论请结合原文阅读。发现错误或想推荐材料，欢迎到[留言板](https://aisafetyhot.com/zh/board)交流。
+
+觉得有用，欢迎 **Star**，方便下次回来；也可以[请作者喝杯咖啡](https://buymeacoffee.com/wuyoscar)。
 
 <img src="assets/wechat-pay.png" width="160" alt="微信支持二维码">
