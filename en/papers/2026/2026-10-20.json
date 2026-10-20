@@ -23,24 +23,93 @@
     }
   },
   {
-    "id": "wt7nl8os0e6a2ezxh0vsk32s3",
-    "arxivId": "2610.20962",
-    "title": "PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration",
-    "titleEn": "PAGE404: Breaking GPU Isolation Using Hardware-Assisted Page Migration",
+    "id": "apfbqlp3wcn5y6o0rq0glgkk4",
+    "arxivId": "2610.24052",
+    "title": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks",
+    "titleEn": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risk",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.20962",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/wt7nl8os0e6a2ezxh0vsk32s3"
+      "paper": "https://arxiv.org/abs/2610.24052",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/apfbqlp3wcn5y6o0rq0glgkk4"
     },
-    "publishedAt": "2026-10-14T21:34:01.000Z",
-    "timelineAt": "2026-10-20T02:52:17.780Z",
+    "publishedAt": "2026-10-16T16:42:33.000Z",
+    "timelineAt": "2026-10-20T04:47:24.248Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 39,
-      "translated": 39,
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "fcrbp7ewnbfdvu0zoewtnoia8",
+    "arxivId": "2610.26551",
+    "title": "Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
+    "titleEn": "Training natural scheming models: RL can amplify supervision-conditional behavior",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.26551",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/fcrbp7ewnbfdvu0zoewtnoia8"
+    },
+    "publishedAt": "2026-10-19T15:12:41.000Z",
+    "timelineAt": "2026-10-20T04:45:24.893Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "konq4pxlw93ee8j2y37rzhczw",
+    "arxivId": "2610.25060",
+    "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+    "titleEn": "Policy is not capability: some safety benchmarks measure the definition of unsafety you adopted during training",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.25060",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/konq4pxlw93ee8j2y37rzhczw"
+    },
+    "publishedAt": "2026-10-18T07:02:22.000Z",
+    "timelineAt": "2026-10-20T04:58:20.030Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "gexawmv1fyij2t9hba4gv89xd",
+    "arxivId": "2610.26438",
+    "title": "Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents",
+    "titleEn": "Fake News, Real Crashes: Information Injection Attacks Against LLM Financial Trading Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.26438",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gexawmv1fyij2t9hba4gv89xd"
+    },
+    "publishedAt": "2026-10-19T13:58:50.000Z",
+    "timelineAt": "2026-10-20T04:58:30.028Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
       "pending": 0,
       "status": "complete"
     }

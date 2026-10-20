@@ -18,9 +18,9 @@
     "discoveredAt": "2026-10-20T01:58:54.129Z"
   },
   {
-    "arxivId": "2610.20962",
-    "title": "PAGE404: Breaking GPU Isolation Through Hardware-assisted Page Migration",
-    "titleZh": "PAGE404：利用硬件辅助页迁移突破 GPU 隔离",
+    "arxivId": "2610.24052",
+    "title": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks",
+    "titleZh": "面向失控风险的多智能体攻击红队测试",
     "authors": [],
     "category": null,
     "selected": true,
@@ -28,11 +28,65 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.20962",
-      "aisafetyhot": "https://aisafetyhot.com/items/wt7nl8os0e6a2ezxh0vsk32s3"
+      "paper": "https://arxiv.org/abs/2610.24052",
+      "aisafetyhot": "https://aisafetyhot.com/items/apfbqlp3wcn5y6o0rq0glgkk4"
     },
-    "publishedAt": "2026-10-14T21:34:01.000Z",
-    "timelineAt": "2026-10-20T02:52:17.780Z",
-    "discoveredAt": "2026-10-20T02:52:17.780Z"
+    "publishedAt": "2026-10-16T16:42:33.000Z",
+    "timelineAt": "2026-10-20T04:47:24.248Z",
+    "discoveredAt": "2026-10-20T04:47:24.248Z"
+  },
+  {
+    "arxivId": "2610.26551",
+    "title": "Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
+    "titleZh": "训练自然的谋划模型：RL 能放大监督条件行为",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.26551",
+      "aisafetyhot": "https://aisafetyhot.com/items/fcrbp7ewnbfdvu0zoewtnoia8"
+    },
+    "publishedAt": "2026-10-19T15:12:41.000Z",
+    "timelineAt": "2026-10-20T04:45:24.893Z",
+    "discoveredAt": "2026-10-20T04:45:24.893Z"
+  },
+  {
+    "arxivId": "2610.25060",
+    "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+    "titleZh": "策略不等于能力：部分安全基准衡量的是你训练时采用的不安全定义",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.25060",
+      "aisafetyhot": "https://aisafetyhot.com/items/konq4pxlw93ee8j2y37rzhczw"
+    },
+    "publishedAt": "2026-10-18T07:02:22.000Z",
+    "timelineAt": "2026-10-20T04:58:20.030Z",
+    "discoveredAt": "2026-10-20T04:58:20.030Z"
+  },
+  {
+    "arxivId": "2610.26438",
+    "title": "Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents",
+    "titleZh": "假新闻，真崩盘：针对 LLM 金融交易智能体的信息注入攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.26438",
+      "aisafetyhot": "https://aisafetyhot.com/items/gexawmv1fyij2t9hba4gv89xd"
+    },
+    "publishedAt": "2026-10-19T13:58:50.000Z",
+    "timelineAt": "2026-10-20T04:58:30.028Z",
+    "discoveredAt": "2026-10-20T04:58:30.028Z"
   }
 ]
