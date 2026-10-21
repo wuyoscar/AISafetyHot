@@ -1,5 +1,29 @@
 [
   {
+    "id": "lm181gm465y19ab8oin2itauk",
+    "kind": "arxiv",
+    "title": "Push-Pull Attentional Anchoring for Diffusion Concept Erasure",
+    "titleZh": "Push-Pull Attentional Anchoring 用于扩散模型概念擦除",
+    "line": "提出 PPAA，在交叉注意力上推拉擦除扩散模型的指定概念",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2610.27719",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27719",
+    "site": "https://aisafetyhot.com/items/lm181gm465y19ab8oin2itauk",
+    "authors": [
+      "Nattanat Chatthee",
+      "Tagon Sompong",
+      "Ekapol Chuangsuwanich",
+      "Supasorn Suwajanakorn"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "wfp2wlfdgxteanseiqx23rc24",
     "kind": "arxiv",
     "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",

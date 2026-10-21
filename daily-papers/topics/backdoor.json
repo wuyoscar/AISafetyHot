@@ -1,5 +1,53 @@
 [
   {
+    "id": "ipnmbz6zrzwn0ytajr7zgxusj",
+    "kind": "arxiv",
+    "title": "Adversarial Benchmarks and BenchDoor Attacks: Exploiting Benchmark Incentives for Backdoor Attacks",
+    "titleZh": "对抗性基准与 BenchDoor 攻击：利用基准激励实施后门攻击",
+    "line": "提出 BenchDoor，用脏标签投毒使被采纳数据既抬高基准分又植入后门",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2610.27533",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27533",
+    "site": "https://aisafetyhot.com/items/ipnmbz6zrzwn0ytajr7zgxusj",
+    "authors": [
+      "Yixin Wu",
+      "Rachel Hong",
+      "Jamie Morgenstern",
+      "Tadayoshi Kohno"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
+    "id": "wejc7tsr3dljp5gsvrv4lv4ju",
+    "kind": "arxiv",
+    "title": "You Are the Trigger: Speaker-Activated Backdoors",
+    "titleZh": "你就是触发器：说话人激活的后门",
+    "line": "用 SAB 将目标说话人的自然语音设为后门触发器",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2610.27210",
+    "date": "2026-10-19",
+    "url": "https://arxiv.org/abs/2610.27210",
+    "site": "https://aisafetyhot.com/items/wejc7tsr3dljp5gsvrv4lv4ju",
+    "authors": [
+      "Nataša Krčo",
+      "Euodia Dodd",
+      "Peter Romov",
+      "Yves-Alexandre de Montjoye"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "glsembbaas25wl0zhoni27a5w",
     "kind": "arxiv",
     "title": "RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation",

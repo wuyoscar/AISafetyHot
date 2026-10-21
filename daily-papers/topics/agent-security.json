@@ -1,5 +1,79 @@
 [
   {
+    "id": "jmbovkl9cqzg7j0e7gmshtmr2",
+    "kind": "arxiv",
+    "title": "MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems",
+    "titleZh": "MAS-Guard：从单个智能体到多智能体 LLM 系统的统一护栏",
+    "line": "提出 MAS-Guard，在单智能体与多智能体边界统一拦截不安全动作与对抗操纵",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.28397",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28397",
+    "site": "https://aisafetyhot.com/items/jmbovkl9cqzg7j0e7gmshtmr2",
+    "authors": [
+      "Mohammad Kachuee",
+      "Phu Mon Htut",
+      "Sheng Li",
+      "Nikolaos Pappas",
+      "Miguel Ballesteros Martinez",
+      "Yassine Benajiba",
+      "Sujith Ravi",
+      "Dan Roth"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
+    "id": "icml:2026:7y6a5ouziq",
+    "kind": "conference",
+    "title": "Copyright-Bench: Agentic Evaluation of Copyright Law Compliance",
+    "titleZh": "Copyright-Bench：版权法合规的智能体化评估",
+    "line": "构建评估 LLM 智能体版权法合规性的基准，发现智能体在有公共领域替代品时仍选用侵权内容，开源权重模型在用户偏好和时间压力下违规率上升。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=7y6a5ouziq",
+    "site": null,
+    "authors": [
+      "Zheng Hui",
+      "Doni Bloomfield",
+      "Noam Kolt"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
+    "id": "ktzhekpslnbmrcb295rc74llg",
+    "kind": "arxiv",
+    "title": "KNOX: Hardware-assisted Regulatory Sandbox for Generative Models",
+    "titleZh": "KNOX：面向生成模型的硬件辅助监管沙箱",
+    "line": "提出监管沙箱 KNOX，在 TEE 内拦截未授权工具与系统调用",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.27543",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27543",
+    "site": "https://aisafetyhot.com/items/ktzhekpslnbmrcb295rc74llg",
+    "authors": [
+      "Vasisht Duddu",
+      "Adam Caulfield",
+      "Xi He"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "fjvlb327orrkqb6yw58bgjj2d",
     "kind": "arxiv",
     "title": "Write Once, Check Many: Reusable Ledgers for Post-Hoc Policy Compliance Auditing of Agent Trajectories",

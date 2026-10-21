@@ -1,5 +1,52 @@
 [
   {
+    "id": "xv2fxmfpsehzuvne1wjk8gnco",
+    "kind": "arxiv",
+    "title": "Training a General Purpose Automated Red Teaming Model",
+    "titleZh": "研究者提出训练通用自动化红队模型的流程",
+    "line": "提出强化学习流程，训练能按任意对抗目标生成攻击的红队模型",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.23067",
+    "date": "2026-04-24",
+    "url": "https://arxiv.org/abs/2604.23067",
+    "site": "https://aisafetyhot.com/items/xv2fxmfpsehzuvne1wjk8gnco",
+    "authors": [
+      "Aishwarya Padmakumar",
+      "Leon Derczynski",
+      "Traian Rebedea",
+      "Christopher Parisien"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
+    "id": "icml:2026:PUIivg3GrO",
+    "kind": "conference",
+    "title": "On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification",
+    "titleZh": "高维线性分类中一致对抗攻击的存在性",
+    "line": "提出区分对抗攻击与表达能力不足所致误分类的新误差度量，给出高维二分类的精确渐近刻画，发现模型越过参数化，对保持标签的扰动越脆弱。",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=PUIivg3GrO",
+    "site": null,
+    "authors": [
+      "Matteo Vilucchio",
+      "Lenka Zdeborová",
+      "Bruno Loureiro"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "xkmz0kgr6d8yttxlsa8zs4he6",
     "kind": "arxiv",
     "title": "Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks",

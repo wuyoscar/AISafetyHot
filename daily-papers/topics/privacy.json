@@ -1,5 +1,27 @@
 [
   {
+    "id": "icml:2026:oLmwqIhzqj",
+    "kind": "conference",
+    "title": "Exact Unlearning in Reinforcement Learning",
+    "titleZh": "强化学习中的精确遗忘",
+    "line": "形式化强化学习中的精确遗忘问题，提出TV稳定的RL算法，使删除用户数据后的输出与从未交互不可区分，计算成本仅为重训的一小部分，并证明其接近极小极大最优。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=oLmwqIhzqj",
+    "site": null,
+    "authors": [
+      "Thanh Nguyen-Tang",
+      "Raman Arora"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "acl:2026:2026.acl-long.72",
     "kind": "conference",
     "title": "Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection",

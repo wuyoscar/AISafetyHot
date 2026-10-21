@@ -1,0 +1,25 @@
+[
+  {
+    "id": "iclr:2026:vLFqOoMBol",
+    "kind": "conference",
+    "title": "Every Language Model Has a Forgery-Resistant Signature",
+    "titleZh": "每个语言模型都有抗伪造签名",
+    "line": "发现语言模型输出位于高维椭圆面上，构成难以伪造的天然模型签名，可用于识别输出来源并提出类似对称密钥认证的输出验证协议。",
+    "topics": [
+      {
+        "slug": "open-models",
+        "name": "开源模型与权重安全"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=vLFqOoMBol",
+    "site": null,
+    "authors": [
+      "Matthew Finlayson",
+      "Xiang Ren",
+      "Swabha Swayamdipta"
+    ],
+    "pushedOn": "2026-10-22"
+  }
+]

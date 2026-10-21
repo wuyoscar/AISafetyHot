@@ -1,5 +1,27 @@
 [
   {
+    "id": "i0me4pp5aw6uypiepunx79gec",
+    "kind": "arxiv",
+    "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
+    "titleZh": "奖励错配会降低思维链可监控性",
+    "line": "分析奖励错配如何降低 CoT 可监控性并提出奖励描述训练",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2610.28303",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28303",
+    "site": "https://aisafetyhot.com/items/i0me4pp5aw6uypiepunx79gec",
+    "authors": [
+      "Tianyi Lorena Yan",
+      "John Hewitt"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "zfgqzhqb3in1bv7s89jy6mzip",
     "kind": "arxiv",
     "title": "Specification Gaming and a Constrained Reinforcement Learning Mitigation in a Cleaning Gridworld",

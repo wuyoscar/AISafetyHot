@@ -1,5 +1,37 @@
 [
   {
+    "id": "icml:2026:b82fgbMVpz",
+    "kind": "conference",
+    "title": "Monitoring Monitorability",
+    "titleZh": "监控可监控性",
+    "line": "提出三类评估原型与可监控性指标，发现CoT监控优于仅动作监控，更长思维链通常更可监控，追问并共享思维链可提升可监控性。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=b82fgbMVpz",
+    "site": null,
+    "authors": [
+      "Melody Y. Guan",
+      "Miles Wang",
+      "Micah Carroll",
+      "Zehao Dou",
+      "Annie Y. Wei",
+      "Marcus Williams",
+      "Benjamin Arnav",
+      "Joost Huizinga",
+      "Ian D Kivlichan",
+      "Amelia Glaese",
+      "Jakub Pachocki",
+      "Bowen Baker"
+    ],
+    "pushedOn": "2026-10-22"
+  },
+  {
     "id": "icml:2026:J4DiM8EiMJ",
     "kind": "conference",
     "title": "Removing Sandbagging in LLMs by Training with Weak Supervision",
