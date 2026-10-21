@@ -1,5 +1,59 @@
 [
   {
+    "arxivId": "2610.28303",
+    "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
+    "titleZh": "奖励错配会降低思维链可监控性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28303",
+      "aisafetyhot": "https://aisafetyhot.com/items/i0me4pp5aw6uypiepunx79gec"
+    },
+    "publishedAt": "2026-10-20T14:45:29.000Z",
+    "timelineAt": "2026-10-21T04:47:34.292Z",
+    "discoveredAt": "2026-10-21T04:47:34.292Z"
+  },
+  {
+    "arxivId": "2610.27735",
+    "title": "RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?",
+    "titleZh": "RSI Control：AI 模型能否在自我改进过程中实施隐蔽破坏？",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.27735",
+      "aisafetyhot": "https://aisafetyhot.com/items/xecv3hoxtsd5djmvm5fvaqr8q"
+    },
+    "publishedAt": "2026-10-20T06:57:59.000Z",
+    "timelineAt": "2026-10-21T05:01:30.839Z",
+    "discoveredAt": "2026-10-21T05:01:30.839Z"
+  },
+  {
+    "arxivId": "2610.27210",
+    "title": "You Are the Trigger: Speaker-Activated Backdoors",
+    "titleZh": "你就是触发器：说话人激活的后门",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.27210",
+      "aisafetyhot": "https://aisafetyhot.com/items/wejc7tsr3dljp5gsvrv4lv4ju"
+    },
+    "publishedAt": "2026-10-19T19:43:13.000Z",
+    "timelineAt": "2026-10-21T05:01:40.832Z",
+    "discoveredAt": "2026-10-21T05:01:40.832Z"
+  },
+  {
     "arxivId": "2610.21646",
     "title": "The Self-Improvement Problem",
     "titleZh": "自我改进问题",
@@ -16,5 +70,23 @@
     "publishedAt": "2026-10-15T10:27:00.000Z",
     "timelineAt": "2026-10-20T17:27:31.572Z",
     "discoveredAt": "2026-10-20T17:27:31.572Z"
+  },
+  {
+    "arxivId": "2610.27548",
+    "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
+    "titleZh": "代你行事，越出授权：LLM 智能体授权对齐基准评测",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.27548",
+      "aisafetyhot": "https://aisafetyhot.com/items/ir5vlj7aettc0527ng2bz6bxg"
+    },
+    "publishedAt": "2026-10-20T03:01:39.000Z",
+    "timelineAt": "2026-10-21T05:01:30.814Z",
+    "discoveredAt": "2026-10-21T05:01:30.814Z"
   }
 ]
