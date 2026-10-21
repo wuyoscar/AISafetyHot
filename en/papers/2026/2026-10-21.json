@@ -3,7 +3,7 @@
     "id": "i0me4pp5aw6uypiepunx79gec",
     "arxivId": "2610.28303",
     "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
-    "titleEn": "Reward misspecification degrades chain-of-thought monitorability",
+    "titleEn": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 39,
+      "translated": 38,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -39,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 38,
+      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
@@ -108,8 +108,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
