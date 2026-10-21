@@ -1,5 +1,28 @@
 [
   {
+    "id": "zbs1kouw0i7nphnaah5nnwtcd",
+    "arxivId": "2610.28454",
+    "title": "Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization",
+    "titleEn": "Toolflation: seller agents distort the tool market through spontaneous generative engine optimization",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28454",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/zbs1kouw0i7nphnaah5nnwtcd"
+    },
+    "publishedAt": "2026-10-20T16:12:39.000Z",
+    "timelineAt": "2026-10-21T06:04:31.541Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "i0me4pp5aw6uypiepunx79gec",
     "arxivId": "2610.28303",
     "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
@@ -46,6 +69,29 @@
     }
   },
   {
+    "id": "eyu3ugyffr0g2obio0ecokacd",
+    "arxivId": "2610.27244",
+    "title": "AutoRedClaw: Automated Red-Teaming for Claw-Style Agents",
+    "titleEn": "AutoRedClaw: automated red teaming for Claw-style agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.27244",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/eyu3ugyffr0g2obio0ecokacd"
+    },
+    "publishedAt": "2026-10-19T20:15:39.000Z",
+    "timelineAt": "2026-10-21T06:04:31.407Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "wejc7tsr3dljp5gsvrv4lv4ju",
     "arxivId": "2610.27210",
     "title": "You Are the Trigger: Speaker-Activated Backdoors",
@@ -64,52 +110,6 @@
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
       "translated": 4,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "d7glgqda8himoln1q135jmds1",
-    "arxivId": "2610.21646",
-    "title": "The Self-Improvement Problem",
-    "titleEn": "The self-improvement problem",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.21646",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/d7glgqda8himoln1q135jmds1"
-    },
-    "publishedAt": "2026-10-15T10:27:00.000Z",
-    "timelineAt": "2026-10-20T17:27:31.572Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "ir5vlj7aettc0527ng2bz6bxg",
-    "arxivId": "2610.27548",
-    "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
-    "titleEn": "Acting on Your Behalf, Beyond Your Authorization: A Benchmark for LLM Agent Authorization Alignment",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.27548",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/ir5vlj7aettc0527ng2bz6bxg"
-    },
-    "publishedAt": "2026-10-20T03:01:39.000Z",
-    "timelineAt": "2026-10-21T05:01:30.814Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 39,
-      "translated": 39,
       "pending": 0,
       "status": "complete"
     }

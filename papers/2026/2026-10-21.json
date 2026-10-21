@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.28454",
+    "title": "Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization",
+    "titleZh": "Toolflation：卖家智能体通过自发生成式引擎优化扭曲工具市场",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28454",
+      "aisafetyhot": "https://aisafetyhot.com/items/zbs1kouw0i7nphnaah5nnwtcd"
+    },
+    "publishedAt": "2026-10-20T16:12:39.000Z",
+    "timelineAt": "2026-10-21T06:04:31.541Z",
+    "discoveredAt": "2026-10-21T06:04:31.541Z"
+  },
+  {
     "arxivId": "2610.28303",
     "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
     "titleZh": "奖励错配会降低思维链可监控性",
@@ -36,6 +54,24 @@
     "discoveredAt": "2026-10-21T05:01:30.839Z"
   },
   {
+    "arxivId": "2610.27244",
+    "title": "AutoRedClaw: Automated Red-Teaming for Claw-Style Agents",
+    "titleZh": "AutoRedClaw：面向 Claw 风格智能体的自动化红队测试",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.27244",
+      "aisafetyhot": "https://aisafetyhot.com/items/eyu3ugyffr0g2obio0ecokacd"
+    },
+    "publishedAt": "2026-10-19T20:15:39.000Z",
+    "timelineAt": "2026-10-21T06:04:31.407Z",
+    "discoveredAt": "2026-10-21T06:04:31.407Z"
+  },
+  {
     "arxivId": "2610.27210",
     "title": "You Are the Trigger: Speaker-Activated Backdoors",
     "titleZh": "你就是触发器：说话人激活的后门",
@@ -52,41 +88,5 @@
     "publishedAt": "2026-10-19T19:43:13.000Z",
     "timelineAt": "2026-10-21T05:01:40.832Z",
     "discoveredAt": "2026-10-21T05:01:40.832Z"
-  },
-  {
-    "arxivId": "2610.21646",
-    "title": "The Self-Improvement Problem",
-    "titleZh": "自我改进问题",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.21646",
-      "aisafetyhot": "https://aisafetyhot.com/items/d7glgqda8himoln1q135jmds1"
-    },
-    "publishedAt": "2026-10-15T10:27:00.000Z",
-    "timelineAt": "2026-10-20T17:27:31.572Z",
-    "discoveredAt": "2026-10-20T17:27:31.572Z"
-  },
-  {
-    "arxivId": "2610.27548",
-    "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
-    "titleZh": "代你行事，越出授权：LLM 智能体授权对齐基准评测",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.27548",
-      "aisafetyhot": "https://aisafetyhot.com/items/ir5vlj7aettc0527ng2bz6bxg"
-    },
-    "publishedAt": "2026-10-20T03:01:39.000Z",
-    "timelineAt": "2026-10-21T05:01:30.814Z",
-    "discoveredAt": "2026-10-21T05:01:30.814Z"
   }
 ]
