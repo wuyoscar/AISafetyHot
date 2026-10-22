@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "meg9t8ay3imbbxw1rz02y0xkk",
+    "arxivId": "2610.28982",
+    "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+    "titleEn": "Behavior Beyond Text: Evaluating Refusal Transfer Failures in Large Language Model Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28982",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/meg9t8ay3imbbxw1rz02y0xkk"
+    },
+    "publishedAt": "2026-10-20T23:14:30.000Z",
+    "timelineAt": "2026-10-22T05:02:18.213Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "gyq0xt302vaszpdo8s39c794h",
+    "arxivId": "2610.28707",
+    "title": "SimHack: Predicting the onset of detectable reward hacking before RL training",
+    "titleEn": "SimHack: Predicting Before RL Training When Detectable Reward Hacking Becomes Dominant",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28707",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gyq0xt302vaszpdo8s39c794h"
+    },
+    "publishedAt": "2026-10-20T15:58:47.000Z",
+    "timelineAt": "2026-10-22T04:48:20.753Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
