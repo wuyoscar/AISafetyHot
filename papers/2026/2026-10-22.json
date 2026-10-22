@@ -20,7 +20,7 @@
   {
     "arxivId": "2610.29886",
     "title": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
-    "titleZh": "指令微调数据选择中效用劫持攻击的刻画与防御",
+    "titleZh": "刻画并防御指令微调数据选择中的效用劫持攻击",
     "authors": [],
     "category": null,
     "selected": true,

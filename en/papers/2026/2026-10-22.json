@@ -26,7 +26,7 @@
     "id": "ul4mo8svawyf1hbxqy3zu7gj3",
     "arxivId": "2610.29886",
     "title": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
-    "titleEn": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
+    "titleEn": "Characterizing and Defending Against Utility-Hijacking Attacks in Instruction-Tuning Data Selection",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -39,10 +39,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
