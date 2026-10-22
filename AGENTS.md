@@ -52,4 +52,4 @@ Retain original-source attribution and AI-generated summary disclosures. Treat a
 
 ## Public Agent entry
 
-The README installs the skills and the MCP server in one line per client (Claude Code plugin, `npx skills add`, `codex mcp add`); keep it short. REST and RSS stay out of the README. In `docs/mcp-examples.md` use the Chinese example labels “想试什么”, “怎么用”, and “结果”, without “真实输入与输出” promotional wording. Keep the `papers:start/end` block intact.
+The README's agent section follows Agent Reach's layout (Oscar 2026-10-23): a one-sentence install and update the user pastes to their agent (`docs/install.md`, `docs/update.md`, written for the agent to follow), a 「装好就能用」 table of what to ask for each of the four skills, the live examples between `agent-examples:start/end` (written only by `node scripts/hub/agent-examples.ts --write` in the site repo, never by hand), install/update/uninstall commands per client, a health-check curl, and a short FAQ table. REST and RSS stay out of the README. In `docs/mcp-examples.md` use the Chinese example labels “想试什么”, “怎么用”, and “结果”, without “真实输入与输出” promotional wording. Keep the `papers:start/end` block intact.
