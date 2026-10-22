@@ -3,7 +3,7 @@
     "id": "meg9t8ay3imbbxw1rz02y0xkk",
     "arxivId": "2610.28982",
     "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
-    "titleEn": "Behavior Beyond Text: Evaluating Refusal Transfer Failures in Large Language Model Agents",
+    "titleEn": "Behavior does not stop at text: evaluating refusal transfer failure in LLM agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -20,6 +20,29 @@
       "translated": 4,
       "pending": 0,
       "status": "complete"
+    }
+  },
+  {
+    "id": "ul4mo8svawyf1hbxqy3zu7gj3",
+    "arxivId": "2610.29886",
+    "title": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
+    "titleEn": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.29886",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ul4mo8svawyf1hbxqy3zu7gj3"
+    },
+    "publishedAt": "2026-10-21T15:31:04.000Z",
+    "timelineAt": "2026-10-22T06:07:18.896Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
     }
   },
   {

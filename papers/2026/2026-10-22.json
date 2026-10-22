@@ -2,7 +2,7 @@
   {
     "arxivId": "2610.28982",
     "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
-    "titleZh": "行为不止于文本：评估大语言模型智能体中的拒答迁移失败",
+    "titleZh": "行为不止于文本：评估 LLM 智能体中的拒答迁移失败",
     "authors": [],
     "category": null,
     "selected": true,
@@ -16,6 +16,24 @@
     "publishedAt": "2026-10-20T23:14:30.000Z",
     "timelineAt": "2026-10-22T05:02:18.213Z",
     "discoveredAt": "2026-10-22T05:02:18.213Z"
+  },
+  {
+    "arxivId": "2610.29886",
+    "title": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
+    "titleZh": "指令微调数据选择中效用劫持攻击的刻画与防御",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.29886",
+      "aisafetyhot": "https://aisafetyhot.com/items/ul4mo8svawyf1hbxqy3zu7gj3"
+    },
+    "publishedAt": "2026-10-21T15:31:04.000Z",
+    "timelineAt": "2026-10-22T06:07:18.896Z",
+    "discoveredAt": "2026-10-22T06:07:18.896Z"
   },
   {
     "arxivId": "2610.28707",
