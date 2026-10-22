@@ -1,0 +1,27 @@
+[
+  {
+    "id": "icml:2026:vTJmIhNvC3",
+    "kind": "conference",
+    "title": "Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense",
+    "titleZh": "安全-保真权衡：提示注入防御的隐性代价",
+    "line": "提出SecFid基准区分执行、处理与忽略注入三种行为，在1168个样本和48种配置上没有模型或防御能同时兼顾安全与保真：最高保真96.5%时安全仅47.8%，最安全防御达99.3%安全但保真只有71.0%–73.9%。",
+    "topics": [
+      {
+        "slug": "prompt-injection",
+        "name": "提示注入"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=vTJmIhNvC3",
+    "site": null,
+    "authors": [
+      "Mitchell Hermon",
+      "Rahul Gupta",
+      "Weitong Ruan",
+      "Ekraam Sabir",
+      "Haohan Wang"
+    ],
+    "pushedOn": "2026-10-23"
+  }
+]

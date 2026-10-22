@@ -1,5 +1,29 @@
 [
   {
+    "id": "iclr:2026:t38nZqqi3Z",
+    "kind": "conference",
+    "title": "LLM Fingerprinting via Semantically Conditioned Watermarks",
+    "titleZh": "基于语义条件水印的大模型指纹",
+    "line": "提出用语义域触发、弥散于回复中的统计水印替代固定查询-应答式指纹，隐蔽且能抵御微调、量化等常见部署操作，用于验证模型所有权。",
+    "topics": [
+      {
+        "slug": "open-models",
+        "name": "开源模型与权重安全"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=t38nZqqi3Z",
+    "site": null,
+    "authors": [
+      "Thibaud Gloaguen",
+      "Robin Staab",
+      "Nikola Jovanović",
+      "Martin Vechev"
+    ],
+    "pushedOn": "2026-10-23"
+  },
+  {
     "id": "iclr:2026:vLFqOoMBol",
     "kind": "conference",
     "title": "Every Language Model Has a Forgery-Resistant Signature",

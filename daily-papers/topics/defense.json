@@ -1,5 +1,32 @@
 [
   {
+    "id": "icml:2026:RL565ePGHR",
+    "kind": "conference",
+    "title": "AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing",
+    "titleZh": "AdLift：用对抗扰动保护 3D 高斯泼溅资产免受指令驱动编辑",
+    "line": "提出 AdLift，将有界 2D 对抗扰动提升为 3D 高斯防护，通过 Lifted PGD 优化，跨任意视角有效且不可感知地防御指令驱动的 2D 与 3DGS 编辑。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=RL565ePGHR",
+    "site": null,
+    "authors": [
+      "Ziming Hong",
+      "Tianyu Huang",
+      "Runnan Chen",
+      "Shanshan Ye",
+      "Mingming Gong",
+      "Bo Han",
+      "Tongliang Liu"
+    ],
+    "pushedOn": "2026-10-23"
+  },
+  {
     "id": "lm181gm465y19ab8oin2itauk",
     "kind": "arxiv",
     "title": "Push-Pull Attentional Anchoring for Diffusion Concept Erasure",

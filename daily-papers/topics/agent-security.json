@@ -1,5 +1,29 @@
 [
   {
+    "id": "ir5vlj7aettc0527ng2bz6bxg",
+    "kind": "arxiv",
+    "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
+    "titleZh": "代你行事，越出授权：LLM 智能体授权对齐基准评测",
+    "line": "提出 AUTHORIZATION BENCH，评测 Agent 是否越出授权范围",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.27548",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27548",
+    "site": "https://aisafetyhot.com/items/ir5vlj7aettc0527ng2bz6bxg",
+    "authors": [
+      "Zhiping Zhang",
+      "Franklin Mingzhe Li",
+      "Zihao Huang",
+      "Tianshi Li"
+    ],
+    "pushedOn": "2026-10-23"
+  },
+  {
     "id": "jmbovkl9cqzg7j0e7gmshtmr2",
     "kind": "arxiv",
     "title": "MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems",
