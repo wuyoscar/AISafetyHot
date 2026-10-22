@@ -6,7 +6,7 @@
     {
       "name": "aisafetyhot",
       "source": ".",
-      "description": "AI safety briefs, paper scouting, related work, lab watch and incident checks, backed by the AI Safety HOT MCP server"
+      "description": "AI safety hot board, briefs, papers and lab or product watch, backed by the AI Safety HOT MCP server"
     }
   ]
 }

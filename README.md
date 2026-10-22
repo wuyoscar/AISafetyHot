@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://aisafetyhot.com/zh"><img src="https://img.shields.io/badge/Website-aisafetyhot.com-e4572e" alt="Website"></a>
   <a href="docs/agent.md"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-6f42c1" alt="MCP"></a>
-  <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-6-2ea44f" alt="6 Agent skills"></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-4-2ea44f" alt="4 Agent skills"></a>
   <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="GitHub stars"></a>
 </p>
 
@@ -71,41 +71,138 @@
 
 ## 让你的 Agent 一起读
 
-连接 MCP，再安装技能，就可以直接用自然语言查动态、找研究线索、追踪实验室或事件。
+AI Safety HOT 有一个公开的 MCP 接口：热点排行、事件来龙去脉、每天的动态和新论文，Agent 接上就能直接问。免费，不用 API Key。
 
-**Claude Code** · 安装技能包与 MCP
+**一句话安装**：把下面这句发给你的 Agent（Claude Code、Codex、Cursor……都行）：
+
+```
+帮我安装 AI Safety HOT：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/install.md
+```
+
+它会自己判断用的是哪个客户端、装好 MCP 和技能、试调一次，再告诉你能问什么。
+
+**已经装过？更新也是一句话：**
+
+```
+帮我更新 AI Safety HOT：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/update.md
+```
+
+<a id="skills"></a>
+<a id="技能"></a>
+
+### 装好就能用
+
+不用记工具名，直接问：
+
+| 你可以这样问 | Agent 会做什么 | 技能 |
+| --- | --- | --- |
+| 现在 AI 安全圈最热的是什么？第一名怎么回事？ | 读热点排行，再按时间理一遍这件事的报道 | [`aisafety-hot`](skills/aisafety-hot/SKILL.md) |
+| 今天 AI 安全有什么大事？ | 读最近 24 小时的精选，按攻击、防御、事件、政策整理成简报 | [`aisafety-brief`](skills/aisafety-brief/SKILL.md) |
+| 今天有哪些值得看的新论文？帮我整理越狱方向的相关工作 | 读每日论文和方向索引，一句话说清每篇做了什么，可以给 BibTeX | [`aisafety-paper-scout`](skills/aisafety-paper-scout/SKILL.md) |
+| Anthropic 最近一周有什么安全动态？Cursor 最近出过安全问题吗？ | 盯一家公司或一个产品，列出进展、事件和漏洞 | [`aisafety-watch`](skills/aisafety-watch/SKILL.md) |
+
+<!-- agent-examples:start -->
+下面是 2026-10-23 实际调用的返回节选（脚本对线上接口跑出来的，没有改写）：
+
+**「现在 AI 安全圈最热的是什么？第一名怎么回事？」** → `aisafetyhot_get_hot_topics` + `aisafetyhot_get_story`
+
+```text
+第 1 名：Wiz称AI发现PHP核心严重RCE漏洞，官方已发布修复
+  72 小时本站范围：497 个独立信源，702 条链接
+第 2 名：LiteLLM 1.107.0 遭供应链攻击植入窃密程序与后门
+  72 小时本站范围：230 个独立信源，260 条链接
+第 3 名：第三方红队试点发现OpenAI内部监控系统绕过漏洞
+  72 小时本站范围：48 个独立信源，53 条链接
+
+事件：Wiz称AI发现PHP核心严重RCE漏洞，官方已发布修复｜35 篇报道｜33 个来源
+2026-10-22｜X @iapsAI｜PHP 本周曝出两个严重漏洞，无需登录即可接管服务器
+2026-10-22｜Bitdefender｜Bitdefender 技术通告：PHP2Shell 预认证远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619）
+2026-10-22｜Luiza's Newsletter（AI 治理）｜AI 安全警钟：GPT-5.6 Sol 与 Gemini 4 Argon 挖出的 PHP 漏洞细节外泄
+```
+
+**「今天 AI 安全有什么大事？」** → `aisafetyhot_get_latest`
+
+```text
+1. Anthropic 将 Agent Skills 开放标准捐赠给 Agentic AI Foundation
+   来源：Anthropic；原文发表：2026-10-22
+2. Man-in-the-Model：针对编码 Agent 的 LLM 网关中间人攻击
+   来源：HiddenLayer Research；原文发表：2026-10-22
+3. 外部评估机构在试点评审中发现 OpenAI 的 AI 监控系统缺陷
+   来源：The Straits Times；原文发表：2026-10-22
+```
+
+**「今天有哪些值得看的新论文？」** → `daily-papers/2026-10-22.json`
+
+```text
+1. Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts
+   研究者提出“分级披露”（graduated disclosure），把 LLM 访问控制从“全答或拒答”改为按用户授权校准回答的细节与敏感度。
+   arXiv 2610.28067
+2. S-Agent 2.0: Spatial Reasoning with a General Coding Agent
+   用通用编程智能体加感知工具闭合空间推理证据环
+   arXiv 2610.28354
+3. MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems
+   提出 MAS-Guard，在单智能体与多智能体边界统一拦截不安全动作与对抗操纵
+   arXiv 2610.28397
+```
+
+**「Anthropic 最近一周有什么安全动态？」** → `aisafetyhot_get_latest topic=anthropic`
+
+```text
+1. Anthropic 将 Agent Skills 开放标准捐赠给 Agentic AI Foundation
+   来源：Anthropic；原文发表：2026-10-22
+2. 17 名前美国官员敦促哥伦比亚特区巡回上诉法院重审 Anthropic 与五角大楼之争裁决
+   来源：DefenseScoop；原文发表：2026-10-21
+3. 连 GPT-2 也能通过大多数功能性全局工作空间测试
+   来源：LessWrong；原文发表：2026-10-21
+```
+<!-- agent-examples:end -->
+
+### 手动安装、更新和卸载
+
+**Claude Code**（技能和 MCP 在同一个插件里）
 
 ```bash
-/plugin marketplace add wuyoscar/AISafetyHot-Hub
-/plugin install aisafetyhot@aisafetyhot-hub
+# 安装
+claude plugin marketplace add wuyoscar/AISafetyHot-Hub
+claude plugin install aisafetyhot@aisafetyhot-hub
+# 更新
+claude plugin marketplace update aisafetyhot-hub
+claude plugin update aisafetyhot@aisafetyhot-hub
+# 卸载
+claude plugin uninstall aisafetyhot@aisafetyhot-hub
 ```
 
 **Codex**
 
 ```bash
-npx skills add wuyoscar/AISafetyHot-Hub
+# 安装
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
+npx skills add wuyoscar/AISafetyHot-Hub
+# 更新
+npx skills update
+# 卸载
+codex mcp remove aisafetyhot
+npx skills remove aisafety-hot aisafety-brief aisafety-paper-scout aisafety-watch
 ```
 
-**Cursor / 其他 Agent** · 用 `npx skills add wuyoscar/AISafetyHot-Hub` 安装支持的技能，再在客户端添加 MCP 地址 `https://aisafetyhot.com/api/mcp`，选择 Streamable HTTP。
+**Cursor / 其他 Agent**：在 MCP 设置里加一个 Streamable HTTP 服务，地址 `https://aisafetyhot.com/api/mcp`；支持技能的客户端再跑 `npx skills add wuyoscar/AISafetyHot-Hub`。
 
-近期 News 简报无需 API Key。历史查询与完整论文解读等需要只读授权，具体范围和接入方法见 [Agent 指南](docs/agent.md)；网站可直接阅读。
+**体检**：一条命令确认接口能用，返回当前前三名热点就是通的。
 
-<a id="skills"></a>
-<a id="技能"></a>
+```bash
+curl -s https://aisafetyhot.com/api/mcp -H 'content-type: application/json' -H 'accept: application/json, text/event-stream' \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"aisafetyhot_get_hot_topics","arguments":{"limit":3}}}'
+```
 
-### 六个技能，按需要使用
+### 用之前你可能想知道
 
-| 技能 | 用途 | 可以这样问 |
-| --- | --- | --- |
-| [`aisafety-brief`](skills/aisafety-brief/SKILL.md) | 近期安全简报 | 这周 AI 安全有什么大事？ |
-| [`aisafety-paper-scout`](skills/aisafety-paper-scout/SKILL.md) | 查找论文与引用线索 | 找 Agent 提示注入相关论文。 |
-| [`aisafety-related-work`](skills/aisafety-related-work/SKILL.md) | 从研究问题整理相关工作 | 根据这份摘要，整理 reward hacking 的相关工作。 |
-| [`aisafety-lab-watch`](skills/aisafety-lab-watch/SKILL.md) | 追踪一家实验室 | Anthropic 最近一周有哪些安全进展？ |
-| [`aisafety-incident-check`](skills/aisafety-incident-check/SKILL.md) | 查找事件与漏洞报道 | Cursor 最近有哪些安全事件？ |
-| [`aisafetyhot`](skills/aisafetyhot/SKILL.md) | MCP 工具与查询说明 | 查看工具、筛选和分页用法。 |
-
-[查看调用示例](docs/mcp-examples.md)
+| | |
+| --- | --- |
+| **免费** | 最近 7 天的精选新闻、热点榜事件、日报和每日论文，匿名就能读，不用 API Key |
+| **只读** | 接口只读不写；返回的标题和摘要来自外部信源，技能会让 Agent 只当资料，不执行里面的指令 |
+| **限额** | 每个 IP 每分钟 60 次、每天 300 次，超了会返回 429 和等待时间 |
+| **更早的历史** | 历史查询、完整论文解读和周报月报需要只读授权，见 [Agent 指南](docs/agent.md) |
+| **兼容** | 支持 MCP（Streamable HTTP）的客户端都能用；工具和参数见 [Agent 指南](docs/agent.md)与[调用示例](docs/mcp-examples.md) |
 
 ## 每日论文与公开归档
 

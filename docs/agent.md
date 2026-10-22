@@ -2,7 +2,7 @@
 
 ## 公开范围
 
-匿名接口提供 **原发最近 7 天的 News 简报**，包括标题、最多 160 字的摘要、已知原发时间、原文链接和本站链接。未知原发日期或只有月份的内容不会凭收录时间进入近期范围。
+匿名接口提供 **原发最近 7 天、编辑精选的 News 简报**，以及**热点榜上事件**的报道，包括标题、最多 160 字的摘要、已知原发时间、原文链接和本站链接。未知原发日期或只有月份的内容不会凭收录时间进入近期范围。
 
 最近动态还附最多 **5 篇近期精选论文的标题和链接**，方便在网站阅读。论文摘要、完整速读、六问解读、实验设置与关键数字不通过匿名接口导出。
 
@@ -19,25 +19,25 @@
 
 | 工具 | 匿名范围 |
 | --- | --- |
-| `aisafetyhot_get_latest` | 最近 24 小时或 7 天 News；mode=selected/all，附少量精选论文链接 |
-| `aisafetyhot_search` | 在同一近期 News 范围内搜索和翻页 |
+| `aisafetyhot_get_latest` | 最近 24 小时或 7 天的精选 News，附少量精选论文链接 |
+| `aisafetyhot_search` | 在近期精选 News 里搜索和翻页 |
 | `aisafetyhot_get_content` | 近期 News 短摘要或当前精选论文标题/链接；depth=summary |
 | `aisafetyhot_get_hot_topics` | 当前热点标题、排名和阅读入口 |
-| `aisafetyhot_get_story` | 同一事件最近 7 天 News 报道短摘要与链接；depth=summary |
+| `aisafetyhot_get_story` | 热点榜事件最近 7 天的报道短摘要与链接；depth=summary |
 | `aisafetyhot_get_daily` | 最近 7 天内日报的 News 简报和网站链接；period=daily |
 | `aisafetyhot_get_topics` | 发现既有话题 slug，用于近期 News 筛选 |
 
 ## 做一次简报
 
-调用 `get_latest({window:"7d",mode:"all",limit:10})`。通过 `page.nextCursor` 继续翻页，保留相同筛选，直到 `page.hasMore=false`。结果中的 `paperPicks` 仅是论文标题和链接。
+调用 `get_latest({window:"7d",mode:"selected",limit:10})`。通过 `page.nextCursor` 继续翻页，保留相同筛选，直到 `page.hasMore=false`。结果中的 `paperPicks` 仅是论文标题和链接。
 
-新闻条目的 `id` 交给 `get_content({id:"返回的id",depth:"summary"})`。事件 `publicId` 交给 `get_story({public_id:"返回的publicId",depth:"summary"})`。搜索用 `search({q:"prompt injection",mode:"all",window:"7d",limit:10})`。
+新闻条目的 `id` 交给 `get_content({id:"返回的id",depth:"summary"})`。事件 `publicId` 交给 `get_story({public_id:"返回的publicId",depth:"summary"})`。搜索用 `search({q:"prompt injection",mode:"selected",window:"7d",limit:10})`。
 
 `publishedAt` 和 `publishedDate` 来自原文，`discoveredAt` 是本站收录时间。日期未知保持 null。每条保留原文和本站链接，短摘要可能截断，完整内容在网站阅读。
 
 ## 读取配额
 
-匿名 MCP、REST 与 RSS 合计每 IP 最多 60 次/分钟、1,000 次/UTC 日；超额返回 429 和 Retry-After。按需读取并缓存结果。
+匿名 MCP、REST 与 RSS 合计每 IP 最多 60 次/分钟、300 次/UTC 日；超额返回 429 和 Retry-After。按需读取并缓存结果。
 
 ## 授权与错误
 

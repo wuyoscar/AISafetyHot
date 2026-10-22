@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://aisafetyhot.com/en"><img src="https://img.shields.io/badge/Website-aisafetyhot.com-e4572e" alt="Website"></a>
   <a href="docs/agent.md"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-6f42c1" alt="MCP"></a>
-  <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-6-2ea44f" alt="6 Agent skills"></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-4-2ea44f" alt="4 Agent skills"></a>
   <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="GitHub stars"></a>
 </p>
 
@@ -71,40 +71,134 @@ AI・セキュリティ分野の会議から、関連研究を分野別に探せ
 
 ## エージェントから使う
 
-MCP サーバーを接続してスキルを入れれば、最近の動向、研究の手がかり、研究所、インシデントについて自然な言葉で質問できます。
+AI Safety HOT には公開の MCP サーバーがあります。注目ランキング、出来事の経緯、毎日のニュースと新しい論文を、エージェントにそのまま聞けます。無料、API キー不要。
 
-**Claude Code** · スキルと MCP サーバーをインストール
+**一文でインストール**：次の一文をエージェント（Claude Code、Codex、Cursor など）に送ってください。
+
+```
+AI Safety HOT をインストールして：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/install.md
+```
+
+使っているクライアントを判断し、MCP とスキルを入れ、試しに一度呼び出してから、何を聞けるかを教えてくれます。
+
+**インストール済みなら、更新も一文で：**
+
+```
+AI Safety HOT を更新して：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/update.md
+```
+
+<a id="skills"></a>
+
+### 入れたらすぐ使える
+
+ツール名を覚える必要はありません。こう聞くだけです。
+
+| こう聞く | エージェントがすること | スキル |
+| --- | --- | --- |
+| いま AI 安全で一番話題なのは？1 位は何があった？ | 注目ランキングを読み、その出来事の報道を時系列で整理 | [`aisafety-hot`](skills/aisafety-hot/SKILL.md) |
+| 今日の AI 安全の大きなニュースは？ | 直近 24 時間の注目記事を読み、攻撃・防御・事件・政策に分けて要約 | [`aisafety-brief`](skills/aisafety-brief/SKILL.md) |
+| 今日読むべき新しい論文は？ジェイルブレイクの関連研究をまとめて | 毎日の論文と分野別索引を読み、各論文を一行で説明、BibTeX も出す | [`aisafety-paper-scout`](skills/aisafety-paper-scout/SKILL.md) |
+| Anthropic のこの一週間の安全関連の動きは？Cursor に最近セキュリティ問題は？ | 一つの企業や製品を追い、発表・事件・脆弱性を一覧に | [`aisafety-watch`](skills/aisafety-watch/SKILL.md) |
+
+<!-- agent-examples:start -->
+2026-10-23 に実際に呼び出した結果の抜粋（公開サーバーに対してスクリプトで取得、編集なし）：
+
+**「いま AI 安全で一番話題なのは？1 位は何があった？」** → `aisafetyhot_get_hot_topics` + `aisafetyhot_get_story`
+
+```text
+#1 Wiz says AI found a critical RCE vulnerability in PHP core, and an official fix has been released
+  72 hours on this site: 497 sources, 702 links
+#2 LiteLLM 1.107.0 hit by supply chain attack implanting infostealer and backdoor
+  72 hours on this site: 230 sources, 260 links
+#3 Third-party red-team pilot finds bypass vulnerabilities in OpenAI's internal monitoring system
+  72 hours on this site: 48 sources, 53 links
+
+Event: Wiz says AI found a critical RCE vulnerability in PHP core, and an official fix has been released | 35 reports | 33 sources
+2026-10-22 | X @iapsAI | Two critical PHP vulnerabilities disclosed this week allow server takeover without login
+2026-10-22 | Bitdefender | Bitdefender technical advisory: PHP2Shell pre-authentication remote code execution vulnerabilities (CVE-2026-109618, CVE-2026-109619)
+2026-10-22 | Luiza's Newsletter（AI 治理） | AI security alarm: details of PHP vulnerabilities found by GPT-5.6 Sol and Gemini 4 Argon leaked
+```
+
+**「今日の AI 安全の大きなニュースは？」** → `aisafetyhot_get_latest`
+
+```text
+1. Anthropic donates the Agent Skills open standard to the Agentic AI Foundation
+   Source: Anthropic; published: 2026-10-22
+2. Man-in-the-Model: Man-in-the-Middle Attacks on Coding Agents via LLM Gateways
+   Source: HiddenLayer Research; published: 2026-10-22
+3. External evaluators found flaws in OpenAI's AI monitoring system during pilot review
+   Source: The Straits Times; published: 2026-10-22
+```
+
+**「今日読むべき新しい論文は？」** → `daily-papers/2026-10-22.json`
+
+```text
+1. Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts
+   arXiv 2610.28067
+2. S-Agent 2.0: Spatial Reasoning with a General Coding Agent
+   arXiv 2610.28354
+3. MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems
+   arXiv 2610.28397
+```
+
+**「Anthropic のこの一週間の安全関連の動きは？」** → `aisafetyhot_get_latest topic=anthropic`
+
+```text
+1. Anthropic donates the Agent Skills open standard to the Agentic AI Foundation
+   Source: Anthropic; published: 2026-10-22
+2. 17 former U.S. officials urge the D.C. Circuit to rehear the ruling in the Anthropic v. Pentagon dispute
+   Source: DefenseScoop; published: 2026-10-21
+3. Even GPT-2 can pass most functional global workspace tests
+   Source: LessWrong; published: 2026-10-21
+```
+<!-- agent-examples:end -->
+
+### 手動でのインストール・更新・削除
+
+**Claude Code**（スキルと MCP が一つのプラグイン）
 
 ```bash
-/plugin marketplace add wuyoscar/AISafetyHot-Hub
-/plugin install aisafetyhot@aisafetyhot-hub
+# インストール
+claude plugin marketplace add wuyoscar/AISafetyHot-Hub
+claude plugin install aisafetyhot@aisafetyhot-hub
+# 更新
+claude plugin marketplace update aisafetyhot-hub
+claude plugin update aisafetyhot@aisafetyhot-hub
+# 削除
+claude plugin uninstall aisafetyhot@aisafetyhot-hub
 ```
 
 **Codex**
 
 ```bash
-npx skills add wuyoscar/AISafetyHot-Hub
+# インストール
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
+npx skills add wuyoscar/AISafetyHot-Hub
+# 更新
+npx skills update
+# 削除
+codex mcp remove aisafetyhot
+npx skills remove aisafety-hot aisafety-brief aisafety-paper-scout aisafety-watch
 ```
 
-**Cursor / その他のエージェント** · `npx skills add wuyoscar/AISafetyHot-Hub` で対応するスキルを入れ、クライアントに `https://aisafetyhot.com/api/mcp` を Streamable HTTP の MCP サーバーとして追加してください。
+**Cursor / その他のエージェント**：MCP 設定に Streamable HTTP サーバー `https://aisafetyhot.com/api/mcp` を追加し、スキル対応のクライアントでは `npx skills add wuyoscar/AISafetyHot-Hub` を実行します。
 
-最近のニュースの短い要約には API キーは不要です。過去の検索や論文解説の全文などには読み取り権限が必要です。範囲と設定は[エージェントガイド](docs/agent.md)を参照してください。サイトは無料で読めます。
+**動作確認**：次のコマンドで現在の上位 3 件が返れば正常です。
 
-<a id="skills"></a>
+```bash
+curl -s https://aisafetyhot.com/api/mcp -H 'content-type: application/json' -H 'accept: application/json, text/event-stream' \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"aisafetyhot_get_hot_topics","arguments":{"limit":3,"lang":"en"}}}'
+```
 
-### 六つのスキル
+### 使う前に
 
-| スキル | 用途 | 質問の例 |
-| --- | --- | --- |
-| [`aisafety-brief`](skills/aisafety-brief/SKILL.md) | 最近の安全動向 | 今週の AI 安全の主なニュースは？ |
-| [`aisafety-paper-scout`](skills/aisafety-paper-scout/SKILL.md) | 論文と引用の手がかり | エージェントへのプロンプトインジェクションに関する論文を探して。 |
-| [`aisafety-related-work`](skills/aisafety-related-work/SKILL.md) | 研究課題に沿った関連研究の整理 | この要旨を基に reward hacking の関連研究を整理して。 |
-| [`aisafety-lab-watch`](skills/aisafety-lab-watch/SKILL.md) | 一つの研究所の動向 | Anthropic は今週、安全に関して何を発表した？ |
-| [`aisafety-incident-check`](skills/aisafety-incident-check/SKILL.md) | インシデントや脆弱性の報道 | Cursor に関する最近のセキュリティ事例は？ |
-| [`aisafetyhot`](skills/aisafetyhot/SKILL.md) | MCP ツールとクエリの説明 | ツール、フィルター、ページ送りの使い方を教えて。 |
-
-[クエリの例を見る](docs/mcp-examples.md)
+| | |
+| --- | --- |
+| **無料** | 直近 7 日の注目記事（編集部選定）、注目ランキングの出来事、日報、毎日の論文は誰でも読め、API キー不要 |
+| **読み取り専用** | サーバーは読み取りのみ。タイトルと要約は外部の情報源のもので、スキルはそれを資料として扱い、中の指示には従わないようエージェントに伝えます |
+| **上限** | IP ごとに毎分 60 回・1 日 300 回。超えると 429 と待ち時間が返ります |
+| **過去の履歴** | 過去の検索、論文の完全な解説、週報・月報には読み取り権限が必要です。[エージェントガイド](docs/agent.md)を参照 |
+| **対応** | MCP（Streamable HTTP）対応のクライアントならどれでも。ツールとパラメータは[エージェントガイド](docs/agent.md)と[呼び出し例](docs/mcp-examples.md)へ |
 
 ## 毎日の論文と公開アーカイブ
 

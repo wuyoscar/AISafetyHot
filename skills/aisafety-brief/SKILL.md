@@ -5,7 +5,7 @@ description: Brief the user on what happened in AI safety in the last 24 hours o
 
 # AI Safety brief
 
-Data: the AI Safety HOT MCP server (`aisafetyhot`, https://aisafetyhot.com/api/mcp, no key needed).
+Data: the AI Safety HOT MCP server (`aisafetyhot`, https://aisafetyhot.com/api/mcp, no key needed). Add `lang: "en"` to any call for English text.
 
 1. Ask nothing up front. Default window `7d`; use `24h` if the user says today.
 2. Call `aisafetyhot_get_latest` with `window`, `mode: "selected"` (editor-picked) and `limit: 30`. If the user named a direction, first call `aisafetyhot_get_topics` and pass the matching `topic` slug; for a kind of news pass `category` (attack, defense, alignment, eval, incident, industry, tip, opinion).

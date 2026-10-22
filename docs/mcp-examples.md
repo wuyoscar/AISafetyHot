@@ -11,7 +11,7 @@
 ### 怎么用
 
 ```json
-{"name":"aisafetyhot_get_latest","arguments":{"window":"7d","mode":"all","limit":1}}
+{"name":"aisafetyhot_get_latest","arguments":{"window":"7d","mode":"selected","limit":1}}
 ```
 
 ### 结果
@@ -50,7 +50,7 @@
 `page.hasMore=true` 时，将同次返回的 `page.nextCursor` 原样填入下一次调用的 `arguments.cursor`，保持其他参数不变。例如，继续上面 `limit=1` 的调用：
 
 ```json
-{"name":"aisafetyhot_get_latest","arguments":{"window":"7d","mode":"all","limit":1,"cursor":"替换为上次返回的 page.nextCursor"}}
+{"name":"aisafetyhot_get_latest","arguments":{"window":"7d","mode":"selected","limit":1,"cursor":"替换为上次返回的 page.nextCursor"}}
 ```
 
 `cursor` 的值是占位说明，调用前须替换为实际返回的游标；不要把字段名 `nextCursor` 当作请求参数。每次继续翻页都使用上一页返回的新游标，直到 `page.hasMore=false`；不能只因返回条数少于 `limit` 就判断已经读完。
@@ -60,11 +60,11 @@
 ## 最新与搜索
 
 ```json
-{"name":"aisafetyhot_get_latest","arguments":{"window":"7d","mode":"all","limit":10}}
+{"name":"aisafetyhot_get_latest","arguments":{"window":"7d","mode":"selected","limit":10}}
 ```
 
 ```json
-{"name":"aisafetyhot_search","arguments":{"q":"prompt injection","window":"7d","mode":"all","limit":10}}
+{"name":"aisafetyhot_search","arguments":{"q":"prompt injection","window":"7d","mode":"selected","limit":10}}
 ```
 
 同一筛选沿返回的 `page.nextCursor` 翻页，直到 `page.hasMore=false`。`paperPicks` 只提供标题与链接。
