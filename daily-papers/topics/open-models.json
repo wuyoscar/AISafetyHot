@@ -1,5 +1,31 @@
 [
   {
+    "id": "icml:2026:wkV9jSqwa9",
+    "kind": "conference",
+    "title": "GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures",
+    "titleZh": "GoodDiffusion：基于可学习样本特定签名的扩散桥模型主动版权保护",
+    "line": "借鉴后门机制将授权内化进生成过程，授权签名可正常生成、未授权输入被拒绝，并用可学习签名网络防止替代签名被梯度优化恢复。",
+    "topics": [
+      {
+        "slug": "open-models",
+        "name": "开源模型与权重安全"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=wkV9jSqwa9",
+    "site": null,
+    "authors": [
+      "Shixi Qin",
+      "Zhiyong Yang",
+      "Shilong Bao",
+      "Zitai Wang",
+      "Qianqian Xu",
+      "Qingming Huang"
+    ],
+    "pushedOn": "2026-10-24"
+  },
+  {
     "id": "iclr:2026:t38nZqqi3Z",
     "kind": "conference",
     "title": "LLM Fingerprinting via Semantically Conditioned Watermarks",

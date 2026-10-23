@@ -1,5 +1,29 @@
 [
   {
+    "id": "xoch8z7lovrsw6znh1bjv6ko7",
+    "kind": "arxiv",
+    "title": "Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing",
+    "titleZh": "LLM 安全中的极性盲区：否定、反义词替换与对抗性框架的系统研究",
+    "line": "提出极性盲视探针，用否定与反义词替换绕过聊天模型安全护栏",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2610.27908",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27908",
+    "site": "https://aisafetyhot.com/items/xoch8z7lovrsw6znh1bjv6ko7",
+    "authors": [
+      "Diego Miguel Lozano",
+      "Erik Derner",
+      "Juan Antonio Pérez-Ortiz",
+      "Nuria Oliver"
+    ],
+    "pushedOn": "2026-10-24"
+  },
+  {
     "id": "xv2fxmfpsehzuvne1wjk8gnco",
     "kind": "arxiv",
     "title": "Training a General Purpose Automated Red Teaming Model",

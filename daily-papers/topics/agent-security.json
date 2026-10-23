@@ -1,5 +1,52 @@
 [
   {
+    "id": "dm4zx6om9wqwxmerjr3l5yob1",
+    "kind": "arxiv",
+    "title": "Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)",
+    "titleZh": "研究者对 Google AP2 v0.2 做系统安全分析，识别 48 项威胁",
+    "line": "系统分析智能体支付协议的前置上下文操纵与授权威胁",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2608.23858",
+    "date": "2026-08-24",
+    "url": "https://arxiv.org/abs/2608.23858",
+    "site": "https://aisafetyhot.com/items/dm4zx6om9wqwxmerjr3l5yob1",
+    "authors": [
+      "Avital Aviv",
+      "Parth A. Gandh",
+      "Ron Bitton",
+      "Asaf Shabtai"
+    ],
+    "pushedOn": "2026-10-24"
+  },
+  {
+    "id": "y3r8l1llcgu5y8f8sbaadjgxo",
+    "kind": "arxiv",
+    "title": "Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory",
+    "titleZh": "披露引发披露：持久记忆 LLM 智能体中的自我强化隐私循环",
+    "line": "测量持久记忆 LLM 智能体查阅记忆引发的自我强化隐私泄露循环",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.28315",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28315",
+    "site": "https://aisafetyhot.com/items/y3r8l1llcgu5y8f8sbaadjgxo",
+    "authors": [
+      "Masahiro Kaneko",
+      "Hiromi Arai",
+      "Timothy Baldwin"
+    ],
+    "pushedOn": "2026-10-24"
+  },
+  {
     "id": "ir5vlj7aettc0527ng2bz6bxg",
     "kind": "arxiv",
     "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",

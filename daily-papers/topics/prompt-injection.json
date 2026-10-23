@@ -1,5 +1,33 @@
 [
   {
+    "id": "iclr:2026:yWwrgcBoK3",
+    "kind": "conference",
+    "title": "RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments",
+    "titleZh": "RedTeamCUA：混合 Web-OS 环境中计算机使用智能体的对抗测试",
+    "line": "提出混合沙箱对抗测试框架与含864个样本的RTC-Bench，发现前沿CUA对间接提示注入脆弱，Claude 3.7 Sonnet攻击成功率42.9%，最安全的Operator也有7.6%。",
+    "topics": [
+      {
+        "slug": "prompt-injection",
+        "name": "提示注入"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=yWwrgcBoK3",
+    "site": null,
+    "authors": [
+      "Zeyi Liao",
+      "Jaylen Jones",
+      "Linxi Jiang",
+      "Yuting Ning",
+      "Eric Fosler-Lussier",
+      "Yu Su",
+      "Zhiqiang Lin",
+      "Huan Sun"
+    ],
+    "pushedOn": "2026-10-24"
+  },
+  {
     "id": "icml:2026:vTJmIhNvC3",
     "kind": "conference",
     "title": "Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense",

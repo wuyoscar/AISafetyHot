@@ -1,5 +1,35 @@
 [
   {
+    "id": "sez6mdkitgj2vmmh0afe0z599",
+    "kind": "arxiv",
+    "title": "Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety",
+    "titleZh": "WIFA：按意图分组监督缓解包装式越狱与过度拒答",
+    "line": "提出 WIFA 意图组监督微调，缓解包装式越狱与过度拒答",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2608.13304",
+    "date": "2026-08-13",
+    "url": "https://arxiv.org/abs/2608.13304v1",
+    "site": "https://aisafetyhot.com/items/sez6mdkitgj2vmmh0afe0z599",
+    "authors": [
+      "Ping Wu",
+      "Haibo Tong",
+      "Feifei Zhao",
+      "Han Shen",
+      "Yu Shi",
+      "Yilin Zhao",
+      "Sicheng Shen",
+      "Guobin Shen",
+      "Yun Luo",
+      "Yi Zeng"
+    ],
+    "pushedOn": "2026-10-24"
+  },
+  {
     "id": "icml:2026:RL565ePGHR",
     "kind": "conference",
     "title": "AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing",
