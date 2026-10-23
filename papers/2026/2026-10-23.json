@@ -1,0 +1,38 @@
+[
+  {
+    "arxivId": "2610.31579",
+    "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
+    "titleZh": "谁在谄媚谁？自信的大语言模型、人类顺从与信任校准的崩塌",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31579",
+      "aisafetyhot": "https://aisafetyhot.com/items/m4ru5r1a6zy0h6f97td9dbn8b"
+    },
+    "publishedAt": "2026-10-22T17:15:59.000Z",
+    "timelineAt": "2026-10-23T04:50:37.473Z",
+    "discoveredAt": "2026-10-23T04:50:37.473Z"
+  },
+  {
+    "arxivId": "2610.30727",
+    "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
+    "titleZh": "匹配误报率下，忠实潜空间危害监控器并不优于模型自身行为",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.30727",
+      "aisafetyhot": "https://aisafetyhot.com/items/m7zd6qg6r4kt175ik46imr3n8"
+    },
+    "publishedAt": "2026-10-22T04:54:53.000Z",
+    "timelineAt": "2026-10-23T06:08:36.580Z",
+    "discoveredAt": "2026-10-23T06:08:36.580Z"
+  }
+]
