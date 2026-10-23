@@ -102,58 +102,58 @@ AI Safety HOT 有一个公开的 MCP 接口：热点排行、事件来龙去脉�
 | Anthropic 最近一周有什么安全动态？Cursor 最近出过安全问题吗？ | 盯一家公司或一个产品，列出进展、事件和漏洞 | [`aisafety-watch`](skills/aisafety-watch/SKILL.md) |
 
 <!-- agent-examples:start -->
-下面是 2026-10-23 实际调用的返回节选（脚本对线上接口跑出来的，没有改写）：
+下面是 2026-10-24 实际调用的返回节选：
 
 **「现在 AI 安全圈最热的是什么？第一名怎么回事？」** → `aisafetyhot_get_hot_topics` + `aisafetyhot_get_story`
 
 ```text
 第 1 名：Wiz称AI发现PHP核心严重RCE漏洞，官方已发布修复
-  72 小时本站范围：497 个独立信源，702 条链接
-第 2 名：LiteLLM 1.107.0 遭供应链攻击植入窃密程序与后门
-  72 小时本站范围：230 个独立信源，260 条链接
-第 3 名：第三方红队试点发现OpenAI内部监控系统绕过漏洞
-  72 小时本站范围：48 个独立信源，53 条链接
+  72 小时本站范围：646 个独立信源，917 条链接
+第 2 名：第三方红队试点发现OpenAI内部监控系统漏洞
+  72 小时本站范围：128 个独立信源，143 条链接
+第 3 名：LiteLLM 1.107.0 遭入侵，植入窃密程序与后门
+  72 小时本站范围：264 个独立信源，307 条链接
 
-事件：Wiz称AI发现PHP核心严重RCE漏洞，官方已发布修复｜35 篇报道｜33 个来源
-2026-10-22｜X @iapsAI｜PHP 本周曝出两个严重漏洞，无需登录即可接管服务器
-2026-10-22｜Bitdefender｜Bitdefender 技术通告：PHP2Shell 预认证远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619）
-2026-10-22｜Luiza's Newsletter（AI 治理）｜AI 安全警钟：GPT-5.6 Sol 与 Gemini 4 Argon 挖出的 PHP 漏洞细节外泄
+事件：Wiz称AI发现PHP核心严重RCE漏洞，官方已发布修复｜49 篇报道｜45 个来源
+2026-10-23｜The Guardian · 人工智能｜“黑色十月”：网络安全专家对 AI 助力黑客攻击新时代发出警报
+2026-10-23｜Semafor｜人类自满制造了 AI 时代最大的问题
+2026-10-23｜ZDF｜AI 发现的 PHP 安全漏洞：网站为何下线、后续如何应对
 ```
 
 **「今天 AI 安全有什么大事？」** → `aisafetyhot_get_latest`
 
 ```text
-1. Anthropic 将 Agent Skills 开放标准捐赠给 Agentic AI Foundation
-   来源：Anthropic；原文发表：2026-10-22
-2. Man-in-the-Model：针对编码 Agent 的 LLM 网关中间人攻击
-   来源：HiddenLayer Research；原文发表：2026-10-22
-3. 外部评估机构在试点评审中发现 OpenAI 的 AI 监控系统缺陷
-   来源：The Straits Times；原文发表：2026-10-22
+1. OpenAI 加强前沿模型训练环境安全防护
+   来源：OpenAI；原文发表：2026-10-23
+2. USDA 承认 DOGE 裁员让联邦 AI 人工监督“难以为继”
+   来源：TechTimes；原文发表：2026-10-23
+3. Anthropic 称其未发布模型在能力和对齐上都优于 Mythos 5.1
+   来源：The Decoder；原文发表：2026-10-23
 ```
 
-**「今天有哪些值得看的新论文？」** → `daily-papers/2026-10-22.json`
+**「今天有哪些值得看的新论文？」** → `daily-papers/2026-10-24.json`
 
 ```text
-1. Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts
-   研究者提出“分级披露”（graduated disclosure），把 LLM 访问控制从“全答或拒答”改为按用户授权校准回答的细节与敏感度。
-   arXiv 2610.28067
-2. S-Agent 2.0: Spatial Reasoning with a General Coding Agent
-   用通用编程智能体加感知工具闭合空间推理证据环
-   arXiv 2610.28354
-3. MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems
-   提出 MAS-Guard，在单智能体与多智能体边界统一拦截不安全动作与对抗操纵
-   arXiv 2610.28397
+1. Agentic Verified Optimization of Real-World Software
+   研究者提出智能体验证式优化任务，要求智能体在产出更快实现的同时给出与既有实现等价的机器可检验证明，以应对现有等价检查主要依赖测试、而智能体已被证明会利用测试通过检查却不保留原行为的问题。
+   arXiv 2610.30188
+2. Reliable AI-Assisted Decisions via Selective Auditing
+   研究者提出一种选择性审计方法，在保证未被审计的 AI 错误比例低于用户设定阈值的前提下，尽量减少人工专家审查。
+   arXiv 2610.31662
+3. AgentVQA: A Unified Benchmark for Agentic Visual Understanding
+   研究者推出 AgentVQA，一个覆盖网页智能体、机器人、第一人称视频、游戏和空间规划五类场景的离线基准，用于评测视觉语言模型在真实智能体任务上的表现，以补充成本高、难扩展的在线评测。
+   arXiv 2610.31494
 ```
 
 **「Anthropic 最近一周有什么安全动态？」** → `aisafetyhot_get_latest topic=anthropic`
 
 ```text
-1. Anthropic 将 Agent Skills 开放标准捐赠给 Agentic AI Foundation
-   来源：Anthropic；原文发表：2026-10-22
-2. 17 名前美国官员敦促哥伦比亚特区巡回上诉法院重审 Anthropic 与五角大楼之争裁决
-   来源：DefenseScoop；原文发表：2026-10-21
-3. 连 GPT-2 也能通过大多数功能性全局工作空间测试
-   来源：LessWrong；原文发表：2026-10-21
+1. Anthropic 称其未发布模型在能力和对齐上都优于 Mythos 5.1
+   来源：The Decoder；原文发表：2026-10-23
+2. AISI 就 2026 年 7 月自家事故开展对齐调查：Mythos 5 为何实施未经授权的供应链攻击
+   来源：X @AISecurityInst；原文发表：2026-10-23
+3. Anthropic 对 UK AISI 网络测试事件的对齐评估
+   来源：Anthropic Research；原文发表：2026-10-23
 ```
 <!-- agent-examples:end -->
 

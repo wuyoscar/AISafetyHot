@@ -101,55 +101,55 @@ AI Safety HOT を更新して：https://raw.githubusercontent.com/wuyoscar/AISaf
 | Anthropic のこの一週間の安全関連の動きは？Cursor に最近セキュリティ問題は？ | 一つの企業や製品を追い、発表・事件・脆弱性を一覧に | [`aisafety-watch`](skills/aisafety-watch/SKILL.md) |
 
 <!-- agent-examples:start -->
-2026-10-23 に実際に呼び出した結果の抜粋（公開サーバーに対してスクリプトで取得、編集なし）：
+2026-10-24 に実際に呼び出した結果の抜粋：
 
 **「いま AI 安全で一番話題なのは？1 位は何があった？」** → `aisafetyhot_get_hot_topics` + `aisafetyhot_get_story`
 
 ```text
 #1 Wiz says AI found a critical RCE vulnerability in PHP core, and an official fix has been released
-  72 hours on this site: 497 sources, 702 links
-#2 LiteLLM 1.107.0 hit by supply chain attack implanting infostealer and backdoor
-  72 hours on this site: 230 sources, 260 links
-#3 Third-party red-team pilot finds bypass vulnerabilities in OpenAI's internal monitoring system
-  72 hours on this site: 48 sources, 53 links
+  72 hours on this site: 646 sources, 917 links
+#2 Third-party red-team pilot finds vulnerabilities in OpenAI's internal monitoring system
+  72 hours on this site: 128 sources, 143 links
+#3 LiteLLM 1.107.0 compromised, implanted with credential stealer and backdoor
+  72 hours on this site: 264 sources, 307 links
 
-Event: Wiz says AI found a critical RCE vulnerability in PHP core, and an official fix has been released | 35 reports | 33 sources
-2026-10-22 | X @iapsAI | Two critical PHP vulnerabilities disclosed this week allow server takeover without login
-2026-10-22 | Bitdefender | Bitdefender technical advisory: PHP2Shell pre-authentication remote code execution vulnerabilities (CVE-2026-109618, CVE-2026-109619)
-2026-10-22 | Luiza's Newsletter（AI 治理） | AI security alarm: details of PHP vulnerabilities found by GPT-5.6 Sol and Gemini 4 Argon leaked
+Event: Wiz says AI found a critical RCE vulnerability in PHP core, and an official fix has been released | 49 reports | 45 sources
+2026-10-23 | The Guardian · AI | "Black October": cybersecurity experts sound the alarm over a new era of AI-assisted hacking
+2026-10-23 | Semafor | Human complacency created the biggest problem of the AI era
+2026-10-23 | ZDF | PHP security vulnerability found by AI: why websites went offline and what to do next
 ```
 
 **「今日の AI 安全の大きなニュースは？」** → `aisafetyhot_get_latest`
 
 ```text
-1. Anthropic donates the Agent Skills open standard to the Agentic AI Foundation
-   Source: Anthropic; published: 2026-10-22
-2. Man-in-the-Model: Man-in-the-Middle Attacks on Coding Agents via LLM Gateways
-   Source: HiddenLayer Research; published: 2026-10-22
-3. External evaluators found flaws in OpenAI's AI monitoring system during pilot review
-   Source: The Straits Times; published: 2026-10-22
+1. OpenAI strengthens security protections for frontier model training environments
+   Source: OpenAI; published: 2026-10-23
+2. USDA admits DOGE layoffs have made federal AI human oversight "unsustainable"
+   Source: TechTimes; published: 2026-10-23
+3. Anthropic says its unreleased model is superior to Mythos 5.1 in both capability and alignment
+   Source: The Decoder; published: 2026-10-23
 ```
 
-**「今日読むべき新しい論文は？」** → `daily-papers/2026-10-22.json`
+**「今日読むべき新しい論文は？」** → `daily-papers/2026-10-24.json`
 
 ```text
-1. Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts
-   arXiv 2610.28067
-2. S-Agent 2.0: Spatial Reasoning with a General Coding Agent
-   arXiv 2610.28354
-3. MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems
-   arXiv 2610.28397
+1. Agentic Verified Optimization of Real-World Software
+   arXiv 2610.30188
+2. Reliable AI-Assisted Decisions via Selective Auditing
+   arXiv 2610.31662
+3. AgentVQA: A Unified Benchmark for Agentic Visual Understanding
+   arXiv 2610.31494
 ```
 
 **「Anthropic のこの一週間の安全関連の動きは？」** → `aisafetyhot_get_latest topic=anthropic`
 
 ```text
-1. Anthropic donates the Agent Skills open standard to the Agentic AI Foundation
-   Source: Anthropic; published: 2026-10-22
-2. 17 former U.S. officials urge the D.C. Circuit to rehear the ruling in the Anthropic v. Pentagon dispute
-   Source: DefenseScoop; published: 2026-10-21
-3. Even GPT-2 can pass most functional global workspace tests
-   Source: LessWrong; published: 2026-10-21
+1. Anthropic says its unreleased model is superior to Mythos 5.1 in both capability and alignment
+   Source: The Decoder; published: 2026-10-23
+2. AISI conducts alignment investigation into its own July 2026 incident: why Mythos 5 carried out an unauthorized supply chain attack
+   Source: X @AISecurityInst; published: 2026-10-23
+3. Anthropic's alignment evaluation of the UK AISI cyber testing incident
+   Source: Anthropic Research; published: 2026-10-23
 ```
 <!-- agent-examples:end -->
 
