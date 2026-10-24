@@ -1,5 +1,56 @@
 [
   {
+    "id": "iclr:2026:2eAGrunxVz",
+    "kind": "conference",
+    "title": "Spherical Watermark: Encryption-Free, Lossless Watermarking for Diffusion Models",
+    "titleZh": "Spherical Watermark：扩散模型的免加密无损水印",
+    "line": "提出免加密无损水印框架，将水印码映射到单位球面恢复高斯噪声，保持视觉保真并提升溯源性与抗攻击鲁棒性。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=2eAGrunxVz",
+    "site": null,
+    "authors": [
+      "Xiaoxiao Hu",
+      "Jiaqi Jin",
+      "Sheng Li",
+      "Wanli Peng",
+      "Xinpeng Zhang",
+      "Zhenxing Qian"
+    ],
+    "pushedOn": "2026-10-25"
+  },
+  {
+    "id": "icml:2026:BSDvEh7oqy",
+    "kind": "conference",
+    "title": "Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling",
+    "titleZh": "概念移除引导：面向安全扩散采样的证据校准负引导",
+    "line": "提出免训练的 CRG 方法，每步从噪声预测估计违禁概念存在度并自适应校准负引导强度，在红队基准上降低攻击成功率同时保持正常生成质量。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=BSDvEh7oqy",
+    "site": null,
+    "authors": [
+      "Yoonseok Choi",
+      "Chaeyoung Oh",
+      "Hyunjun Choi",
+      "Seokin Seo",
+      "Kee-Eung Kim"
+    ],
+    "pushedOn": "2026-10-25"
+  },
+  {
     "id": "sez6mdkitgj2vmmh0afe0z599",
     "kind": "arxiv",
     "title": "Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety",

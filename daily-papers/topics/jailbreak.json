@@ -1,5 +1,77 @@
 [
   {
+    "id": "lii77tpeqz6p7eqxxca99l334",
+    "kind": "arxiv",
+    "title": "Jailbreaking Frontier Foundation Models Through Intention Deception",
+    "titleZh": "研究者提出意图伪装多轮越狱方法，可攻破 GPT-5-thinking 与 Claude-Sonnet-4.5",
+    "line": "提出多轮意图欺骗越狱 iDecep，用良性意图伪装引出有害内容",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.24082",
+    "date": "2026-04-27",
+    "url": "https://arxiv.org/abs/2604.24082",
+    "site": "https://aisafetyhot.com/items/lii77tpeqz6p7eqxxca99l334",
+    "authors": [
+      "Xinhe Wang",
+      "Katia Sycara",
+      "Yaqi Xie"
+    ],
+    "pushedOn": "2026-10-25"
+  },
+  {
+    "id": "fd8rnnvqd3q5kg2ti6fs63hml",
+    "kind": "arxiv",
+    "title": "Adaptive Prompt Embedding Optimization for LLM Jailbreaking",
+    "titleZh": "PEO：直接优化原始提示词嵌入的 LLM 白盒越狱方法",
+    "line": "提出 PEO，直接优化原提示词嵌入实现白盒越狱",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.24983",
+    "date": "2026-04-27",
+    "url": "https://arxiv.org/abs/2604.24983",
+    "site": "https://aisafetyhot.com/items/fd8rnnvqd3q5kg2ti6fs63hml",
+    "authors": [
+      "Miles Q. Li",
+      "Benjamin C. M. Fung",
+      "Boyang Li",
+      "Radin Hamidi Rad",
+      "Ebrahim Bagheri"
+    ],
+    "pushedOn": "2026-10-25"
+  },
+  {
+    "id": "f089wbhtzg8w53dtu6vrainbc",
+    "kind": "arxiv",
+    "title": "Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion",
+    "titleZh": "HMNS：通过注意力头掩蔽与零空间注入实现机制级越狱",
+    "line": "提出 HMNS，通过注意力头掩码与零空间注入实现机制级越狱",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.10326",
+    "date": "2026-04-11",
+    "url": "https://arxiv.org/abs/2604.10326",
+    "site": "https://aisafetyhot.com/items/f089wbhtzg8w53dtu6vrainbc",
+    "authors": [
+      "Vishal Pramanik",
+      "Maisha Maliha",
+      "Susmit Jha",
+      "Sumit Kumar Jha"
+    ],
+    "pushedOn": "2026-10-25"
+  },
+  {
     "id": "xoch8z7lovrsw6znh1bjv6ko7",
     "kind": "arxiv",
     "title": "Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing",

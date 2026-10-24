@@ -1,5 +1,29 @@
 [
   {
+    "id": "un7u9wq6jn9gwwfwduloq2yc8",
+    "kind": "arxiv",
+    "title": "Local Allow, Global Deny: Why Per-Action Authorization Does Not Compose in LLM Agents",
+    "titleZh": "局部放行、全局拒绝：逐动作授权为何在 LLM Agent 中无法组合",
+    "line": "刻画逐动作授权的组合失败，并用 AL-SYNTH 合成最小证人",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.27620",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27620",
+    "site": "https://aisafetyhot.com/items/un7u9wq6jn9gwwfwduloq2yc8",
+    "authors": [
+      "Anmol Pandey",
+      "Aditya Jain",
+      "Liang Chen",
+      "Carsten Maple"
+    ],
+    "pushedOn": "2026-10-25"
+  },
+  {
     "id": "dm4zx6om9wqwxmerjr3l5yob1",
     "kind": "arxiv",
     "title": "Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)",

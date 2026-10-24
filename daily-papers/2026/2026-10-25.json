@@ -1,0 +1,593 @@
+[
+  {
+    "id": "o4ob9mj42yyzy9qyjw5wflla6",
+    "kind": "arxiv",
+    "title": "安全探针的缩放定律",
+    "titleZh": null,
+    "line": "研究者提出安全探针的缩放定律，表明探针性能可由模型规模和标注数量提前预测。",
+    "topics": [],
+    "venue": "arXiv 2610.30678",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30678",
+    "site": "https://aisafetyhot.com/items/o4ob9mj42yyzy9qyjw5wflla6",
+    "authors": [
+      "Yuchen Wu",
+      "Jerry Wei"
+    ]
+  },
+  {
+    "id": "lynjpqi3296gxlhaatr0jyys1",
+    "kind": "arxiv",
+    "title": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
+    "titleZh": "VerifierBench：评测 LLM 智能体生成可执行验证器的基准",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.28679",
+    "date": "2026-10-19",
+    "url": "https://arxiv.org/abs/2610.28679",
+    "site": "https://aisafetyhot.com/items/lynjpqi3296gxlhaatr0jyys1",
+    "authors": [
+      "Jianing Yin",
+      "Ziyi Chen",
+      "Hao Wang",
+      "Yiyou Sun",
+      "Zijian Jin",
+      "Dawn Song",
+      "Daoan Zhang"
+    ]
+  },
+  {
+    "id": "oedcvsx0j8q1sv0dli2dulg2m",
+    "kind": "arxiv",
+    "title": "Model Organisms of Collusion: Corrective Transfer in Untrusted Monitors",
+    "titleZh": "共谋的模式生物：不可信监控器中的纠正性迁移",
+    "line": "在 AI 控制（AI control）协议中，抓住一次共谋后仅重训监控器，就能减少但不能消除尚未被抓到的共谋。",
+    "topics": [],
+    "venue": "arXiv 2610.30582",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30582",
+    "site": "https://aisafetyhot.com/items/oedcvsx0j8q1sv0dli2dulg2m",
+    "authors": [
+      "Juan-Pablo Rivera",
+      "Ari Spiesberger",
+      "Juan J Vazquez",
+      "Arun Jose",
+      "Axel Ahlqvist",
+      "Adeline Kassler",
+      "Meru Gopalan",
+      "Sandy Tanwisuth",
+      "John Hughes"
+    ]
+  },
+  {
+    "id": "sx7li5drana8dybvi51erfbqu",
+    "kind": "arxiv",
+    "title": "Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs",
+    "titleZh": "RACER：面向多模态大模型后门的区域感知一致性修复框架",
+    "line": "提出 RACER，用区域感知一致性对抗微调去除多模态大模型后门",
+    "topics": [],
+    "venue": "arXiv 2608.24354",
+    "date": "2026-08-25",
+    "url": "https://arxiv.org/abs/2608.24354v1",
+    "site": "https://aisafetyhot.com/items/sx7li5drana8dybvi51erfbqu",
+    "authors": [
+      "Jiali Wei",
+      "Ming Fan",
+      "Mingkun Zhang",
+      "Haoyu Wang",
+      "Jun Sun",
+      "Guoheng Sun",
+      "Xiaoning Ren",
+      "Haijun Wang",
+      "Ting Liu"
+    ]
+  },
+  {
+    "id": "gcpu2us8d40jky223k85kfwei",
+    "kind": "arxiv",
+    "title": "Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons",
+    "titleZh": "Tripwire：通过统计认证的安全神经元触发对齐拒答",
+    "line": "提出 Tripwire，识别安全神经元并钳制激活以触发拒答",
+    "topics": [],
+    "venue": "arXiv 2608.14392",
+    "date": "2026-08-14",
+    "url": "https://arxiv.org/abs/2608.14392v1",
+    "site": "https://aisafetyhot.com/items/gcpu2us8d40jky223k85kfwei",
+    "authors": [
+      "Wei Zhao",
+      "Zhe Li",
+      "Peixin Zhang",
+      "Jun Sun"
+    ]
+  },
+  {
+    "id": "iep2ll4t35znwumyxpxrt88uj",
+    "kind": "arxiv",
+    "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+    "titleZh": "研究者提出 SkillMisevo-Bench，量化自改进 Agent 的技能误演化风险",
+    "line": "提出 SkillMisevo-Bench，量化自改进 Agent 的技能误演化",
+    "topics": [],
+    "venue": "arXiv 2608.12851",
+    "date": "2026-08-13",
+    "url": "https://arxiv.org/abs/2608.12851",
+    "site": "https://aisafetyhot.com/items/iep2ll4t35znwumyxpxrt88uj",
+    "authors": [
+      "Xutao Mao",
+      "Liangjie Zhao",
+      "Xiang Zheng",
+      "Cong Wang"
+    ]
+  },
+  {
+    "id": "lii77tpeqz6p7eqxxca99l334",
+    "kind": "arxiv",
+    "title": "Jailbreaking Frontier Foundation Models Through Intention Deception",
+    "titleZh": "研究者提出意图伪装多轮越狱方法，可攻破 GPT-5-thinking 与 Claude-Sonnet-4.5",
+    "line": "提出多轮意图欺骗越狱 iDecep，用良性意图伪装引出有害内容",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.24082",
+    "date": "2026-04-27",
+    "url": "https://arxiv.org/abs/2604.24082",
+    "site": "https://aisafetyhot.com/items/lii77tpeqz6p7eqxxca99l334",
+    "authors": [
+      "Xinhe Wang",
+      "Katia Sycara",
+      "Yaqi Xie"
+    ]
+  },
+  {
+    "id": "fd8rnnvqd3q5kg2ti6fs63hml",
+    "kind": "arxiv",
+    "title": "Adaptive Prompt Embedding Optimization for LLM Jailbreaking",
+    "titleZh": "PEO：直接优化原始提示词嵌入的 LLM 白盒越狱方法",
+    "line": "提出 PEO，直接优化原提示词嵌入实现白盒越狱",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.24983",
+    "date": "2026-04-27",
+    "url": "https://arxiv.org/abs/2604.24983",
+    "site": "https://aisafetyhot.com/items/fd8rnnvqd3q5kg2ti6fs63hml",
+    "authors": [
+      "Miles Q. Li",
+      "Benjamin C. M. Fung",
+      "Boyang Li",
+      "Radin Hamidi Rad",
+      "Ebrahim Bagheri"
+    ]
+  },
+  {
+    "id": "iclr:2026:2eAGrunxVz",
+    "kind": "conference",
+    "title": "Spherical Watermark: Encryption-Free, Lossless Watermarking for Diffusion Models",
+    "titleZh": "Spherical Watermark：扩散模型的免加密无损水印",
+    "line": "提出免加密无损水印框架，将水印码映射到单位球面恢复高斯噪声，保持视觉保真并提升溯源性与抗攻击鲁棒性。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=2eAGrunxVz",
+    "site": null,
+    "authors": [
+      "Xiaoxiao Hu",
+      "Jiaqi Jin",
+      "Sheng Li",
+      "Wanli Peng",
+      "Xinpeng Zhang",
+      "Zhenxing Qian"
+    ]
+  },
+  {
+    "id": "f089wbhtzg8w53dtu6vrainbc",
+    "kind": "arxiv",
+    "title": "Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion",
+    "titleZh": "HMNS：通过注意力头掩蔽与零空间注入实现机制级越狱",
+    "line": "提出 HMNS，通过注意力头掩码与零空间注入实现机制级越狱",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2604.10326",
+    "date": "2026-04-11",
+    "url": "https://arxiv.org/abs/2604.10326",
+    "site": "https://aisafetyhot.com/items/f089wbhtzg8w53dtu6vrainbc",
+    "authors": [
+      "Vishal Pramanik",
+      "Maisha Maliha",
+      "Susmit Jha",
+      "Sumit Kumar Jha"
+    ]
+  },
+  {
+    "id": "icml:2026:BSDvEh7oqy",
+    "kind": "conference",
+    "title": "Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling",
+    "titleZh": "概念移除引导：面向安全扩散采样的证据校准负引导",
+    "line": "提出免训练的 CRG 方法，每步从噪声预测估计违禁概念存在度并自适应校准负引导强度，在红队基准上降低攻击成功率同时保持正常生成质量。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=BSDvEh7oqy",
+    "site": null,
+    "authors": [
+      "Yoonseok Choi",
+      "Chaeyoung Oh",
+      "Hyunjun Choi",
+      "Seokin Seo",
+      "Kee-Eung Kim"
+    ]
+  },
+  {
+    "id": "u63o0ohkkml05j1fcwiqlfgwf",
+    "kind": "arxiv",
+    "title": "Verbalizing Activation Differences with Natural Language Autoencoders",
+    "titleZh": "用自然语言自编码器转述大语言模型的激活差异",
+    "line": "研究显示，自然语言自编码器（NLA）能在训练设定之外泛化，在来自三个家族的四个模型上，实验对四个相关问题均给出大体肯定的证据。",
+    "topics": [],
+    "venue": "arXiv 2610.30934",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30934",
+    "site": "https://aisafetyhot.com/items/u63o0ohkkml05j1fcwiqlfgwf",
+    "authors": [
+      "Andrea Blasi Núñez",
+      "Gianluca Barmina",
+      "Federico Torrielli",
+      "Thiusius Rajeeth Savarimuthu",
+      "Peter Schneider-Kamp",
+      "Lukas Galke Poech"
+    ]
+  },
+  {
+    "id": "un7u9wq6jn9gwwfwduloq2yc8",
+    "kind": "arxiv",
+    "title": "Local Allow, Global Deny: Why Per-Action Authorization Does Not Compose in LLM Agents",
+    "titleZh": "局部放行、全局拒绝：逐动作授权为何在 LLM Agent 中无法组合",
+    "line": "刻画逐动作授权的组合失败，并用 AL-SYNTH 合成最小证人",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.27620",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27620",
+    "site": "https://aisafetyhot.com/items/un7u9wq6jn9gwwfwduloq2yc8",
+    "authors": [
+      "Anmol Pandey",
+      "Aditya Jain",
+      "Liang Chen",
+      "Carsten Maple"
+    ]
+  },
+  {
+    "id": "z0geuf1q18hkgjo4ao7gdv9s2",
+    "kind": "arxiv",
+    "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
+    "titleZh": "记忆越多，智能体越差：LLM 智能体中的错误复现与反持久化",
+    "line": "提出 Anti-Persistence，用后丢弃抽象以限制 Agent 记忆错误再现",
+    "topics": [],
+    "venue": "arXiv 2610.27406",
+    "date": "2026-10-19",
+    "url": "https://huggingface.co/papers/2610.27406",
+    "site": "https://aisafetyhot.com/items/z0geuf1q18hkgjo4ao7gdv9s2",
+    "authors": [
+      "Ruhan Wang",
+      "Kishan Panaganti",
+      "Dongruo Zhou"
+    ]
+  },
+  {
+    "id": "r2gdabjjul22q8tjqbykm6l6p",
+    "kind": "arxiv",
+    "title": "African Languages AI Safety Readiness Report",
+    "titleZh": "非洲语言 AI 安全就绪度报告",
+    "line": "评估哪些非洲语言适合纳入 AI 安全基准",
+    "topics": [],
+    "venue": "arXiv 2610.27269",
+    "date": "2026-10-19",
+    "url": "https://arxiv.org/abs/2610.27269",
+    "site": "https://aisafetyhot.com/items/r2gdabjjul22q8tjqbykm6l6p",
+    "authors": [
+      "Israel Abebe Azime",
+      "Jesujoba O. Alabi",
+      "Tajuddeen Gwadabe",
+      "David Ifeoluwa Adelani"
+    ]
+  },
+  {
+    "id": "q6ing53gaifgcdfmo2ads8lma",
+    "kind": "arxiv",
+    "title": "Harm Is Behavioural, Moderation Is Lexical: How Language and Culture Decide Whom Automated Safety Systems Protect and Whom They Silence",
+    "titleZh": "伤害是行为性的，审核是词汇性的：语言与文化如何决定自动化安全系统保护谁、让谁沉默",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.31047",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31047",
+    "site": "https://aisafetyhot.com/items/q6ing53gaifgcdfmo2ads8lma",
+    "authors": [
+      "Gabriel Lars Sabadin",
+      "Dr Nicola Harding",
+      "Sarah Kingston"
+    ]
+  },
+  {
+    "id": "m4ru5r1a6zy0h6f97td9dbn8b",
+    "kind": "arxiv",
+    "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
+    "titleZh": "谁在谄媚谁？自信的大语言模型、人类顺从与信任校准的崩塌",
+    "line": "展示自信但错误的 LLM 导致用户吸收假事实且信任校准崩塌",
+    "topics": [],
+    "venue": "arXiv 2610.31579",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31579",
+    "site": "https://aisafetyhot.com/items/m4ru5r1a6zy0h6f97td9dbn8b",
+    "authors": [
+      "Deepthika S",
+      "Pawni Yadav",
+      "B. Sankar"
+    ]
+  },
+  {
+    "id": "i9qrmcihz21vlweo23ivgbzug",
+    "kind": "arxiv",
+    "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+    "titleZh": "质疑 RLVR 中的工具性收敛：来自 OLMo-3 的检查点证据",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.31624",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31624",
+    "site": "https://aisafetyhot.com/items/i9qrmcihz21vlweo23ivgbzug",
+    "authors": [
+      "Barış Alparslan",
+      "Sandy Tanwisuth",
+      "Caleb Petterson"
+    ]
+  },
+  {
+    "id": "otz8xlvlfhu2bjwj5x2s3eqae",
+    "kind": "arxiv",
+    "title": "What Lies Beyond Perception: A Partition Theory of the Limits of AI Evaluation and Oversight",
+    "titleZh": "感知之外还有什么：AI 评测与监督极限的划分理论",
+    "line": "Ahmed M. Mahran 在 arXiv 论文提出评测的划分理论，证明行为评测最多只能证明模型区分能力的下限而非上限。",
+    "topics": [],
+    "venue": "arXiv 2610.30803",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30803",
+    "site": "https://aisafetyhot.com/items/otz8xlvlfhu2bjwj5x2s3eqae",
+    "authors": [
+      "Ahmed M. Mahran"
+    ]
+  },
+  {
+    "id": "hd3yw3578mkt5smm1uilpv24m",
+    "kind": "arxiv",
+    "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+    "titleZh": "SCOPE：将自然语言策略编译为神经符号谓词程序",
+    "line": "SCOPE 提出把自然语言策略编译成可执行的神经符号谓词程序，用于 LLM 智能体在多轮对话和工具调用轨迹上的策略执行。",
+    "topics": [],
+    "venue": "arXiv 2610.31062",
+    "date": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.31062",
+    "site": "https://aisafetyhot.com/items/hd3yw3578mkt5smm1uilpv24m",
+    "authors": [
+      "Arnon Mazza",
+      "Elad Levi"
+    ]
+  },
+  {
+    "id": "m8oc7q19rn17k6etmwdmyiiwh",
+    "kind": "arxiv",
+    "title": "模拟控制评估（Simulated Control Evals）",
+    "titleZh": null,
+    "line": "论文提出模拟控制评估（SCEs），用语言模型模拟工具响应来替代真实环境，从而在更多环境中开展控制评估。",
+    "topics": [],
+    "venue": "arXiv 2610.31593",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31593",
+    "site": "https://aisafetyhot.com/items/m8oc7q19rn17k6etmwdmyiiwh",
+    "authors": [
+      "Jeffrey Olmo",
+      "David Zhang",
+      "Tyler Tracy"
+    ]
+  },
+  {
+    "id": "um8nxo5fn0dhmnoy8n4dwxqzb",
+    "kind": "arxiv",
+    "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+    "titleZh": "从临床判断到可核查规则：临床医生主导的心理健康聊天机器人护栏",
+    "line": "研究者提出一种临床医生主导的心理健康聊天机器人护栏，由两名临床医生定义并裁定规则库的四项安全检查，规则库经形式化验证后作用于 LLM 输出，每次判定可由一条命名规则和十六项事实复算。",
+    "topics": [],
+    "venue": "arXiv 2610.30690",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30690",
+    "site": "https://aisafetyhot.com/items/um8nxo5fn0dhmnoy8n4dwxqzb",
+    "authors": [
+      "Chenhan Lyu",
+      "Kit Wislocki",
+      "Sarah Elizabeth Stoeckl",
+      "Maitreyi Sinha",
+      "Amir Rahmani"
+    ]
+  },
+  {
+    "id": "ugxu9yeti9t2xd319kuizg9ae",
+    "kind": "arxiv",
+    "title": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+    "titleZh": "TESSA：为中小企业提供欧盟《人工智能法案》指导的治理导向 Custom GPT 的设计、实现与评估",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.30822",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30822",
+    "site": "https://aisafetyhot.com/items/ugxu9yeti9t2xd319kuizg9ae",
+    "authors": [
+      "Chalisa Veesommai Sillberga",
+      "Kai-Kristian Kemella",
+      "Pekka Sillberga",
+      "Katri Harjuveteläinenb",
+      "Mika Saaria",
+      "Pekka Abrahamssona"
+    ]
+  },
+  {
+    "id": "yxykao3xoajll0lum48rss2di",
+    "kind": "arxiv",
+    "title": "Verus-Insight: Towards Explainable Artifact Detection in AI-Generated Videos",
+    "titleZh": "Verus-Insight：迈向 AI 生成视频的可解释伪影检测",
+    "line": "Verus-Insight 将 AI 生成视频的伪影检测拆解为检查规划、证据验证与证据聚合三项能力，用人类锚定的全流程监督和渐进式能力训练检测器。",
+    "topics": [],
+    "venue": "arXiv 2610.30866",
+    "date": "2026-10-22",
+    "url": "https://huggingface.co/papers/2610.30866",
+    "site": "https://aisafetyhot.com/items/yxykao3xoajll0lum48rss2di",
+    "authors": [
+      "Zhuoran Zhang",
+      "Yang Shi",
+      "Qixun Wang",
+      "Tengfei Liu",
+      "Yuqi Tang",
+      "Xuanyu Zhu",
+      "Yizhuo Jia",
+      "Jingyun Hua",
+      "Shixuan Liu",
+      "Xianghua Ying",
+      "Haotian Wang",
+      "Yuanxing Zhang",
+      "Pengfei Wan",
+      "Wenjing Yang"
+    ]
+  },
+  {
+    "id": "px5wfwn8112f43p92n73gapek",
+    "kind": "arxiv",
+    "title": "What Does AI Success Look Like? A Mixed-Methods Analysis of Supranational AI Governance Instruments",
+    "titleZh": "AI 成功是什么样子？超国家 AI 治理文件的混合方法分析",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.31030",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31030",
+    "site": "https://aisafetyhot.com/items/px5wfwn8112f43p92n73gapek",
+    "authors": [
+      "Delaram Golpayegani",
+      "Marta Lasek-Markey",
+      "Monique Munarini",
+      "Arjumand Younus",
+      "Aphra Kerr",
+      "Dave Lewis"
+    ]
+  },
+  {
+    "id": "m7zd6qg6r4kt175ik46imr3n8",
+    "kind": "arxiv",
+    "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
+    "titleZh": "匹配误报率下，忠实潜空间危害监控器并不优于模型自身行为",
+    "line": "分析忠实潜空间危害监控器是否优于模型自身拒答行为",
+    "topics": [],
+    "venue": "arXiv 2610.30727",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30727",
+    "site": "https://aisafetyhot.com/items/m7zd6qg6r4kt175ik46imr3n8",
+    "authors": [
+      "Abhishek Mishra",
+      "Sagnik Chatterjee",
+      "Suyash Maniyar"
+    ]
+  },
+  {
+    "id": "nh39vqsy4glxrfi1uzn2n0i6u",
+    "kind": "arxiv",
+    "title": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
+    "titleZh": "VERA：依据欧盟《人工智能法案》评估大语言模型部署的负责任 AI 仪表盘",
+    "line": "研究者发布开源、可自托管的负责任 AI 评估面板 VERA，用于依据欧盟《人工智能法案》评估大语言模型部署，已在一家欧洲大型银行投入使用。",
+    "topics": [],
+    "venue": "arXiv 2610.31588",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31588",
+    "site": "https://aisafetyhot.com/items/nh39vqsy4glxrfi1uzn2n0i6u",
+    "authors": [
+      "Robin Quériaux",
+      "Solveig Bachellery",
+      "Léa Déléris",
+      "Saurabhsingh Rajput",
+      "Mariam Barry",
+      "Tushar Sharma",
+      "Jérôme Lebecq"
+    ]
+  },
+  {
+    "id": "tva77tmm3vyckta6qll59r2xf",
+    "kind": "arxiv",
+    "title": "Disentangling Robustness and Sycophancy in Multilingual LLMs",
+    "titleZh": "解耦多语言 LLM 的稳健性与谄媚",
+    "line": "研究者提出 SC-matrix，将模型在无压力下能否答对（能力）与受压后能否坚持正确答案（谄媚）交叉诊断，用以区分多语言 LLM 同意用户错误前提时究竟是谄媚还是该语言能力不足。",
+    "topics": [],
+    "venue": "arXiv 2610.30696",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30696",
+    "site": "https://aisafetyhot.com/items/tva77tmm3vyckta6qll59r2xf",
+    "authors": [
+      "Rhitabrat Pokharel",
+      "Ameeta Agrawal"
+    ]
+  },
+  {
+    "id": "hxga976s05g0ladwppanf1r1h",
+    "kind": "arxiv",
+    "title": "Harmful Responses Are Jailbreak Templates: Transferring Autoregressive Jailbreaks to Diffusion Language Models",
+    "titleZh": "有害回复即越狱模板：将自回归越狱迁移到扩散语言模型",
+    "line": "研究者提出 RMT-Jailbreak 框架，可将自回归模型上的越狱攻击迁移到扩散大语言模型（dLLM）。",
+    "topics": [],
+    "venue": "arXiv 2610.31331",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31331",
+    "site": "https://aisafetyhot.com/items/hxga976s05g0ladwppanf1r1h",
+    "authors": [
+      "Jinwei Gan",
+      "Zifeng Cheng",
+      "Zhiwei Jiang",
+      "Ran Sun",
+      "Shiping Ge",
+      "Qing Gu"
+    ]
+  },
+  {
+    "id": "tsmyeminndmdr92oef37srb38",
+    "kind": "arxiv",
+    "title": "Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality Enforcement",
+    "titleZh": "冲突记录：以类型化对抗契约实现可审计的 LLM 输出质量管控",
+    "line": "论文提出 BiasGuard-D：跨模型家族的两个对抗角色交换类型化声明文档，三模型仲裁团多数表决，实现可审计的 LLM 输出质量管控。",
+    "topics": [],
+    "venue": "arXiv 2610.29669",
+    "date": "2026-10-21",
+    "url": "https://arxiv.org/abs/2610.29669",
+    "site": "https://aisafetyhot.com/items/tsmyeminndmdr92oef37srb38",
+    "authors": [
+      "Kardelen Subasi",
+      "Jarosław A. Chudziak"
+    ]
+  }
+]
