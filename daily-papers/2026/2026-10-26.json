@@ -1,0 +1,488 @@
+[
+  {
+    "id": "neurips:2026:EOoc3j4hW8",
+    "kind": "conference",
+    "title": "LoRAcles: Self-Supervised Weight-Space Interpretability at Scale",
+    "titleZh": "LoRAcles：大规模自监督权重空间可解释性",
+    "line": "训练以 LoRA 权重为输入、回答模型行为问题的语言模型，在 AuditBench 上达最优，能检测模型生物的细微变化并首次非平凡地 verbalize 语义后门触发器。",
+    "topics": [
+      {
+        "slug": "interpretability",
+        "name": "可解释性"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/154333",
+    "site": null,
+    "authors": [
+      "Celeste De Schamphelaere",
+      "Jan Bauer",
+      "Neel Nanda",
+      "Euan Ong"
+    ]
+  },
+  {
+    "id": "neurips:2026:SNNm5MJ9dg",
+    "kind": "conference",
+    "title": "CLIOPATRA: Extracting Private Information from LLM Insights",
+    "titleZh": "CLIOPATRA：从 LLM 洞察中提取隐私信息",
+    "line": "作者称首个针对隐私保护型 LLM 洞察系统的攻击，通过注入恶意对话击穿多层防护，在 Anthropic Clio 上以近 100% 精度、最高 65% 的比例提取目标用户医疗聊天内容。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/152543",
+    "site": null,
+    "authors": [
+      "Meenatchi Sundaram Muthu Selva Annamalai",
+      "Emiliano De Cristofaro",
+      "Peter Kairouz"
+    ]
+  },
+  {
+    "id": "neurips:2026:UixLs1nFsP",
+    "kind": "conference",
+    "title": "AIs with Secret Loyalties are a Serious but Addressable Threat",
+    "titleZh": "怀有秘密忠诚的 AI 是严重但可应对的威胁",
+    "line": "定义秘密忠诚威胁——模型隐秘推进特定行为者利益且能逃避黑箱审计，指出其已在开源权重模型上可实现，并提出五个方向的研究议程。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/140059",
+    "site": null,
+    "authors": [
+      "Joe Kwon",
+      "Alfie Lamerton",
+      "Andrew Draganov",
+      "Dave Banerjee",
+      "Bronson Schoen",
+      "Matteo Pistillo",
+      "Daniel Kokotajlo",
+      "Owain Evans",
+      "Fabien Roger",
+      "Tom Davidson"
+    ]
+  },
+  {
+    "id": "neurips:2026:U9dDSCabjP",
+    "kind": "conference",
+    "title": "We Should Distinguish Unlearning From Untraining",
+    "titleZh": "我们应当区分遗忘（Unlearning）与去训练（Untraining）",
+    "line": "立场论文指出机器遗忘实际包含两种不同问题：撤销特定样本训练影响的Untraining与移除整个子分布概念的Unlearning，混淆二者会导致指标误用。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/140062",
+    "site": null,
+    "authors": [
+      "Eleni Triantafillou",
+      "Imtiaz Humayun",
+      "Mónica Ribero",
+      "Alexander Turner",
+      "Michael Mozer",
+      "Georgios Kaissis"
+    ]
+  },
+  {
+    "id": "neurips:2026:q4iZrZtAjJ",
+    "kind": "conference",
+    "title": "Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs",
+    "titleZh": "持久遗忘：LLM中保效用、鲁棒且近乎不可逆的遗忘",
+    "line": "提出以JS散度为目标的JensUn遗忘方法和新数据集LPF，改进评估显示许多现有遗忘方法实际效果不如此前认为的那样好。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/149440",
+    "site": null,
+    "authors": [
+      "Naman Deep Singh",
+      "Maximilian Mueller",
+      "Amit Peleg",
+      "Francesco Croce",
+      "Matthias Hein"
+    ]
+  },
+  {
+    "id": "iclr:2026:9C4gVbPqSy",
+    "kind": "conference",
+    "title": "Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences",
+    "titleZh": "Omni-Reward：支持自由形式偏好的通用全模态奖励建模",
+    "line": "构建覆盖五种模态的全模态奖励模型基准 Omni-RewardBench、248K 偏好对数据集与相应奖励模型，支持自由形式偏好并取得强性能。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=9C4gVbPqSy",
+    "site": null,
+    "authors": [
+      "Zhuoran Jin",
+      "Hongbang Yuan",
+      "Kejian Zhu",
+      "Jiachun Li",
+      "Pengfei Cao",
+      "Yubo Chen",
+      "Kang Liu",
+      "Jun Zhao"
+    ]
+  },
+  {
+    "id": "icml:2026:82Wosp2Iu1",
+    "kind": "conference",
+    "title": "Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy",
+    "titleZh": "高维高斯机制的渐近最优性与改进的低维差分隐私机制",
+    "line": "证明高维极限下无加噪机制能渐近优于高斯机制的隐私-效用权衡，并提出球面广义Gamma机制族，其中部分成员在低维设定下优于高斯和ℓ2机制。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=82Wosp2Iu1",
+    "site": null,
+    "authors": [
+      "Yu Wei",
+      "Alexander Bienstock",
+      "Antigoni Polychroniadou"
+    ]
+  },
+  {
+    "id": "icml:2026:6ojsIliNF0",
+    "kind": "conference",
+    "title": "Surgery: Mitigating Harmful  Fine-Tuning for Large Language Models via Attention Sink",
+    "titleZh": "Surgery：利用注意力汇聚机制缓解大模型有害微调",
+    "line": "发现正 sink divergence 的注意力头数量随有害微调增加，据此提出 Surgery 正则化方法抑制有害模式学习，在 BeaverTails、HarmBench、SorryBench 上分别提升防御 5.90%、11.25%、9.55%。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=6ojsIliNF0",
+    "site": null,
+    "authors": [
+      "Guozhi Liu",
+      "Weiwei Lin",
+      "Tiansheng Huang",
+      "Ruichao Mo",
+      "Qi Mu",
+      "Xiumin Wang",
+      "Li Shen"
+    ]
+  },
+  {
+    "id": "icml:2026:BSi2mfMDsx",
+    "kind": "conference",
+    "title": "Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking",
+    "titleZh": "Jailbreak Foundry：从论文到可运行攻击的可复现基准",
+    "line": "提出多智能体系统 JBF，将越狱论文自动翻译为可执行模块并统一评测，复现 30 种攻击的 ASR 平均偏差仅 +0.26 个百分点，实现跨 10 个模型的标准化基准。",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=BSi2mfMDsx",
+    "site": null,
+    "authors": [
+      "Zhicheng Fang",
+      "Jingjie Zheng",
+      "Chenxu Fu",
+      "Wei Xu"
+    ]
+  },
+  {
+    "id": "neurips:2026:oIxNRF9huQ",
+    "kind": "conference",
+    "title": "Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails",
+    "titleZh": "LLaDA Guard：用掩码扩散生成建模重构安全护栏",
+    "line": "将护栏训练改为类条件重建目标，微调 LLaDA-8B 的 LLaDA Guard 在七个安全基准上平均排名领先，校准更好（ECE 0.0875 vs 0.1384），并可将不安全提示改写为安全等价（平均 60.7% 转化率）。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/149672",
+    "site": null,
+    "authors": [
+      "Gert Lek",
+      "Abele Mălan",
+      "Chaoyi Zhu",
+      "Pin-Yu Chen",
+      "Robert Birke",
+      "Lydia Chen"
+    ]
+  },
+  {
+    "id": "gfummvlnk5t4ca424srkolmsd",
+    "kind": "arxiv",
+    "title": "When Is a Memory Safe Enough to Act On? Action-Conditioned Verification for Long-Lived Agents",
+    "titleZh": "记忆要多安全才能据此行动？面向长期运行智能体的行动条件化核验",
+    "line": "论文面向长期运行的智能体，将行动前的记忆复核建模为顺序停止问题：一次复核是否值得，取决于它能否改变下一步行动，而非单看记忆可靠度。",
+    "topics": [],
+    "venue": "arXiv 2610.31446",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31446",
+    "site": "https://aisafetyhot.com/items/gfummvlnk5t4ca424srkolmsd"
+  },
+  {
+    "id": "nbm0pixo4jsjp4sid2tjswr2s",
+    "kind": "arxiv",
+    "title": "AgentTriage：跨异构智能体运行时的可重放安全诊断",
+    "titleZh": null,
+    "line": "论文提出 AgentTriage，一个跨异构智能体运行时的可重放安全诊断契约，用于诊断工具调用智能体产生的安全事件。",
+    "topics": [],
+    "venue": "arXiv 2610.30738",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.30738",
+    "site": "https://aisafetyhot.com/items/nbm0pixo4jsjp4sid2tjswr2s"
+  },
+  {
+    "id": "nqi6w5nkz7kgqz9y2zvhowpyn",
+    "kind": "arxiv",
+    "title": "Post-Audit Mirage: Identifiability Limits of Offline Agent Verification",
+    "titleZh": "审计后幻象：离线 Agent 验证的可识别性极限",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.31130",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31130",
+    "site": "https://aisafetyhot.com/items/nqi6w5nkz7kgqz9y2zvhowpyn"
+  },
+  {
+    "id": "prl6ozrwcm0kyv5so0k1d08aj",
+    "kind": "arxiv",
+    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+    "titleZh": "EpiSEM-Bench：评估 LLM 智能体在证据缺失下的安全性与证据恢复",
+    "line": "论文提出 EpiSEM-Bench，研究工具返回内容全部为真但遗漏安全关键事实时，LLM 智能体是否仍执行禁止行动。",
+    "topics": [],
+    "venue": "arXiv 2610.31650",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31650",
+    "site": "https://aisafetyhot.com/items/prl6ozrwcm0kyv5so0k1d08aj"
+  },
+  {
+    "id": "pxv9ozu43ixiio77hxo3n7808",
+    "kind": "arxiv",
+    "title": "Toward Recursive Self-Improvement in Physical AI",
+    "titleZh": "**title_zh**：迈向物理 AI 的递归自我改进",
+    "line": "**summary_zh**：递归自我改进（RSI）指系统不仅改进行为、还改进其改进过程，论文将其置于机器人学习之中。",
+    "topics": [],
+    "venue": "arXiv 2610.29677",
+    "date": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.29677",
+    "site": "https://aisafetyhot.com/items/pxv9ozu43ixiio77hxo3n7808"
+  },
+  {
+    "id": "u15fl382mhfb7ko7vemyivn1b",
+    "kind": "arxiv",
+    "title": "SIM-UT: A User Simulation based Evaluation Framework for Medical Triage Chatbots",
+    "titleZh": "SIM-UT：基于用户模拟的医疗分诊聊天机器人评测框架",
+    "line": "研究者提出 SIM-UT，一种多轮、基于用户行为模拟的医疗分诊聊天机器人评测方法，用于发现贴近真实语境的失效模式。",
+    "topics": [],
+    "venue": "arXiv 2610.30412",
+    "date": "2026-10-21",
+    "url": "https://arxiv.org/abs/2610.30412",
+    "site": "https://aisafetyhot.com/items/u15fl382mhfb7ko7vemyivn1b"
+  },
+  {
+    "id": "hhz4v3aci6ruzr5rd305p4zii",
+    "kind": "arxiv",
+    "title": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+    "titleZh": "无审查不等于无偏见：abliteration 移除了拒答，却未消除关于台湾的书写系统相关偏见",
+    "line": "论文测试发现，abliteration 去审查移除了开源模型的拒答，却未消除涉台立场的书写系统差异，书写系统的影响远大于去审查本身。",
+    "topics": [],
+    "venue": "arXiv 2610.29342",
+    "date": "2026-10-21",
+    "url": "https://arxiv.org/abs/2610.29342",
+    "site": "https://aisafetyhot.com/items/hhz4v3aci6ruzr5rd305p4zii"
+  },
+  {
+    "id": "zgm6kssdt3wnp8s8dt1eadp1x",
+    "kind": "arxiv",
+    "title": "A Unified Evaluation Framework of Physical Adversarial Robustness in the Edge VLM Era",
+    "titleZh": "边缘 VLM 时代物理对抗鲁棒性的统一评测框架",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.29196",
+    "date": "2026-10-21",
+    "url": "https://arxiv.org/abs/2610.29196",
+    "site": "https://aisafetyhot.com/items/zgm6kssdt3wnp8s8dt1eadp1x"
+  },
+  {
+    "id": "s2o85zwc3ih1jrem5q92vj4qz",
+    "kind": "arxiv",
+    "title": "Private Online Prediction from Experts with Small Losses",
+    "titleZh": "小损失下的差分隐私专家在线预测",
+    "line": "论文提出首个在低损失区间达到 \\tilde{O}(√L*) 遗憾的差分隐私专家在线预测算法，L* 为最佳专家的累计损失，较既有 \\tilde{O}(√T) 界明显改进。",
+    "topics": [],
+    "venue": "arXiv 2610.29575",
+    "date": "2026-10-21",
+    "url": "https://arxiv.org/abs/2610.29575",
+    "site": "https://aisafetyhot.com/items/s2o85zwc3ih1jrem5q92vj4qz"
+  },
+  {
+    "id": "g6680eztewbeunqj7rf5hc6t5",
+    "kind": "arxiv",
+    "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+    "titleZh": "TARSphere：面向机器人的全栈框架，用于演化物理与社会环境中的长时程具身智能体",
+    "line": "研究者提出 TARSphere，一个面向机器人的全栈框架，结合物理仿真、具身 NPC 与冻结的多模态大语言模型（MLLM），评估演化物理和社会环境中的长时程具身智能体。",
+    "topics": [],
+    "venue": "arXiv 2610.30043",
+    "date": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.30043",
+    "site": "https://aisafetyhot.com/items/g6680eztewbeunqj7rf5hc6t5"
+  },
+  {
+    "id": "bo383rhv24oc53ooevyf21v5o",
+    "kind": "arxiv",
+    "title": "TraceForge: Distilling with Your Own Thinking",
+    "titleZh": "TraceForge：用自己的思考进行蒸馏",
+    "line": "TraceForge 用先监督后对抗的两阶段训练，从教师答案合成学生模型家族风格的推理轨迹，不依赖教师的隐藏推理输出。",
+    "topics": [],
+    "venue": "arXiv 2610.29680",
+    "date": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.29680",
+    "site": "https://aisafetyhot.com/items/bo383rhv24oc53ooevyf21v5o"
+  },
+  {
+    "id": "ksso9ov4za5zli3b5uks2ddta",
+    "kind": "arxiv",
+    "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+    "titleZh": "VX-One：面向实时边界分诊的类型化校准决策头实证研究",
+    "line": "VX-One 是 100K-10M 参数的小型多头网络，输出经逐头温度校准的门控、含显式 unknown 选项的封闭集选择与序数分数。",
+    "topics": [],
+    "venue": "arXiv 2610.30090",
+    "date": "2026-10-21",
+    "url": "https://huggingface.co/papers/2610.30090",
+    "site": "https://aisafetyhot.com/items/ksso9ov4za5zli3b5uks2ddta"
+  },
+  {
+    "id": "zbs1kouw0i7nphnaah5nnwtcd",
+    "kind": "arxiv",
+    "title": "Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization",
+    "titleZh": "Toolflation：卖家智能体通过自发生成式引擎优化扭曲工具市场",
+    "line": "展示卖家智能体在竞争中自发夸大工具声明并扭曲市场选择",
+    "topics": [],
+    "venue": "arXiv 2610.28454",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28454",
+    "site": "https://aisafetyhot.com/items/zbs1kouw0i7nphnaah5nnwtcd"
+  },
+  {
+    "id": "wwu514knfz73y3kgsnbgvifd2",
+    "kind": "arxiv",
+    "title": "Is Sycophancy a Form of In-Context Updating?",
+    "titleZh": "谄媚是上下文更新的一种形式吗？",
+    "line": "检验事实性谄媚是否为上下文更新失败并与更新共享权重",
+    "topics": [],
+    "venue": "arXiv 2610.28325",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28325",
+    "site": "https://aisafetyhot.com/items/wwu514knfz73y3kgsnbgvifd2"
+  },
+  {
+    "id": "f56qb50wcucerzsstgeb869c8",
+    "kind": "arxiv",
+    "title": "Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure",
+    "titleZh": "让攻击者消耗更多能量：面向关键基础设施中语言模型攻击者的生成式欺骗",
+    "line": "提出生成式 SSH 欺骗，迫使语言模型攻击者消耗更多能量",
+    "topics": [],
+    "venue": "arXiv 2610.27739",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27739",
+    "site": "https://aisafetyhot.com/items/f56qb50wcucerzsstgeb869c8"
+  },
+  {
+    "id": "gbju1o081fgsry5fcuqta117d",
+    "kind": "arxiv",
+    "title": "Fig: Automated Multiagent Behavior Elicitor",
+    "titleZh": "Fig：自动化多智能体行为诱发系统",
+    "line": "研究者提出 Fig（Finding Interactions in Games），一个对博弈环境实施针对性诱发干预的智能体系统，用于系统化研究多智能体行为。",
+    "topics": [],
+    "venue": "arXiv 2610.28891",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28891",
+    "site": "https://aisafetyhot.com/items/gbju1o081fgsry5fcuqta117d"
+  },
+  {
+    "id": "bx05jg1oue1q0g9tvnqimv1gd",
+    "kind": "arxiv",
+    "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems",
+    "titleZh": "DecisionPivot：LLM 系统中决策模型的诊断基准",
+    "line": "提出 DecisionPivot，诊断 LLM 系统决策模型的判断与校准",
+    "topics": [],
+    "venue": "arXiv 2610.28522",
+    "date": "2026-10-20",
+    "url": "https://huggingface.co/papers/2610.28522",
+    "site": "https://aisafetyhot.com/items/bx05jg1oue1q0g9tvnqimv1gd"
+  },
+  {
+    "id": "y04oalzpfygyjgt5hg3uhzfde",
+    "kind": "arxiv",
+    "title": "When LLMs Manipulate: Measuring Behavioral, Social, and Temporal Effects",
+    "titleZh": "当 LLM 进行操纵：测量行为、社会与时间层面的影响",
+    "line": "测量操纵性 LLM 输出在行为、社会与时间上的影响",
+    "topics": [],
+    "venue": "arXiv 2610.27573",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.27573",
+    "site": "https://aisafetyhot.com/items/y04oalzpfygyjgt5hg3uhzfde"
+  },
+  {
+    "id": "qjfbyav6fgyyesomzqnkwi7rb",
+    "kind": "arxiv",
+    "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation",
+    "titleZh": "RoboCasa-Shift：长程家庭操作中视觉-语言-动作策略的阶段感知鲁棒性评估",
+    "line": "研究者推出 RoboCasa-Shift，一个基于 RoboCasa365 的诊断式鲁棒性基准，通过受控单因素偏移、配对 rollout 和阶段感知诊断评估视觉-语言-动作（VLA）策略在分布偏移下的表现。",
+    "topics": [],
+    "venue": "arXiv 2610.27861",
+    "date": "2026-10-20",
+    "url": "https://huggingface.co/papers/2610.27861",
+    "site": "https://aisafetyhot.com/items/qjfbyav6fgyyesomzqnkwi7rb"
+  },
+  {
+    "id": "gyq0xt302vaszpdo8s39c794h",
+    "kind": "arxiv",
+    "title": "SimHack: Predicting the onset of detectable reward hacking before RL training",
+    "titleZh": "SimHack：在 RL 训练前预测可检测奖励作弊何时成为主导",
+    "line": "Google Research 研究者提出 SimHack，可在执行 RL 训练前预测可检测的奖励作弊何时成为主导。",
+    "topics": [],
+    "venue": "arXiv 2610.28707",
+    "date": "2026-10-20",
+    "url": "https://arxiv.org/abs/2610.28707",
+    "site": "https://aisafetyhot.com/items/gyq0xt302vaszpdo8s39c794h"
+  }
+]

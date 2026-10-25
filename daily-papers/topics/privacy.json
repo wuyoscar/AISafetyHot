@@ -1,5 +1,102 @@
 [
   {
+    "id": "neurips:2026:SNNm5MJ9dg",
+    "kind": "conference",
+    "title": "CLIOPATRA: Extracting Private Information from LLM Insights",
+    "titleZh": "CLIOPATRA：从 LLM 洞察中提取隐私信息",
+    "line": "作者称首个针对隐私保护型 LLM 洞察系统的攻击，通过注入恶意对话击穿多层防护，在 Anthropic Clio 上以近 100% 精度、最高 65% 的比例提取目标用户医疗聊天内容。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/152543",
+    "site": null,
+    "authors": [
+      "Meenatchi Sundaram Muthu Selva Annamalai",
+      "Emiliano De Cristofaro",
+      "Peter Kairouz"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
+    "id": "neurips:2026:U9dDSCabjP",
+    "kind": "conference",
+    "title": "We Should Distinguish Unlearning From Untraining",
+    "titleZh": "我们应当区分遗忘（Unlearning）与去训练（Untraining）",
+    "line": "立场论文指出机器遗忘实际包含两种不同问题：撤销特定样本训练影响的Untraining与移除整个子分布概念的Unlearning，混淆二者会导致指标误用。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/140062",
+    "site": null,
+    "authors": [
+      "Eleni Triantafillou",
+      "Imtiaz Humayun",
+      "Mónica Ribero",
+      "Alexander Turner",
+      "Michael Mozer",
+      "Georgios Kaissis"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
+    "id": "neurips:2026:q4iZrZtAjJ",
+    "kind": "conference",
+    "title": "Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs",
+    "titleZh": "持久遗忘：LLM中保效用、鲁棒且近乎不可逆的遗忘",
+    "line": "提出以JS散度为目标的JensUn遗忘方法和新数据集LPF，改进评估显示许多现有遗忘方法实际效果不如此前认为的那样好。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/149440",
+    "site": null,
+    "authors": [
+      "Naman Deep Singh",
+      "Maximilian Mueller",
+      "Amit Peleg",
+      "Francesco Croce",
+      "Matthias Hein"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
+    "id": "icml:2026:82Wosp2Iu1",
+    "kind": "conference",
+    "title": "Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy",
+    "titleZh": "高维高斯机制的渐近最优性与改进的低维差分隐私机制",
+    "line": "证明高维极限下无加噪机制能渐近优于高斯机制的隐私-效用权衡，并提出球面广义Gamma机制族，其中部分成员在低维设定下优于高斯和ℓ2机制。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=82Wosp2Iu1",
+    "site": null,
+    "authors": [
+      "Yu Wei",
+      "Alexander Bienstock",
+      "Antigoni Polychroniadou"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
     "id": "icml:2026:oLmwqIhzqj",
     "kind": "conference",
     "title": "Exact Unlearning in Reinforcement Learning",

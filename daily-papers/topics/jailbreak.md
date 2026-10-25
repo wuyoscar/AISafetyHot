@@ -1,24 +1,26 @@
 # 越狱与攻击
 
-每日论文里归到「越狱与攻击」的 10 篇，按推送日期从新到旧。
+每日论文里归到「越狱与攻击」的 11 篇，按推送日期从新到旧。
 
-1. **[Jailbreaking Frontier Foundation Models Through Intention Deception](https://arxiv.org/abs/2604.24082)**  
+1. **[Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](https://openreview.net/forum?id=BSi2mfMDsx)**  
+   提出多智能体系统 JBF，将越狱论文自动翻译为可执行模块并统一评测，复现 30 种攻击的 ASR 平均偏差仅 +0.26 个百分点，实现跨 10 个模型的标准化基准。 · `越狱与攻击` · Zhicheng Fang … Wei Xu · ICML 2026 spotlight
+2. **[Jailbreaking Frontier Foundation Models Through Intention Deception](https://arxiv.org/abs/2604.24082)**  
    提出多轮意图欺骗越狱 iDecep，用良性意图伪装引出有害内容 · `越狱与攻击` · Xinhe Wang … Yaqi Xie · arXiv 2604.24082 · 2026-04-27 · [解读](https://aisafetyhot.com/items/lii77tpeqz6p7eqxxca99l334)
-2. **[Adaptive Prompt Embedding Optimization for LLM Jailbreaking](https://arxiv.org/abs/2604.24983)**  
+3. **[Adaptive Prompt Embedding Optimization for LLM Jailbreaking](https://arxiv.org/abs/2604.24983)**  
    提出 PEO，直接优化原提示词嵌入实现白盒越狱 · `越狱与攻击` · Miles Q. Li … Ebrahim Bagheri · arXiv 2604.24983 · 2026-04-27 · [解读](https://aisafetyhot.com/items/fd8rnnvqd3q5kg2ti6fs63hml)
-3. **[Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion](https://arxiv.org/abs/2604.10326)**  
+4. **[Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion](https://arxiv.org/abs/2604.10326)**  
    提出 HMNS，通过注意力头掩码与零空间注入实现机制级越狱 · `越狱与攻击` · Vishal Pramanik … Sumit Kumar Jha · arXiv 2604.10326 · 2026-04-11 · [解读](https://aisafetyhot.com/items/f089wbhtzg8w53dtu6vrainbc)
-4. **[Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing](https://arxiv.org/abs/2610.27908)**  
+5. **[Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing](https://arxiv.org/abs/2610.27908)**  
    提出极性盲视探针，用否定与反义词替换绕过聊天模型安全护栏 · `越狱与攻击` · Diego Miguel Lozano … Nuria Oliver · arXiv 2610.27908 · 2026-10-20 · [解读](https://aisafetyhot.com/items/xoch8z7lovrsw6znh1bjv6ko7)
-5. **[Training a General Purpose Automated Red Teaming Model](https://arxiv.org/abs/2604.23067)**  
+6. **[Training a General Purpose Automated Red Teaming Model](https://arxiv.org/abs/2604.23067)**  
    提出强化学习流程，训练能按任意对抗目标生成攻击的红队模型 · `越狱与攻击` · Aishwarya Padmakumar … Christopher Parisien · arXiv 2604.23067 · 2026-04-24 · [解读](https://aisafetyhot.com/items/xv2fxmfpsehzuvne1wjk8gnco)
-6. **[On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](https://openreview.net/forum?id=PUIivg3GrO)**  
+7. **[On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](https://openreview.net/forum?id=PUIivg3GrO)**  
    提出区分对抗攻击与表达能力不足所致误分类的新误差度量，给出高维二分类的精确渐近刻画，发现模型越过参数化，对保持标签的扰动越脆弱。 · `越狱与攻击` · Matteo Vilucchio … Bruno Loureiro · ICML 2026 spotlight
-7. **[Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks](https://arxiv.org/abs/2610.22928)**  
+8. **[Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks](https://arxiv.org/abs/2610.22928)**  
    测量多轮越狱的有效视界压缩，并用短查询后缀重放续攻 · `越狱与攻击` · Zhipeng Wei … N. Benjamin Erichson · arXiv 2610.22928 · 2026-10-16 · [解读](https://aisafetyhot.com/items/xkmz0kgr6d8yttxlsa8zs4he6)
-8. **[RedDarwin: Evolving Jailbreak Skills against Frontier LLMs](https://arxiv.org/abs/2610.23726)**  
+9. **[RedDarwin: Evolving Jailbreak Skills against Frontier LLMs](https://arxiv.org/abs/2610.23726)**  
    提出 REDDARWIN，将越狱方法演化为可执行技能以攻击前沿 LLM · `越狱与攻击` · Zhouyuan Ma … Xingjun Ma · arXiv 2610.23726 · 2026-10-14 · [解读](https://aisafetyhot.com/items/wd5x5gztipurgec9y4eaq1ksu)
-9. **[Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks](https://arxiv.org/abs/2610.19971)**  
+10. **[Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks](https://arxiv.org/abs/2610.19971)**  
    提出 JSB，用多维评判反馈在有限查询内优化越狱提示 · `越狱与攻击` · Yixin Tan … Rui Wen · arXiv 2610.19971 · 2026-10-14 · [解读](https://aisafetyhot.com/items/wbnhewi0o0jmeiehm11r6u51k)
-10. **[Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs](https://arxiv.org/abs/2610.19587)**  
+11. **[Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs](https://arxiv.org/abs/2610.19587)**  
    提出 Moral Combat，把有害请求改写为道德义务以越狱 · `越狱与攻击` · Adel Khorramrouz … Sharon Levy · arXiv 2610.19587 · 2026-10-14 · [解读](https://aisafetyhot.com/items/bcapsgqvfeqpox3rp55aagu36)

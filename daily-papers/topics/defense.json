@@ -1,5 +1,58 @@
 [
   {
+    "id": "icml:2026:6ojsIliNF0",
+    "kind": "conference",
+    "title": "Surgery: Mitigating Harmful  Fine-Tuning for Large Language Models via Attention Sink",
+    "titleZh": "Surgery：利用注意力汇聚机制缓解大模型有害微调",
+    "line": "发现正 sink divergence 的注意力头数量随有害微调增加，据此提出 Surgery 正则化方法抑制有害模式学习，在 BeaverTails、HarmBench、SorryBench 上分别提升防御 5.90%、11.25%、9.55%。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=6ojsIliNF0",
+    "site": null,
+    "authors": [
+      "Guozhi Liu",
+      "Weiwei Lin",
+      "Tiansheng Huang",
+      "Ruichao Mo",
+      "Qi Mu",
+      "Xiumin Wang",
+      "Li Shen"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
+    "id": "neurips:2026:oIxNRF9huQ",
+    "kind": "conference",
+    "title": "Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails",
+    "titleZh": "LLaDA Guard：用掩码扩散生成建模重构安全护栏",
+    "line": "将护栏训练改为类条件重建目标，微调 LLaDA-8B 的 LLaDA Guard 在七个安全基准上平均排名领先，校准更好（ECE 0.0875 vs 0.1384），并可将不安全提示改写为安全等价（平均 60.7% 转化率）。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/149672",
+    "site": null,
+    "authors": [
+      "Gert Lek",
+      "Abele Mălan",
+      "Chaoyi Zhu",
+      "Pin-Yu Chen",
+      "Robert Birke",
+      "Lydia Chen"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
     "id": "iclr:2026:2eAGrunxVz",
     "kind": "conference",
     "title": "Spherical Watermark: Encryption-Free, Lossless Watermarking for Diffusion Models",

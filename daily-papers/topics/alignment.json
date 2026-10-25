@@ -1,5 +1,63 @@
 [
   {
+    "id": "neurips:2026:UixLs1nFsP",
+    "kind": "conference",
+    "title": "AIs with Secret Loyalties are a Serious but Addressable Threat",
+    "titleZh": "怀有秘密忠诚的 AI 是严重但可应对的威胁",
+    "line": "定义秘密忠诚威胁——模型隐秘推进特定行为者利益且能逃避黑箱审计，指出其已在开源权重模型上可实现，并提出五个方向的研究议程。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/140059",
+    "site": null,
+    "authors": [
+      "Joe Kwon",
+      "Alfie Lamerton",
+      "Andrew Draganov",
+      "Dave Banerjee",
+      "Bronson Schoen",
+      "Matteo Pistillo",
+      "Daniel Kokotajlo",
+      "Owain Evans",
+      "Fabien Roger",
+      "Tom Davidson"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
+    "id": "iclr:2026:9C4gVbPqSy",
+    "kind": "conference",
+    "title": "Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences",
+    "titleZh": "Omni-Reward：支持自由形式偏好的通用全模态奖励建模",
+    "line": "构建覆盖五种模态的全模态奖励模型基准 Omni-RewardBench、248K 偏好对数据集与相应奖励模型，支持自由形式偏好并取得强性能。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=9C4gVbPqSy",
+    "site": null,
+    "authors": [
+      "Zhuoran Jin",
+      "Hongbang Yuan",
+      "Kejian Zhu",
+      "Jiachun Li",
+      "Pengfei Cao",
+      "Yubo Chen",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
     "id": "icml:2026:R80JLmXXPJ",
     "kind": "conference",
     "title": "Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance",

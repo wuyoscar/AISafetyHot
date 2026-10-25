@@ -1,5 +1,29 @@
 [
   {
+    "id": "neurips:2026:EOoc3j4hW8",
+    "kind": "conference",
+    "title": "LoRAcles: Self-Supervised Weight-Space Interpretability at Scale",
+    "titleZh": "LoRAcles：大规模自监督权重空间可解释性",
+    "line": "训练以 LoRA 权重为输入、回答模型行为问题的语言模型，在 AuditBench 上达最优，能检测模型生物的细微变化并首次非平凡地 verbalize 语义后门触发器。",
+    "topics": [
+      {
+        "slug": "interpretability",
+        "name": "可解释性"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/154333",
+    "site": null,
+    "authors": [
+      "Celeste De Schamphelaere",
+      "Jan Bauer",
+      "Neel Nanda",
+      "Euan Ong"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
     "id": "icml:2026:q17jVxMtwS",
     "kind": "conference",
     "title": "The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models",

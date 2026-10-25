@@ -1,5 +1,29 @@
 [
   {
+    "id": "icml:2026:BSi2mfMDsx",
+    "kind": "conference",
+    "title": "Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking",
+    "titleZh": "Jailbreak Foundry：从论文到可运行攻击的可复现基准",
+    "line": "提出多智能体系统 JBF，将越狱论文自动翻译为可执行模块并统一评测，复现 30 种攻击的 ASR 平均偏差仅 +0.26 个百分点，实现跨 10 个模型的标准化基准。",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=BSi2mfMDsx",
+    "site": null,
+    "authors": [
+      "Zhicheng Fang",
+      "Jingjie Zheng",
+      "Chenxu Fu",
+      "Wei Xu"
+    ],
+    "pushedOn": "2026-10-26"
+  },
+  {
     "id": "lii77tpeqz6p7eqxxca99l334",
     "kind": "arxiv",
     "title": "Jailbreaking Frontier Foundation Models Through Intention Deception",
