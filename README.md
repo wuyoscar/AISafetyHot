@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/logo.svg" width="64" alt="AI Safety HOT"></p>
 
-<h1 align="center">AI Safety HOT Hub</h1>
+<h1 align="center">AI Safety HOT</h1>
 
 <p align="center"><b>追踪 AI 安全新闻、论文与事件。一站阅读，也能接入你的 Agent。</b></p>
 
