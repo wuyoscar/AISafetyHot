@@ -92,24 +92,24 @@
     }
   },
   {
-    "id": "wejc7tsr3dljp5gsvrv4lv4ju",
-    "arxivId": "2610.27210",
-    "title": "You Are the Trigger: Speaker-Activated Backdoors",
-    "titleEn": "You Are the Trigger: Speaker-Activated Backdoor",
+    "id": "t6aughppjm7c8usf0vj54qrt9",
+    "arxivId": "2610.29178",
+    "title": "Correlated Failures of AI Approval Monitors",
+    "titleEn": "Correlated failure of AI approval monitors",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.27210",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/wejc7tsr3dljp5gsvrv4lv4ju"
+      "paper": "https://arxiv.org/abs/2610.29178",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/t6aughppjm7c8usf0vj54qrt9"
     },
-    "publishedAt": "2026-10-19T19:43:13.000Z",
-    "timelineAt": "2026-10-21T05:01:40.832Z",
+    "publishedAt": "2026-10-21T04:09:37.000Z",
+    "timelineAt": "2026-10-21T04:09:37.000Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 40,
-      "translated": 40,
+      "total": 37,
+      "translated": 37,
       "pending": 0,
       "status": "complete"
     }

@@ -72,9 +72,9 @@
     "discoveredAt": "2026-10-21T06:04:31.407Z"
   },
   {
-    "arxivId": "2610.27210",
-    "title": "You Are the Trigger: Speaker-Activated Backdoors",
-    "titleZh": "你就是触发器：说话人激活的后门",
+    "arxivId": "2610.29178",
+    "title": "Correlated Failures of AI Approval Monitors",
+    "titleZh": "AI 审批监控器的相关性失效",
     "authors": [],
     "category": null,
     "selected": true,
@@ -82,11 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.27210",
-      "aisafetyhot": "https://aisafetyhot.com/items/wejc7tsr3dljp5gsvrv4lv4ju"
+      "paper": "https://arxiv.org/abs/2610.29178",
+      "aisafetyhot": "https://aisafetyhot.com/items/t6aughppjm7c8usf0vj54qrt9"
     },
-    "publishedAt": "2026-10-19T19:43:13.000Z",
-    "timelineAt": "2026-10-21T05:01:40.832Z",
-    "discoveredAt": "2026-10-21T05:01:40.832Z"
+    "publishedAt": "2026-10-21T04:09:37.000Z",
+    "timelineAt": "2026-10-21T04:09:37.000Z",
+    "discoveredAt": "2026-10-25T17:01:50.890Z"
   }
 ]
