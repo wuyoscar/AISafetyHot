@@ -1,5 +1,29 @@
 [
   {
+    "id": "icml:2026:vSzRJyg6k0",
+    "kind": "conference",
+    "title": "Reward-free Alignment for Conflicting Objectives",
+    "titleZh": "面向冲突目标的无奖励对齐",
+    "line": "提出无奖励对齐框架RACO，直接利用成对偏好数据并通过裁剪版冲突规避梯度下降解决梯度冲突，在多目标摘要与安全对齐任务上取得更好帕累托权衡。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=vSzRJyg6k0",
+    "site": null,
+    "authors": [
+      "Peter Chen",
+      "Xiaopeng Li",
+      "Xi Chen",
+      "Tianyi Lin"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
     "id": "neurips:2026:UixLs1nFsP",
     "kind": "conference",
     "title": "AIs with Secret Loyalties are a Serious but Addressable Threat",

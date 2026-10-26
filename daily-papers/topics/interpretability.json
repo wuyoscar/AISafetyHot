@@ -1,5 +1,28 @@
 [
   {
+    "id": "neurips:2026:e7zF0NYC0J",
+    "kind": "conference",
+    "title": "Do Thinking Tokens Help with Safety?",
+    "titleZh": "思考token有助于安全吗？",
+    "line": "在多个开源推理模型上发现拒答/服从决定在思考开始处已强编码（首token探针AUROC≥0.85），后续思考很少改变最终决定。",
+    "topics": [
+      {
+        "slug": "interpretability",
+        "name": "可解释性"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/150945",
+    "site": null,
+    "authors": [
+      "Narutatsu Ri",
+      "Abhishek Panigrahi",
+      "Sanjeev Arora"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
     "id": "neurips:2026:EOoc3j4hW8",
     "kind": "conference",
     "title": "LoRAcles: Self-Supervised Weight-Space Interpretability at Scale",

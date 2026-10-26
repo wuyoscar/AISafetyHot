@@ -1,0 +1,25 @@
+[
+  {
+    "id": "icml:2026:cNCWYrSV5R",
+    "kind": "conference",
+    "title": "Certifying Capabilities from Finite Tests: When Is It Possible?",
+    "titleZh": "从有限测试认证模型能力：何时可能？",
+    "line": "建立能力评估的严格理论，刻画多环境随机评估下可认证的条件与样本复杂度，并证明对规则式能力黑盒评估一般无法认证全局性质。",
+    "topics": [
+      {
+        "slug": "dangerous-capabilities",
+        "name": "危险能力"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=cNCWYrSV5R",
+    "site": null,
+    "authors": [
+      "Changlong Wu",
+      "Jin Sima",
+      "Wojciech Szpankowski"
+    ],
+    "pushedOn": "2026-10-27"
+  }
+]

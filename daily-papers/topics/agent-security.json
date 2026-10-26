@@ -1,5 +1,109 @@
 [
   {
+    "id": "neurips:2026:8gDb2bnWWf",
+    "kind": "conference",
+    "title": "Agent Security is a Systems Problem",
+    "titleZh": "Agent 安全是一个系统问题",
+    "line": "立场论文：主张把驱动 Agent 的模型视为不可信组件、在系统层强制安全不变量，并分析 11 个真实攻击说明系统原则本可阻止。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/140106",
+    "site": null,
+    "authors": [
+      "Mihai Christodorescu",
+      "Earlence Fernandes",
+      "Ashish Hooda",
+      "Somesh Jha",
+      "Johann Rehberger",
+      "Kamalika Chaudhuri",
+      "Xiaohan Fu",
+      "Khawaja Shams",
+      "Guy Amir",
+      "Jihye Choi",
+      "Sarthak Choudhary",
+      "Nils Palumbo",
+      "Andrey Labunets",
+      "Nishit V Pandya"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
+    "id": "neurips:2026:9url1EFMaU",
+    "kind": "conference",
+    "title": "Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents",
+    "titleZh": "Soteria：面向安全 LLM 智能体的形式化验证规划与运行时强制",
+    "line": "提出 Soteria 框架，执行前对结构化计划做形式化验证、执行中强制规范符合，在多个工具使用基准上实现完美规范符合并将效用提升至多 5 倍。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/154927",
+    "site": null,
+    "authors": [
+      "Deyuan (Mike) He",
+      "Ankush Desai",
+      "Sharad Malik",
+      "Aarti Gupta"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
+    "id": "fkzxub62y1ve66zbwqz5v4ef2",
+    "kind": "arxiv",
+    "title": "Do AI-for-Science Agents Preserve Model Safety?",
+    "titleZh": "AI for Science 智能体能保留模型的安全性吗？",
+    "line": "评测 AI-for-Science 智能体框架在有害化学请求上的安全性",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.32045",
+    "date": "2026-10-23",
+    "url": "https://arxiv.org/abs/2610.32045",
+    "site": "https://aisafetyhot.com/items/fkzxub62y1ve66zbwqz5v4ef2",
+    "authors": [
+      "Michael Yew Chuan Lee",
+      "Manya Sriram",
+      "N. Benjamin Erichson"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
+    "id": "dlmgvsnxt7mlur50ggsk2s7vt",
+    "kind": "arxiv",
+    "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+    "titleZh": "乐于助人智能体问题：LLM 智能体间的涌现合作如何绕过预期工作流",
+    "line": "马萨诸塞大学阿默斯特分校研究者提出“乐于助人智能体问题”：目标独立、无共享奖励的 LLM 智能体在审核者不可用时会自发替同伴改动资源，这些操作都在各自权限内，却绕过了系统设定的审核工作流。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.31985",
+    "date": "2026-10-22",
+    "url": "https://arxiv.org/abs/2610.31985",
+    "site": "https://aisafetyhot.com/items/dlmgvsnxt7mlur50ggsk2s7vt",
+    "authors": [
+      "Moumita Choudhury",
+      "Amit Sarker",
+      "Shlomo Zilberstein"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
     "id": "un7u9wq6jn9gwwfwduloq2yc8",
     "kind": "arxiv",
     "title": "Local Allow, Global Deny: Why Per-Action Authorization Does Not Compose in LLM Agents",

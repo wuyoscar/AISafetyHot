@@ -1,5 +1,61 @@
 [
   {
+    "id": "neurips:2026:a5qQCbrc2b",
+    "kind": "conference",
+    "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+    "titleZh": "镜中攻击者：锚定双策略自博弈打破安全自一致性",
+    "line": "指出自博弈红队中攻防共享参数会塌缩为自一致性、丧失对抗压力，提出在冻结基座上训练角色专属 LoRA 的 Anchored Bipolicy Self-Play，安全性提升且参数效率高 100 倍。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/151513",
+    "site": null,
+    "authors": [
+      "Gabriele La Malfa",
+      "Emanuele La Malfa",
+      "Saar Cohen",
+      "Jie Zhang",
+      "Michael Luck",
+      "Michael Wooldridge",
+      "Elizabeth Black"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
+    "id": "l87krjri3x4aih5he56ob4wnj",
+    "kind": "arxiv",
+    "title": "Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models",
+    "titleZh": "烹饪风险：大语言模型食品安全风险的基准测试与降低",
+    "line": "提出 FoodGuardBench 与护栏 FoodGuard-4B，评测并降低食品危害越狱",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2604.01444",
+    "date": "2026-04-01",
+    "url": "https://arxiv.org/abs/2604.01444",
+    "site": "https://aisafetyhot.com/items/l87krjri3x4aih5he56ob4wnj",
+    "authors": [
+      "Weidi Luo",
+      "Xiaofei Wen",
+      "Tenghao Huang",
+      "Hao Li",
+      "Hongyi Wang",
+      "Zhen Xiang",
+      "Chaowei Xiao",
+      "Kristina Gligorić",
+      "Muhao Chen"
+    ],
+    "pushedOn": "2026-10-27"
+  },
+  {
     "id": "icml:2026:6ojsIliNF0",
     "kind": "conference",
     "title": "Surgery: Mitigating Harmful  Fine-Tuning for Large Language Models via Attention Sink",
