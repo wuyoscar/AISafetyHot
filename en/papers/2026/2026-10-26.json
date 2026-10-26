@@ -1,0 +1,25 @@
+[
+  {
+    "id": "fkzxub62y1ve66zbwqz5v4ef2",
+    "arxivId": "2610.32045",
+    "title": "Do AI-for-Science Agents Preserve Model Safety?",
+    "titleEn": "Do AI for Science Agents Preserve Model Safety?",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.32045",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/fkzxub62y1ve66zbwqz5v4ef2"
+    },
+    "publishedAt": "2026-10-23T01:34:20.000Z",
+    "timelineAt": "2026-10-26T05:11:16.772Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 38,
+      "translated": 38,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
