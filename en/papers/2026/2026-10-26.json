@@ -16,8 +16,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 38,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
@@ -49,7 +49,7 @@
     "id": "fjrkkqs1wjzw54zhsm8wqx57n",
     "arxivId": "2610.31778",
     "title": "Benchmarks Are Surprisingly Compaction-Friendly",
-    "titleEn": "Agent benchmarks are surprisingly friendly to context compression",
+    "titleEn": "Benchmarks Are Surprisingly Compaction-Friendly",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 38,
+      "translated": 37,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -85,9 +85,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 35,
-      "pending": 3,
+      "total": 39,
+      "translated": 38,
+      "pending": 1,
       "status": "partial"
     }
   }
