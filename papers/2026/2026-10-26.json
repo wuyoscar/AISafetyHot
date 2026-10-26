@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.31695",
+    "title": "Fooling LLM Safety Guards into Judging the Wrong Text",
+    "titleZh": "欺骗 LLM 安全护栏使其评判错误的文本",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31695",
+      "aisafetyhot": "https://aisafetyhot.com/items/wtto9uxe285a7x5ua4vuo3qfd"
+    },
+    "publishedAt": "2026-10-20T22:00:29.000Z",
+    "timelineAt": "2026-10-26T06:16:17.396Z",
+    "discoveredAt": "2026-10-26T06:16:17.396Z"
+  },
+  {
     "arxivId": "2610.32045",
     "title": "Do AI-for-Science Agents Preserve Model Safety?",
     "titleZh": "AI for Science 智能体能保留模型的安全性吗？",
@@ -16,5 +34,41 @@
     "publishedAt": "2026-10-23T01:34:20.000Z",
     "timelineAt": "2026-10-26T05:11:16.772Z",
     "discoveredAt": "2026-10-26T05:11:16.772Z"
+  },
+  {
+    "arxivId": "2610.31778",
+    "title": "Benchmarks Are Surprisingly Compaction-Friendly",
+    "titleZh": "Agent 基准测试对上下文压缩出人意料地友好",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31778",
+      "aisafetyhot": "https://aisafetyhot.com/items/fjrkkqs1wjzw54zhsm8wqx57n"
+    },
+    "publishedAt": "2026-10-22T18:15:54.000Z",
+    "timelineAt": "2026-10-26T06:29:17.857Z",
+    "discoveredAt": "2026-10-26T06:29:17.857Z"
+  },
+  {
+    "arxivId": "2610.31985",
+    "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+    "titleZh": "乐于助人智能体问题：LLM 智能体间的涌现合作如何绕过预期工作流",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31985",
+      "aisafetyhot": "https://aisafetyhot.com/items/dlmgvsnxt7mlur50ggsk2s7vt"
+    },
+    "publishedAt": "2026-10-22T22:55:40.000Z",
+    "timelineAt": "2026-10-26T06:16:17.460Z",
+    "discoveredAt": "2026-10-26T06:16:17.460Z"
   }
 ]
