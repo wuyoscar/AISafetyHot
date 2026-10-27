@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "e92tsukr6lc02uc6wyizkftpc",
+    "arxivId": "2610.28810",
+    "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+    "titleEn": "Combining long-term memory with LLMs comes at a high cost: from prompt injection to persistent compromise",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28810",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/e92tsukr6lc02uc6wyizkftpc"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-22T04:08:19.975Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "gyq0xt302vaszpdo8s39c794h",
     "arxivId": "2610.28707",
     "title": "SimHack: Predicting the onset of detectable reward hacking before RL training",

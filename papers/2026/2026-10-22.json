@@ -36,6 +36,24 @@
     "discoveredAt": "2026-10-22T06:07:18.896Z"
   },
   {
+    "arxivId": "2610.28810",
+    "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+    "titleZh": "长期记忆与 LLM 结合代价高昂：从提示注入到持久化攻陷",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.28810",
+      "aisafetyhot": "https://aisafetyhot.com/items/e92tsukr6lc02uc6wyizkftpc"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-22T04:08:19.975Z",
+    "discoveredAt": "2026-10-22T04:08:19.975Z"
+  },
+  {
     "arxivId": "2610.28707",
     "title": "SimHack: Predicting the onset of detectable reward hacking before RL training",
     "titleZh": "SimHack：在 RL 训练前预测可检测奖励作弊何时成为主导",

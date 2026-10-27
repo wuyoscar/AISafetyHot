@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.31404",
+    "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
+    "titleZh": "AgentPhishing：自适应攻击下的 LLM 邮件 Agent 评测基准",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31404",
+      "aisafetyhot": "https://aisafetyhot.com/items/s76xxyosi0f5wi930cmdbrqy1"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-23T04:22:34.982Z",
+    "discoveredAt": "2026-10-23T04:22:34.982Z"
+  },
+  {
     "arxivId": "2610.31579",
     "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
     "titleZh": "谁在谄媚谁？自信的大语言模型、人类顺从与信任校准的崩塌",
@@ -18,6 +36,24 @@
     "discoveredAt": "2026-10-23T04:50:37.473Z"
   },
   {
+    "arxivId": "2610.30193",
+    "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "titleZh": "保护不是单一事件：按实测终点分类的 RAG 防护研究综述",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.30193",
+      "aisafetyhot": "https://aisafetyhot.com/items/jmsgd0fpwj1si7sovcr445ofq"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-23T04:22:35.058Z",
+    "discoveredAt": "2026-10-23T04:22:35.058Z"
+  },
+  {
     "arxivId": "2610.30727",
     "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
     "titleZh": "匹配误报率下，忠实潜空间危害监控器并不优于模型自身行为",
@@ -34,5 +70,23 @@
     "publishedAt": "2026-10-22T04:54:53.000Z",
     "timelineAt": "2026-10-23T06:08:36.580Z",
     "discoveredAt": "2026-10-23T06:08:36.580Z"
+  },
+  {
+    "arxivId": "2610.32531",
+    "title": "On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection",
+    "titleZh": "任务未离题、结果已跑偏：评测大语言模型与智能体对近目标提示注入的鲁棒性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.32531",
+      "aisafetyhot": "https://aisafetyhot.com/items/oqv2eu54pyagouzagm2n54kcp"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-23T12:05:14.000Z",
+    "discoveredAt": "2026-10-26T04:15:17.744Z"
   }
 ]

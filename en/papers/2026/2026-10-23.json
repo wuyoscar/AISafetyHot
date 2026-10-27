@@ -1,5 +1,28 @@
 [
   {
+    "id": "s76xxyosi0f5wi930cmdbrqy1",
+    "arxivId": "2610.31404",
+    "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
+    "titleEn": "AgentPhishing: A Benchmark for Evaluating LLM Email Agents under Adaptive Attacks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31404",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/s76xxyosi0f5wi930cmdbrqy1"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-23T04:22:34.982Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "m4ru5r1a6zy0h6f97td9dbn8b",
     "arxivId": "2610.31579",
     "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
@@ -23,6 +46,29 @@
     }
   },
   {
+    "id": "jmsgd0fpwj1si7sovcr445ofq",
+    "arxivId": "2610.30193",
+    "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "titleEn": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.30193",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/jmsgd0fpwj1si7sovcr445ofq"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-23T04:22:35.058Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
     "id": "m7zd6qg6r4kt175ik46imr3n8",
     "arxivId": "2610.30727",
     "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
@@ -41,6 +87,29 @@
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 38,
       "translated": 38,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "oqv2eu54pyagouzagm2n54kcp",
+    "arxivId": "2610.32531",
+    "title": "On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection",
+    "titleEn": "On-task but off-target: evaluating the robustness of large language models and agents to near-target prompt injection",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.32531",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/oqv2eu54pyagouzagm2n54kcp"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-23T12:05:14.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
       "pending": 0,
       "status": "complete"
     }
