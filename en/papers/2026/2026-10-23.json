@@ -16,8 +16,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 38,
+      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
@@ -49,7 +49,7 @@
     "id": "jmsgd0fpwj1si7sovcr445ofq",
     "arxivId": "2610.30193",
     "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
-    "titleEn": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "titleEn": "Protection is not a single event: a survey of RAG defense research classified by measured endpoints",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "total": 38,
+      "translated": 38,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -108,8 +108,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 3,
+      "total": 38,
+      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
