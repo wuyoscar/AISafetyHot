@@ -2,7 +2,7 @@
   {
     "arxivId": "2610.33849",
     "title": "Ranking Is Not Deciding: Benchmark Shortcuts and Operating-Point Collapse in Query-Time RAG Poisoning Defenses",
-    "titleZh": "排序不等于决策：查询时 RAG 投毒防御中的基准捷径与工作点坍塌",
+    "titleZh": "排序不等于判定：查询时 RAG 投毒防御的基准捷径与工作点崩塌",
     "authors": [],
     "category": null,
     "selected": true,
