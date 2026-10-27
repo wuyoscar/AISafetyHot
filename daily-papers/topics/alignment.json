@@ -1,5 +1,35 @@
 [
   {
+    "id": "neurips:2026:2zZdeKdoc6",
+    "kind": "conference",
+    "title": "Inference-time Alignment via Sparse Junction Steering",
+    "titleZh": "基于稀疏节点引导的推理时对齐",
+    "line": "提出稀疏推理时对齐方法 SIA，仅在高熵关键决策点干预 20%–80% 的 token，即可达到优于密集干预的对齐—效率权衡。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/155775",
+    "site": null,
+    "authors": [
+      "Runyi Hu",
+      "Jie Zhang",
+      "Shiqian Zhao",
+      "Jiale Meng",
+      "Jiwei Li",
+      "Jason Zeng",
+      "Ming Wu",
+      "Michael Heinrich",
+      "Yonggang Wen",
+      "Tianwei Zhang"
+    ],
+    "pushedOn": "2026-10-28"
+  },
+  {
     "id": "icml:2026:vSzRJyg6k0",
     "kind": "conference",
     "title": "Reward-free Alignment for Conflicting Objectives",

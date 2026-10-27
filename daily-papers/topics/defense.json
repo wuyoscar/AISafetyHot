@@ -1,5 +1,29 @@
 [
   {
+    "id": "neurips:2026:6SIPt7cfSm",
+    "kind": "conference",
+    "title": "Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs",
+    "titleZh": "期望危害：重新思考（未）对齐LLM的安全评估",
+    "line": "提出按执行可能性加权的\"期望危害\"指标，发现模型对低可能性威胁拒答更强、对高可能性威胁更脆弱，溯源至SFT数据分布，并据此将现有越狱攻击成功率最高提升2倍。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/139760",
+    "site": null,
+    "authors": [
+      "Yen-Shan Chen",
+      "Zhi Rui Tam",
+      "Cheng-Kuang Wu",
+      "Yun-Nung (Vivian) Chen"
+    ],
+    "pushedOn": "2026-10-28"
+  },
+  {
     "id": "neurips:2026:a5qQCbrc2b",
     "kind": "conference",
     "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",

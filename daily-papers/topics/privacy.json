@@ -1,5 +1,33 @@
 [
   {
+    "id": "neurips:2026:db0FP1G7V7",
+    "kind": "conference",
+    "title": "Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization",
+    "titleZh": "Catch-Only-One：面向模型专属授权的不可迁移样本",
+    "line": "提出不可迁移样本（NTE），将数据重编码为仅指定模型可解码的形式，未授权模型性能崩溃，实现数据用途限制。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/151014",
+    "site": null,
+    "authors": [
+      "Zihan Wang",
+      "Ethan Ma",
+      "Zhongkui Ma",
+      "Shuofeng Liu",
+      "Akide Liu",
+      "Derui Wang",
+      "Minhui Xue",
+      "Guangdong Bai"
+    ],
+    "pushedOn": "2026-10-28"
+  },
+  {
     "id": "neurips:2026:SNNm5MJ9dg",
     "kind": "conference",
     "title": "CLIOPATRA: Extracting Private Information from LLM Insights",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "neurips:2026:zLwGdQLBbW",
+    "kind": "conference",
+    "title": "Neural Chameleons: Language Models Can Learn to Hide Their Thoughts from Unseen Activation Monitors",
+    "titleZh": "神经变色龙：语言模型可学会对未见过的激活监控隐藏想法",
+    "line": "证明微调可让模型零样本逃避激活监控器，触发词诱导向激活偏移，对 Llama、Gemma、Qwen 均有效且几乎不损失能力。",
+    "topics": [
+      {
+        "slug": "scheming",
+        "name": "欺骗与谋划"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/148241",
+    "site": null,
+    "authors": [
+      "Max McGuinness",
+      "Alex Serrano Terre",
+      "Luke Bailey",
+      "Scott Emmons"
+    ],
+    "pushedOn": "2026-10-28"
+  },
+  {
     "id": "icml:2026:rLFIOikFR2",
     "kind": "conference",
     "title": "Sycophancy Towards Researchers Drives Performative Misalignment",

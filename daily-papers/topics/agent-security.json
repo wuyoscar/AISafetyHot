@@ -1,5 +1,30 @@
 [
   {
+    "id": "ootvky9u34ijufn51w7fvyuxj",
+    "kind": "arxiv",
+    "title": "I-HITL: Inalienable Human-in-the-Loop",
+    "titleZh": "I-HITL：不可剥夺的人在回路",
+    "line": "Cornell Tech 与 Yale 等机构的研究者提出不可剥夺的人在回路（I-HITL）协议，确保 Agent 即使攻陷其运行平台也只能在人类明确批准下发起操作。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2610.35835",
+    "date": "2026-10-26",
+    "url": "https://arxiv.org/abs/2610.35835",
+    "site": "https://aisafetyhot.com/items/ootvky9u34ijufn51w7fvyuxj",
+    "authors": [
+      "Samuel Breckenridge",
+      "Dani Vilardell",
+      "Wenhao Wang",
+      "Fan Zhang",
+      "Ari Juels"
+    ],
+    "pushedOn": "2026-10-28"
+  },
+  {
     "id": "neurips:2026:8gDb2bnWWf",
     "kind": "conference",
     "title": "Agent Security is a Systems Problem",
