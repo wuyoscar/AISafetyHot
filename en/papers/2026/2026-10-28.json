@@ -3,7 +3,7 @@
     "id": "m9wwg885oikxu6ddewrh6ahmy",
     "arxivId": "2610.37255",
     "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
-    "titleEn": "Your Policy Is Actually a Scaffold: The Decision Geometry of Language Model Agents",
+    "titleEn": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
@@ -39,9 +39,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 3,
-      "pending": 1,
+      "total": 12,
+      "translated": 10,
+      "pending": 2,
       "status": "partial"
     }
   }
