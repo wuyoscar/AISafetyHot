@@ -3,7 +3,7 @@
     "id": "lte2kmxd8yxcvlhmeybjachmg",
     "arxivId": "2610.33624",
     "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
-    "titleEn": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
+    "titleEn": "RSI Arena: Toward recursive self-improvement with human feedback",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 11,
-      "translated": 7,
-      "pending": 4,
-      "status": "partial"
+      "translated": 11,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
