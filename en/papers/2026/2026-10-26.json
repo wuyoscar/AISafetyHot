@@ -49,7 +49,7 @@
     "id": "l2e6fiow8pfkqhqn6dez6jx6n",
     "arxivId": "2610.34894",
     "title": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
-    "titleEn": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
+    "titleEn": "What outcome-reward RL buys: finishing on time, reliability, and rare reach",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,9 +63,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 11,
-      "translated": 4,
-      "pending": 7,
-      "status": "partial"
+      "translated": 11,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
