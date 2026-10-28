@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "l2e6fiow8pfkqhqn6dez6jx6n",
+    "arxivId": "2610.34894",
+    "title": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
+    "titleEn": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.34894",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/l2e6fiow8pfkqhqn6dez6jx6n"
+    },
+    "publishedAt": "2026-10-26T06:14:49.000Z",
+    "timelineAt": "2026-10-26T06:14:49.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "status": "original"
+    }
+  },
+  {
     "id": "fjrkkqs1wjzw54zhsm8wqx57n",
     "arxivId": "2610.31778",
     "title": "Benchmarks Are Surprisingly Compaction-Friendly",

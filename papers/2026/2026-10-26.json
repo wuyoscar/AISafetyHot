@@ -36,6 +36,24 @@
     "discoveredAt": "2026-10-26T05:11:16.772Z"
   },
   {
+    "arxivId": "2610.34894",
+    "title": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
+    "titleZh": "Outcome RL 带来了什么：预算内完成作答、答对率与鲜有的新解题范围",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.34894",
+      "aisafetyhot": "https://aisafetyhot.com/items/l2e6fiow8pfkqhqn6dez6jx6n"
+    },
+    "publishedAt": "2026-10-26T06:14:49.000Z",
+    "timelineAt": "2026-10-26T06:14:49.000Z",
+    "discoveredAt": "2026-10-28T17:31:26.700Z"
+  },
+  {
     "arxivId": "2610.31778",
     "title": "Benchmarks Are Surprisingly Compaction-Friendly",
     "titleZh": "Agent 基准测试对上下文压缩出人意料地友好",
