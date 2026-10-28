@@ -1,0 +1,25 @@
+[
+  {
+    "id": "lte2kmxd8yxcvlhmeybjachmg",
+    "arxivId": "2610.33624",
+    "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
+    "titleEn": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.33624",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/lte2kmxd8yxcvlhmeybjachmg"
+    },
+    "publishedAt": "2026-10-24T11:54:45.000Z",
+    "timelineAt": "2026-10-24T11:54:45.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "status": "original"
+    }
+  }
+]

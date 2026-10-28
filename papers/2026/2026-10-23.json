@@ -54,6 +54,24 @@
     "discoveredAt": "2026-10-23T04:22:35.058Z"
   },
   {
+    "arxivId": "2610.31974",
+    "title": "Agentic AI Defense: Decode-Time Provenance Binding for MCP",
+    "titleZh": "智能体 AI 防御：面向 MCP 的解码时来源绑定",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31974",
+      "aisafetyhot": "https://aisafetyhot.com/items/ehji51qptriwsvbgiv7t73dr1"
+    },
+    "publishedAt": "2026-10-22T22:27:13.000Z",
+    "timelineAt": "2026-10-22T22:27:13.000Z",
+    "discoveredAt": "2026-10-26T04:15:17.754Z"
+  },
+  {
     "arxivId": "2610.30727",
     "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
     "titleZh": "匹配误报率下，忠实潜空间危害监控器并不优于模型自身行为",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-10-22T04:54:53.000Z",
     "timelineAt": "2026-10-23T06:08:36.580Z",
     "discoveredAt": "2026-10-23T06:08:36.580Z"
-  },
-  {
-    "arxivId": "2610.32531",
-    "title": "On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection",
-    "titleZh": "任务未离题、结果已跑偏：评测大语言模型与智能体对近目标提示注入的鲁棒性",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.32531",
-      "aisafetyhot": "https://aisafetyhot.com/items/oqv2eu54pyagouzagm2n54kcp"
-    },
-    "publishedAt": "2026-10-23T12:05:14.000Z",
-    "timelineAt": "2026-10-23T12:05:14.000Z",
-    "discoveredAt": "2026-10-26T04:15:17.744Z"
   }
 ]

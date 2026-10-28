@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "ehji51qptriwsvbgiv7t73dr1",
+    "arxivId": "2610.31974",
+    "title": "Agentic AI Defense: Decode-Time Provenance Binding for MCP",
+    "titleEn": "Agentic AI Defense: Decode-Time Provenance Binding for MCP",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31974",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ehji51qptriwsvbgiv7t73dr1"
+    },
+    "publishedAt": "2026-10-22T22:27:13.000Z",
+    "timelineAt": "2026-10-22T22:27:13.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "status": "original"
+    }
+  },
+  {
     "id": "m7zd6qg6r4kt175ik46imr3n8",
     "arxivId": "2610.30727",
     "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
@@ -81,29 +104,6 @@
     },
     "publishedAt": "2026-10-22T04:54:53.000Z",
     "timelineAt": "2026-10-23T06:08:36.580Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 38,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "oqv2eu54pyagouzagm2n54kcp",
-    "arxivId": "2610.32531",
-    "title": "On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection",
-    "titleEn": "On-task but off-target: evaluating the robustness of large language models and agents to near-target prompt injection",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.32531",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/oqv2eu54pyagouzagm2n54kcp"
-    },
-    "publishedAt": "2026-10-23T12:05:14.000Z",
-    "timelineAt": "2026-10-23T12:05:14.000Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
