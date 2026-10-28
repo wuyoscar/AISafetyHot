@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ekb3ndvi6w71lzffewp0uqgma",
+    "arxivId": "2610.37481",
+    "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+    "titleEn": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.37481",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ekb3ndvi6w71lzffewp0uqgma"
+    },
+    "publishedAt": "2026-10-27T16:08:08.000Z",
+    "timelineAt": "2026-10-28T05:02:46.258Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  }
+]
