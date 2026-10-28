@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "bq44wfhhceurotq84hewzv7es",
+    "arxivId": "2610.34253",
+    "title": "NameTrap: Steering AI Coding Agents Toward Security Vulnerabilities via Variable Names",
+    "titleEn": "NameTrap: Steering AI coding agents toward security vulnerabilities through variable names",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.34253",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/bq44wfhhceurotq84hewzv7es"
+    },
+    "publishedAt": "2026-10-25T12:29:23.000Z",
+    "timelineAt": "2026-10-27T04:15:20.911Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "zm2djotz0uabf80gr0s8e9jiu",
     "arxivId": "2610.33011",
     "title": "When Agents Collude: Weak-to-Strong On-Policy Distillation for Mitigating Strategic Deception in Multi-Agent Systems",
@@ -89,29 +112,6 @@
       "translated": 38,
       "pending": 0,
       "status": "complete"
-    }
-  },
-  {
-    "id": "h5h0ysonnvcsi2c09rtxrkufb",
-    "arxivId": "2610.35716",
-    "title": "Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO",
-    "titleEn": "Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.35716",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/h5h0ysonnvcsi2c09rtxrkufb"
-    },
-    "publishedAt": "2026-10-26T16:38:14.000Z",
-    "timelineAt": "2026-10-27T05:00:25.425Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 39,
-      "translated": 38,
-      "pending": 1,
-      "status": "partial"
     }
   }
 ]
