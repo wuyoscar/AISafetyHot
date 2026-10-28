@@ -3,7 +3,7 @@
     "id": "m9wwg885oikxu6ddewrh6ahmy",
     "arxivId": "2610.37255",
     "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
-    "titleEn": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+    "titleEn": "Your policy is actually a Harness: the decision geometry of the Agent interface",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 12,
-      "translated": 8,
-      "pending": 4,
-      "status": "partial"
+      "translated": 12,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
