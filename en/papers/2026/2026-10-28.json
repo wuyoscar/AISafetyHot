@@ -1,5 +1,28 @@
 [
   {
+    "id": "pa25kunpa88sizins3yuasik6",
+    "arxivId": "2610.36108",
+    "title": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+    "titleEn": "Log-To-Leak: A prompt injection attack against LLM agents that use tools via MCP",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.36108",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/pa25kunpa88sizins3yuasik6"
+    },
+    "publishedAt": "2026-10-26T18:20:24.000Z",
+    "timelineAt": "2026-10-28T04:21:43.304Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "m9wwg885oikxu6ddewrh6ahmy",
     "arxivId": "2610.37255",
     "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
