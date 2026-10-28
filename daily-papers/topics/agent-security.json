@@ -1,5 +1,53 @@
 [
   {
+    "id": "t30e9qm3gfx540c6xwtbor0xf",
+    "kind": "arxiv",
+    "title": "Safe to Resume? Breaking Execution Continuity of Agent Execution via Rollback",
+    "titleZh": "研究者提出 Agent 检查点回滚的五类安全失效，并在 Hermes、Cline、LangGraph 上实现三种攻击",
+    "line": "提出利用检查点回滚破坏 Agent 执行连续性的攻击",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2608.29381",
+    "date": "2026-08-29",
+    "url": "https://arxiv.org/abs/2608.29381",
+    "site": "https://aisafetyhot.com/items/t30e9qm3gfx540c6xwtbor0xf",
+    "authors": [
+      "Guanlong Wu",
+      "Dahui Li",
+      "Ke Jiang",
+      "Jianyu Niu",
+      "Cong Wang",
+      "Yinqian Zhang"
+    ],
+    "pushedOn": "2026-10-29"
+  },
+  {
+    "id": "neurips:2026:d3KYxJNekT",
+    "kind": "conference",
+    "title": "Norm Enforcement for AI Agents: Robustly Shaping Behavior in Multi-Agent Systems",
+    "titleZh": "AI 智能体的规范执行：鲁棒塑造多智能体系统行为",
+    "line": "研究语言模型智能体的规范执行机制，发现简单机制会被未对齐智能体利用，提出基于可靠性估计与递增惩罚的机制，在三个模拟环境中抵抗利用。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/151090",
+    "site": null,
+    "authors": [
+      "Yaowen Ye",
+      "Jacob Steinhardt"
+    ],
+    "pushedOn": "2026-10-29"
+  },
+  {
     "id": "ootvky9u34ijufn51w7fvyuxj",
     "kind": "arxiv",
     "title": "I-HITL: Inalienable Human-in-the-Loop",

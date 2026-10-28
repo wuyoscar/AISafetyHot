@@ -72,7 +72,7 @@
     "id": "ehji51qptriwsvbgiv7t73dr1",
     "arxivId": "2610.31974",
     "title": "Agentic AI Defense: Decode-Time Provenance Binding for MCP",
-    "titleEn": "Agentic AI Defense: Decode-Time Provenance Binding for MCP",
+    "titleEn": "Agentic AI Defenses: Decode-Time Provenance Binding for MCP",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -86,9 +86,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 3,
-      "translated": 0,
-      "pending": 3,
-      "status": "original"
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {

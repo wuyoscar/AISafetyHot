@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": null,
+    "title": "Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks",
+    "titleZh": "Neural Cleanse：识别与缓解神经网络中的后门攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://doi.org/10.1109/SP.2019.00031",
+      "aisafetyhot": "https://aisafetyhot.com/items/dnqq9f8qs7irym7095z4jykxf"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-10-28T03:34:32.381Z",
+    "discoveredAt": "2026-10-28T03:34:32.381Z"
+  },
+  {
     "arxivId": "2610.36108",
     "title": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
     "titleZh": "Log-To-Leak：针对通过 MCP 使用工具的 LLM Agent 的提示注入攻击",
