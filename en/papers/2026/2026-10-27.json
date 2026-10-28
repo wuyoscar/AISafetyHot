@@ -26,7 +26,7 @@
     "id": "bq44wfhhceurotq84hewzv7es",
     "arxivId": "2610.34253",
     "title": "NameTrap: Steering AI Coding Agents Toward Security Vulnerabilities via Variable Names",
-    "titleEn": "NameTrap: Steering AI Coding Agents Toward Security Vulnerabilities via Variable Names",
+    "titleEn": "NameTrap: Steering AI coding agents toward security vulnerabilities through variable names",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -40,9 +40,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 12,
-      "translated": 8,
-      "pending": 4,
-      "status": "partial"
+      "translated": 12,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
