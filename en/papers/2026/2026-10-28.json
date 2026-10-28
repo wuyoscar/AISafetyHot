@@ -1,5 +1,28 @@
 [
   {
+    "id": "m9wwg885oikxu6ddewrh6ahmy",
+    "arxivId": "2610.37255",
+    "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+    "titleEn": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.37255",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/m9wwg885oikxu6ddewrh6ahmy"
+    },
+    "publishedAt": "2026-10-27T13:52:25.000Z",
+    "timelineAt": "2026-10-28T05:39:31.305Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
     "id": "ekb3ndvi6w71lzffewp0uqgma",
     "arxivId": "2610.37481",
     "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",

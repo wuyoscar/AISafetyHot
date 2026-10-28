@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2610.37255",
+    "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+    "titleZh": "你的策略其实是个脚手架：语言模型智能体的决策几何",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.37255",
+      "aisafetyhot": "https://aisafetyhot.com/items/m9wwg885oikxu6ddewrh6ahmy"
+    },
+    "publishedAt": "2026-10-27T13:52:25.000Z",
+    "timelineAt": "2026-10-28T05:39:31.305Z",
+    "discoveredAt": "2026-10-28T05:39:31.305Z"
+  },
+  {
     "arxivId": "2610.37481",
     "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
     "titleZh": "跟随梯度：将大模型安全退化追溯到训练数据",
