@@ -2,7 +2,7 @@
   {
     "arxivId": "2610.37741",
     "title": "Agentic Backdoors via Pretraining Poisoning",
-    "titleZh": "通过预训练投毒在智能体中植入后门",
+    "titleZh": "通过预训练投毒植入 Agent 后门",
     "authors": [],
     "category": null,
     "selected": true,
@@ -20,7 +20,7 @@
   {
     "arxivId": "2610.38799",
     "title": "CARI: Cross-Boundary Adversarial Runtime Injection in Coding-Agent Workflows",
-    "titleZh": "CARI：编码 Agent 工作流中的跨边界对抗性运行时注入",
+    "titleZh": "CARI：针对编码 Agent 工作流的跨边界对抗性运行时注入",
     "authors": [],
     "category": null,
     "selected": true,
@@ -38,7 +38,7 @@
   {
     "arxivId": "2610.38209",
     "title": "Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction",
-    "titleZh": "这是我的偏好吗？通过社交互动对智能体记忆的角色锚定攻击",
+    "titleZh": "这是我的偏好吗？社交互动中对智能体记忆的角色接地攻击",
     "authors": [],
     "category": null,
     "selected": true,
@@ -56,7 +56,7 @@
   {
     "arxivId": "2610.37984",
     "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
-    "titleZh": "还有谁参与其中？基于策略性模糊的多智能体合谋启动",
+    "titleZh": "谁在其中？多智能体 LLM 借策略性含糊发起合谋",
     "authors": [],
     "category": null,
     "selected": true,
