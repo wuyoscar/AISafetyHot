@@ -72,7 +72,7 @@
     "id": "rqhugyghzohpf23n9jtl4vkzb",
     "arxivId": "2610.38433",
     "title": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
-    "titleEn": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
+    "titleEn": "Does chain-of-thought reliance follow scaling laws? The larger the model, the more it follows the written steps, independent of post-training",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -86,32 +86,32 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
-    "id": "dxhea72lhlx8j4h5jewbv5wwi",
-    "arxivId": "2610.37984",
-    "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
-    "titleEn": "Who's In? Multi-Agent LLMs Initiate Collusion via Strategic Ambiguity",
+    "id": "fmnvhc567dpx57hs0698012lk",
+    "arxivId": "2610.38120",
+    "title": "Post-Training Large Language Models with LLMON",
+    "titleEn": "Post-Training Large Language Models with LLMON",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.37984",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/dxhea72lhlx8j4h5jewbv5wwi"
+      "paper": "https://arxiv.org/abs/2610.38120",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/fmnvhc567dpx57hs0698012lk"
     },
-    "publishedAt": "2026-10-27T21:28:48.000Z",
-    "timelineAt": "2026-10-30T06:41:28.039Z",
+    "publishedAt": "2026-10-28T00:56:01.000Z",
+    "timelineAt": "2026-10-30T12:38:39.631Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
     }
   }
 ]

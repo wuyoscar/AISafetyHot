@@ -72,9 +72,9 @@
     "discoveredAt": "2026-10-30T11:09:24.228Z"
   },
   {
-    "arxivId": "2610.37984",
-    "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
-    "titleZh": "谁在其中？多智能体 LLM 借策略性含糊发起合谋",
+    "arxivId": "2610.38120",
+    "title": "Post-Training Large Language Models with LLMON",
+    "titleZh": "使用 LLMON 对大语言模型进行后训练",
     "authors": [],
     "category": null,
     "selected": true,
@@ -82,11 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.37984",
-      "aisafetyhot": "https://aisafetyhot.com/items/dxhea72lhlx8j4h5jewbv5wwi"
+      "paper": "https://arxiv.org/abs/2610.38120",
+      "aisafetyhot": "https://aisafetyhot.com/items/fmnvhc567dpx57hs0698012lk"
     },
-    "publishedAt": "2026-10-27T21:28:48.000Z",
-    "timelineAt": "2026-10-30T06:41:28.039Z",
-    "discoveredAt": "2026-10-30T06:41:28.039Z"
+    "publishedAt": "2026-10-28T00:56:01.000Z",
+    "timelineAt": "2026-10-30T12:38:39.631Z",
+    "discoveredAt": "2026-10-30T12:38:39.631Z"
   }
 ]
