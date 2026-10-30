@@ -3,7 +3,7 @@
     "id": "zhgqd7peh0n2ybxk57zmg86zh",
     "arxivId": "2610.37741",
     "title": "Agentic Backdoors via Pretraining Poisoning",
-    "titleEn": "Implanting Agent Backdoors via Pretraining Poisoning",
+    "titleEn": "Agentic Backdoors via Pretraining Poisoning",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,17 +16,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
     "id": "a4d26f4mq9irfbulsphz8syei",
     "arxivId": "2610.38799",
     "title": "CARI: Cross-Boundary Adversarial Runtime Injection in Coding-Agent Workflows",
-    "titleEn": "CARI: Cross-Boundary Adversarial Runtime Injection Against Coding Agent Workflows",
+    "titleEn": "CARI: Cross-Boundary Adversarial Runtime Injection in Coding-Agent Workflows",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -39,17 +39,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
     "id": "c06gcnrozkabyf0xyi96mxk1x",
     "arxivId": "2610.38209",
     "title": "Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction",
-    "titleEn": "Is This My Preference? Role Grounding Attacks on Agent Memory in Social Interaction",
+    "titleEn": "Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,17 +62,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
     "id": "dxhea72lhlx8j4h5jewbv5wwi",
     "arxivId": "2610.37984",
     "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
-    "titleEn": "Who's In? Multi-Agent LLMs Initiate Collusion via Strategic Ambiguity",
+    "titleEn": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -85,17 +85,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
     "id": "pi4p50z87o71rmvht38n1kk9i",
     "arxivId": "2610.38867",
     "title": "Where You Inject Matters: The Trust Region Effect in LLM Agents",
-    "titleEn": "Injection Location Matters: Trust Region Effects in LLM Agents",
+    "titleEn": "Where You Inject Matters: The Trust Region Effect in LLM Agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -108,10 +108,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   }
 ]
