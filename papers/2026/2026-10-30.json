@@ -54,6 +54,24 @@
     "discoveredAt": "2026-10-30T06:41:28.052Z"
   },
   {
+    "arxivId": "2610.38433",
+    "title": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
+    "titleZh": "思维链依赖是否遵循缩放定律？模型越大越跟随所写步骤，与后训练无关",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.38433",
+      "aisafetyhot": "https://aisafetyhot.com/items/rqhugyghzohpf23n9jtl4vkzb"
+    },
+    "publishedAt": "2026-10-28T08:16:28.000Z",
+    "timelineAt": "2026-10-30T11:09:24.228Z",
+    "discoveredAt": "2026-10-30T11:09:24.228Z"
+  },
+  {
     "arxivId": "2610.37984",
     "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
     "titleZh": "谁在其中？多智能体 LLM 借策略性含糊发起合谋",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-10-27T21:28:48.000Z",
     "timelineAt": "2026-10-30T06:41:28.039Z",
     "discoveredAt": "2026-10-30T06:41:28.039Z"
-  },
-  {
-    "arxivId": "2610.38867",
-    "title": "Where You Inject Matters: The Trust Region Effect in LLM Agents",
-    "titleZh": "注入位置很重要：LLM 智能体中的信任区域效应",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.38867",
-      "aisafetyhot": "https://aisafetyhot.com/items/pi4p50z87o71rmvht38n1kk9i"
-    },
-    "publishedAt": "2026-10-28T20:40:04.000Z",
-    "timelineAt": "2026-10-30T06:41:28.119Z",
-    "discoveredAt": "2026-10-30T06:41:28.119Z"
   }
 ]

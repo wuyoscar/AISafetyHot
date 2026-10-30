@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "rqhugyghzohpf23n9jtl4vkzb",
+    "arxivId": "2610.38433",
+    "title": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
+    "titleEn": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.38433",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/rqhugyghzohpf23n9jtl4vkzb"
+    },
+    "publishedAt": "2026-10-28T08:16:28.000Z",
+    "timelineAt": "2026-10-30T11:09:24.228Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
     "id": "dxhea72lhlx8j4h5jewbv5wwi",
     "arxivId": "2610.37984",
     "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
@@ -81,29 +104,6 @@
     },
     "publishedAt": "2026-10-27T21:28:48.000Z",
     "timelineAt": "2026-10-30T06:41:28.039Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "pi4p50z87o71rmvht38n1kk9i",
-    "arxivId": "2610.38867",
-    "title": "Where You Inject Matters: The Trust Region Effect in LLM Agents",
-    "titleEn": "Injection Location Matters: Trust Region Effects in LLM Agents",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2610.38867",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/pi4p50z87o71rmvht38n1kk9i"
-    },
-    "publishedAt": "2026-10-28T20:40:04.000Z",
-    "timelineAt": "2026-10-30T06:41:28.119Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
