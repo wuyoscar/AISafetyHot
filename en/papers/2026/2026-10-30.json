@@ -95,7 +95,7 @@
     "id": "fmnvhc567dpx57hs0698012lk",
     "arxivId": "2610.38120",
     "title": "Post-Training Large Language Models with LLMON",
-    "titleEn": "Post-Training Large Language Models with LLMON",
+    "titleEn": "Post-training large language models with LLMON",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
