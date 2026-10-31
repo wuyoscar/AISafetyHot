@@ -1,0 +1,588 @@
+[
+  {
+    "id": "jjsqq7lkt0quancfq1n10hcf9",
+    "kind": "arxiv",
+    "title": "Adversarial Self-Distillation",
+    "titleZh": "对抗自蒸馏（ASD）",
+    "line": "研究者提出对抗自蒸馏（ASD），把模型自身在干净提示下的拒答行为扩展到对抗扰动空间，用于应对能绕过安全对齐模型防护的对抗攻击。",
+    "topics": [],
+    "venue": "arXiv 2610.38732",
+    "date": "2026-10-28",
+    "url": "https://arxiv.org/abs/2610.38732",
+    "site": "https://aisafetyhot.com/items/jjsqq7lkt0quancfq1n10hcf9",
+    "authors": [
+      "Mohammad Sadegh Akhondzadeh",
+      "Soroush H. Zargarbashi",
+      "Aleksandar Bojchevski"
+    ]
+  },
+  {
+    "id": "dxhea72lhlx8j4h5jewbv5wwi",
+    "kind": "arxiv",
+    "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness",
+    "titleZh": "谁在其中？多智能体 LLM 借策略性含糊发起合谋",
+    "line": "研究团队提出合谋发起问题并设计互相识别实验，测试 LLM 智能体能否在被监控的公开频道里通过普通任务讨论互相认出潜在合谋伙伴。",
+    "topics": [],
+    "venue": "arXiv 2610.37984",
+    "date": "2026-10-27",
+    "url": "https://arxiv.org/abs/2610.37984",
+    "site": "https://aisafetyhot.com/items/dxhea72lhlx8j4h5jewbv5wwi",
+    "authors": [
+      "Pramod Kaushik",
+      "Sarath Sivaprasad",
+      "Laura Ferrarotti",
+      "Mario Fritz",
+      "Samuel F. Brown",
+      "Bruno Lepri",
+      "Sahar Abdelnabi"
+    ]
+  },
+  {
+    "id": "oghasv5e2xlx7ko7yz6reubtw",
+    "kind": "arxiv",
+    "title": "FVH-Bench: Evaluating Image Generator Safety Beyond Overtly Harmful Imagery",
+    "titleZh": "FVH-Bench：评估图像生成器在显性有害图像之外的安全性",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.37722",
+    "date": "2026-10-27",
+    "url": "https://arxiv.org/abs/2610.37722",
+    "site": "https://aisafetyhot.com/items/oghasv5e2xlx7ko7yz6reubtw",
+    "authors": [
+      "Zihao Zhu",
+      "Yuhan Liu",
+      "Siwei Lyu",
+      "Baoyuan Wu"
+    ]
+  },
+  {
+    "id": "f24zmzmvvzknki2lmr10cs44k",
+    "kind": "arxiv",
+    "title": "A SoK for SoCs: Reading the TI Leaves on AI for Cyber Threat Intelligence Generation and Sharing",
+    "titleZh": "面向安全运营中心的 SoK：解读 AI 在网络威胁情报生成与共享中的现状",
+    "line": "一项 SoK 研究梳理 AI 在网络威胁情报（CTI）生成与共享中的应用，发现当前 LLM 可辅助其四个步骤，但每步仍需专家监督。作者将该环节分为情报提取、规范化与增强、编码、分发四步。",
+    "topics": [],
+    "venue": "arXiv 2609.01174",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.01174v1",
+    "site": "https://aisafetyhot.com/items/f24zmzmvvzknki2lmr10cs44k",
+    "authors": [
+      "Saastha Vasan",
+      "Hadjer Benkraouda",
+      "Jizhou Chen",
+      "Leyan Pan",
+      "Doguhan Yeke",
+      "Shinan Liu",
+      "Noah Spahn",
+      "Stefano Ortolani",
+      "David Evans",
+      "Christopher Kruegel",
+      "Giovanni Vigna"
+    ]
+  },
+  {
+    "id": "t82bkke5b8w16eqy3syus7uw2",
+    "kind": "arxiv",
+    "title": "What's in Your Agent's Context? Context Privilege Escalation Attacks against AI Agent Harness",
+    "titleZh": "研究者提出上下文权限提升攻击，12 款 Agent 框架均受影响",
+    "line": "提出针对 Agent Harness 的上下文特权提升攻击",
+    "topics": [],
+    "venue": "arXiv 2609.01222",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.01222",
+    "site": "https://aisafetyhot.com/items/t82bkke5b8w16eqy3syus7uw2",
+    "authors": [
+      "Zichuan Li",
+      "Jian Cui",
+      "Ashley Chen",
+      "Xiaojing Liao",
+      "Luyi Xing"
+    ]
+  },
+  {
+    "id": "sks96tirl8fsra7dvisxtxxa9",
+    "kind": "arxiv",
+    "title": "Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models",
+    "titleZh": "研究者提出针对微调 TTS 模型的黑盒成员推断攻击",
+    "line": "提出针对微调 TTS 的黑盒成员推断攻击",
+    "topics": [],
+    "venue": "arXiv 2609.01723",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.01723v1",
+    "site": "https://aisafetyhot.com/items/sks96tirl8fsra7dvisxtxxa9",
+    "authors": [
+      "Kunlin Cai",
+      "Kaiyuan Zhang",
+      "Zihang Xiang",
+      "Jinghuai Zhang",
+      "Abeer Alwan",
+      "Fnu Suya",
+      "Yuan Tian"
+    ]
+  },
+  {
+    "id": "ercij07l8i0i4g4einai2zpyn",
+    "kind": "arxiv",
+    "title": "Differentially Private Paired Table-Image Multimodal Synthesis",
+    "titleZh": "DP-TabImage：差分隐私的成对表格-图像多模态合成框架",
+    "line": "DP-TabImage 是差分隐私的成对表格-图像多模态合成框架，用隐私概率图模型建模表格分布，用 DP-SGD 训练的表格条件扩散模型生成图像。",
+    "topics": [],
+    "venue": "arXiv 2609.00708",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.00708v1",
+    "site": "https://aisafetyhot.com/items/ercij07l8i0i4g4einai2zpyn",
+    "authors": [
+      "Kai Chen",
+      "Josephine Lamp",
+      "Somesh Jha",
+      "Tianhao Wang"
+    ]
+  },
+  {
+    "id": "r0jvolrkt1vrwtlo2zptsrz2e",
+    "kind": "arxiv",
+    "title": "Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry",
+    "titleZh": "研究提出 Q-Skew：利用 token 级记忆不对称对微调扩散语言模型做成员推断",
+    "line": "提出 Q-SKEW，利用 token 级记忆不对称推断微调扩散语言模型的成员",
+    "topics": [],
+    "venue": "arXiv 2609.00873",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.00873v1",
+    "site": "https://aisafetyhot.com/items/r0jvolrkt1vrwtlo2zptsrz2e",
+    "authors": [
+      "Shengfang Zhai",
+      "Leo Marchyok",
+      "Yuling Shi",
+      "Huanran Chen",
+      "Yinpeng Dong",
+      "Jiaheng Zhang",
+      "Sanghyun Hong"
+    ]
+  },
+  {
+    "id": "wq5u92cyyfpacdsvc35w8gnxa",
+    "kind": "arxiv",
+    "title": "SoK: When Safe Agents Fail Together: The Security of Multi Agent LLM Systems",
+    "titleZh": "SoK 综述：多智能体 LLM 系统为何会一起失效",
+    "line": "系统化梳理多智能体 LLM 系统的攻击路径、风险与防御",
+    "topics": [],
+    "venue": "arXiv 2609.00595",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.00595v1",
+    "site": "https://aisafetyhot.com/items/wq5u92cyyfpacdsvc35w8gnxa",
+    "authors": [
+      "Rui Yang",
+      "Junjie Xu",
+      "Zhengyu Liu",
+      "Neil Fendley",
+      "Yang Hong",
+      "Ziyang Li",
+      "Yinzhi Cao"
+    ]
+  },
+  {
+    "id": "fxwbclkkizzyoi2xfz45syp0s",
+    "kind": "arxiv",
+    "title": "Dissecting Training-Free Uncertainty Estimation in Multimodal Large Language Models",
+    "titleZh": "多模态大语言模型免训练不确定性估计的系统研究",
+    "line": "比较多模态大模型上三类免训练不确定性估计",
+    "topics": [],
+    "venue": "arXiv 2609.22206",
+    "date": "2026-09-01",
+    "url": "https://arxiv.org/abs/2609.22206",
+    "site": "https://aisafetyhot.com/items/fxwbclkkizzyoi2xfz45syp0s",
+    "authors": [
+      "Soroush Seifi",
+      "Vaggelis Dorovatas",
+      "Lin Li",
+      "Yarin Gal",
+      "Rahaf Aljundi"
+    ]
+  },
+  {
+    "id": "rytd40a7x4lxogx6rlf91txn8",
+    "kind": "arxiv",
+    "title": "Beyond the Payload: How User Invocation Shapes Coding Agent Vulnerability to Repository Poisoning",
+    "titleZh": "超越攻击载荷：用户调用方式如何影响编码 Agent 对仓库投毒的脆弱性",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2608.30686",
+    "date": "2026-08-31",
+    "url": "https://arxiv.org/abs/2608.30686v1",
+    "site": "https://aisafetyhot.com/items/rytd40a7x4lxogx6rlf91txn8",
+    "authors": [
+      "Fukang Zhu",
+      "Binbin Zhao",
+      "Ruixiao Lin",
+      "Ping He",
+      "Tianyu Du",
+      "Shouling Ji"
+    ]
+  },
+  {
+    "id": "ejc6uwl68dnfxm44c7wugftcb",
+    "kind": "arxiv",
+    "title": "Dependency-Aware Privacy for Multi-turn LLM Agents",
+    "titleZh": "面向多轮 LLM 智能体的依赖感知隐私保护",
+    "line": "论文提出 RootGuard，一种面向多轮 LLM 智能体的隐私防护方法，只对根值净化一次即可让隐私保证不随交互轮数衰减。",
+    "topics": [],
+    "venue": "arXiv 2605.03188",
+    "date": "2026-05-04",
+    "url": "https://arxiv.org/abs/2605.03188v3",
+    "site": "https://aisafetyhot.com/items/ejc6uwl68dnfxm44c7wugftcb",
+    "authors": [
+      "Divyam Anshumaan",
+      "Sarthak Choudhary",
+      "Nils Palumbo",
+      "Somesh Jha"
+    ]
+  },
+  {
+    "id": "bqefzyevg5sixzxbzvv5helom",
+    "kind": "arxiv",
+    "title": "Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+    "titleZh": "ShadowMem：通过影子记忆防御 LLM Agent 的长程威胁",
+    "line": "论文提出 ShadowMem 防御框架，用于应对利用用户、智能体与环境的长程交互实施恶意目标的攻击，这类目标在单轮交互中难以实现。",
+    "topics": [],
+    "venue": "arXiv 2605.03228",
+    "date": "2026-05-04",
+    "url": "https://arxiv.org/abs/2605.03228v2",
+    "site": "https://aisafetyhot.com/items/bqefzyevg5sixzxbzvv5helom",
+    "authors": [
+      "Yuhui Wang",
+      "Tanqiu Jiang",
+      "Jiacheng Liang",
+      "Charles Fleming",
+      "Ting Wang"
+    ]
+  },
+  {
+    "id": "a0q9cu7axw7nmm117mjxylzhc",
+    "kind": "arxiv",
+    "title": "SOTOPIA-TOM: Evaluating Privacy and Information Management in Multi-Agent Interaction with Theory of Mind",
+    "titleZh": "SOTOPIA-TOM：评估多智能体交互中隐私与信息管理的心智理论基准",
+    "line": "研究者发布 SOTOPIA-TOM 基准，用于评估 LLM 智能体在多方交互中处理信息不对称与隐私信息的能力。",
+    "topics": [],
+    "venue": "arXiv 2605.02307",
+    "date": "2026-05-04",
+    "url": "https://arxiv.org/abs/2605.02307v2",
+    "site": "https://aisafetyhot.com/items/a0q9cu7axw7nmm117mjxylzhc",
+    "authors": [
+      "Yashwanth YS",
+      "Ruichen Wang",
+      "Shihua Zeng",
+      "Xuhui Zhou",
+      "Koichi Onoue",
+      "Vasudha Varadarajan",
+      "Maarten Sap"
+    ]
+  },
+  {
+    "id": "xzzy26lv9fxzvucxdcy8gwogh",
+    "kind": "arxiv",
+    "title": "Useless but Safe? Benchmarking Utility Recovery with User Intent Clarification in Multi-Turn Conversations",
+    "titleZh": "无用但安全？多轮对话中用户意图澄清下的效用恢复基准测试",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2604.27093",
+    "date": "2026-04-29",
+    "url": "https://arxiv.org/abs/2604.27093v2",
+    "site": "https://aisafetyhot.com/items/xzzy26lv9fxzvucxdcy8gwogh",
+    "authors": [
+      "Mingqian Zheng",
+      "Malia Morgan",
+      "Liwei Jiang",
+      "Carolyn Rose",
+      "Maarten Sap"
+    ]
+  },
+  {
+    "id": "siuaq8adzhhtlhjlmzpxpiy6y",
+    "kind": "arxiv",
+    "title": "InferD: A Honeypot Framework for AI Inference Infrastructure",
+    "titleZh": "InferD：面向 AI 推理基础设施的蜜罐框架",
+    "line": "研究者提出 InferD，一个面向 AI 推理基础设施的低交互蜜罐框架，核心原则是“欺骗而不推理”（deception without inference）：对手可观察的每个请求都由静态响应池应答，对手提交的任何内容都不会被执行。",
+    "topics": [],
+    "venue": "arXiv 2610.39807",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39807",
+    "site": "https://aisafetyhot.com/items/siuaq8adzhhtlhjlmzpxpiy6y",
+    "authors": [
+      "Hicham Hammouchi",
+      "Gabriele Lenzini"
+    ]
+  },
+  {
+    "id": "ikrm09lsj8trvxioy1xa8mxwc",
+    "kind": "arxiv",
+    "title": "DICE: Decentralized Incentive-driven Federated Learning for Efficient & Scalable Customization of Pretrained Models in Web3",
+    "titleZh": "DICE：面向 Web3 预训练模型高效可扩展定制的去中心化激励驱动联邦学习",
+    "line": "DICE 是一种基于区块链的联邦学习（BCFL）算法，让 Web3 中互不信任的参与者高效、可扩展地定制大型预训练模型。",
+    "topics": [],
+    "venue": "arXiv 2610.39132",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39132",
+    "site": "https://aisafetyhot.com/items/ikrm09lsj8trvxioy1xa8mxwc",
+    "authors": [
+      "Hong Lin",
+      "Zhongle Xie",
+      "Lidan Shou",
+      "Ke Chen",
+      "Gang Chen"
+    ]
+  },
+  {
+    "id": "a9xl9f8hunbkyu0ioxzzh61n8",
+    "kind": "arxiv",
+    "title": "AgentDecept: Benchmarking Deceptive Behavior in Tool-Using LLM Agents under Pressure",
+    "titleZh": "AgentDecept：压力下工具使用型 LLM 智能体欺骗行为评测基准",
+    "line": "研究者提出 AgentDecept，一个评测工具使用型 LLM 智能体在压力下是否如实汇报的可执行基准。",
+    "topics": [],
+    "venue": "arXiv 2610.39377",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39377",
+    "site": "https://aisafetyhot.com/items/a9xl9f8hunbkyu0ioxzzh61n8",
+    "authors": [
+      "Yehan Zhang",
+      "Qianqi Yan",
+      "Hang Yin",
+      "Ching-Chen Kuo",
+      "Shan Jiang",
+      "Ming Ouyang",
+      "Yijie Liu",
+      "Xin Eric Wang"
+    ]
+  },
+  {
+    "id": "okinjodilyva8ehgo75x9w6ro",
+    "kind": "arxiv",
+    "title": "Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin",
+    "titleZh": "低资源非洲语言中的大语言模型红队测试：约鲁巴语与尼日利亚皮钦语案例研究",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.39590",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39590",
+    "site": "https://aisafetyhot.com/items/okinjodilyva8ehgo75x9w6ro",
+    "authors": [
+      "Paula Chikaodinaka Anyanwu",
+      "Valdini Douglace Lemofouet",
+      "Blessing Ngozi Uzor",
+      "Ifeoluwa Dorcas Awotunde",
+      "Danielle Blanche Kapsa",
+      "Tassallah Abdullahi",
+      "Clemencia Siro",
+      "Idris Abdulmumin",
+      "Seid Muhie Yimam",
+      "Shamsuddeen Hassan Muhammad"
+    ]
+  },
+  {
+    "id": "j5n8li92bnh327pd6ivlozvdj",
+    "kind": "arxiv",
+    "title": "Revisiting Over-refusal in Safety-aligned Large Language Models: A Representation and Optimization Perspective",
+    "titleZh": "从表征与优化视角重新审视安全对齐大语言模型的过度拒答",
+    "line": "研究者提出安全对齐框架 GOAL（Gradient Orthogonalization with contrAstive Learning），通过梯度正交化与对比学习缓解安全对齐大语言模型的过度拒答，多个模型和基准上的实验显示其在减少对无害请求误拒的同时保持安全性能与通用能力。",
+    "topics": [],
+    "venue": "arXiv 2610.39802",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39802",
+    "site": "https://aisafetyhot.com/items/j5n8li92bnh327pd6ivlozvdj",
+    "authors": [
+      "Chao Chen",
+      "Pengyang Shao",
+      "Wei Qin",
+      "Shijie Hao",
+      "Fei Shen",
+      "Richang Hong"
+    ]
+  },
+  {
+    "id": "vy6yhh8vj9dq60ppamdx0vag7",
+    "kind": "arxiv",
+    "title": "LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models",
+    "titleZh": "LiDAR-SHIELD：面向 LiDAR 3D 感知模型的全 Docker 化对抗鲁棒性评估框架",
+    "line": "研究者发布 LiDAR-SHIELD，一个面向基于 LiDAR 的 3D 感知模型的全 Docker 化对抗鲁棒性评估框架，代码开源于 https://github.com/alexandrosgk/LiDAR-shield。",
+    "topics": [],
+    "venue": "arXiv 2610.39848",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39848",
+    "site": "https://aisafetyhot.com/items/vy6yhh8vj9dq60ppamdx0vag7",
+    "authors": [
+      "Alexandros Gkillas",
+      "Ioulia Kapsali",
+      "Christos Anagnostopoulos",
+      "Aris S. Lalos"
+    ]
+  },
+  {
+    "id": "rb0vg9851d5eb1qpmt9y5oq52",
+    "kind": "arxiv",
+    "title": "ARBITRA: Robust Document-Level ATT&CK Extraction via Multi-Expert Argumentation",
+    "titleZh": "ARBITRA：基于多专家论证的鲁棒文档级 ATT&CK 提取",
+    "line": "ARBITRA 用多个角色专精的 LLM 专家从完整 CTI 报告提出候选 MITRE ATT&CK 实体，再经基于文档证据的 QBAF 论证逐项验证。",
+    "topics": [],
+    "venue": "arXiv 2610.39433",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39433",
+    "site": "https://aisafetyhot.com/items/rb0vg9851d5eb1qpmt9y5oq52",
+    "authors": [
+      "Youngjin Jin",
+      "Seungwon Shin"
+    ]
+  },
+  {
+    "id": "xt5279it9fex2v3i9eeyt7q9d",
+    "kind": "arxiv",
+    "title": "Localizing Concepts in Visual Autoregressive Models",
+    "titleZh": "在视觉自回归模型中定位概念",
+    "line": "研究者提出 LoCo，称这是首个模型无关的框架，可定位自回归模型中特定概念在何处、何时涌现。",
+    "topics": [],
+    "venue": "arXiv 2610.40061",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.40061",
+    "site": "https://aisafetyhot.com/items/xt5279it9fex2v3i9eeyt7q9d",
+    "authors": [
+      "Nanxiang Jiang",
+      "Yang Liu",
+      "Yuanhao Wang",
+      "Min Xu"
+    ]
+  },
+  {
+    "id": "vcngr2t6x5o4y5w81k7syoplz",
+    "kind": "arxiv",
+    "title": "How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates",
+    "titleZh": "我如何对齐你的模型：用模板扩展多语言安全训练",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.40516",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.40516",
+    "site": "https://aisafetyhot.com/items/vcngr2t6x5o4y5w81k7syoplz",
+    "authors": [
+      "Max Neuwinger",
+      "Hanna Yukhymenko",
+      "Imanol Schlag"
+    ]
+  },
+  {
+    "id": "i2snf8nfmm6sxryo9u55wm3bx",
+    "kind": "arxiv",
+    "title": "Unraveling the Efficacy of Neuron Coverage Criteria on Testing Large Language Models",
+    "titleZh": "解析神经元覆盖准则在大语言模型测试中的实效",
+    "line": "研究者评估了六种神经元覆盖准则在测试大语言模型上的实效，发现这些准则评估样本多样性有效，揭示对抗错误的能力却有限。",
+    "topics": [],
+    "venue": "arXiv 2610.40234",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.40234",
+    "site": "https://aisafetyhot.com/items/i2snf8nfmm6sxryo9u55wm3bx",
+    "authors": [
+      "Xiaoning Ren",
+      "Jiayang Song",
+      "Chongyang Liu",
+      "Jie Li",
+      "Lei Ma",
+      "Yinxing Xue"
+    ]
+  },
+  {
+    "id": "dvjkm4hnd2mmaw6b7i3am1vwl",
+    "kind": "arxiv",
+    "title": "Does the Citation Matter? Quality, Grounding, and Physician-Rubric Accuracy of Google's AI Overviews for Medical Information",
+    "titleZh": "引用重要吗？Google AI Overviews 医疗信息回答的信源质量、引用支撑与医生评分准确性",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2610.39339",
+    "date": "2026-10-29",
+    "url": "https://arxiv.org/abs/2610.39339",
+    "site": "https://aisafetyhot.com/items/dvjkm4hnd2mmaw6b7i3am1vwl",
+    "authors": [
+      "Sam Agnoli",
+      "Brigid Reilly",
+      "Lily Barna",
+      "Emőke-Ágnes Horvát"
+    ]
+  },
+  {
+    "id": "z0hek9ya6uu8pttnlb9j6v9np",
+    "kind": "arxiv",
+    "title": "Visually Irrelevant Hallucinations in Medical Vision-Language Models",
+    "titleZh": "医疗视觉语言模型中的视觉无关幻觉",
+    "line": "研究者提出模型无关的事后审计框架 CLEAR，用于在短语级别估计医疗视觉语言模型的视觉无关幻觉风险，这类错误指模型生成的临床表述缺乏视觉证据或与图像内容矛盾。",
+    "topics": [],
+    "venue": "arXiv 2610.38389",
+    "date": "2026-10-28",
+    "url": "https://arxiv.org/abs/2610.38389",
+    "site": "https://aisafetyhot.com/items/z0hek9ya6uu8pttnlb9j6v9np",
+    "authors": [
+      "Ke Zou",
+      "Nan Zhou",
+      "Tao Yang",
+      "Meng Liu",
+      "Linchao He",
+      "Zehui Liao",
+      "Ling Huang",
+      "Guangren Huang",
+      "Yidi Chen",
+      "Yi Zhang",
+      "Hu Chen",
+      "Huazhu Fu"
+    ]
+  },
+  {
+    "id": "roycfg7ss4ns3adeckmrt1n7d",
+    "kind": "arxiv",
+    "title": "Interventional Training Reduces Causal Bypass in In-Context Introspection",
+    "titleZh": "干预式训练减少上下文内省中的因果旁路",
+    "line": "研究者提出干预式训练方法，减少语言模型上下文内省中的因果旁路，即自报依赖与对象相关但无因果联系的信号。",
+    "topics": [],
+    "venue": "arXiv 2610.38911",
+    "date": "2026-10-28",
+    "url": "https://arxiv.org/abs/2610.38911",
+    "site": "https://aisafetyhot.com/items/roycfg7ss4ns3adeckmrt1n7d",
+    "authors": [
+      "Zilu Tang",
+      "Jongin Kim",
+      "Kerem Sahin",
+      "David Atkinson",
+      "Aaron Mueller",
+      "Derry Wijaya"
+    ]
+  },
+  {
+    "id": "kabj1nn1ejb3a1em8dweg5ggq",
+    "kind": "arxiv",
+    "title": "DecisionUnlearn-Bench: Unlearning Probabilistic Decisions under Changing Schemas",
+    "titleZh": "DecisionUnlearn-Bench：模式变化下的概率决策遗忘",
+    "line": "研究者提出面向概率决策模型的机器遗忘评测框架 DecisionUnlearn-Bench，在删除粒度、标签呈现和候选集变化下比较完整模型、遗忘模型与仅保留数据训练的模型。",
+    "topics": [],
+    "venue": "arXiv 2610.38431",
+    "date": "2026-10-28",
+    "url": "https://arxiv.org/abs/2610.38431",
+    "site": "https://aisafetyhot.com/items/kabj1nn1ejb3a1em8dweg5ggq",
+    "authors": [
+      "Tiantong Wu",
+      "Wei Yang Bryan Lim"
+    ]
+  },
+  {
+    "id": "el6ljsbprpt24m9rl0toqcl0e",
+    "kind": "arxiv",
+    "title": "Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems",
+    "titleZh": "可审计信念更新：LLM 驱动的多智能体系统缺失的安全层",
+    "line": "论文提出 EB-MAS 框架，把智能体信念状态外化为结构化载体，为 LLM 驱动的多智能体系统补上可审计的信念更新安全层。",
+    "topics": [],
+    "venue": "arXiv 2610.38869",
+    "date": "2026-10-28",
+    "url": "https://arxiv.org/abs/2610.38869",
+    "site": "https://aisafetyhot.com/items/el6ljsbprpt24m9rl0toqcl0e",
+    "authors": [
+      "Zhuoyun Li",
+      "Boxuan Wang",
+      "Jinwei Hu",
+      "Xiaowei Huang",
+      "Yi Dong"
+    ]
+  }
+]
