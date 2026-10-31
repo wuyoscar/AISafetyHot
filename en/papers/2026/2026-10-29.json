@@ -1,0 +1,25 @@
+[
+  {
+    "id": "oeu93ua15rgol0d3zlw7n81gm",
+    "arxivId": "2610.39109",
+    "title": "PCM: A Proof-Carrying Message Protocol for Verifiable Multi-Agent Communication",
+    "titleEn": "PCM: A Proof-Carrying Message Protocol for Verifiable Multi-Agent Communication",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.39109",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/oeu93ua15rgol0d3zlw7n81gm"
+    },
+    "publishedAt": "2026-10-29T00:50:34.000Z",
+    "timelineAt": "2026-10-29T00:50:34.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
