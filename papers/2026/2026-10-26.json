@@ -70,5 +70,23 @@
     "publishedAt": "2026-10-22T18:15:54.000Z",
     "timelineAt": "2026-10-26T06:29:17.857Z",
     "discoveredAt": "2026-10-26T06:29:17.857Z"
+  },
+  {
+    "arxivId": "2610.31985",
+    "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+    "titleZh": "乐于助人智能体问题：LLM 智能体间的涌现合作如何绕过预期工作流",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.31985",
+      "aisafetyhot": "https://aisafetyhot.com/items/dlmgvsnxt7mlur50ggsk2s7vt"
+    },
+    "publishedAt": "2026-10-22T22:55:40.000Z",
+    "timelineAt": "2026-10-26T06:16:17.460Z",
+    "discoveredAt": "2026-10-26T06:16:17.460Z"
   }
 ]
