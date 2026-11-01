@@ -1,5 +1,33 @@
 [
   {
+    "id": "neurips:2026:KKJDo7EkPM",
+    "kind": "conference",
+    "title": "FedSOUL: Federated Continual Unlearning via Spectral Orthogonality",
+    "titleZh": "FedSOUL：基于谱正交性的联邦持续遗忘学习",
+    "line": "提出联邦持续遗忘框架，将各客户端更新限制在正交频域子空间，减少连续遗忘请求间的干扰，在最多十次连续请求中保持稳定的遗忘-效用权衡。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/153586",
+    "site": null,
+    "authors": [
+      "Haoran Shi",
+      "Hao Zhu",
+      "Yifei Zhang",
+      "JUNRU ZHANG",
+      "Lizhen Cui",
+      "Yali Jiang",
+      "Xiaoli Tang",
+      "Han Yu"
+    ],
+    "pushedOn": "2026-11-02"
+  },
+  {
     "id": "neurips:2026:db0FP1G7V7",
     "kind": "conference",
     "title": "Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization",

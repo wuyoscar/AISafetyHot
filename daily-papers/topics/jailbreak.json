@@ -1,5 +1,31 @@
 [
   {
+    "id": "te4gw6bpri9wzqp71y1hicy6l",
+    "kind": "arxiv",
+    "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance",
+    "titleZh": "Stable-GFlowNet 提出对比轨迹平衡，提升 LLM 红队攻击的多样性与稳定性",
+    "line": "提出 Stable-GFlowNet，用对比轨迹平衡训练红队策略生成多样高毒性攻击",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2605.00553",
+    "date": "2026-05-01",
+    "url": "https://arxiv.org/abs/2605.00553",
+    "site": "https://aisafetyhot.com/items/te4gw6bpri9wzqp71y1hicy6l",
+    "authors": [
+      "Minchan Kwon",
+      "Sunghyun Baek",
+      "Minseo Kim",
+      "Jaemyung Yu",
+      "Dongyoon Han",
+      "Junmo Kim"
+    ],
+    "pushedOn": "2026-11-02"
+  },
+  {
     "id": "icml:2026:BSi2mfMDsx",
     "kind": "conference",
     "title": "Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking",

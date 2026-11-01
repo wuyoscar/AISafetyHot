@@ -1,5 +1,33 @@
 [
   {
+    "id": "neurips:2026:ch8Vn8e6ZM",
+    "kind": "conference",
+    "title": "EntiRE: Invariant Learning for Robust Concept Erasure in Text-to-Image Generative Models",
+    "titleZh": "EntiRE：面向文生图模型鲁棒概念擦除的不变学习",
+    "line": "发现现有概念擦除在难区域留下残留\"空洞\"被对抗提示利用，提出不变学习加全变差正则的 EntiRE 框架，在裸体、艺术风格和物体擦除上兼顾抗攻击鲁棒性与生成效用。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "NeurIPS 2026 oral",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/151144",
+    "site": null,
+    "authors": [
+      "Fengyuan Yu",
+      "Yuyuan Li",
+      "Xiaohua Feng",
+      "Li Zhang",
+      "Jiaming Zhang",
+      "Xiang Liu",
+      "Jun Wang",
+      "Chaochao Chen"
+    ],
+    "pushedOn": "2026-11-02"
+  },
+  {
     "id": "neurips:2026:6SIPt7cfSm",
     "kind": "conference",
     "title": "Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs",
