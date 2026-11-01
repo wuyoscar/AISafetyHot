@@ -16,5 +16,23 @@
     "publishedAt": "2026-10-29T00:50:34.000Z",
     "timelineAt": "2026-10-29T00:50:34.000Z",
     "discoveredAt": "2026-10-31T10:46:52.843Z"
+  },
+  {
+    "arxivId": "2610.39782",
+    "title": "Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation",
+    "titleZh": "评估 AI 陪伴聊天机器人对弱势用户的安全性：一项危机阶段的多平台评测",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.39782",
+      "aisafetyhot": "https://aisafetyhot.com/items/gazliue32bobglq9nqb82er60"
+    },
+    "publishedAt": "2026-10-29T10:32:06.000Z",
+    "timelineAt": "2026-10-29T10:32:06.000Z",
+    "discoveredAt": "2026-11-01T13:03:00.334Z"
   }
 ]

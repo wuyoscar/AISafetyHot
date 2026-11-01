@@ -21,5 +21,28 @@
       "pending": 0,
       "status": "complete"
     }
+  },
+  {
+    "id": "gazliue32bobglq9nqb82er60",
+    "arxivId": "2610.39782",
+    "title": "Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation",
+    "titleEn": "Evaluating the safety of AI companion chatbots for vulnerable users: a multi-platform evaluation across crisis stages",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.39782",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gazliue32bobglq9nqb82er60"
+    },
+    "publishedAt": "2026-10-29T10:32:06.000Z",
+    "timelineAt": "2026-10-29T10:32:06.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
   }
 ]
