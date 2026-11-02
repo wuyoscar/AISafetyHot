@@ -1,0 +1,25 @@
+[
+  {
+    "id": "qg98tx2np5abdj51tgykey1g0",
+    "arxivId": "2610.40946",
+    "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
+    "titleEn": "Opening the box changed the cat: LLMs can notice chain-of-thought monitoring, what next?",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.40946",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/qg98tx2np5abdj51tgykey1g0"
+    },
+    "publishedAt": "2026-10-29T20:23:08.000Z",
+    "timelineAt": "2026-11-02T05:15:35.416Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
