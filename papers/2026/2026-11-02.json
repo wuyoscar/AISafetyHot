@@ -54,9 +54,9 @@
     "discoveredAt": "2026-11-02T05:36:34.003Z"
   },
   {
-    "arxivId": "2610.40946",
-    "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
-    "titleZh": "打开盒子改变了猫：LLM 能察觉思维链监控，接下来怎么办？",
+    "arxivId": "2610.41014",
+    "title": "Towards Understanding Score-Seeking in LLMs",
+    "titleZh": "理解大语言模型中的追分行为",
     "authors": [],
     "category": null,
     "selected": true,
@@ -64,17 +64,17 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.40946",
-      "aisafetyhot": "https://aisafetyhot.com/items/qg98tx2np5abdj51tgykey1g0"
+      "paper": "https://arxiv.org/abs/2610.41014",
+      "aisafetyhot": "https://aisafetyhot.com/items/l1sorqx8ahw1gb2ea3h3r2w6i"
     },
-    "publishedAt": "2026-10-29T20:23:08.000Z",
-    "timelineAt": "2026-11-02T05:15:35.416Z",
-    "discoveredAt": "2026-11-02T05:15:35.416Z"
+    "publishedAt": "2026-10-29T21:50:04.000Z",
+    "timelineAt": "2026-11-02T06:46:33.897Z",
+    "discoveredAt": "2026-11-02T06:46:33.897Z"
   },
   {
-    "arxivId": "2610.40939",
-    "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-    "titleZh": "最初几个 Token 很重要：理解思维链可控性",
+    "arxivId": "2610.41998",
+    "title": "SecPO: Principled Adversarial Training for Prompt Injection Security",
+    "titleZh": "SecPO：面向提示注入安全的原则化对抗训练",
     "authors": [],
     "category": null,
     "selected": true,
@@ -82,11 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.40939",
-      "aisafetyhot": "https://aisafetyhot.com/items/tggdgygjg3875rtlhm2vp9512"
+      "paper": "https://arxiv.org/abs/2610.41998",
+      "aisafetyhot": "https://aisafetyhot.com/items/asbq6hgsrf1e68wkfnldd7zgt"
     },
-    "publishedAt": "2026-10-29T20:14:19.000Z",
-    "timelineAt": "2026-11-02T05:15:35.397Z",
-    "discoveredAt": "2026-11-02T05:15:35.397Z"
+    "publishedAt": "2026-10-30T16:43:17.000Z",
+    "timelineAt": "2026-11-02T05:07:32.962Z",
+    "discoveredAt": "2026-11-02T05:07:32.962Z"
   }
 ]

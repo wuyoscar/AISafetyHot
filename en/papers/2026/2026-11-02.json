@@ -69,18 +69,18 @@
     }
   },
   {
-    "id": "qg98tx2np5abdj51tgykey1g0",
-    "arxivId": "2610.40946",
-    "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
-    "titleEn": "Opening the box changed the cat: LLMs can notice chain-of-thought monitoring, what next?",
+    "id": "l1sorqx8ahw1gb2ea3h3r2w6i",
+    "arxivId": "2610.41014",
+    "title": "Towards Understanding Score-Seeking in LLMs",
+    "titleEn": "Understanding score-seeking behavior in large language models",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.40946",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/qg98tx2np5abdj51tgykey1g0"
+      "paper": "https://arxiv.org/abs/2610.41014",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/l1sorqx8ahw1gb2ea3h3r2w6i"
     },
-    "publishedAt": "2026-10-29T20:23:08.000Z",
-    "timelineAt": "2026-11-02T05:15:35.416Z",
+    "publishedAt": "2026-10-29T21:50:04.000Z",
+    "timelineAt": "2026-11-02T06:46:33.897Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
@@ -92,26 +92,26 @@
     }
   },
   {
-    "id": "tggdgygjg3875rtlhm2vp9512",
-    "arxivId": "2610.40939",
-    "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-    "titleEn": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+    "id": "asbq6hgsrf1e68wkfnldd7zgt",
+    "arxivId": "2610.41998",
+    "title": "SecPO: Principled Adversarial Training for Prompt Injection Security",
+    "titleEn": "SecPO: Principled adversarial training for prompt injection security",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2610.40939",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/tggdgygjg3875rtlhm2vp9512"
+      "paper": "https://arxiv.org/abs/2610.41998",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/asbq6hgsrf1e68wkfnldd7zgt"
     },
-    "publishedAt": "2026-10-29T20:14:19.000Z",
-    "timelineAt": "2026-11-02T05:15:35.397Z",
+    "publishedAt": "2026-10-30T16:43:17.000Z",
+    "timelineAt": "2026-11-02T05:07:32.962Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
