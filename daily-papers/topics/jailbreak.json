@@ -1,5 +1,54 @@
 [
   {
+    "id": "cmzpnw9jprvm4att0hc0grygf",
+    "kind": "arxiv",
+    "title": "Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models",
+    "titleZh": "研究揭示大语言模型的自发身份认证失败：五款模型的分阶段开发者身份实验",
+    "line": "提出 MIPC 与 CFA，观察模型自拟测验后接受开发者身份",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2609.03247",
+    "date": "2026-09-03",
+    "url": "https://arxiv.org/abs/2609.03247v1",
+    "site": "https://aisafetyhot.com/items/cmzpnw9jprvm4att0hc0grygf",
+    "authors": [
+      "Syed Ghazanfar Abbas",
+      "Dongyan Xu"
+    ],
+    "pushedOn": "2026-11-03"
+  },
+  {
+    "id": "rv5gb9txiy76ogozfbtzg8t4f",
+    "kind": "arxiv",
+    "title": "Misrouter: Exploiting Routing Mechanisms for Input-Only Attacks on Mixture-of-Experts LLMs",
+    "titleZh": "Misrouter：利用 MoE 路由机制对混合专家大模型发起仅输入攻击",
+    "line": "提出 Misrouter，借 MoE 路由优化仅输入前缀并迁移攻击",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2605.04446",
+    "date": "2026-05-06",
+    "url": "https://arxiv.org/abs/2605.04446",
+    "site": "https://aisafetyhot.com/items/rv5gb9txiy76ogozfbtzg8t4f",
+    "authors": [
+      "Zekun Fei",
+      "Zihao Wang",
+      "Weijie Liu",
+      "Ruiqi He",
+      "Jianing Geng",
+      "Zheli Liu",
+      "XiaoFeng Wang"
+    ],
+    "pushedOn": "2026-11-03"
+  },
+  {
     "id": "te4gw6bpri9wzqp71y1hicy6l",
     "kind": "arxiv",
     "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance",

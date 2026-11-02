@@ -1,0 +1,28 @@
+[
+  {
+    "id": "iclr:2026:8MBYRZHVWT",
+    "kind": "conference",
+    "title": "CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering",
+    "titleZh": "CounselBench：心理健康问答中大模型的大规模专家评估与对抗基准",
+    "line": "与 100 名心理健康专家构建基准，发现大模型回答常含未经授权的医疗建议等安全风险，且 LLM 评委系统性高估回答并忽视安全问题。",
+    "topics": [
+      {
+        "slug": "minors-mental-health",
+        "name": "儿童、青少年与心理健康"
+      }
+    ],
+    "venue": "ICLR 2026 Oral",
+    "date": null,
+    "url": "https://openreview.net/forum?id=8MBYRZHVWT",
+    "site": null,
+    "authors": [
+      "Yahan Li",
+      "Jifan Yao",
+      "John Bosco S. Bunyi",
+      "Adam C Frank",
+      "Angel Hsing-Chi Hwang",
+      "Ruishan Liu"
+    ],
+    "pushedOn": "2026-11-03"
+  }
+]

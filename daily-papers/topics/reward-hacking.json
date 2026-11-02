@@ -1,5 +1,31 @@
 [
   {
+    "id": "tykblze77gkr7pyekgzqzh5yb",
+    "kind": "arxiv",
+    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+    "titleZh": "Google DeepMind 案例研究：100 个自主研究智能体中自发涌现的作弊与举报",
+    "line": "展示自主科研智能体集群自发涌现的规范投机作弊与举报反制",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2609.04170",
+    "date": "2026-09-03",
+    "url": "https://arxiv.org/abs/2609.04170v1",
+    "site": "https://aisafetyhot.com/items/tykblze77gkr7pyekgzqzh5yb",
+    "authors": [
+      "Davide Paglieri",
+      "Logan Cross",
+      "Tim Genewein",
+      "Joel Z. Leibo",
+      "Nenad Tomasev",
+      "Alexander Sasha Vezhnevets"
+    ],
+    "pushedOn": "2026-11-03"
+  },
+  {
     "id": "i0me4pp5aw6uypiepunx79gec",
     "kind": "arxiv",
     "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",

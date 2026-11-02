@@ -1,5 +1,27 @@
 [
   {
+    "id": "icml:2026:097IlaUfQY",
+    "kind": "conference",
+    "title": "Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking",
+    "titleZh": "Catch-22：LLM水印中可检测性与鲁棒性的根本权衡",
+    "line": "用信息论框架刻画水印鲁棒性、隐蔽性与可验证性的三难权衡，提出按部署编辑强度在分布保持、语义级、词元级方案中选Pareto最优的混合策略，并在Llama-2-7B与Mistral-7B上验证。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=097IlaUfQY",
+    "site": null,
+    "authors": [
+      "Kuheli Pratihar",
+      "Debdeep Mukhopadhyay"
+    ],
+    "pushedOn": "2026-11-03"
+  },
+  {
     "id": "neurips:2026:ch8Vn8e6ZM",
     "kind": "conference",
     "title": "EntiRE: Invariant Learning for Robust Concept Erasure in Text-to-Image Generative Models",
