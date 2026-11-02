@@ -1,5 +1,59 @@
 [
   {
+    "arxivId": "2610.41713",
+    "title": "Simple Features Beat Most AI Control Monitors",
+    "titleZh": "简单特征胜过多数 AI 控制监控器",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.41713",
+      "aisafetyhot": "https://aisafetyhot.com/items/e6f888ams2r0iy3u7wdwvwywx"
+    },
+    "publishedAt": "2026-10-30T13:21:03.000Z",
+    "timelineAt": "2026-11-02T05:07:32.988Z",
+    "discoveredAt": "2026-11-02T05:07:32.988Z"
+  },
+  {
+    "arxivId": "2610.41301",
+    "title": "Subliminal Reinforcement Learning: traits travel through a judge's scores",
+    "titleZh": "阈下强化学习：特质经由裁判模型的分数传递",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.41301",
+      "aisafetyhot": "https://aisafetyhot.com/items/b957oue0xsc7aren9uagqz6m7"
+    },
+    "publishedAt": "2026-10-30T06:02:21.000Z",
+    "timelineAt": "2026-11-02T05:15:35.439Z",
+    "discoveredAt": "2026-11-02T05:15:35.439Z"
+  },
+  {
+    "arxivId": "2610.40716",
+    "title": "Characterizing LLM Agent Behaviors in Module Shadowing Environments",
+    "titleZh": "刻画模块影子环境下的 LLM 智能体行为",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.40716",
+      "aisafetyhot": "https://aisafetyhot.com/items/c9xchlrbi98p3tax1n9p0wqn7"
+    },
+    "publishedAt": "2026-10-29T02:18:27.000Z",
+    "timelineAt": "2026-11-02T05:36:34.003Z",
+    "discoveredAt": "2026-11-02T05:36:34.003Z"
+  },
+  {
     "arxivId": "2610.40946",
     "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
     "titleZh": "打开盒子改变了猫：LLM 能察觉思维链监控，接下来怎么办？",
@@ -16,5 +70,23 @@
     "publishedAt": "2026-10-29T20:23:08.000Z",
     "timelineAt": "2026-11-02T05:15:35.416Z",
     "discoveredAt": "2026-11-02T05:15:35.416Z"
+  },
+  {
+    "arxivId": "2610.40939",
+    "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+    "titleZh": "开头几个 token 至关重要：理解思维链可控性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2610.40939",
+      "aisafetyhot": "https://aisafetyhot.com/items/tggdgygjg3875rtlhm2vp9512"
+    },
+    "publishedAt": "2026-10-29T20:14:19.000Z",
+    "timelineAt": "2026-11-02T05:15:35.397Z",
+    "discoveredAt": "2026-11-02T05:15:35.397Z"
   }
 ]
