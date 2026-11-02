@@ -20,7 +20,7 @@
   {
     "arxivId": "2610.41301",
     "title": "Subliminal Reinforcement Learning: traits travel through a judge's scores",
-    "titleZh": "阈下强化学习：特质经由裁判模型的分数传递",
+    "titleZh": "阈下强化学习：特质经由评审模型的分数传递",
     "authors": [],
     "category": null,
     "selected": true,
@@ -74,7 +74,7 @@
   {
     "arxivId": "2610.40939",
     "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-    "titleZh": "开头几个 token 至关重要：理解思维链可控性",
+    "titleZh": "最初几个 Token 很重要：理解思维链可控性",
     "authors": [],
     "category": null,
     "selected": true,

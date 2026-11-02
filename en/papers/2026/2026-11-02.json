@@ -26,7 +26,7 @@
     "id": "b957oue0xsc7aren9uagqz6m7",
     "arxivId": "2610.41301",
     "title": "Subliminal Reinforcement Learning: traits travel through a judge's scores",
-    "titleEn": "Subliminal Reinforcement Learning: traits travel through a judge's scores",
+    "titleEn": "Subliminal reinforcement learning: traits are transmitted via the judge model's scores",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -40,9 +40,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -95,7 +95,7 @@
     "id": "tggdgygjg3875rtlhm2vp9512",
     "arxivId": "2610.40939",
     "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-    "titleEn": "The first few tokens are crucial: understanding chain-of-thought controllability",
+    "titleEn": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
     }
   }
 ]
