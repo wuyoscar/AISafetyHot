@@ -1,0 +1,25 @@
+[
+  {
+    "id": "p4eabmefv0ely0zvq68b74qjy",
+    "arxivId": "2611.02527",
+    "title": "When Neither Side Confirms: Destructive Tool Approval Across MCP Servers and Hosts",
+    "titleEn": "When Neither Side Confirms: Destructive Tool Approval Across MCP Servers and Hosts",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.02527",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/p4eabmefv0ely0zvq68b74qjy"
+    },
+    "publishedAt": "2026-11-02T04:57:42.000Z",
+    "timelineAt": "2026-11-03T18:11:34.206Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  }
+]
