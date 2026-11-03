@@ -69,29 +69,6 @@
     }
   },
   {
-    "id": "a18er64dh384snt1hu85buc2s",
-    "arxivId": "2611.00407",
-    "title": "Hacking or Just Failing? A More Capable LLM Monitor Better Separates Reward Hacking from Honest Failure",
-    "titleEn": "Cheating or failure? Stronger LLM monitors better distinguish reward hacking from honest failure",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.00407",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/a18er64dh384snt1hu85buc2s"
-    },
-    "publishedAt": "2026-10-30T21:52:47.000Z",
-    "timelineAt": "2026-11-03T11:20:26.943Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
     "id": "r7dwf7qn2m4rtcw156qr43lz2",
     "arxivId": "2611.03575",
     "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
@@ -104,6 +81,29 @@
     },
     "publishedAt": "2026-11-02T18:27:55.000Z",
     "timelineAt": "2026-11-03T11:35:24.232Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "ekwud1d16u994g9n977v26d4l",
+    "arxivId": "2611.01313",
+    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
+    "titleEn": "Are Fabricated Citations a Form of Reward Hacking? A Preregistered Study on Post-Training and Citation Cues",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01313",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ekwud1d16u994g9n977v26d4l"
+    },
+    "publishedAt": "2026-10-31T22:24:28.000Z",
+    "timelineAt": "2026-11-03T11:20:26.981Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",

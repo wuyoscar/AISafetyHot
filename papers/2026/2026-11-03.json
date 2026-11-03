@@ -54,24 +54,6 @@
     "discoveredAt": "2026-11-03T09:22:20.177Z"
   },
   {
-    "arxivId": "2611.00407",
-    "title": "Hacking or Just Failing? A More Capable LLM Monitor Better Separates Reward Hacking from Honest Failure",
-    "titleZh": "是作弊还是失败？更强的 LLM 监控器能更好区分奖励作弊与诚实失败",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.00407",
-      "aisafetyhot": "https://aisafetyhot.com/items/a18er64dh384snt1hu85buc2s"
-    },
-    "publishedAt": "2026-10-30T21:52:47.000Z",
-    "timelineAt": "2026-11-03T11:20:26.943Z",
-    "discoveredAt": "2026-11-03T11:20:26.943Z"
-  },
-  {
     "arxivId": "2611.03575",
     "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
     "titleZh": "VeriHarm-Bench：可验证地衡量 LLM 编码智能体的有害成功",
@@ -88,5 +70,23 @@
     "publishedAt": "2026-11-02T18:27:55.000Z",
     "timelineAt": "2026-11-03T11:35:24.232Z",
     "discoveredAt": "2026-11-03T11:35:24.232Z"
+  },
+  {
+    "arxivId": "2611.01313",
+    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
+    "titleZh": "虚假引用是奖励作弊的一种形式吗？一项关于后训练与引用线索的预注册研究",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01313",
+      "aisafetyhot": "https://aisafetyhot.com/items/ekwud1d16u994g9n977v26d4l"
+    },
+    "publishedAt": "2026-10-31T22:24:28.000Z",
+    "timelineAt": "2026-11-03T11:20:26.981Z",
+    "discoveredAt": "2026-11-03T11:20:26.981Z"
   }
 ]
