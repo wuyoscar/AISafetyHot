@@ -1,8 +1,8 @@
 [
   {
-    "arxivId": "2611.01313",
-    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
-    "titleZh": "虚假引用是奖励作弊的一种形式吗？一项关于后训练与引用线索的预注册研究",
+    "arxivId": "2611.03555",
+    "title": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study",
+    "titleZh": "智能体 AI 框架中的 MCP 工具投毒：跨框架测量研究",
     "authors": [],
     "category": null,
     "selected": true,
@@ -10,17 +10,17 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.01313",
-      "aisafetyhot": "https://aisafetyhot.com/items/ekwud1d16u994g9n977v26d4l"
+      "paper": "https://arxiv.org/abs/2611.03555",
+      "aisafetyhot": "https://aisafetyhot.com/items/z6k1zok3eml2ys5nnjafv19lj"
     },
-    "publishedAt": "2026-10-31T22:24:28.000Z",
-    "timelineAt": "2026-11-03T11:20:26.981Z",
-    "discoveredAt": "2026-11-03T11:20:26.981Z"
+    "publishedAt": "2026-11-02T18:17:08.000Z",
+    "timelineAt": "2026-11-03T09:22:20.167Z",
+    "discoveredAt": "2026-11-03T09:22:20.167Z"
   },
   {
-    "arxivId": "2611.00725",
-    "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
-    "titleZh": "网络上的长线骗局：针对编码 Agent 的先助后攻网页欺诈攻击",
+    "arxivId": "2611.00138",
+    "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
+    "titleZh": "Kerkoporta：向推理编码智能体注入结构化输出后门",
     "authors": [],
     "category": null,
     "selected": true,
@@ -28,17 +28,17 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.00725",
-      "aisafetyhot": "https://aisafetyhot.com/items/axptbhaqberddf8a8qleyr0qj"
+      "paper": "https://arxiv.org/abs/2611.00138",
+      "aisafetyhot": "https://aisafetyhot.com/items/fa36amqks4t159qn4main4kzu"
     },
-    "publishedAt": "2026-10-31T08:02:14.000Z",
-    "timelineAt": "2026-11-03T09:22:20.307Z",
-    "discoveredAt": "2026-11-03T09:22:20.307Z"
+    "publishedAt": "2026-10-29T18:41:43.000Z",
+    "timelineAt": "2026-11-03T09:22:20.341Z",
+    "discoveredAt": "2026-11-03T09:22:20.341Z"
   },
   {
-    "arxivId": "2611.02153",
-    "title": "Multi-Agent Collusion and the J-Space",
-    "titleZh": "多智能体合谋与 J-space",
+    "arxivId": "2611.03431",
+    "title": "IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning",
+    "titleZh": "IAMRAGBENCH：评测 RAG 投毒下 LLM 生成的 AWS IAM 策略授权扩张",
     "authors": [],
     "category": null,
     "selected": true,
@@ -46,17 +46,17 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.02153",
-      "aisafetyhot": "https://aisafetyhot.com/items/h1de4lyy7xohy2sdjopd7m19z"
+      "paper": "https://arxiv.org/abs/2611.03431",
+      "aisafetyhot": "https://aisafetyhot.com/items/j9v6y6ahnr5l7e7acrx70hynh"
     },
-    "publishedAt": "2026-11-01T19:36:13.000Z",
-    "timelineAt": "2026-11-03T11:20:27.013Z",
-    "discoveredAt": "2026-11-03T11:20:27.013Z"
+    "publishedAt": "2026-11-02T16:52:44.000Z",
+    "timelineAt": "2026-11-03T09:22:20.177Z",
+    "discoveredAt": "2026-11-03T09:22:20.177Z"
   },
   {
-    "arxivId": "2611.03600",
-    "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
-    "titleZh": "Four Bridges：测量多智能体博弈中的欺骗倾向",
+    "arxivId": "2611.00407",
+    "title": "Hacking or Just Failing? A More Capable LLM Monitor Better Separates Reward Hacking from Honest Failure",
+    "titleZh": "是作弊还是失败？更强的 LLM 监控器能更好区分奖励作弊与诚实失败",
     "authors": [],
     "category": null,
     "selected": true,
@@ -64,11 +64,29 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.03600",
-      "aisafetyhot": "https://aisafetyhot.com/items/iiml44few567qt8n5amsat3fs"
+      "paper": "https://arxiv.org/abs/2611.00407",
+      "aisafetyhot": "https://aisafetyhot.com/items/a18er64dh384snt1hu85buc2s"
     },
-    "publishedAt": "2026-11-02T18:40:47.000Z",
-    "timelineAt": "2026-11-03T11:20:27.101Z",
-    "discoveredAt": "2026-11-03T11:20:27.101Z"
+    "publishedAt": "2026-10-30T21:52:47.000Z",
+    "timelineAt": "2026-11-03T11:20:26.943Z",
+    "discoveredAt": "2026-11-03T11:20:26.943Z"
+  },
+  {
+    "arxivId": "2611.03575",
+    "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+    "titleZh": "VeriHarm-Bench：可验证地衡量 LLM 编码智能体的有害成功",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.03575",
+      "aisafetyhot": "https://aisafetyhot.com/items/r7dwf7qn2m4rtcw156qr43lz2"
+    },
+    "publishedAt": "2026-11-02T18:27:55.000Z",
+    "timelineAt": "2026-11-03T11:35:24.232Z",
+    "discoveredAt": "2026-11-03T11:35:24.232Z"
   }
 ]

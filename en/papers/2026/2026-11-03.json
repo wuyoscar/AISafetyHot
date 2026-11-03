@@ -1,17 +1,17 @@
 [
   {
-    "id": "ekwud1d16u994g9n977v26d4l",
-    "arxivId": "2611.01313",
-    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
-    "titleEn": "Are Fabricated Citations a Form of Reward Hacking? A Preregistered Study on Post-Training and Citation Cues",
+    "id": "z6k1zok3eml2ys5nnjafv19lj",
+    "arxivId": "2611.03555",
+    "title": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study",
+    "titleEn": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.01313",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/ekwud1d16u994g9n977v26d4l"
+      "paper": "https://arxiv.org/abs/2611.03555",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/z6k1zok3eml2ys5nnjafv19lj"
     },
-    "publishedAt": "2026-10-31T22:24:28.000Z",
-    "timelineAt": "2026-11-03T11:20:26.981Z",
+    "publishedAt": "2026-11-02T18:17:08.000Z",
+    "timelineAt": "2026-11-03T09:22:20.167Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
@@ -23,72 +23,95 @@
     }
   },
   {
-    "id": "axptbhaqberddf8a8qleyr0qj",
-    "arxivId": "2611.00725",
-    "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
-    "titleEn": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
+    "id": "fa36amqks4t159qn4main4kzu",
+    "arxivId": "2611.00138",
+    "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
+    "titleEn": "Kerkoporta: injecting a structured output backdoor into reasoning coding agents",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.00725",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/axptbhaqberddf8a8qleyr0qj"
+      "paper": "https://arxiv.org/abs/2611.00138",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/fa36amqks4t159qn4main4kzu"
     },
-    "publishedAt": "2026-10-31T08:02:14.000Z",
-    "timelineAt": "2026-11-03T09:22:20.307Z",
+    "publishedAt": "2026-10-29T18:41:43.000Z",
+    "timelineAt": "2026-11-03T09:22:20.341Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
-    "id": "h1de4lyy7xohy2sdjopd7m19z",
-    "arxivId": "2611.02153",
-    "title": "Multi-Agent Collusion and the J-Space",
-    "titleEn": "Multi-Agent Collusion and the J-Space",
+    "id": "j9v6y6ahnr5l7e7acrx70hynh",
+    "arxivId": "2611.03431",
+    "title": "IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning",
+    "titleEn": "IAMRAGBENCH: Evaluating Authorization Expansion in LLM-Generated AWS IAM Policies under RAG Poisoning",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.02153",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/h1de4lyy7xohy2sdjopd7m19z"
+      "paper": "https://arxiv.org/abs/2611.03431",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/j9v6y6ahnr5l7e7acrx70hynh"
     },
-    "publishedAt": "2026-11-01T19:36:13.000Z",
-    "timelineAt": "2026-11-03T11:20:27.013Z",
+    "publishedAt": "2026-11-02T16:52:44.000Z",
+    "timelineAt": "2026-11-03T09:22:20.177Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
-    "id": "iiml44few567qt8n5amsat3fs",
-    "arxivId": "2611.03600",
-    "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
-    "titleEn": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+    "id": "a18er64dh384snt1hu85buc2s",
+    "arxivId": "2611.00407",
+    "title": "Hacking or Just Failing? A More Capable LLM Monitor Better Separates Reward Hacking from Honest Failure",
+    "titleEn": "Cheating or failure? Stronger LLM monitors better distinguish reward hacking from honest failure",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.03600",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/iiml44few567qt8n5amsat3fs"
+      "paper": "https://arxiv.org/abs/2611.00407",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/a18er64dh384snt1hu85buc2s"
     },
-    "publishedAt": "2026-11-02T18:40:47.000Z",
-    "timelineAt": "2026-11-03T11:20:27.101Z",
+    "publishedAt": "2026-10-30T21:52:47.000Z",
+    "timelineAt": "2026-11-03T11:20:26.943Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "r7dwf7qn2m4rtcw156qr43lz2",
+    "arxivId": "2611.03575",
+    "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+    "titleEn": "VeriHarm-Bench: verifiably measuring harmful success of LLM coding agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.03575",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/r7dwf7qn2m4rtcw156qr43lz2"
+    },
+    "publishedAt": "2026-11-02T18:27:55.000Z",
+    "timelineAt": "2026-11-03T11:35:24.232Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
