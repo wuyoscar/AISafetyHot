@@ -1,0 +1,74 @@
+[
+  {
+    "arxivId": "2611.01313",
+    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
+    "titleZh": "虚假引用是奖励作弊的一种形式吗？一项关于后训练与引用线索的预注册研究",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01313",
+      "aisafetyhot": "https://aisafetyhot.com/items/ekwud1d16u994g9n977v26d4l"
+    },
+    "publishedAt": "2026-10-31T22:24:28.000Z",
+    "timelineAt": "2026-11-03T11:20:26.981Z",
+    "discoveredAt": "2026-11-03T11:20:26.981Z"
+  },
+  {
+    "arxivId": "2611.00725",
+    "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
+    "titleZh": "网络上的长线骗局：针对编码 Agent 的先助后攻网页欺诈攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.00725",
+      "aisafetyhot": "https://aisafetyhot.com/items/axptbhaqberddf8a8qleyr0qj"
+    },
+    "publishedAt": "2026-10-31T08:02:14.000Z",
+    "timelineAt": "2026-11-03T09:22:20.307Z",
+    "discoveredAt": "2026-11-03T09:22:20.307Z"
+  },
+  {
+    "arxivId": "2611.02153",
+    "title": "Multi-Agent Collusion and the J-Space",
+    "titleZh": "多智能体合谋与 J-space",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.02153",
+      "aisafetyhot": "https://aisafetyhot.com/items/h1de4lyy7xohy2sdjopd7m19z"
+    },
+    "publishedAt": "2026-11-01T19:36:13.000Z",
+    "timelineAt": "2026-11-03T11:20:27.013Z",
+    "discoveredAt": "2026-11-03T11:20:27.013Z"
+  },
+  {
+    "arxivId": "2611.03600",
+    "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+    "titleZh": "Four Bridges：测量多智能体博弈中的欺骗倾向",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.03600",
+      "aisafetyhot": "https://aisafetyhot.com/items/iiml44few567qt8n5amsat3fs"
+    },
+    "publishedAt": "2026-11-02T18:40:47.000Z",
+    "timelineAt": "2026-11-03T11:20:27.101Z",
+    "discoveredAt": "2026-11-03T11:20:27.101Z"
+  }
+]

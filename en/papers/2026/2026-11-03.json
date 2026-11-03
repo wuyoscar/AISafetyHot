@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ekwud1d16u994g9n977v26d4l",
+    "arxivId": "2611.01313",
+    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
+    "titleEn": "Are Fabricated Citations a Form of Reward Hacking? A Preregistered Study on Post-Training and Citation Cues",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01313",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ekwud1d16u994g9n977v26d4l"
+    },
+    "publishedAt": "2026-10-31T22:24:28.000Z",
+    "timelineAt": "2026-11-03T11:20:26.981Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "axptbhaqberddf8a8qleyr0qj",
+    "arxivId": "2611.00725",
+    "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
+    "titleEn": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.00725",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/axptbhaqberddf8a8qleyr0qj"
+    },
+    "publishedAt": "2026-10-31T08:02:14.000Z",
+    "timelineAt": "2026-11-03T09:22:20.307Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "h1de4lyy7xohy2sdjopd7m19z",
+    "arxivId": "2611.02153",
+    "title": "Multi-Agent Collusion and the J-Space",
+    "titleEn": "Multi-Agent Collusion and the J-Space",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.02153",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/h1de4lyy7xohy2sdjopd7m19z"
+    },
+    "publishedAt": "2026-11-01T19:36:13.000Z",
+    "timelineAt": "2026-11-03T11:20:27.013Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "iiml44few567qt8n5amsat3fs",
+    "arxivId": "2611.03600",
+    "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+    "titleEn": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.03600",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/iiml44few567qt8n5amsat3fs"
+    },
+    "publishedAt": "2026-11-02T18:40:47.000Z",
+    "timelineAt": "2026-11-03T11:20:27.101Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  }
+]
