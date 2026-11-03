@@ -49,7 +49,7 @@
     "id": "qg7ia7we2ixezbw69n6y16r7u",
     "arxivId": "2611.01953",
     "title": "Step-Zero Attack: Agent Safety Before Observability",
-    "titleEn": "Step-Zero Attack: Agent Safety Before Observability",
+    "titleEn": "Step-Zero attack: agent security before observability",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,9 +63,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {

@@ -20,7 +20,7 @@
   {
     "arxivId": "2611.01976",
     "title": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
-    "titleZh": "超越提示注入：LLM 智能体安全中的工具更新缺口",
+    "titleZh": "超越提示注入：LLM Agent 安全中的工具更新缺口",
     "authors": [],
     "category": null,
     "selected": true,
