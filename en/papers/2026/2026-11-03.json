@@ -23,6 +23,52 @@
     }
   },
   {
+    "id": "f3ab1s0gvk3drxmx76x70dck0",
+    "arxivId": "2611.01976",
+    "title": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
+    "titleEn": "Beyond prompt injection: the tool update gap in LLM agent security",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01976",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/f3ab1s0gvk3drxmx76x70dck0"
+    },
+    "publishedAt": "2026-11-01T15:14:02.000Z",
+    "timelineAt": "2026-11-03T09:22:20.244Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "qg7ia7we2ixezbw69n6y16r7u",
+    "arxivId": "2611.01953",
+    "title": "Step-Zero Attack: Agent Safety Before Observability",
+    "titleEn": "Step-Zero Attack: Agent Safety Before Observability",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01953",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/qg7ia7we2ixezbw69n6y16r7u"
+    },
+    "publishedAt": "2026-11-01T14:33:09.000Z",
+    "timelineAt": "2026-11-03T09:22:20.254Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
     "id": "fa36amqks4t159qn4main4kzu",
     "arxivId": "2611.00138",
     "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
@@ -58,52 +104,6 @@
     },
     "publishedAt": "2026-11-02T16:52:44.000Z",
     "timelineAt": "2026-11-03T09:22:20.177Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "r7dwf7qn2m4rtcw156qr43lz2",
-    "arxivId": "2611.03575",
-    "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
-    "titleEn": "VeriHarm-Bench: verifiably measuring harmful success of LLM coding agents",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.03575",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/r7dwf7qn2m4rtcw156qr43lz2"
-    },
-    "publishedAt": "2026-11-02T18:27:55.000Z",
-    "timelineAt": "2026-11-03T11:35:24.232Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "ekwud1d16u994g9n977v26d4l",
-    "arxivId": "2611.01313",
-    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
-    "titleEn": "Are Fabricated Citations a Form of Reward Hacking? A Preregistered Study on Post-Training and Citation Cues",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.01313",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/ekwud1d16u994g9n977v26d4l"
-    },
-    "publishedAt": "2026-10-31T22:24:28.000Z",
-    "timelineAt": "2026-11-03T11:20:26.981Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",

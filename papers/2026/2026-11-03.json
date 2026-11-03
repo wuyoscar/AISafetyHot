@@ -18,6 +18,42 @@
     "discoveredAt": "2026-11-03T09:22:20.167Z"
   },
   {
+    "arxivId": "2611.01976",
+    "title": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
+    "titleZh": "超越提示注入：LLM 智能体安全中的工具更新缺口",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01976",
+      "aisafetyhot": "https://aisafetyhot.com/items/f3ab1s0gvk3drxmx76x70dck0"
+    },
+    "publishedAt": "2026-11-01T15:14:02.000Z",
+    "timelineAt": "2026-11-03T09:22:20.244Z",
+    "discoveredAt": "2026-11-03T09:22:20.244Z"
+  },
+  {
+    "arxivId": "2611.01953",
+    "title": "Step-Zero Attack: Agent Safety Before Observability",
+    "titleZh": "Step-Zero 攻击：可观测性之前的 Agent 安全",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.01953",
+      "aisafetyhot": "https://aisafetyhot.com/items/qg7ia7we2ixezbw69n6y16r7u"
+    },
+    "publishedAt": "2026-11-01T14:33:09.000Z",
+    "timelineAt": "2026-11-03T09:22:20.254Z",
+    "discoveredAt": "2026-11-03T09:22:20.254Z"
+  },
+  {
     "arxivId": "2611.00138",
     "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
     "titleZh": "Kerkoporta：向推理编码智能体注入结构化输出后门",
@@ -52,41 +88,5 @@
     "publishedAt": "2026-11-02T16:52:44.000Z",
     "timelineAt": "2026-11-03T09:22:20.177Z",
     "discoveredAt": "2026-11-03T09:22:20.177Z"
-  },
-  {
-    "arxivId": "2611.03575",
-    "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
-    "titleZh": "VeriHarm-Bench：可验证地衡量 LLM 编码智能体的有害成功",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.03575",
-      "aisafetyhot": "https://aisafetyhot.com/items/r7dwf7qn2m4rtcw156qr43lz2"
-    },
-    "publishedAt": "2026-11-02T18:27:55.000Z",
-    "timelineAt": "2026-11-03T11:35:24.232Z",
-    "discoveredAt": "2026-11-03T11:35:24.232Z"
-  },
-  {
-    "arxivId": "2611.01313",
-    "title": "Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues",
-    "titleZh": "虚假引用是奖励作弊的一种形式吗？一项关于后训练与引用线索的预注册研究",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.01313",
-      "aisafetyhot": "https://aisafetyhot.com/items/ekwud1d16u994g9n977v26d4l"
-    },
-    "publishedAt": "2026-10-31T22:24:28.000Z",
-    "timelineAt": "2026-11-03T11:20:26.981Z",
-    "discoveredAt": "2026-11-03T11:20:26.981Z"
   }
 ]
