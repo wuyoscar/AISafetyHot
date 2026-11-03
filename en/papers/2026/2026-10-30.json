@@ -72,7 +72,7 @@
     "id": "rqhugyghzohpf23n9jtl4vkzb",
     "arxivId": "2610.38433",
     "title": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
-    "titleEn": "Does chain-of-thought reliance follow scaling laws? The larger the model, the more it follows the written steps, independent of post-training",
+    "titleEn": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -85,10 +85,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 38,
+      "translated": 37,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -108,8 +108,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
