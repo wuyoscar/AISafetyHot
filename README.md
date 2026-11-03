@@ -8,7 +8,7 @@
   <a href="https://aisafetyhot.com/zh"><img src="https://img.shields.io/badge/Website-aisafetyhot.com-e4572e" alt="Website"></a>
   <a href="docs/agent.md"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-6f42c1" alt="MCP"></a>
   <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-4-2ea44f" alt="4 Agent skills"></a>
-  <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/wuyoscar/AISafetyHot/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot?style=flat" alt="GitHub stars"></a>
 </p>
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
@@ -76,7 +76,7 @@ AI Safety HOT 有一个公开的 MCP 接口：热点排行、事件来龙去脉�
 **一句话安装**：把下面这句发给你的 Agent（Claude Code、Codex、Cursor……都行）：
 
 ```
-帮我安装 AI Safety HOT：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/install.md
+帮我安装 AI Safety HOT：https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/docs/install.md
 ```
 
 它会自己判断用的是哪个客户端、装好 MCP 和技能、试调一次，再告诉你能问什么。
@@ -84,7 +84,7 @@ AI Safety HOT 有一个公开的 MCP 接口：热点排行、事件来龙去脉�
 **已经装过？更新也是一句话：**
 
 ```
-帮我更新 AI Safety HOT：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/update.md
+帮我更新 AI Safety HOT：https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/docs/update.md
 ```
 
 <a id="skills"></a>
@@ -163,7 +163,7 @@ AI Safety HOT 有一个公开的 MCP 接口：热点排行、事件来龙去脉�
 
 ```bash
 # 安装
-claude plugin marketplace add wuyoscar/AISafetyHot-Hub
+claude plugin marketplace add wuyoscar/AISafetyHot
 claude plugin install aisafetyhot@aisafetyhot-hub
 # 更新
 claude plugin marketplace update aisafetyhot-hub
@@ -177,7 +177,7 @@ claude plugin uninstall aisafetyhot@aisafetyhot-hub
 ```bash
 # 安装
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
-npx skills add wuyoscar/AISafetyHot-Hub
+npx skills add wuyoscar/AISafetyHot
 # 更新
 npx skills update
 # 卸载
@@ -185,7 +185,7 @@ codex mcp remove aisafetyhot
 npx skills remove aisafety-hot aisafety-brief aisafety-paper-scout aisafety-watch
 ```
 
-**Cursor / 其他 Agent**：在 MCP 设置里加一个 Streamable HTTP 服务，地址 `https://aisafetyhot.com/api/mcp`；支持技能的客户端再跑 `npx skills add wuyoscar/AISafetyHot-Hub`。
+**Cursor / 其他 Agent**：在 MCP 设置里加一个 Streamable HTTP 服务，地址 `https://aisafetyhot.com/api/mcp`；支持技能的客户端再跑 `npx skills add wuyoscar/AISafetyHot`。
 
 **体检**：一条命令确认接口能用，返回当前前三名热点就是通的。
 

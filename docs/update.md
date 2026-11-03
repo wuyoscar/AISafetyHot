@@ -13,7 +13,7 @@ claude plugin update aisafetyhot@aisafetyhot-hub
 
 ```bash
 npx skills update
-npx skills add wuyoscar/AISafetyHot-Hub
+npx skills add wuyoscar/AISafetyHot
 ```
 
 Version 1.1 (2026-10) has four skills: `aisafety-hot`, `aisafety-brief`, `aisafety-paper-scout`, `aisafety-watch`. Remove the retired ones if they are still installed:

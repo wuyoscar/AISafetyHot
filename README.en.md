@@ -8,7 +8,7 @@
   <a href="https://aisafetyhot.com/en"><img src="https://img.shields.io/badge/Website-aisafetyhot.com-e4572e" alt="Website"></a>
   <a href="docs/agent.md"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-6f42c1" alt="MCP"></a>
   <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-4-2ea44f" alt="4 Agent skills"></a>
-  <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/wuyoscar/AISafetyHot/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot?style=flat" alt="GitHub stars"></a>
 </p>
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
@@ -76,7 +76,7 @@ AI Safety HOT has a public MCP server: the hot board, how an event unfolded, the
 **Install in one sentence.** Send this to your agent (Claude Code, Codex, Cursor, …):
 
 ```
-Install AI Safety HOT for me: https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/install.md
+Install AI Safety HOT for me: https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/docs/install.md
 ```
 
 It works out which client it is running in, installs the MCP server and the skills, makes a test call and tells you what to ask.
@@ -84,7 +84,7 @@ It works out which client it is running in, installs the MCP server and the skil
 **Already installed? Updating is one sentence too:**
 
 ```
-Update AI Safety HOT for me: https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/update.md
+Update AI Safety HOT for me: https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/docs/update.md
 ```
 
 <a id="skills"></a>
@@ -159,7 +159,7 @@ Event: Wiz says AI found a critical RCE vulnerability in PHP core, and an offici
 
 ```bash
 # install
-claude plugin marketplace add wuyoscar/AISafetyHot-Hub
+claude plugin marketplace add wuyoscar/AISafetyHot
 claude plugin install aisafetyhot@aisafetyhot-hub
 # update
 claude plugin marketplace update aisafetyhot-hub
@@ -173,7 +173,7 @@ claude plugin uninstall aisafetyhot@aisafetyhot-hub
 ```bash
 # install
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
-npx skills add wuyoscar/AISafetyHot-Hub
+npx skills add wuyoscar/AISafetyHot
 # update
 npx skills update
 # uninstall
@@ -181,7 +181,7 @@ codex mcp remove aisafetyhot
 npx skills remove aisafety-hot aisafety-brief aisafety-paper-scout aisafety-watch
 ```
 
-**Cursor / other agents**: add a Streamable HTTP MCP server at `https://aisafetyhot.com/api/mcp`; clients that support skills can then run `npx skills add wuyoscar/AISafetyHot-Hub`.
+**Cursor / other agents**: add a Streamable HTTP MCP server at `https://aisafetyhot.com/api/mcp`; clients that support skills can then run `npx skills add wuyoscar/AISafetyHot`.
 
 **Health check**: one command; if it returns the current top 3 events, it works.
 

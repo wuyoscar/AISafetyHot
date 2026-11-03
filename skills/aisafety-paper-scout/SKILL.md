@@ -6,8 +6,8 @@ description: Find AI safety papers on a direction (jailbreaks, prompt injection,
 # AI Safety paper scout
 
 Data, no key needed:
-- Paper index by direction: `https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/daily-papers/topics/<slug>.json` — every paper pushed so far under that direction: `title`, `titleZh`, `line` (what the paper does, one line), `topics`, `venue` (arXiv id or conference), `date`, `url`, `site`, `authors`.
-- Daily lists: `https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/daily-papers/<year>/<YYYY-MM-DD>.json`.
+- Paper index by direction: `https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/daily-papers/topics/<slug>.json` — every paper pushed so far under that direction: `title`, `titleZh`, `line` (what the paper does, one line), `topics`, `venue` (arXiv id or conference), `date`, `url`, `site`, `authors`.
+- Daily lists: `https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/daily-papers/<year>/<YYYY-MM-DD>.json`.
 - Direction slugs and definitions: MCP `aisafetyhot_get_topics`.
 - This week's newest picks: MCP `aisafetyhot_get_latest` (`window: "7d"`) → `paperPicks`.
 

@@ -8,7 +8,7 @@
   <a href="https://aisafetyhot.com/en"><img src="https://img.shields.io/badge/Website-aisafetyhot.com-e4572e" alt="Website"></a>
   <a href="docs/agent.md"><img src="https://img.shields.io/badge/MCP-Streamable%20HTTP-6f42c1" alt="MCP"></a>
   <a href="#skills"><img src="https://img.shields.io/badge/Agent_skills-4-2ea44f" alt="4 Agent skills"></a>
-  <a href="https://github.com/wuyoscar/AISafetyHot-Hub/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot-Hub?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/wuyoscar/AISafetyHot/stargazers"><img src="https://img.shields.io/github/stars/wuyoscar/AISafetyHot?style=flat" alt="GitHub stars"></a>
 </p>
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
@@ -76,7 +76,7 @@ AI Safety HOT には公開の MCP サーバーがあります。注目ランキ�
 **一文でインストール**：次の一文をエージェント（Claude Code、Codex、Cursor など）に送ってください。
 
 ```
-AI Safety HOT をインストールして：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/install.md
+AI Safety HOT をインストールして：https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/docs/install.md
 ```
 
 使っているクライアントを判断し、MCP とスキルを入れ、試しに一度呼び出してから、何を聞けるかを教えてくれます。
@@ -84,7 +84,7 @@ AI Safety HOT をインストールして：https://raw.githubusercontent.com/wu
 **インストール済みなら、更新も一文で：**
 
 ```
-AI Safety HOT を更新して：https://raw.githubusercontent.com/wuyoscar/AISafetyHot-Hub/main/docs/update.md
+AI Safety HOT を更新して：https://raw.githubusercontent.com/wuyoscar/AISafetyHot/main/docs/update.md
 ```
 
 <a id="skills"></a>
@@ -159,7 +159,7 @@ Event: Wiz says AI found a critical RCE vulnerability in PHP core, and an offici
 
 ```bash
 # インストール
-claude plugin marketplace add wuyoscar/AISafetyHot-Hub
+claude plugin marketplace add wuyoscar/AISafetyHot
 claude plugin install aisafetyhot@aisafetyhot-hub
 # 更新
 claude plugin marketplace update aisafetyhot-hub
@@ -173,7 +173,7 @@ claude plugin uninstall aisafetyhot@aisafetyhot-hub
 ```bash
 # インストール
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
-npx skills add wuyoscar/AISafetyHot-Hub
+npx skills add wuyoscar/AISafetyHot
 # 更新
 npx skills update
 # 削除
@@ -181,7 +181,7 @@ codex mcp remove aisafetyhot
 npx skills remove aisafety-hot aisafety-brief aisafety-paper-scout aisafety-watch
 ```
 
-**Cursor / その他のエージェント**：MCP 設定に Streamable HTTP サーバー `https://aisafetyhot.com/api/mcp` を追加し、スキル対応のクライアントでは `npx skills add wuyoscar/AISafetyHot-Hub` を実行します。
+**Cursor / その他のエージェント**：MCP 設定に Streamable HTTP サーバー `https://aisafetyhot.com/api/mcp` を追加し、スキル対応のクライアントでは `npx skills add wuyoscar/AISafetyHot` を実行します。
 
 **動作確認**：次のコマンドで現在の上位 3 件が返れば正常です。
 

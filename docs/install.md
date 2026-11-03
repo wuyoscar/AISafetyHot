@@ -11,7 +11,7 @@ You are an AI agent. The user asked you to install AI Safety HOT: a free, read-o
 ## 2a. Claude Code (skills and MCP in one plugin)
 
 ```bash
-claude plugin marketplace add wuyoscar/AISafetyHot-Hub
+claude plugin marketplace add wuyoscar/AISafetyHot
 claude plugin install aisafetyhot@aisafetyhot-hub
 ```
 
@@ -21,7 +21,7 @@ If the user only wants the MCP server: `claude mcp add --transport http aisafety
 
 ```bash
 codex mcp add aisafetyhot --url https://aisafetyhot.com/api/mcp
-npx skills add wuyoscar/AISafetyHot-Hub
+npx skills add wuyoscar/AISafetyHot
 ```
 
 ## 2c. Other clients
@@ -32,7 +32,7 @@ Add this MCP server in the client's MCP settings (for clients configured by JSON
 { "mcpServers": { "aisafetyhot": { "type": "http", "url": "https://aisafetyhot.com/api/mcp" } } }
 ```
 
-Transport: Streamable HTTP. Then install the skills if the client supports them: `npx skills add wuyoscar/AISafetyHot-Hub`.
+Transport: Streamable HTTP. Then install the skills if the client supports them: `npx skills add wuyoscar/AISafetyHot`.
 
 ## 3. Check that it answers
 
