@@ -54,6 +54,24 @@
     "discoveredAt": "2026-11-04T05:22:36.733Z"
   },
   {
+    "arxivId": "2611.04717",
+    "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+    "titleZh": "BrainwashedLLM：通过自动发现对抗性思维链实现越狱",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04717",
+      "aisafetyhot": "https://aisafetyhot.com/items/e50sbdy57bur238faru49gjn4"
+    },
+    "publishedAt": "2026-11-03T11:38:50.000Z",
+    "timelineAt": "2026-11-04T06:53:35.668Z",
+    "discoveredAt": "2026-11-04T06:53:35.668Z"
+  },
+  {
     "arxivId": "2611.04449",
     "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
     "titleZh": "近零 token 嵌入在门控序列模型中静默拖停训练",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-11-03T07:39:19.000Z",
     "timelineAt": "2026-11-04T03:56:14.166Z",
     "discoveredAt": "2026-11-04T03:56:14.166Z"
-  },
-  {
-    "arxivId": "2611.04260",
-    "title": "Neologism Inoculation Prompting",
-    "titleZh": "新词接种提示（Neologism Inoculation Prompting）",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.04260",
-      "aisafetyhot": "https://aisafetyhot.com/items/qirijlx913jb2bbwcsaxfzdfd"
-    },
-    "publishedAt": "2026-11-03T03:52:15.000Z",
-    "timelineAt": "2026-11-04T05:22:36.723Z",
-    "discoveredAt": "2026-11-04T05:22:36.723Z"
   }
 ]

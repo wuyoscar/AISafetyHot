@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "e50sbdy57bur238faru49gjn4",
+    "arxivId": "2611.04717",
+    "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+    "titleEn": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04717",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/e50sbdy57bur238faru49gjn4"
+    },
+    "publishedAt": "2026-11-03T11:38:50.000Z",
+    "timelineAt": "2026-11-04T06:53:35.668Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
     "id": "hbk50z6ija616fq0cvxd2t2c6",
     "arxivId": "2611.04449",
     "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
@@ -81,29 +104,6 @@
     },
     "publishedAt": "2026-11-03T07:39:19.000Z",
     "timelineAt": "2026-11-04T03:56:14.166Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "qirijlx913jb2bbwcsaxfzdfd",
-    "arxivId": "2611.04260",
-    "title": "Neologism Inoculation Prompting",
-    "titleEn": "Neologism Inoculation Prompting",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.04260",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/qirijlx913jb2bbwcsaxfzdfd"
-    },
-    "publishedAt": "2026-11-03T03:52:15.000Z",
-    "timelineAt": "2026-11-04T05:22:36.723Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
