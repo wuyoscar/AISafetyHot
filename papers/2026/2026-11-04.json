@@ -16,5 +16,23 @@
     "publishedAt": "2026-11-02T04:57:42.000Z",
     "timelineAt": "2026-11-03T18:11:34.206Z",
     "discoveredAt": "2026-11-03T18:11:34.206Z"
+  },
+  {
+    "arxivId": "2611.04166",
+    "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
+    "titleZh": "说同样的话，做不同的事：诊断与引导推理 VLA 中的文本-动作分歧",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04166",
+      "aisafetyhot": "https://aisafetyhot.com/items/s0z5r9oxaihagkfu00m5wmscn"
+    },
+    "publishedAt": "2026-11-03T01:57:41.000Z",
+    "timelineAt": "2026-11-04T03:03:24.461Z",
+    "discoveredAt": "2026-11-04T03:03:24.461Z"
   }
 ]

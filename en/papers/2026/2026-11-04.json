@@ -21,5 +21,28 @@
       "pending": 1,
       "status": "partial"
     }
+  },
+  {
+    "id": "s0z5r9oxaihagkfu00m5wmscn",
+    "arxivId": "2611.04166",
+    "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
+    "titleEn": "Saying the same thing, doing different things: diagnosing and steering text-action divergence in reasoning VLAs",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04166",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/s0z5r9oxaihagkfu00m5wmscn"
+    },
+    "publishedAt": "2026-11-03T01:57:41.000Z",
+    "timelineAt": "2026-11-04T03:03:24.461Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
   }
 ]
