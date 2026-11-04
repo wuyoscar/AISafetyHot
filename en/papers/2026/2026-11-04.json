@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "folh838527zk4pz2w0et6wrff",
+    "arxivId": "2611.05287",
+    "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+    "titleEn": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.05287",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/folh838527zk4pz2w0et6wrff"
+    },
+    "publishedAt": "2026-11-03T18:02:21.000Z",
+    "timelineAt": "2026-11-04T06:53:35.698Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
     "id": "azm1mempns88ghaok883fl6uv",
     "arxivId": "2611.04556",
     "title": "Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems",
@@ -72,7 +95,7 @@
     "id": "e50sbdy57bur238faru49gjn4",
     "arxivId": "2611.04717",
     "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
-    "titleEn": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+    "titleEn": "BrainwashedLLM: Jailbreaking via Automated Discovery of Adversarial Chains of Thought",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -81,29 +104,6 @@
     },
     "publishedAt": "2026-11-03T11:38:50.000Z",
     "timelineAt": "2026-11-04T06:53:35.668Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
-    }
-  },
-  {
-    "id": "hbk50z6ija616fq0cvxd2t2c6",
-    "arxivId": "2611.04449",
-    "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
-    "titleEn": "Near-zero token embeddings silently stall training in gated sequence models",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.04449",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/hbk50z6ija616fq0cvxd2t2c6"
-    },
-    "publishedAt": "2026-11-03T07:39:19.000Z",
-    "timelineAt": "2026-11-04T03:56:14.166Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",

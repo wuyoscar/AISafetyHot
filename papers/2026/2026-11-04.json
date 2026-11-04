@@ -36,6 +36,24 @@
     "discoveredAt": "2026-11-04T03:03:24.461Z"
   },
   {
+    "arxivId": "2611.05287",
+    "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+    "titleZh": "明知故错：用违背大语言模型自身信念的数据训练可诱发失对齐",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.05287",
+      "aisafetyhot": "https://aisafetyhot.com/items/folh838527zk4pz2w0et6wrff"
+    },
+    "publishedAt": "2026-11-03T18:02:21.000Z",
+    "timelineAt": "2026-11-04T06:53:35.698Z",
+    "discoveredAt": "2026-11-04T06:53:35.698Z"
+  },
+  {
     "arxivId": "2611.04556",
     "title": "Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems",
     "titleZh": "智能体间影响：评估多智能体系统中的说服、欺骗与胁迫",
@@ -56,7 +74,7 @@
   {
     "arxivId": "2611.04717",
     "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
-    "titleZh": "BrainwashedLLM：通过自动发现对抗性思维链实现越狱",
+    "titleZh": "BrainwashedLLM：通过自动化对抗思维链发现实现越狱",
     "authors": [],
     "category": null,
     "selected": true,
@@ -70,23 +88,5 @@
     "publishedAt": "2026-11-03T11:38:50.000Z",
     "timelineAt": "2026-11-04T06:53:35.668Z",
     "discoveredAt": "2026-11-04T06:53:35.668Z"
-  },
-  {
-    "arxivId": "2611.04449",
-    "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
-    "titleZh": "近零 token 嵌入在门控序列模型中静默拖停训练",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.04449",
-      "aisafetyhot": "https://aisafetyhot.com/items/hbk50z6ija616fq0cvxd2t2c6"
-    },
-    "publishedAt": "2026-11-03T07:39:19.000Z",
-    "timelineAt": "2026-11-04T03:56:14.166Z",
-    "discoveredAt": "2026-11-04T03:56:14.166Z"
   }
 ]
