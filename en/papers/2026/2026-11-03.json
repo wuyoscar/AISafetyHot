@@ -16,8 +16,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
@@ -39,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
@@ -49,7 +49,7 @@
     "id": "qg7ia7we2ixezbw69n6y16r7u",
     "arxivId": "2611.01953",
     "title": "Step-Zero Attack: Agent Safety Before Observability",
-    "titleEn": "Step-Zero attack: agent security before observability",
+    "titleEn": "Step-Zero Attack: Agent Safety Before Observability",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 39,
+      "translated": 37,
+      "pending": 2,
+      "status": "partial"
     }
   },
   {
@@ -95,7 +95,7 @@
     "id": "j9v6y6ahnr5l7e7acrx70hynh",
     "arxivId": "2611.03431",
     "title": "IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning",
-    "titleEn": "IAMRAGBENCH: Evaluating Authorization Expansion in LLM-Generated AWS IAM Policies under RAG Poisoning",
+    "titleEn": "IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -108,10 +108,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 39,
+      "translated": 38,
+      "pending": 1,
+      "status": "partial"
     }
   }
 ]
