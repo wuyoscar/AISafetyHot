@@ -1,5 +1,34 @@
 [
   {
+    "id": "pl9xap7zobj6df9gy8avv3w00",
+    "kind": "arxiv",
+    "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+    "titleZh": "EvoSafeHarness：为 Agent 自动演化模型与领域专属安全护栏",
+    "line": "为冻结模型与目标域自动搜索可部署的 Agent 安全 harness",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.05903",
+    "date": "2026-09-05",
+    "url": "https://arxiv.org/abs/2609.05903v1",
+    "site": "https://aisafetyhot.com/items/pl9xap7zobj6df9gy8avv3w00",
+    "authors": [
+      "Nanxi Li",
+      "Yingzi Ma",
+      "Yulong Cao",
+      "Chong Xiang",
+      "G. Edward Suh",
+      "Bo Li",
+      "Yejin Choi",
+      "Dawn Song",
+      "Chaowei Xiao"
+    ],
+    "pushedOn": "2026-11-05"
+  },
+  {
     "id": "t30e9qm3gfx540c6xwtbor0xf",
     "kind": "arxiv",
     "title": "Safe to Resume? Breaking Execution Continuity of Agent Execution via Rollback",

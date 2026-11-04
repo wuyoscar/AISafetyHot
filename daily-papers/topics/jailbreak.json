@@ -1,5 +1,31 @@
 [
   {
+    "id": "vzefxwismqfzc9di4ag1uh894",
+    "kind": "arxiv",
+    "title": "Automatic Red Teaming for Implicit Vulnerabilities of Text-to-Image Models",
+    "titleZh": "AdvPIE：面向文生图模型隐式漏洞的自动红队框架",
+    "line": "提出 AdvPIE，在黑盒下搜索表面无害却生成有害图像的提示",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2609.06094",
+    "date": "2026-09-05",
+    "url": "https://arxiv.org/abs/2609.06094v1",
+    "site": "https://aisafetyhot.com/items/vzefxwismqfzc9di4ag1uh894",
+    "authors": [
+      "Chang Ma",
+      "Junlin Han",
+      "Shuo Chen",
+      "Runjia Li",
+      "Philip Torr",
+      "Jindong Gu"
+    ],
+    "pushedOn": "2026-11-05"
+  },
+  {
     "id": "cmzpnw9jprvm4att0hc0grygf",
     "kind": "arxiv",
     "title": "Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models",

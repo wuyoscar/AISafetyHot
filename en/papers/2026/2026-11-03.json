@@ -72,7 +72,7 @@
     "id": "fa36amqks4t159qn4main4kzu",
     "arxivId": "2611.00138",
     "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
-    "titleEn": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
+    "titleEn": "Kerkoporta: injecting a structured output backdoor into reasoning coding agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -86,9 +86,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 40,
-      "translated": 39,
-      "pending": 1,
-      "status": "partial"
+      "translated": 40,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
