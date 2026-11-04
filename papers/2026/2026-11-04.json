@@ -34,5 +34,23 @@
     "publishedAt": "2026-11-03T01:57:41.000Z",
     "timelineAt": "2026-11-04T03:03:24.461Z",
     "discoveredAt": "2026-11-04T03:03:24.461Z"
+  },
+  {
+    "arxivId": "2611.04449",
+    "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+    "titleZh": "近零 Token 嵌入会让门控序列模型的训练静默停滞",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04449",
+      "aisafetyhot": "https://aisafetyhot.com/items/hbk50z6ija616fq0cvxd2t2c6"
+    },
+    "publishedAt": "2026-11-03T07:39:19.000Z",
+    "timelineAt": "2026-11-04T03:56:14.166Z",
+    "discoveredAt": "2026-11-04T03:56:14.166Z"
   }
 ]

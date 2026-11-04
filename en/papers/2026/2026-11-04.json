@@ -44,5 +44,28 @@
       "pending": 0,
       "status": "complete"
     }
+  },
+  {
+    "id": "hbk50z6ija616fq0cvxd2t2c6",
+    "arxivId": "2611.04449",
+    "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+    "titleEn": "Near-zero token embeddings silently stall training of gated sequence models",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04449",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/hbk50z6ija616fq0cvxd2t2c6"
+    },
+    "publishedAt": "2026-11-03T07:39:19.000Z",
+    "timelineAt": "2026-11-04T03:56:14.166Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
   }
 ]
