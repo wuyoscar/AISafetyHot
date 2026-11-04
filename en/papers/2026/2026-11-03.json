@@ -63,8 +63,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 39,
-      "translated": 37,
-      "pending": 2,
+      "translated": 38,
+      "pending": 1,
       "status": "partial"
     }
   },
@@ -72,7 +72,7 @@
     "id": "fa36amqks4t159qn4main4kzu",
     "arxivId": "2611.00138",
     "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
-    "titleEn": "Kerkoporta: injecting a structured output backdoor into reasoning coding agents",
+    "titleEn": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -85,17 +85,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 40,
+      "translated": 39,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
     "id": "j9v6y6ahnr5l7e7acrx70hynh",
     "arxivId": "2611.03431",
     "title": "IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning",
-    "titleEn": "IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning",
+    "titleEn": "IAMRAGBENCH: Evaluating Authorization Expansion in LLM-Generated AWS IAM Policies under RAG Poisoning",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 39,
-      "translated": 38,
-      "pending": 1,
-      "status": "partial"
+      "translated": 39,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
