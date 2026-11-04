@@ -46,10 +46,33 @@
     }
   },
   {
+    "id": "azm1mempns88ghaok883fl6uv",
+    "arxivId": "2611.04556",
+    "title": "Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems",
+    "titleEn": "Inter-agent influence: Evaluating persuasion, deception and coercion in multi-agent systems",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04556",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/azm1mempns88ghaok883fl6uv"
+    },
+    "publishedAt": "2026-11-03T09:23:12.000Z",
+    "timelineAt": "2026-11-04T05:22:36.733Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "hbk50z6ija616fq0cvxd2t2c6",
     "arxivId": "2611.04449",
     "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
-    "titleEn": "Near-zero token embeddings silently stall training of gated sequence models",
+    "titleEn": "Near-zero token embeddings silently stall training in gated sequence models",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -58,6 +81,29 @@
     },
     "publishedAt": "2026-11-03T07:39:19.000Z",
     "timelineAt": "2026-11-04T03:56:14.166Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "qirijlx913jb2bbwcsaxfzdfd",
+    "arxivId": "2611.04260",
+    "title": "Neologism Inoculation Prompting",
+    "titleEn": "Neologism Inoculation Prompting",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04260",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/qirijlx913jb2bbwcsaxfzdfd"
+    },
+    "publishedAt": "2026-11-03T03:52:15.000Z",
+    "timelineAt": "2026-11-04T05:22:36.723Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",

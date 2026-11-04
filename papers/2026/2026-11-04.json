@@ -36,9 +36,27 @@
     "discoveredAt": "2026-11-04T03:03:24.461Z"
   },
   {
+    "arxivId": "2611.04556",
+    "title": "Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems",
+    "titleZh": "智能体间影响：评估多智能体系统中的说服、欺骗与胁迫",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04556",
+      "aisafetyhot": "https://aisafetyhot.com/items/azm1mempns88ghaok883fl6uv"
+    },
+    "publishedAt": "2026-11-03T09:23:12.000Z",
+    "timelineAt": "2026-11-04T05:22:36.733Z",
+    "discoveredAt": "2026-11-04T05:22:36.733Z"
+  },
+  {
     "arxivId": "2611.04449",
     "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
-    "titleZh": "近零 Token 嵌入会让门控序列模型的训练静默停滞",
+    "titleZh": "近零 token 嵌入在门控序列模型中静默拖停训练",
     "authors": [],
     "category": null,
     "selected": true,
@@ -52,5 +70,23 @@
     "publishedAt": "2026-11-03T07:39:19.000Z",
     "timelineAt": "2026-11-04T03:56:14.166Z",
     "discoveredAt": "2026-11-04T03:56:14.166Z"
+  },
+  {
+    "arxivId": "2611.04260",
+    "title": "Neologism Inoculation Prompting",
+    "titleZh": "新词接种提示（Neologism Inoculation Prompting）",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.04260",
+      "aisafetyhot": "https://aisafetyhot.com/items/qirijlx913jb2bbwcsaxfzdfd"
+    },
+    "publishedAt": "2026-11-03T03:52:15.000Z",
+    "timelineAt": "2026-11-04T05:22:36.723Z",
+    "discoveredAt": "2026-11-04T05:22:36.723Z"
   }
 ]
