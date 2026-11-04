@@ -3,7 +3,7 @@
     "id": "e6f888ams2r0iy3u7wdwvwywx",
     "arxivId": "2610.41713",
     "title": "Simple Features Beat Most AI Control Monitors",
-    "titleEn": "Simple features outperform most AI control monitors",
+    "titleEn": "Simple Features Beat Most AI Control Monitors",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 39,
+      "translated": 38,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -108,8 +108,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
