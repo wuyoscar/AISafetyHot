@@ -49,7 +49,7 @@
     "id": "folh838527zk4pz2w0et6wrff",
     "arxivId": "2611.05287",
     "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
-    "titleEn": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+    "titleEn": "Knowing it is wrong: training on data that violates a large language model's own beliefs can induce misalignment",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,9 +63,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
