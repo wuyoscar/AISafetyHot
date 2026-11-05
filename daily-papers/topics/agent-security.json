@@ -1,5 +1,62 @@
 [
   {
+    "id": "g46z549c9syyb13pldj2vrmk3",
+    "kind": "arxiv",
+    "title": "Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment",
+    "titleZh": "Airlock：通过选择性在线遏制限制多智能体爆炸半径",
+    "line": "提出 AIRLOCK 多智能体运行时防护，阻断告警后故障动作",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.06727",
+    "date": "2026-11-04",
+    "url": "https://arxiv.org/abs/2611.06727",
+    "site": "https://aisafetyhot.com/items/g46z549c9syyb13pldj2vrmk3",
+    "authors": [
+      "Zhonghao Zhan",
+      "Javad Forough",
+      "Yefan Zhang",
+      "Krinos Li",
+      "Xiao Ma",
+      "Hamed Haddadi"
+    ],
+    "pushedOn": "2026-11-06"
+  },
+  {
+    "id": "lt9z0xn1ahxaul39c79grfc0b",
+    "kind": "arxiv",
+    "title": "FORTIS: Benchmarking Over-Privilege in Agent Skills",
+    "titleZh": "FORTIS：基准评测 Agent 技能中的越权行为",
+    "line": "提出 FORTIS 基准评测 Agent 技能中的越权行为",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2605.09163",
+    "date": "2026-05-09",
+    "url": "https://arxiv.org/abs/2605.09163v3",
+    "site": "https://aisafetyhot.com/items/lt9z0xn1ahxaul39c79grfc0b",
+    "authors": [
+      "Shawn Li",
+      "Chenxiao Yu",
+      "Han Wang",
+      "Wei Yang",
+      "Ryan Rossi",
+      "Franck Dernoncourt",
+      "Xiyang Hu",
+      "Philip Yu",
+      "Chaowei Xiao",
+      "Huan Zhang",
+      "Yue Zhao"
+    ],
+    "pushedOn": "2026-11-06"
+  },
+  {
     "id": "pl9xap7zobj6df9gy8avv3w00",
     "kind": "arxiv",
     "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",

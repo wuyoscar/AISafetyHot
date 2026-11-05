@@ -1,5 +1,28 @@
 [
   {
+    "id": "neurips:2026:NERzW49Ahm",
+    "kind": "conference",
+    "title": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
+    "titleZh": "设计有效的监控干预以缓解 RL 中的奖励作弊",
+    "line": "构建三个 Qwen3-4B 会奖励作弊的环境，发现模型能规避高精度监控器，改进的监控设计可将作弊率从 70-100% 降至 0%。",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "NeurIPS 2026 poster",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/153178",
+    "site": null,
+    "authors": [
+      "Aria Wong",
+      "Joshua Engels",
+      "Neel Nanda"
+    ],
+    "pushedOn": "2026-11-06"
+  },
+  {
     "id": "tykblze77gkr7pyekgzqzh5yb",
     "kind": "arxiv",
     "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
