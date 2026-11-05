@@ -1,0 +1,25 @@
+[
+  {
+    "id": "mxbd0v06ru8vn7xwiy0ao09r4",
+    "arxivId": "2611.05662",
+    "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
+    "titleEn": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.05662",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/mxbd0v06ru8vn7xwiy0ao09r4"
+    },
+    "publishedAt": "2026-11-03T21:47:19.000Z",
+    "timelineAt": "2026-11-05T05:46:13.873Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 38,
+      "translated": 26,
+      "pending": 12,
+      "status": "partial"
+    }
+  }
+]

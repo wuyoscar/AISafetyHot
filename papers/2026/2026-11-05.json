@@ -1,0 +1,20 @@
+[
+  {
+    "arxivId": "2611.05662",
+    "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
+    "titleZh": "有据可依仍不免疫：Agent-as-a-Judge 中的确认偏差",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.05662",
+      "aisafetyhot": "https://aisafetyhot.com/items/mxbd0v06ru8vn7xwiy0ao09r4"
+    },
+    "publishedAt": "2026-11-03T21:47:19.000Z",
+    "timelineAt": "2026-11-05T05:46:13.873Z",
+    "discoveredAt": "2026-11-05T05:46:13.873Z"
+  }
+]
