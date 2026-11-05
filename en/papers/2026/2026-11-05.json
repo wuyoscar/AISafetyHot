@@ -21,5 +21,51 @@
       "pending": 1,
       "status": "partial"
     }
+  },
+  {
+    "id": "bno5l4zluy0mlqplr7hclfsti",
+    "arxivId": "2611.06324",
+    "title": "Mass Producing Training Data with Surprising Side Effects",
+    "titleEn": "Mass Producing Training Data with Surprising Side Effects",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.06324",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/bno5l4zluy0mlqplr7hclfsti"
+    },
+    "publishedAt": "2026-11-04T10:57:28.000Z",
+    "timelineAt": "2026-11-05T06:57:15.341Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 38,
+      "translated": 11,
+      "pending": 27,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "g46z549c9syyb13pldj2vrmk3",
+    "arxivId": "2611.06727",
+    "title": "Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment",
+    "titleEn": "Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.06727",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/g46z549c9syyb13pldj2vrmk3"
+    },
+    "publishedAt": "2026-11-04T16:16:03.000Z",
+    "timelineAt": "2026-11-05T06:56:14.368Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 40,
+      "translated": 15,
+      "pending": 25,
+      "status": "partial"
+    }
   }
 ]
