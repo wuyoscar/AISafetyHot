@@ -216,68 +216,68 @@ curl -s https://aisafetyhot.com/api/mcp -H 'content-type: application/json' -H '
 | [archive](archive) | 年度索引 |
 
 <!-- papers:start -->
-### 2026-11-06 · 30 篇
+### 2026-11-07 · 30 篇
 
-1. **[LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks](https://arxiv.org/abs/2611.06687)**  
-   LifeVal：评估 AI 模型在个性化智能体消费任务上的表现 · Jenny Yang … Tejal Patwardhan · arXiv 2611.06687 · 2026-11-04 · [解读](https://aisafetyhot.com/items/dvcmfrvqtmn61m0ujdy30cte7)
-2. **[Mass Producing Training Data with Surprising Side Effects](https://arxiv.org/abs/2611.06324)**  
-   构建自动化流水线批量生成带意外副作用的训练数据集（DSSE） · Yaowen Ye … Cassidy Laidlaw · arXiv 2611.06324 · 2026-11-04 · [解读](https://aisafetyhot.com/items/bno5l4zluy0mlqplr7hclfsti)
-3. **[Alignment Myopia in Generative AI](https://arxiv.org/abs/2611.06830)**  
-   论文指出，生成式 AI 对齐当前依赖优先满足即时对话满意度的短视范式，以短期反馈为依据，忽视持续人机互动可能带来的认知萎缩、社会侵蚀与人类能动性下降等长期外部性。 · Remi Denton … Himabindu Lakkaraju · arXiv 2611.06830 · 2026-11-04 · [解读](https://aisafetyhot.com/items/ruyy1y11kz1zfzrdf98tf3m9t)
-4. **[SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving](https://arxiv.org/abs/2611.06147)**  
-   研究者发现，MoE 大语言模型推理服务为提速而减少每 token 激活专家数，会削弱模型对有害请求的拒答，并提出 SafeStart 在保留大部分加速的同时基本恢复拒答。 · Erfan Baghaei Potraghloo … Massoud Pedram · arXiv 2611.06147 · 2026-11-04 · [解读](https://aisafetyhot.com/items/nixlp503v0mtfs1twb0f0i3da)
-5. **[Reasoning-Trace Overflow in Code Generation: An Empirical Study of Explicit Reasoning Models](https://arxiv.org/abs/2611.06095)**  
-   研究提出并量化了代码生成中的推理轨迹溢出问题，即显式推理模型可能把输出预算耗在推理上，始终产不出可用代码。 · Lukas Twist … Jie M. Zhang · arXiv 2611.06095 · 2026-11-04 · [解读](https://aisafetyhot.com/items/k1y8o3vafirdhguhigpofum2v)
-6. **[A Definition of Catastrophic Performance](https://arxiv.org/abs/2611.06219)**  
-   AI 灾难性表现的定义 · Henrik Marklund … Benjamin Van Roy · arXiv 2611.06219 · 2026-11-04 · [解读](https://aisafetyhot.com/items/qw4mq6i0fndiuyt1fjrgkcqv9)
-7. **[Securing Web Agents with the Compile-Then-Execute Paradigm](https://arxiv.org/abs/2611.06039)**  
-   研究者提出 Baya，一种先编译后执行的 Web Agent，从设计上阻止提示注入对控制流的劫持。 · Annabella Chow … Julien Piet · arXiv 2611.06039 · 2026-11-04 · [解读](https://aisafetyhot.com/items/xs6geqxnvgd6xghkylz00tnm8)
-8. **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910)**  
-   FrontierPhysics：评估智能体的端到端物理研究能力 · Bingran You … Hartmut Haeffner · arXiv 2611.06910 · 2026-11-04 · [解读](https://aisafetyhot.com/items/eop7zjzaos9f7dvqjcy0ylrfj)
-9. **[Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment](https://arxiv.org/abs/2611.06727)**  
-   提出 AIRLOCK 多智能体运行时防护，阻断告警后故障动作 · `Agent 安全` · Zhonghao Zhan … Hamed Haddadi · arXiv 2611.06727 · 2026-11-04 · [解读](https://aisafetyhot.com/items/g46z549c9syyb13pldj2vrmk3)
-10. **[What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?](https://huggingface.co/papers/2611.06483)**  
-   论文通过 Pass@(K,T) 在采样广度 K 与交互深度 T 两个维度评估多轮智能体强化学习，发现轨迹级 RL 的收益依赖充足的交互轮数预算，预算收紧时明显下降。 · Kejian Zhu … Jun Zhao · arXiv 2611.06483 · 2026-11-04 · [解读](https://aisafetyhot.com/items/uu06lcf9hjl257lh4guz8x34w)
-11. **[SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors](https://arxiv.org/abs/2611.06103)**  
-   研究者提出模拟硬件木马框架 SenTrojan，在部署前将恶意功能植入各类传感器共用的模拟信号电路，由外部物理信号触发，可使传感器遭受永久拒绝服务或静态、动态欺骗。 · Kun Wang … Wenyuan Xu · arXiv 2611.06103 · 2026-11-04 · [解读](https://aisafetyhot.com/items/m6oa4xwtlu58uu2hsubp7bha1)
-12. **[EPISTEME: Trustworthy Coding Agents Through Tool Call Intent](https://arxiv.org/abs/2611.06563)**  
-   研究者提出 EPISTEME 认知型 Agent 设计，要求模型在发起工具调用时声明原因，harness 记录命令实际做了什么，再将模型自述的声明与实际效果核对。 · Sofia Bobadilla … Martin Monperrus · arXiv 2611.06563 · 2026-11-04 · [解读](https://aisafetyhot.com/items/ohgy0l8agqla5ip3wj82m1sa2)
-13. **[Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models](https://arxiv.org/abs/2611.06553)**  
-   论文提出 Addition by Subtraction 方法，在微调中逐步移除已识别的安全关键神经元，并用偏好优化在模型其他部分重建安全对齐行为。 · Hamid Dashtbani, Alexandra Dmitrienko · arXiv 2611.06553 · 2026-11-04 · [解读](https://aisafetyhot.com/items/gfyj5fnwz88v7639r0gn6g3mf)
-14. **[Keeping Fuzzers on Duty: Repairing Fuzzing Build Breakages in Continuous Open-Source Fuzzing](https://arxiv.org/abs/2611.06358)**  
-   让模糊测试器持续在岗：修复开源项目持续模糊测试中的构建失败 · Zhuang Zhao … Yang Liu · arXiv 2611.06358 · 2026-11-04 · [解读](https://aisafetyhot.com/items/dtnmdvm138vr0uw2a62j43qac)
-15. **[SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories](https://arxiv.org/abs/2611.05512)**  
-   研究者发布 SlackBench 基准，评测智能体在需要联合推理工作沟通与代码仓库状态的真实科研工程流程中的表现。 · Mingxuan Li … Alex Dimakis · arXiv 2611.05512 · 2026-11-03 · [解读](https://aisafetyhot.com/items/a19mnlp8odyd5x5rs4g07ia2l)
-16. **[Inducing Emergent Misalignment from Reward Hacks with Iterative DPO](https://arxiv.org/abs/2609.06649v1)**  
-   用迭代 DPO 从奖励作弊诱发涌现失准 · Oliver Daniels … David Lindner · arXiv 2609.06649 · 2026-09-06 · [解读](https://aisafetyhot.com/items/xy2yfb1mmrry27jrk52m4z1qh)
-17. **[Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL](https://neurips.cc/virtual/2026/poster/153178)**  
-   构建三个 Qwen3-4B 会奖励作弊的环境，发现模型能规避高精度监控器，改进的监控设计可将作弊率从 70-100% 降至 0%。 · `奖励作弊` · Aria Wong … Neel Nanda · NeurIPS 2026 poster
-18. **[FORTIS: Benchmarking Over-Privilege in Agent Skills](https://arxiv.org/abs/2605.09163v3)**  
-   提出 FORTIS 基准评测 Agent 技能中的越权行为 · `Agent 安全` · Shawn Li … Yue Zhao · arXiv 2605.09163 · 2026-05-09 · [解读](https://aisafetyhot.com/items/lt9z0xn1ahxaul39c79grfc0b)
-19. **[Characterizing Adversarial GEO via Implicit Brand Injection](https://arxiv.org/abs/2611.04005)**  
-   研究者提出 Implicit Brand Injection（IBI）多智能体框架，通过在文章中插入一处语境融合的品牌提及，让预设品牌进入生成式搜索的答案。 · Shobhnik Kriplani, Haohan Wang · arXiv 2611.04005 · 2026-11-02 · [解读](https://aisafetyhot.com/items/to50l7i3ptjr4smfskfck3f4q)
-20. **[Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs](https://arxiv.org/abs/2611.06848)**  
-   研究者发现，提示大语言模型采纳政治人格会系统性改变其潜空间的表征几何。 · Austin C. Kozlowski … Madison Lee · arXiv 2611.06848 · 2026-11-04 · [解读](https://aisafetyhot.com/items/yw191grdgo3ww6dq1988kdeuu)
-21. **[Corralling AI Risks with Grassroots Contracts](https://arxiv.org/abs/2611.06374)**  
-   论文提出用“草根契约”围堵三类平台 AI 风险：AI 控制多数人使用的全球社交与经济平台、匿名且可能冒充人类的无问责 AI 智能体、匿名生成且无法归因的深度伪造。 · Ehud Shapiro · arXiv 2611.06374 · 2026-11-04 · [解读](https://aisafetyhot.com/items/c75g4sl18z7hqaxqyciob98nq)
-22. **[Thick Alignment: A Social Framework for Values and AI Systems](https://arxiv.org/abs/2611.05857)**  
-   论文主张用“厚对齐”审视 AI 系统中的价值，称主流对齐技术为“薄对齐”：以偏好标注、奖励建模等把情境化价值判断压成少数指标。 · Alondra Nelson, Sola Kim · arXiv 2611.05857 · 2026-11-04 · [解读](https://aisafetyhot.com/items/whil2ghuzz0pcxd476deuxg3b)
-23. **[Recursa: Toward Recursively Self-Improving Foundation Model Systems](https://huggingface.co/papers/2611.04035)**  
-   Recursa 是一个无需人类专家或更强教师模型、通过递归自我改进适应新领域的基础模型系统。它把领域技能、任务记忆与改进反思存入知识仓库，由并行学习器执行任务并验证合并改进。 · Erkang Zhu … Jingren Zhou · arXiv 2611.04035 · 2026-11-02 · [解读](https://aisafetyhot.com/items/izcfeu7b8xk1uk89k3cm98p2y)
-24. **[VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations](https://arxiv.org/abs/2611.03518)**  
-   研究者提出 VIAS（价值隔离激活引导），通过在生成时向模型内部激活加入向量而不改变权重，提升模型对组织价值观的合规程度。 · Avni Mittal … Sandipan Dandapat · arXiv 2611.03518 · 2026-11-02 · [解读](https://aisafetyhot.com/items/e12wf4ag24lshgii9pcce4iih)
-25. **[VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions](https://arxiv.org/abs/2611.03765)**  
-   研究者提出环境上下文错觉（Ambient Context Illusion）现象并构建 VagueBench 基准，发现具身智能体在任务语义不变但省略非关键上下文细节时无法正确执行任务。 · Yang Qu … Xianglong Liu · arXiv 2611.03765 · 2026-11-02 · [解读](https://aisafetyhot.com/items/irwu8dao97af6xo8q7ea6w37y)
-26. **[Beyond accuracy: what AI assurance needs to establish in public services](https://arxiv.org/abs/2611.06655)**  
-   一项 arXiv 研究结合分类实验与政策文件分析，论证公共服务确立 AI 产出证据的可靠性需要聚合准确率之外的核查。 · Louise Yorke · arXiv 2611.06655 · 2026-11-04 · [解读](https://aisafetyhot.com/items/p9hriystecrh5j563kkn4up7b)
-27. **[The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116)**  
-   研究者测试固定大语言模型在不同智能体脚手架下对银行行为规则的合规性，发现脚手架会不均等地改变合规表现。 · Mehmet Murat Huyut · arXiv 2611.06116 · 2026-11-04 · [解读](https://aisafetyhot.com/items/pm91u9jpryxa7whotcz0jct2o)
-28. **[A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](https://arxiv.org/abs/2611.06412)**  
-   一份技术报告提出三种防御基于数据投毒的深度学习人脸识别后门攻击的实用技巧。模型在内部训练、训练数据来自可能被入侵的第三方。 · Quentin Le Roux … Philippe Loubet Moundi · arXiv 2611.06412 · 2026-11-04 · [解读](https://aisafetyhot.com/items/fy3t0y4xgb8i47n2y6cxq5htr)
-29. **[SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents](https://arxiv.org/abs/2611.06682)**  
-   SecureGARD：面向工具使用型 LLM 智能体安全的动态本体引导治理 · Guoqin Xiong … Sheng-Jun Huang · arXiv 2611.06682 · 2026-11-04 · [解读](https://aisafetyhot.com/items/u7znf5v01tui8s83vd5l4s83t)
-30. **[How Far Can You Steer? Behavior-Capability Frontiers in Contrastive Activation Addition](https://arxiv.org/abs/2611.06001)**  
-   你能转向多远？对比激活添加（CAA）中的行为-能力前沿 · Deepanshu Raj · arXiv 2611.06001 · 2026-11-04 · [解读](https://aisafetyhot.com/items/hrdsd2l8bqkfnwki1nnhvhxsb)
+1. **[Shaping & Monitoring Models through their Internal Representations](https://arxiv.org/abs/2611.07071)**  
+   研究者提出 Mechanistic Shaping 框架，在训练中把模型内部表征当作规范语言，约束模型表达哪些概念（如不产出有害内容）和依赖哪些概念做决策（如简历筛选不依赖性别）。 · Thomas Fel … Owen Lewis · arXiv 2611.07071 · 2026-11-04 · [解读](https://aisafetyhot.com/items/wk4dxs1u4xcb2gip6bkakndml)
+2. **[The Memory Trap: Language Agents Overgeneralize from Benign Interactions](https://arxiv.org/abs/2611.07554)**  
+   Princeton 与 Anthropic 研究者在论文中提出“记忆陷阱”：语言智能体会把良性互动形成的记忆过度泛化，在后续任务中引发不安全或不可靠行为。 · Kaiqu Liang … Andrew Lampinen · arXiv 2611.07554 · 2026-11-05 · [解读](https://aisafetyhot.com/items/rc2bwdnqejiemc4imqhckmndk)
+3. **[A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems](https://arxiv.org/abs/2611.07953)**  
+   预测与理解前沿人工智能系统失控的行为框架 · Yao Huang … Yinpeng Dong · arXiv 2611.07953 · 2026-11-05 · [解读](https://aisafetyhot.com/items/q60uq5ei49r426je1c274jxkp)
+4. **[Stress Testing Chain-of-Thought Monitoring Against Covert Misalignment](https://arxiv.org/abs/2611.07586)**  
+   研究者提出 TraceMRT 红队框架，压力测试思维链监控对隐蔽未对齐的抵御能力，黑盒攻击在 GPT-5.2 与 Claude-4.5 等最先进监控器上发现明显漏洞。 · Yao Huang … Yinpeng Dong · arXiv 2611.07586 · 2026-11-05 · [解读](https://aisafetyhot.com/items/p2fg3eoxzsrytbjqt68v4gaqg)
+5. **[Adversarial Robustness of Kernel Machines: A Comprehensive Analysis](https://arxiv.org/abs/2611.07474)**  
+   研究者通过白盒与黑盒逃逸攻击全面评估核方法的对抗鲁棒性，实验强烈表明其天然比神经网络更抗对抗扰动、性能下降更平缓。 · Rahul Kumar Yadav … Arjun Bhagoji · arXiv 2611.07474 · 2026-11-05 · [解读](https://aisafetyhot.com/items/tnawilx8jh89ez9h516kcekn2)
+6. **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438)**  
+   Fazl Barez、Yoshua Bengio、Stella Biderman 等研究者发表综述，系统梳理面向 AI 安全的机制可解释性研究，核心问题是理解模型内部机制是否真能让模型更安全。 · Fazl Barez … Hassan Sajjad · arXiv 2611.08438 · 2026-11-05 · [解读](https://aisafetyhot.com/items/vqzd50a48r1fqynnvbbuqb0qr)
+7. **[Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure](https://arxiv.org/abs/2611.08134)**  
+   研究者提出 PAAI（权力、访问、充分性、独立性）框架，分析评测基础设施的控制权、使用条件、充分性与自主性如何决定谁能独立评测 AI。 · Sumaya Nur Adan … Marina Jirotka · arXiv 2611.08134 · 2026-11-05 · [解读](https://aisafetyhot.com/items/szs772lsm8ces1lml3vxmuotr)
+8. **[Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion](https://arxiv.org/abs/2611.08312)**  
+   ELLIS Institute Tübingen 等机构的研究者在 arXiv 发表 TRILEMMA 研究，在模拟公司 Slack 工作区中让五个智能体协商冲刺排班，发现智能体会在无人指示欺骗的情况下做出虚假或误导性陈述。 · Johannes Taraz … Sahar Abdelnabi · arXiv 2611.08312 · 2026-11-05 · [解读](https://aisafetyhot.com/items/fgvcdgsh346wlofeg2ksa3e0r)
+9. **[Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](https://arxiv.org/abs/2611.07640)**  
+   超越指令覆盖：用任务篡改攻击对间接提示注入进行基准测试 · Rongting Zhang … Vanessa Murdock · arXiv 2611.07640 · 2026-11-05 · [解读](https://aisafetyhot.com/items/g1h22s3th708pyi35uh62rw6v)
+10. **[Circe: Training-Free LLM Self-Evaluation via Component Interaction Consistency](https://arxiv.org/abs/2611.07948)**  
+   Circe 是一种免训练的 LLM 自我评估方法，无需参考答案或重复采样即可判断回答正确性。它融合组件交互一致性（CIC）、表征几何（RG）两类内部信号与似然置信度（LC）外部信号。 · Shuyi Miao … Tat-Seng Chua · arXiv 2611.07948 · 2026-11-05 · [解读](https://aisafetyhot.com/items/tff6ldqhl1stt28arv80kr0to)
+11. **[SAFE-Teen: Evaluating Chatbot Safety Across Adolescent Mental Health Conversations](https://arxiv.org/abs/2611.07218)**  
+   SAFE-Teen：评估聊天机器人在青少年心理健康对话中的安全性 · Andrea Mock … Caroline Figueroa · arXiv 2611.07218 · 2026-11-04 · [解读](https://aisafetyhot.com/items/qkaagsup6vm6mfbsfs36dowf0)
+12. **[Compositional Unalignment: Auditing Safety in Large Vision-Language Models](https://arxiv.org/abs/2611.07216)**  
+   论文提出免训练的去对齐（un-alignment）方法 CMaG，通过表征转向在推理时解除大型视觉语言模型对组合式危害的安全对齐，此类危害中图像与提示词各自无害、组合后才有害。 · Hong kyu Lee … Li Xiong · arXiv 2611.07216 · 2026-11-04 · [解读](https://aisafetyhot.com/items/wveop5ub4z6wtcl1or1syu3f5)
+13. **[Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277)**  
+   Harness-S 是一种智能体训练方法，通过从同级 Harness 中学习，实现可泛化的智能体训练。 · Kangning Zhang … Weinan Zhang · arXiv 2611.04277 · 2026-11-03 · [解读](https://aisafetyhot.com/items/b5dxytpctgdvevaccb81ag5c2)
+14. **[MOLE: Detecting Insider Threats in AI Agents](https://arxiv.org/abs/2609.06966v1)**  
+   提出 MOLE 基准，评测监控器对 AI 智能体内部威胁的检出能力 · Aashiq Muhamed, Virginia Smith · arXiv 2609.06966 · 2026-09-07 · [解读](https://aisafetyhot.com/items/fk8gq4fl2ur67a37tjuiqoegl)
+15. **[Trust Me, Import This: Dependency Steering Attacks via Malicious Agent Skills](https://arxiv.org/abs/2605.09594v1)**  
+   研究人员提出 Dependency Steering 攻击范式：恶意 Skill 作为持久化指令工件，在良性编码任务中诱导 LLM 编码 Agent 导入、推荐或安装攻击者控制的包，无需改动模型权重、训练数据或用户提示词。 · Yiyong Liu … Chia-Mu Yu · arXiv 2605.09594 · 2026-05-10 · [解读](https://aisafetyhot.com/items/s30r7y9eeteufk2a6yxehlt6n)
+16. **[BadDLM: Backdooring Diffusion Language Models with Diverse Targets](https://arxiv.org/abs/2605.09397v1)**  
+   研究者提出 BadDLM，一个针对扩散语言模型的后门攻击框架，可在概念注入、语义属性引导、对齐绕过和代码载荷注入等不同目标上植入后门。 · Shengfang Zhai … Jiaheng Zhang · arXiv 2605.09397 · 2026-05-10 · [解读](https://aisafetyhot.com/items/onf0jz594k4092cf35yksag9f)
+17. **[The Authorization-Execution Gap Is a Major Safety and Security Problem in Open-World Agents](https://arxiv.org/abs/2605.11003v1)**  
+   一篇立场论文主张，授权与执行偏差（AEG）是开放世界智能体的重大安全问题，即委托方意图授权的内容与智能体最终执行的内容之间的偏差。 · Baoyuan Wu … Siwei Lyu · arXiv 2605.11003 · 2026-05-10 · [解读](https://aisafetyhot.com/items/gq1t5crkre5tkelqg3q2mlnjd)
+18. **["Training robust watermarking model may hurt authentication!'' Exploring and Mitigating the Identity Leakage in Robust Watermarking](https://arxiv.org/abs/2605.09646v1)**  
+   研究者提出兼顾身份保护与鲁棒性的图像水印框架 W-IR，作者称大量实验显示其在保持高认证精度的同时能有效减少身份信息泄露。 · Xinyu Zhang … Kui Ren · arXiv 2605.09646 · 2026-05-10 · [解读](https://aisafetyhot.com/items/sqm129kukyr1pa6ts2d5iy6py)
+19. **[SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards](https://arxiv.org/abs/2611.07482)**  
+   SAVeR² 是一种面向大推理模型（LRM）的安全对齐方法，将安全目标拆解为四类细粒度可验证奖励信号，并用难度感知数据选择稳定训练。 · Yichen Sun … Zhixuan Chu · arXiv 2611.07482 · 2026-11-05 · [解读](https://aisafetyhot.com/items/xqpmsep9x30h9lvbms46zjuqy)
+20. **[Timing is Everything: Inferring Temporal Membership in Continually Updated Models](https://arxiv.org/abs/2611.05781)**  
+   研究者提出针对持续更新深度学习模型的时间成员推断攻击 TMIA，能从黑盒模型输出中推断单个样本是否以及何时参与了训练。 · Jie Fu … Wendy Hui Wang · arXiv 2611.05781 · 2026-11-04 · [解读](https://aisafetyhot.com/items/ciiysctfwyskoj46j3o59zyvx)
+21. **[Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI](https://arxiv.org/abs/2611.07048)**  
+   Andrew W. Lo 与 Chaoyi Zhao 提出一个理论框架，比较环境变化后达尔文式、拉马克式与智能体主导三种进化机制，三者分别依赖自然选择、加入可遗传学习、由智能体生成并评估行为变体并自行决定搜索力度。 · Andrew W. Lo, Chaoyi Zhao · arXiv 2611.07048 · 2026-11-04 · [解读](https://aisafetyhot.com/items/fddq756146jzekng9wt22jmcv)
+22. **[Adversarial Speculative Reasoning Improves Long Horizon Agents](https://huggingface.co/papers/2611.05345)**  
+   对抗性投机推理提升长程智能体 · Hongyin Luo … Jack O'Brien · arXiv 2611.05345 · 2026-11-03 · [解读](https://aisafetyhot.com/items/ufy1zelvrq1p7yfxnq7urdp11)
+23. **[Forget What Comes Next: LLM Unlearning via Statistical Independence](https://arxiv.org/abs/2611.03955)**  
+   研究者提出 PINT，一种基于统计独立性的 LLM 机器遗忘算法，利用 HSIC（Hilbert-Schmidt Independence Criterion）降低待遗忘 token 与用于预测它们的内部表示之间的统计依赖。 · Andrii Shkabrii … Martin Pawelczyk · arXiv 2611.03955 · 2026-11-02 · [解读](https://aisafetyhot.com/items/wxkxbpao0pbq6fx7efn2rx2ln)
+24. **["Blind Compliance": Coercive Control in AI Jailbreaking](https://arxiv.org/abs/2611.08226)**  
+   研究者借鉴人际暴力研究提出理解 AI 越狱的“强制性控制”框架，将分析焦点从模型输出转向用户与模型的互动。 · Acacia L. Ackles, Elliott Whitson · arXiv 2611.08226 · 2026-11-05 · [解读](https://aisafetyhot.com/items/ip1c2ay8m1jk3l47y9k7zo35y)
+25. **[JailBound: FOL-Guided Jailbreak Evaluation for Exploring LLM Behavioral Boundaries](https://arxiv.org/abs/2611.07530)**  
+   JailBound：FOL 引导的越狱评测，探索大语言模型行为边界 · Fazong Wu … Xiaoming Wu · arXiv 2611.07530 · 2026-11-05 · [解读](https://aisafetyhot.com/items/dow2xicxfh4f53o6qwyfmjbqm)
+26. **[A Gingerbread House for LLM Agents: Source-Planned Honeypots That Lure Autonomous Attackers into an Isolated Shadow](https://arxiv.org/abs/2611.07611)**  
+   研究者提出一种针对自主攻击智能体的蜜罐防御方案，由 LLM 防御方根据应用源码规划静态蜜罐，路由器把被确认为攻击者的客户端的后续请求连同可用的漏洞利用一起转发到隔离的影子副本。 · Seungdeok Roh … Daeseon Choi · arXiv 2611.07611 · 2026-11-05 · [解读](https://aisafetyhot.com/items/r01bovpoyr98y0cwmovbf57i2)
+27. **[Route Before Response: Fail-Closed Routing for LLM-Enabled Customer-Service Software](https://arxiv.org/abs/2611.07534)**  
+   研究者提出 RouteBR，一种面向金融机构 LLM 客服软件的响应前路由控制器：模型调用只提议主服务动作和注册对象，派发前由确定性代码校验标识符与版本化规则，未通过则进入指定的不派发结果，被拦截的主路由不能被低排名候选顶替。 · Yuchen Cao … Jingyu Zhang · arXiv 2611.07534 · 2026-11-05 · [解读](https://aisafetyhot.com/items/kphho5aruyhvx355rf36ojflo)
+28. **[Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks](https://arxiv.org/abs/2611.08281)**  
+   Multimodal-SEA：评测多模态社会工程攻击下的 AI 智能体安全性 · Zhitao He … Yi R Fung · arXiv 2611.08281 · 2026-11-05 · [解读](https://aisafetyhot.com/items/qshv63dqt1vey7d80fu5jmu3w)
+29. **[VIPA: View-Invariant Projector-Based Adversarial Attack](https://arxiv.org/abs/2611.07443)**  
+   VIPA 是一种基于投影仪的视角不变对抗攻击方法，向真实场景投射对抗图案让图像分类器出错，效果不受视角变化影响且对不同分类器均有效。 · Jiyu Han … Bingyao Huang · arXiv 2611.07443 · 2026-11-05 · [解读](https://aisafetyhot.com/items/cdfc3uq4okj2rlu9m88ymtc9h)
+30. **[RLGPA: A Reinforcement Learning-Guided Granularity Planning Attack for Decision-Based Sparse Adversarial Examples](https://arxiv.org/abs/2611.07512)**  
+   研究者提出 RLGPA，一种仅利用受害者模型预测标签、用在线强化学习在硬性查询预算内调度支持缩减执行器及其粒度的决策型稀疏攻击方法。 · Chao Zhou … Fengchuang Xing · arXiv 2611.07512 · 2026-11-05 · [解读](https://aisafetyhot.com/items/k28vbimz0f4t0bjknmqr5w8qb)
 
 [往期每日论文](daily-papers/2026) · [论文库](https://aisafetyhot.com/zh/papers)
 
