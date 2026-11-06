@@ -34,5 +34,23 @@
     "publishedAt": "2026-11-05T17:12:32.000Z",
     "timelineAt": "2026-11-06T05:27:37.788Z",
     "discoveredAt": "2026-11-06T05:27:37.788Z"
+  },
+  {
+    "arxivId": "2611.07216",
+    "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+    "titleZh": "组合式去对齐：审计大型视觉语言模型的安全性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07216",
+      "aisafetyhot": "https://aisafetyhot.com/items/wveop5ub4z6wtcl1or1syu3f5"
+    },
+    "publishedAt": "2026-11-04T23:09:31.000Z",
+    "timelineAt": "2026-11-06T05:41:37.407Z",
+    "discoveredAt": "2026-11-06T05:41:37.407Z"
   }
 ]

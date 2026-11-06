@@ -3,7 +3,7 @@
     "id": "rc2bwdnqejiemc4imqhckmndk",
     "arxivId": "2611.07554",
     "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
-    "titleEn": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
+    "titleEn": "Memory traps: language agents overgeneralize from benign interactions",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,17 +16,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
     "id": "fgvcdgsh346wlofeg2ksa3e0r",
     "arxivId": "2611.08312",
     "title": "Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion",
-    "titleEn": "Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion",
+    "titleEn": "Trilemma: How agents choose between honesty, confidentiality and task completion",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -40,9 +40,32 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "wveop5ub4z6wtcl1or1syu3f5",
+    "arxivId": "2611.07216",
+    "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+    "titleEn": "Compositional un-alignment: Auditing the safety of large vision-language models",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07216",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/wveop5ub4z6wtcl1or1syu3f5"
+    },
+    "publishedAt": "2026-11-04T23:09:31.000Z",
+    "timelineAt": "2026-11-06T05:41:37.407Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
