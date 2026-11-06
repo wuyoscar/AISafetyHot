@@ -1,5 +1,28 @@
 [
   {
+    "id": "g1h22s3th708pyi35uh62rw6v",
+    "arxivId": "2611.07640",
+    "title": "Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks",
+    "titleEn": "Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07640",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/g1h22s3th708pyi35uh62rw6v"
+    },
+    "publishedAt": "2026-11-05T08:25:27.000Z",
+    "timelineAt": "2026-11-06T05:07:35.874Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
     "id": "rc2bwdnqejiemc4imqhckmndk",
     "arxivId": "2611.07554",
     "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
@@ -20,6 +43,29 @@
       "translated": 3,
       "pending": 0,
       "status": "complete"
+    }
+  },
+  {
+    "id": "q60uq5ei49r426je1c274jxkp",
+    "arxivId": "2611.07953",
+    "title": "A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems",
+    "titleEn": "A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07953",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/q60uq5ei49r426je1c274jxkp"
+    },
+    "publishedAt": "2026-11-05T12:49:20.000Z",
+    "timelineAt": "2026-11-06T06:58:36.432Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
     }
   },
   {
@@ -46,26 +92,26 @@
     }
   },
   {
-    "id": "wveop5ub4z6wtcl1or1syu3f5",
-    "arxivId": "2611.07216",
-    "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
-    "titleEn": "Compositional un-alignment: Auditing the safety of large vision-language models",
+    "id": "wk4dxs1u4xcb2gip6bkakndml",
+    "arxivId": "2611.07071",
+    "title": "Shaping & Monitoring Models through their Internal Representations",
+    "titleEn": "Shaping & Monitoring Models through their Internal Representations",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.07216",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/wveop5ub4z6wtcl1or1syu3f5"
+      "paper": "https://arxiv.org/abs/2611.07071",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/wk4dxs1u4xcb2gip6bkakndml"
     },
-    "publishedAt": "2026-11-04T23:09:31.000Z",
-    "timelineAt": "2026-11-06T05:41:37.407Z",
+    "publishedAt": "2026-11-04T19:29:13.000Z",
+    "timelineAt": "2026-11-06T06:57:37.612Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
     }
   }
 ]
