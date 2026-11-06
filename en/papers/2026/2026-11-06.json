@@ -1,0 +1,48 @@
+[
+  {
+    "id": "rc2bwdnqejiemc4imqhckmndk",
+    "arxivId": "2611.07554",
+    "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
+    "titleEn": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07554",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/rc2bwdnqejiemc4imqhckmndk"
+    },
+    "publishedAt": "2026-11-05T07:01:59.000Z",
+    "timelineAt": "2026-11-06T05:27:37.715Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "fgvcdgsh346wlofeg2ksa3e0r",
+    "arxivId": "2611.08312",
+    "title": "Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion",
+    "titleEn": "Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.08312",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/fgvcdgsh346wlofeg2ksa3e0r"
+    },
+    "publishedAt": "2026-11-05T17:12:32.000Z",
+    "timelineAt": "2026-11-06T05:27:37.788Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  }
+]

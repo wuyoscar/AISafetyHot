@@ -1,0 +1,38 @@
+[
+  {
+    "arxivId": "2611.07554",
+    "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
+    "titleZh": "记忆陷阱：语言智能体从良性互动中过度泛化",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07554",
+      "aisafetyhot": "https://aisafetyhot.com/items/rc2bwdnqejiemc4imqhckmndk"
+    },
+    "publishedAt": "2026-11-05T07:01:59.000Z",
+    "timelineAt": "2026-11-06T05:27:37.715Z",
+    "discoveredAt": "2026-11-06T05:27:37.715Z"
+  },
+  {
+    "arxivId": "2611.08312",
+    "title": "Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion",
+    "titleZh": "Trilemma：智能体如何在诚实、保密与任务完成之间做选择",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.08312",
+      "aisafetyhot": "https://aisafetyhot.com/items/fgvcdgsh346wlofeg2ksa3e0r"
+    },
+    "publishedAt": "2026-11-05T17:12:32.000Z",
+    "timelineAt": "2026-11-06T05:27:37.788Z",
+    "discoveredAt": "2026-11-06T05:27:37.788Z"
+  }
+]
