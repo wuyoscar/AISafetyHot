@@ -1,0 +1,20 @@
+[
+  {
+    "arxivId": "2611.07483",
+    "title": "Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs",
+    "titleZh": "签名但不安全：多智能体 LLM 交接中的需求完整性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.07483",
+      "aisafetyhot": "https://aisafetyhot.com/items/obx2tuifk6b4wfangtn1hn77r"
+    },
+    "publishedAt": "2026-11-05T05:43:47.000Z",
+    "timelineAt": "2026-11-06T23:36:29.606Z",
+    "discoveredAt": "2026-11-06T23:36:29.606Z"
+  }
+]
