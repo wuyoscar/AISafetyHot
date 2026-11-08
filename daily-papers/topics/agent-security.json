@@ -1,5 +1,53 @@
 [
   {
+    "id": "vipgdzy1kthne54yhj2vq6zlh",
+    "kind": "arxiv",
+    "title": "AI Safety: Not Optional, Not Later",
+    "titleZh": "论文提出 AI 安全设计保障架构：结合 Scientist AI 模型级监督与系统级控制",
+    "line": "提出结合 Scientist AI 监督与系统级控制的智能体保障架构",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.10630",
+    "date": "2026-09-09",
+    "url": "https://arxiv.org/abs/2609.10630",
+    "site": "https://aisafetyhot.com/items/vipgdzy1kthne54yhj2vq6zlh",
+    "authors": [
+      "Qinghua Lu",
+      "Yoshua Bengio"
+    ],
+    "pushedOn": "2026-11-09"
+  },
+  {
+    "id": "x9uv4026trhf79ft7lw4j0nx9",
+    "kind": "arxiv",
+    "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+    "titleZh": "UC Berkeley 提出 BenchJack，自动审计 10 个 Agent 基准并发现 219 处奖励作弊缺陷",
+    "line": "提出 BENCHJACK，审计 Agent 基准中的奖励作弊缺陷",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2605.12673",
+    "date": "2026-05-12",
+    "url": "https://arxiv.org/abs/2605.12673",
+    "site": "https://aisafetyhot.com/items/x9uv4026trhf79ft7lw4j0nx9",
+    "authors": [
+      "Hao Wang",
+      "Hanchen Li",
+      "Qiuyang Mang",
+      "Alvin Cheung",
+      "Koushik Sen",
+      "Dawn Song"
+    ],
+    "pushedOn": "2026-11-09"
+  },
+  {
     "id": "g46z549c9syyb13pldj2vrmk3",
     "kind": "arxiv",
     "title": "Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment",
