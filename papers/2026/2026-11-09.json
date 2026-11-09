@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.09113",
+    "title": "Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use",
+    "titleZh": "LLM 智能体的授权漂移：评估多步工具使用中的边界遵从",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.09113",
+      "aisafetyhot": "https://aisafetyhot.com/items/l3y74jqxhzsfrr2kwc2sathce"
+    },
+    "publishedAt": "2026-11-06T07:47:25.000Z",
+    "timelineAt": "2026-11-09T05:21:36.245Z",
+    "discoveredAt": "2026-11-09T05:21:36.245Z"
+  },
+  {
     "arxivId": "2611.09348",
     "title": "When Feedback Becomes a Backdoor: Tracing Backdoor Skill Formation in Text-Space Skill Optimization",
     "titleZh": "当反馈成为后门：追踪文本空间技能优化中的后门技能形成",
