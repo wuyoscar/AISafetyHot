@@ -1,0 +1,25 @@
+[
+  {
+    "id": "oxkhqppn33z4r3j958nkgtd1t",
+    "arxivId": "2611.09348",
+    "title": "When Feedback Becomes a Backdoor: Tracing Backdoor Skill Formation in Text-Space Skill Optimization",
+    "titleEn": "When Feedback Becomes a Backdoor: Tracing Backdoor Skill Formation in Text-Space Skill Optimization",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.09348",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/oxkhqppn33z4r3j958nkgtd1t"
+    },
+    "publishedAt": "2026-11-06T11:44:40.000Z",
+    "timelineAt": "2026-11-09T05:57:36.763Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  }
+]
