@@ -1,5 +1,77 @@
 [
   {
+    "id": "l5d96wv8rfonaue4z2stq43s1",
+    "kind": "arxiv",
+    "title": "BenchShield: Formal Model-Backed Instrumentation for Reward Integrity in LLM-Agent Evaluation Infrastructure",
+    "titleZh": "BenchShield：面向 LLM Agent 评测基础设施的奖励完整性形式化插桩",
+    "line": "提出 BenchShield，用形式模型约束 Agent 评测的奖励完整性",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.11028",
+    "date": "2026-09-10",
+    "url": "https://arxiv.org/abs/2609.11028v1",
+    "site": "https://aisafetyhot.com/items/l5d96wv8rfonaue4z2stq43s1",
+    "authors": [
+      "Shenghan Zheng",
+      "Zonglin Di",
+      "Yimin Liu",
+      "Kyoung Whan Choe",
+      "Jiankai Sun",
+      "Heguang Lin",
+      "Penghao Jiang",
+      "Yifeng He",
+      "Xiao Cheng",
+      "Jicheng Wang",
+      "Wenbo Chen",
+      "Alex Yates",
+      "Yinzhe Zhao",
+      "Bingran You",
+      "Yuan Gao",
+      "Ayush Munot",
+      "Shubham Gaur",
+      "Zhe Ye",
+      "Hao Wang",
+      "Xiangyi Li",
+      "Dawn Song",
+      "Christophe Hauser"
+    ],
+    "pushedOn": "2026-11-10"
+  },
+  {
+    "id": "l3y74jqxhzsfrr2kwc2sathce",
+    "kind": "arxiv",
+    "title": "Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use",
+    "titleZh": "LLM 智能体的授权漂移：评估多步工具使用中的边界遵从",
+    "line": "提出授权漂移基准 ADB，评测智能体在无攻击者时自行越权扩大授权边界",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.09113",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.09113",
+    "site": "https://aisafetyhot.com/items/l3y74jqxhzsfrr2kwc2sathce",
+    "authors": [
+      "Chuxue Cao",
+      "Jingru Zeng",
+      "Boqin Yin",
+      "Yujin Zhou",
+      "Yidan Huang",
+      "Sujin Chen",
+      "Jinluan Yang",
+      "Haoran Li",
+      "Yike Guo",
+      "Sirui Han"
+    ],
+    "pushedOn": "2026-11-10"
+  },
+  {
     "id": "vipgdzy1kthne54yhj2vq6zlh",
     "kind": "arxiv",
     "title": "AI Safety: Not Optional, Not Later",

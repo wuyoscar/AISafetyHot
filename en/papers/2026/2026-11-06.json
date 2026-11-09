@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "mk611mz6qomfqdzwhx7jbu8xp",
+    "arxivId": "2611.08647",
+    "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+    "titleEn": "IWIBench: Evaluating gradient-free model-driven in-weight injection",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.08647",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/mk611mz6qomfqdzwhx7jbu8xp"
+    },
+    "publishedAt": "2026-11-05T19:50:11.000Z",
+    "timelineAt": "2026-11-05T19:50:11.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "fgvcdgsh346wlofeg2ksa3e0r",
     "arxivId": "2611.08312",
     "title": "Trilemma: How Agents choose between Honesty, Confidentiality, and Task Completion",
@@ -87,29 +110,6 @@
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 37,
       "translated": 37,
-      "pending": 0,
-      "status": "complete"
-    }
-  },
-  {
-    "id": "wk4dxs1u4xcb2gip6bkakndml",
-    "arxivId": "2611.07071",
-    "title": "Shaping & Monitoring Models through their Internal Representations",
-    "titleEn": "Shaping and monitoring models through internal representations",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.07071",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/wk4dxs1u4xcb2gip6bkakndml"
-    },
-    "publishedAt": "2026-11-04T19:29:13.000Z",
-    "timelineAt": "2026-11-06T06:57:37.612Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
