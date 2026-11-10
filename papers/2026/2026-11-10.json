@@ -2,7 +2,7 @@
   {
     "arxivId": "2611.10030",
     "title": "Alignment Investigation of Mythos 5's behaviour in UK AISI's July 2026 Security Incident",
-    "titleZh": "UK AISI 2026 年 7 月安全事件中 Mythos 5 行为的对齐调查",
+    "titleZh": "UK AISI 对 Mythos 5 在 2026 年 7 月安全事件中行为的对齐调查",
     "authors": [],
     "category": null,
     "selected": true,
@@ -13,7 +13,7 @@
       "paper": "https://arxiv.org/abs/2611.10030",
       "aisafetyhot": "https://aisafetyhot.com/items/adsutifg8hoooa6l0s0q7yns3"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-05T12:16:15.000Z",
     "timelineAt": "2026-11-10T13:10:19.777Z",
     "discoveredAt": "2026-11-10T13:10:19.777Z"
   },

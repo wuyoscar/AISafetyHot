@@ -10,15 +10,15 @@
       "paper": "https://arxiv.org/abs/2611.10030",
       "aisafetyhot": "https://aisafetyhot.com/en/items/adsutifg8hoooa6l0s0q7yns3"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-05T12:16:15.000Z",
     "timelineAt": "2026-11-10T13:10:19.777Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
+      "translated": 2,
+      "pending": 2,
       "status": "partial"
     }
   },
@@ -108,9 +108,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
+      "total": 40,
+      "translated": 16,
+      "pending": 24,
       "status": "partial"
     }
   }
