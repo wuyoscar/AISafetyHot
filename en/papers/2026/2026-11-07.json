@@ -1,5 +1,28 @@
 [
   {
+    "id": "n1cjao2sljef4nya8ftf38mtl",
+    "arxivId": "2611.10404",
+    "title": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
+    "titleEn": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10404",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/n1cjao2sljef4nya8ftf38mtl"
+    },
+    "publishedAt": "2026-11-07T02:29:54.000Z",
+    "timelineAt": "2026-11-07T02:29:54.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "status": "original"
+    }
+  },
+  {
     "id": "obx2tuifk6b4wfangtn1hn77r",
     "arxivId": "2611.07483",
     "title": "Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs",

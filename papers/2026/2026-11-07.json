@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.10404",
+    "title": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
+    "titleZh": "编程还是作弊？对前沿编码 LLM 的调查",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10404",
+      "aisafetyhot": "https://aisafetyhot.com/items/n1cjao2sljef4nya8ftf38mtl"
+    },
+    "publishedAt": "2026-11-07T02:29:54.000Z",
+    "timelineAt": "2026-11-07T02:29:54.000Z",
+    "discoveredAt": "2026-11-10T02:29:29.893Z"
+  },
+  {
     "arxivId": "2611.07483",
     "title": "Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs",
     "titleZh": "签名但不安全：多智能体 LLM 交接中的需求完整性",
