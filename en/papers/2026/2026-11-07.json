@@ -3,7 +3,7 @@
     "id": "n1cjao2sljef4nya8ftf38mtl",
     "arxivId": "2611.10404",
     "title": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
-    "titleEn": "Coding or Cheating? A Survey of Frontier Coding Large Language Models",
+    "titleEn": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 3,
-      "pending": 0,
-      "status": "complete"
+      "total": 11,
+      "translated": 7,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
