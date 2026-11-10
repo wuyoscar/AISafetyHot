@@ -1,5 +1,28 @@
 [
   {
+    "id": "adsutifg8hoooa6l0s0q7yns3",
+    "arxivId": "2611.10030",
+    "title": "Alignment Investigation of Mythos 5's behaviour in UK AISI's July 2026 Security Incident",
+    "titleEn": "Alignment Investigation of Mythos 5's behaviour in UK AISI's July 2026 Security Incident",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10030",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/adsutifg8hoooa6l0s0q7yns3"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-10T13:10:19.777Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
     "id": "f1by932z2h6ftw4ejhkx8sty6",
     "arxivId": "2611.12807",
     "title": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
@@ -62,8 +85,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 13,
+      "total": 39,
+      "translated": 14,
       "pending": 25,
       "status": "partial"
     }
@@ -89,29 +112,6 @@
       "translated": 2,
       "pending": 2,
       "status": "partial"
-    }
-  },
-  {
-    "id": "ol8r5eyvde33yrtzvyrumjhht",
-    "arxivId": "2611.11455",
-    "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
-    "titleEn": "Coding agents propagate vulnerabilities in codebases",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.11455",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/ol8r5eyvde33yrtzvyrumjhht"
-    },
-    "publishedAt": "2026-11-08T15:35:45.000Z",
-    "timelineAt": "2026-11-10T07:19:05.398Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 39,
-      "translated": 39,
-      "pending": 0,
-      "status": "complete"
     }
   }
 ]

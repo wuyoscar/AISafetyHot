@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.10030",
+    "title": "Alignment Investigation of Mythos 5's behaviour in UK AISI's July 2026 Security Incident",
+    "titleZh": "UK AISI 2026 年 7 月安全事件中 Mythos 5 行为的对齐调查",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10030",
+      "aisafetyhot": "https://aisafetyhot.com/items/adsutifg8hoooa6l0s0q7yns3"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-10T13:10:19.777Z",
+    "discoveredAt": "2026-11-10T13:10:19.777Z"
+  },
+  {
     "arxivId": "2611.12807",
     "title": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
     "titleZh": "压制不等于抹除：子空间投影防御 LoRA 后门的机制分析与再激活边界",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-11-06T18:28:50.000Z",
     "timelineAt": "2026-11-10T11:41:24.262Z",
     "discoveredAt": "2026-11-10T11:41:24.262Z"
-  },
-  {
-    "arxivId": "2611.11455",
-    "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
-    "titleZh": "编码智能体在代码库中传播漏洞",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.11455",
-      "aisafetyhot": "https://aisafetyhot.com/items/ol8r5eyvde33yrtzvyrumjhht"
-    },
-    "publishedAt": "2026-11-08T15:35:45.000Z",
-    "timelineAt": "2026-11-10T07:19:05.398Z",
-    "discoveredAt": "2026-11-10T07:19:05.398Z"
   }
 ]
