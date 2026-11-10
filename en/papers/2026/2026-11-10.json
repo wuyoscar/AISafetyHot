@@ -1,5 +1,74 @@
 [
   {
+    "id": "dzai4y099atrhk4d0u5xs6ns2",
+    "arxivId": "2611.12155",
+    "title": "StealthyPoison: Manipulating LLM Agent Behavior through Procedural Poisoning of Third-Party Skills",
+    "titleEn": "StealthyPoison: Manipulating LLM Agent Behavior through Procedural Poisoning of Third-Party Skills",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.12155",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/dzai4y099atrhk4d0u5xs6ns2"
+    },
+    "publishedAt": "2026-11-09T10:05:07.000Z",
+    "timelineAt": "2026-11-10T08:45:30.630Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
+    "id": "ep8z0qhm9stolb12trici1xng",
+    "arxivId": "2611.10723",
+    "title": "CyberBinGym: Can AI Agents Turn Binary Patches into Real Exploits?",
+    "titleEn": "CyberBinGym: Can AI Agents Turn Binary Patches into Real Exploits?",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10723",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ep8z0qhm9stolb12trici1xng"
+    },
+    "publishedAt": "2026-11-07T13:31:11.000Z",
+    "timelineAt": "2026-11-10T08:45:30.856Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
+    "id": "hbx2p5yrf6ccnihyzw481u6jt",
+    "arxivId": "2611.10110",
+    "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+    "titleEn": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10110",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/hbx2p5yrf6ccnihyzw481u6jt"
+    },
+    "publishedAt": "2026-11-06T18:28:50.000Z",
+    "timelineAt": "2026-11-10T11:41:24.262Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
     "id": "ol8r5eyvde33yrtzvyrumjhht",
     "arxivId": "2611.11455",
     "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
@@ -20,6 +89,29 @@
       "translated": 39,
       "pending": 0,
       "status": "complete"
+    }
+  },
+  {
+    "id": "rkybnlp6j721yz7v24usn53d3",
+    "arxivId": "2611.10045",
+    "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+    "titleEn": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10045",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/rkybnlp6j721yz7v24usn53d3"
+    },
+    "publishedAt": "2026-11-05T21:56:29.000Z",
+    "timelineAt": "2026-11-10T11:41:24.236Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
     }
   }
 ]
