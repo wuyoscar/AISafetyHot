@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
     }
   },
   {
@@ -39,10 +39,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "total": 38,
+      "translated": 14,
+      "pending": 24,
+      "status": "partial"
     }
   },
   {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "total": 38,
+      "translated": 13,
+      "pending": 25,
+      "status": "partial"
     }
   },
   {
@@ -86,9 +86,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "translated": 2,
+      "pending": 2,
+      "status": "partial"
     }
   },
   {
