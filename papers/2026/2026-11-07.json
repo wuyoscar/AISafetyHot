@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.10123",
+    "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+    "titleZh": "神经前线无战事：语言模型不报告被注入的痛感状态",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10123",
+      "aisafetyhot": "https://aisafetyhot.com/items/p19wag7uq7yryg0ywsj18zimd"
+    },
+    "publishedAt": "2026-11-06T19:00:07.000Z",
+    "timelineAt": "2026-11-06T19:00:07.000Z",
+    "discoveredAt": "2026-11-10T07:38:37.354Z"
+  },
+  {
     "arxivId": "2611.10404",
     "title": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
     "titleZh": "编码还是作弊？前沿编码大语言模型调查",

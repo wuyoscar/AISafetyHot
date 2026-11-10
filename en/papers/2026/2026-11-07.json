@@ -1,5 +1,28 @@
 [
   {
+    "id": "p19wag7uq7yryg0ywsj18zimd",
+    "arxivId": "2611.10123",
+    "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+    "titleEn": "No war at the neural front: language models do not report injected pain states",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.10123",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/p19wag7uq7yryg0ywsj18zimd"
+    },
+    "publishedAt": "2026-11-06T19:00:07.000Z",
+    "timelineAt": "2026-11-06T19:00:07.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "n1cjao2sljef4nya8ftf38mtl",
     "arxivId": "2611.10404",
     "title": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
