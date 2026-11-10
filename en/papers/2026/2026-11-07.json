@@ -3,7 +3,7 @@
     "id": "p19wag7uq7yryg0ywsj18zimd",
     "arxivId": "2611.10123",
     "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-    "titleEn": "No war at the neural front: language models do not report injected pain states",
+    "titleEn": "No war on the neural front: language models do not report injected pain states",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,8 +16,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 3,
+      "total": 38,
+      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
