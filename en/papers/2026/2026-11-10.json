@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ol8r5eyvde33yrtzvyrumjhht",
+    "arxivId": "2611.11455",
+    "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
+    "titleEn": "Coding agents propagate vulnerabilities in codebases",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.11455",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ol8r5eyvde33yrtzvyrumjhht"
+    },
+    "publishedAt": "2026-11-08T15:35:45.000Z",
+    "timelineAt": "2026-11-10T07:19:05.398Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]

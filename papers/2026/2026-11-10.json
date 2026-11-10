@@ -1,0 +1,20 @@
+[
+  {
+    "arxivId": "2611.11455",
+    "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
+    "titleZh": "编码智能体在代码库中传播漏洞",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.11455",
+      "aisafetyhot": "https://aisafetyhot.com/items/ol8r5eyvde33yrtzvyrumjhht"
+    },
+    "publishedAt": "2026-11-08T15:35:45.000Z",
+    "timelineAt": "2026-11-10T07:19:05.398Z",
+    "discoveredAt": "2026-11-10T07:19:05.398Z"
+  }
+]
