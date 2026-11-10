@@ -1,5 +1,30 @@
 [
   {
+    "id": "icml:2026:o3SFLhXkvX",
+    "kind": "conference",
+    "title": "Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP",
+    "titleZh": "对比频谱校正：面向 CLIP 零样本对抗鲁棒性的测试时防御",
+    "line": "发现对抗样本在渐进频率衰减下特征不一致，提出测试时防御 CSR，在 16 个分类基准上对强 APGD 攻击平均超过 SOTA 18.1%，推理开销适中。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ICML 2026 regular",
+    "date": null,
+    "url": "https://openreview.net/forum?id=o3SFLhXkvX",
+    "site": null,
+    "authors": [
+      "Sen Nie",
+      "Jie Zhang",
+      "Zhuo Wang",
+      "Shiguang Shan",
+      "Xilin CHEN"
+    ],
+    "pushedOn": "2026-11-11"
+  },
+  {
     "id": "icml:2026:097IlaUfQY",
     "kind": "conference",
     "title": "Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking",

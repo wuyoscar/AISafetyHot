@@ -1,5 +1,29 @@
 [
   {
+    "id": "ol8r5eyvde33yrtzvyrumjhht",
+    "kind": "arxiv",
+    "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
+    "titleZh": "编码智能体在代码库中传播漏洞",
+    "line": "评测编程智能体是否会模仿代码库中已有漏洞，在新代码中传播同类漏洞",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.11455",
+    "date": "2026-11-08",
+    "url": "https://arxiv.org/abs/2611.11455v1",
+    "site": "https://aisafetyhot.com/items/ol8r5eyvde33yrtzvyrumjhht",
+    "authors": [
+      "Chenhao Sun",
+      "Niels Mündler-Sasahara",
+      "Mark Vero",
+      "Martin Vechev"
+    ],
+    "pushedOn": "2026-11-11"
+  },
+  {
     "id": "l5d96wv8rfonaue4z2stq43s1",
     "kind": "arxiv",
     "title": "BenchShield: Formal Model-Backed Instrumentation for Reward Integrity in LLM-Agent Evaluation Infrastructure",

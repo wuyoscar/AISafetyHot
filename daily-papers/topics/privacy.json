@@ -1,5 +1,32 @@
 [
   {
+    "id": "icml:2026:48suUeYKdb",
+    "kind": "conference",
+    "title": "SlaClip: Gradient Norm Slacks can be Indicator for Adaptive Clipping in DP-SGD",
+    "titleZh": "SlaClip：梯度范数松弛量可作为 DP-SGD 自适应裁剪的指示信号",
+    "line": "提出 SlaClip，利用标准裁剪产生的松弛信息自适应调整 DP-SGD 裁剪阈值，无需额外隐私查询，在相同隐私预算下优于现有自适应裁剪方法。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "ICML 2026 spotlight",
+    "date": null,
+    "url": "https://openreview.net/forum?id=48suUeYKdb",
+    "site": null,
+    "authors": [
+      "Shuyan Zou",
+      "Shaowei Wang",
+      "Zhanxing Zhu",
+      "Jin Li",
+      "Changyu Dong",
+      "Vladimiro Sassone",
+      "Han Wu"
+    ],
+    "pushedOn": "2026-11-11"
+  },
+  {
     "id": "neurips:2026:KKJDo7EkPM",
     "kind": "conference",
     "title": "FedSOUL: Federated Continual Unlearning via Spectral Orthogonality",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "cy2ew721glyzs94wiolw8bnf5",
+    "kind": "arxiv",
+    "title": "When Experience Becomes a Backdoor: Poisoning Self-Evolving LLM Agents via Failure-Aware Task Optimization",
+    "titleZh": "当经验变成后门：以失败感知的任务优化向自进化 LLM 智能体投毒",
+    "line": "提出 BadEvolve 任务投毒框架，诱使自演化 Agent 把后门写进技能",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2611.10542",
+    "date": "2026-11-07",
+    "url": "https://arxiv.org/abs/2611.10542",
+    "site": "https://aisafetyhot.com/items/cy2ew721glyzs94wiolw8bnf5",
+    "authors": [
+      "Minhua Lin",
+      "Zongyu Wu",
+      "Hanqing Lu",
+      "Xianfeng Tang",
+      "Xiang Zhang",
+      "Qi He",
+      "Suhang Wang"
+    ],
+    "pushedOn": "2026-11-11"
+  },
+  {
     "id": "ipnmbz6zrzwn0ytajr7zgxusj",
     "kind": "arxiv",
     "title": "Adversarial Benchmarks and BenchDoor Attacks: Exploiting Benchmark Incentives for Backdoor Attacks",
