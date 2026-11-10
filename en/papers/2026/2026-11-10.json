@@ -17,8 +17,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 2,
-      "pending": 2,
+      "translated": 3,
+      "pending": 1,
       "status": "partial"
     }
   },
@@ -62,8 +62,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 14,
+      "total": 39,
+      "translated": 15,
       "pending": 24,
       "status": "partial"
     }
