@@ -1,5 +1,28 @@
 [
   {
+    "id": "f1by932z2h6ftw4ejhkx8sty6",
+    "arxivId": "2611.12807",
+    "title": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
+    "titleEn": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.12807",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/f1by932z2h6ftw4ejhkx8sty6"
+    },
+    "publishedAt": "2026-11-09T18:12:40.000Z",
+    "timelineAt": "2026-11-10T12:01:19.168Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
     "id": "dzai4y099atrhk4d0u5xs6ns2",
     "arxivId": "2611.12155",
     "title": "StealthyPoison: Manipulating LLM Agent Behavior through Procedural Poisoning of Third-Party Skills",
@@ -89,29 +112,6 @@
       "translated": 39,
       "pending": 0,
       "status": "complete"
-    }
-  },
-  {
-    "id": "rkybnlp6j721yz7v24usn53d3",
-    "arxivId": "2611.10045",
-    "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-    "titleEn": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.10045",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/rkybnlp6j721yz7v24usn53d3"
-    },
-    "publishedAt": "2026-11-05T21:56:29.000Z",
-    "timelineAt": "2026-11-10T11:41:24.236Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
     }
   }
 ]

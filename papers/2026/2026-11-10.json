@@ -1,8 +1,26 @@
 [
   {
+    "arxivId": "2611.12807",
+    "title": "Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense",
+    "titleZh": "压制不等于抹除：子空间投影防御 LoRA 后门的机制分析与再激活边界",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.12807",
+      "aisafetyhot": "https://aisafetyhot.com/items/f1by932z2h6ftw4ejhkx8sty6"
+    },
+    "publishedAt": "2026-11-09T18:12:40.000Z",
+    "timelineAt": "2026-11-10T12:01:19.168Z",
+    "discoveredAt": "2026-11-10T12:01:19.168Z"
+  },
+  {
     "arxivId": "2611.12155",
     "title": "StealthyPoison: Manipulating LLM Agent Behavior through Procedural Poisoning of Third-Party Skills",
-    "titleZh": "StealthyPoison：通过对第三方技能的流程投毒操纵 LLM 智能体行为",
+    "titleZh": "StealthyPoison：对第三方技能进行程序化投毒以操纵 LLM 智能体行为",
     "authors": [],
     "category": null,
     "selected": true,
@@ -38,7 +56,7 @@
   {
     "arxivId": "2611.10110",
     "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
-    "titleZh": "顺势疗法式学习：稀释被投毒的微调数据反而能强化其效果",
+    "titleZh": "顺势学习（Homeopathic Learning）：稀释被投毒的微调数据反而能强化其效果",
     "authors": [],
     "category": null,
     "selected": true,
@@ -70,23 +88,5 @@
     "publishedAt": "2026-11-08T15:35:45.000Z",
     "timelineAt": "2026-11-10T07:19:05.398Z",
     "discoveredAt": "2026-11-10T07:19:05.398Z"
-  },
-  {
-    "arxivId": "2611.10045",
-    "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-    "titleZh": "别怪偏好对齐：审视大语言模型训练中谄媚的形成",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.10045",
-      "aisafetyhot": "https://aisafetyhot.com/items/rkybnlp6j721yz7v24usn53d3"
-    },
-    "publishedAt": "2026-11-05T21:56:29.000Z",
-    "timelineAt": "2026-11-10T11:41:24.236Z",
-    "discoveredAt": "2026-11-10T11:41:24.236Z"
   }
 ]
