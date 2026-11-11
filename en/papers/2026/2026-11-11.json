@@ -3,7 +3,7 @@
     "id": "i1uhwp6msv6trdr7j4udcj2fu",
     "arxivId": "2611.14488",
     "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-    "titleEn": "Is your robot memory just a clock? Temporal shortcuts in memory-augmented VLA policies",
+    "titleEn": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -12,6 +12,52 @@
     },
     "publishedAt": "2026-11-10T18:47:57.000Z",
     "timelineAt": "2026-11-11T04:46:46.993Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 37,
+      "translated": 14,
+      "pending": 23,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "im7puqff3spiaufbxmt8lqhlq",
+    "arxivId": "2611.13218",
+    "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
+    "titleEn": "Erring in the Same Way: Shared Cross-Prompt Parameters Both Suppress and Amplify Reward Hacking in RLVR",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.13218",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/im7puqff3spiaufbxmt8lqhlq"
+    },
+    "publishedAt": "2026-11-09T20:39:36.000Z",
+    "timelineAt": "2026-11-11T05:42:48.470Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "en2xxe5doqpquzgud0dp8029b",
+    "arxivId": "2611.14210",
+    "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+    "titleEn": "Tree-Ising: repairing language models with bit-level Ising edits",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14210",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/en2xxe5doqpquzgud0dp8029b"
+    },
+    "publishedAt": "2026-11-10T15:32:04.000Z",
+    "timelineAt": "2026-11-11T05:17:47.204Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",

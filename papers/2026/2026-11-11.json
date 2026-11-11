@@ -16,5 +16,41 @@
     "publishedAt": "2026-11-10T18:47:57.000Z",
     "timelineAt": "2026-11-11T04:46:46.993Z",
     "discoveredAt": "2026-11-11T04:46:46.993Z"
+  },
+  {
+    "arxivId": "2611.13218",
+    "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
+    "titleZh": "以同样的方式出错：跨提示参数共享既抑制又放大 RLVR 中的奖励作弊",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.13218",
+      "aisafetyhot": "https://aisafetyhot.com/items/im7puqff3spiaufbxmt8lqhlq"
+    },
+    "publishedAt": "2026-11-09T20:39:36.000Z",
+    "timelineAt": "2026-11-11T05:42:48.470Z",
+    "discoveredAt": "2026-11-11T05:42:48.470Z"
+  },
+  {
+    "arxivId": "2611.14210",
+    "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+    "titleZh": "Tree-Ising：用比特级 Ising 编辑修复语言模型",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14210",
+      "aisafetyhot": "https://aisafetyhot.com/items/en2xxe5doqpquzgud0dp8029b"
+    },
+    "publishedAt": "2026-11-10T15:32:04.000Z",
+    "timelineAt": "2026-11-11T05:17:47.204Z",
+    "discoveredAt": "2026-11-11T05:17:47.204Z"
   }
 ]
