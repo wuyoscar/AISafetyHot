@@ -3,7 +3,7 @@
     "id": "i1uhwp6msv6trdr7j4udcj2fu",
     "arxivId": "2611.14488",
     "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-    "titleEn": "Is a robot's memory just a clock? Temporal shortcuts in memory-augmented VLA policies",
+    "titleEn": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,16 +17,16 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 38,
-      "translated": 38,
-      "pending": 0,
-      "status": "complete"
+      "translated": 37,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
     "id": "im7puqff3spiaufbxmt8lqhlq",
     "arxivId": "2611.13218",
     "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
-    "titleEn": "Erring in the same way: Cross-prompt parameter sharing in RLVR both suppresses and amplifies reward hacking",
+    "titleEn": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -40,16 +40,16 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
     "id": "en2xxe5doqpquzgud0dp8029b",
     "arxivId": "2611.14210",
     "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
-    "titleEn": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+    "titleEn": "Tree-Ising: repairing language models with bit-level Ising edits",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 2,
-      "pending": 2,
-      "status": "partial"
+      "total": 37,
+      "translated": 37,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
