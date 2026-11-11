@@ -1,5 +1,31 @@
 [
   {
+    "id": "iclr:2026:viBAbg9ihM",
+    "kind": "conference",
+    "title": "Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded Outputs",
+    "titleZh": "通过在受防护输出上微调来诱导有害能力",
+    "line": "提出诱导攻击：用邻域良性提示从受防护前沿模型获取输出并微调开源模型，在危险化学品合成领域恢复约 40% 的能力差距，且效果随模型能力和数据量扩展。",
+    "topics": [
+      {
+        "slug": "dangerous-capabilities",
+        "name": "危险能力"
+      }
+    ],
+    "venue": "ICLR 2026 Poster",
+    "date": null,
+    "url": "https://openreview.net/forum?id=viBAbg9ihM",
+    "site": null,
+    "authors": [
+      "Jackson Kaunismaa",
+      "John Hughes",
+      "Christina Q Knight",
+      "Avery Griffin",
+      "Mrinank Sharma",
+      "Erik Jones"
+    ],
+    "pushedOn": "2026-11-12"
+  },
+  {
     "id": "icml:2026:cNCWYrSV5R",
     "kind": "conference",
     "title": "Certifying Capabilities from Finite Tests: When Is It Possible?",
