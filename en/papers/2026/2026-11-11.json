@@ -26,7 +26,7 @@
     "id": "im7puqff3spiaufbxmt8lqhlq",
     "arxivId": "2611.13218",
     "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
-    "titleEn": "Erring in the same way: Cross-prompt parameter sharing in RLVR both suppresses and amplifies reward hacking",
+    "titleEn": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -39,10 +39,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 37,
+      "translated": 14,
+      "pending": 23,
+      "status": "partial"
     }
   },
   {
