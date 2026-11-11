@@ -2,7 +2,7 @@
   {
     "arxivId": "2611.14488",
     "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-    "titleZh": "你的机器人记忆只是一个时钟吗？记忆增强 VLA 策略中的时间捷径",
+    "titleZh": "机器人的记忆只是一个时钟吗？记忆增强 VLA 策略中的时间捷径",
     "authors": [],
     "category": null,
     "selected": true,
@@ -20,7 +20,7 @@
   {
     "arxivId": "2611.13218",
     "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
-    "titleZh": "以同样的方式出错：跨提示参数共享既抑制又放大 RLVR 中的奖励作弊",
+    "titleZh": "以同样的方式出错：跨提示参数共享在 RLVR 中既抑制又放大奖励作弊",
     "authors": [],
     "category": null,
     "selected": true,
