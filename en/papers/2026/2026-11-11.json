@@ -3,23 +3,23 @@
     "id": "i1uhwp6msv6trdr7j4udcj2fu",
     "arxivId": "2611.14488",
     "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-    "titleEn": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+    "titleEn": "Is your robot memory just a clock? Temporal shortcuts in memory-augmented VLA policies",
     "summary": null,
     "quickRead": null,
     "links": {
       "paper": "https://arxiv.org/abs/2611.14488",
       "aisafetyhot": "https://aisafetyhot.com/en/items/i1uhwp6msv6trdr7j4udcj2fu"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-10T18:47:57.000Z",
     "timelineAt": "2026-11-11T04:46:46.993Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
