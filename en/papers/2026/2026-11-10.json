@@ -17,8 +17,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 38,
-      "translated": 15,
-      "pending": 23,
+      "translated": 16,
+      "pending": 22,
       "status": "partial"
     }
   },
@@ -40,8 +40,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 39,
-      "translated": 14,
-      "pending": 25,
+      "translated": 16,
+      "pending": 23,
       "status": "partial"
     }
   },
@@ -49,7 +49,7 @@
     "id": "dzai4y099atrhk4d0u5xs6ns2",
     "arxivId": "2611.12155",
     "title": "StealthyPoison: Manipulating LLM Agent Behavior through Procedural Poisoning of Third-Party Skills",
-    "titleEn": "StealthyPoison: Manipulating LLM Agent Behavior through Procedural Poisoning of Third-Party Skills",
+    "titleEn": "StealthyPoison: programmatic poisoning of third-party skills to manipulate LLM agent behavior",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -63,16 +63,16 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 39,
-      "translated": 15,
-      "pending": 24,
-      "status": "partial"
+      "translated": 39,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
     "id": "ep8z0qhm9stolb12trici1xng",
     "arxivId": "2611.10723",
     "title": "CyberBinGym: Can AI Agents Turn Binary Patches into Real Exploits?",
-    "titleEn": "CyberBinGym: Can AI Agents Turn Binary Patches into Real Exploits?",
+    "titleEn": "CyberBinGym: can AI agents turn binary patches into real vulnerability exploits?",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -86,9 +86,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 39,
-      "translated": 16,
-      "pending": 23,
-      "status": "partial"
+      "translated": 39,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -109,8 +109,8 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 40,
-      "translated": 17,
-      "pending": 23,
+      "translated": 18,
+      "pending": 22,
       "status": "partial"
     }
   }
