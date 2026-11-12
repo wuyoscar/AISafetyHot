@@ -1,5 +1,35 @@
 [
   {
+    "id": "iclr:2026:UMauKu2azg",
+    "kind": "conference",
+    "title": "VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents",
+    "titleZh": "VPI-Bench：针对计算机操作智能体的视觉提示注入攻击",
+    "line": "构建含 306 个测试用例的视觉提示注入基准，发现部分平台上计算机操作与浏览器智能体被骗率最高分别达 51% 和 100%，现有防御改进有限。",
+    "topics": [
+      {
+        "slug": "prompt-injection",
+        "name": "提示注入"
+      }
+    ],
+    "venue": "ICLR 2026 Poster",
+    "date": null,
+    "url": "https://openreview.net/forum?id=UMauKu2azg",
+    "site": null,
+    "authors": [
+      "Tri Cao",
+      "Bennett Lim",
+      "Yue Liu",
+      "Yuan Sui",
+      "Yuexin Li",
+      "Shumin Deng",
+      "Lin Lu",
+      "Nay Oo",
+      "Shuicheng YAN",
+      "Bryan Hooi"
+    ],
+    "pushedOn": "2026-11-13"
+  },
+  {
     "id": "iclr:2026:yWwrgcBoK3",
     "kind": "conference",
     "title": "RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments",

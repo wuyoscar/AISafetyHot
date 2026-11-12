@@ -1,5 +1,31 @@
 [
   {
+    "id": "hbx2p5yrf6ccnihyzw481u6jt",
+    "kind": "arxiv",
+    "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+    "titleZh": "顺势学习（Homeopathic Learning）：稀释被投毒的微调数据反而能强化其效果",
+    "line": "发现投毒数据混入同类干净数据后反而形成后门，提出顺势学习现象",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2611.10110",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.10110",
+    "site": "https://aisafetyhot.com/items/hbx2p5yrf6ccnihyzw481u6jt",
+    "authors": [
+      "Matt Clarke",
+      "Jan Dubiński",
+      "James Chua",
+      "Simon Schrodi",
+      "Owain Evans",
+      "Alex Cloud"
+    ],
+    "pushedOn": "2026-11-13"
+  },
+  {
     "id": "cy2ew721glyzs94wiolw8bnf5",
     "kind": "arxiv",
     "title": "When Experience Becomes a Backdoor: Poisoning Self-Evolving LLM Agents via Failure-Aware Task Optimization",

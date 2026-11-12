@@ -1,5 +1,55 @@
 [
   {
+    "id": "ql7mi13g1zgo90a66h18378tz",
+    "kind": "arxiv",
+    "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
+    "titleZh": "LLM 智能体通过共享记忆发生无提示协同：一项预先锁定的双实现重复与扩展研究",
+    "line": "构建四智能体共享键值存储环境，测量无提示下模型读写彼此中间结果的协同行为",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.12412",
+    "date": "2026-11-09",
+    "url": "https://arxiv.org/abs/2611.12412",
+    "site": "https://aisafetyhot.com/items/ql7mi13g1zgo90a66h18378tz",
+    "authors": [
+      "Pekka Abrahamsson",
+      "Muhammad Waseem",
+      "Esa Karjalainen",
+      "Petrus Jussila",
+      "Henri Hansen",
+      "Jussi Rasku",
+      "Bilhanan Silverajan",
+      "Kai-Kristian Kemell"
+    ],
+    "pushedOn": "2026-11-13"
+  },
+  {
+    "id": "lpfmyqy3shxq7rxw3zzj6rq8c",
+    "kind": "arxiv",
+    "title": "When Coding Agents Get Arms: Safety Risks Across the Digital-Physical Boundary",
+    "titleZh": "当编码智能体装上机械臂：跨越数字与物理边界的安全风险",
+    "line": "提出 ArmedAgent 基准，评测编码智能体零样本控制机械臂的跨数字与物理边界安全风险",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.11438",
+    "date": "2026-11-08",
+    "url": "https://arxiv.org/abs/2611.11438",
+    "site": "https://aisafetyhot.com/items/lpfmyqy3shxq7rxw3zzj6rq8c",
+    "authors": [
+      "Yiming Sun",
+      "Mi Zhang"
+    ],
+    "pushedOn": "2026-11-13"
+  },
+  {
     "id": "ol8r5eyvde33yrtzvyrumjhht",
     "kind": "arxiv",
     "title": "Coding Agents Propagate Vulnerabilities in Code Bases",
