@@ -62,8 +62,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 39,
-      "translated": 39,
+      "total": 40,
+      "translated": 40,
       "pending": 0,
       "status": "complete"
     }
@@ -108,8 +108,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 40,
-      "translated": 40,
+      "total": 46,
+      "translated": 46,
       "pending": 0,
       "status": "complete"
     }
