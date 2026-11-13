@@ -11,7 +11,7 @@ This repository publishes AI Safety HOT content exports. It contains no applicat
 - `status.json`: synchronization metadata, daily counts, item IDs, and hashes.
 - `docs/agent.md`: the single MCP connection guide; `docs/mcp-examples.md`: usage examples.
 - `skills/*/SKILL.md`: the agent skills (all backed by the MCP server); `.claude-plugin/` and `.mcp.json`: the Claude Code plugin and marketplace.
-- `assets/`: branding and support images; `.github/`: issue routing and funding configuration.
+- `assets/`: branding and site images; `.github/`: issue routing.
 
 ## Build, Test, and Development Commands
 

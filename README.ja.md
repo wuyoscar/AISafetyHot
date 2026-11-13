@@ -211,10 +211,8 @@ curl -s https://aisafetyhot.com/api/mcp -H 'content-type: application/json' -H '
 | [papers](papers) | 日付別の論文データ（Markdown・JSON・BibTeX） |
 | [archive](archive) | 年別索引 |
 
-## フィードバックと支援
+## フィードバック
 
 要約と解説の作成には AI を利用しています。重要な主張は原文でも確認してください。誤りの報告や資料の推薦は[掲示板](https://aisafetyhot.com/en/board)へ。
 
-役に立ったら、また見つけられるよう **Star** を。よろしければ[作者にコーヒーを](https://buymeacoffee.com/wuyoscar)。
-
-<img src="assets/wechat-pay.png" width="160" alt="WeChat 支援 QR コード">
+役に立ったら、また見つけられるよう **Star** を。

@@ -211,10 +211,8 @@ curl -s https://aisafetyhot.com/api/mcp -H 'content-type: application/json' -H '
 | [papers](papers) | Paper exports by date in Markdown, JSON and BibTeX |
 | [archive](archive) | Yearly indexes |
 
-## Feedback and support
+## Feedback
 
 Summaries and readings are prepared with AI assistance. Refer to the original sources for key claims. Report an error or suggest material on the [board](https://aisafetyhot.com/en/board).
 
-If you find this useful, **Star** the repo to find it again, or [buy the author a coffee](https://buymeacoffee.com/wuyoscar).
-
-<img src="assets/wechat-pay.png" width="160" alt="WeChat support QR code">
+If you find this useful, **Star** the repo to find it again.
