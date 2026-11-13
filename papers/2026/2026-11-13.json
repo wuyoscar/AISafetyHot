@@ -18,9 +18,9 @@
     "discoveredAt": "2026-11-13T08:25:40.570Z"
   },
   {
-    "arxivId": "2611.14996",
-    "title": "Breaking Bad: \"Going Badly\" Activations Drive Reward Hacking",
-    "titleZh": "Breaking Bad：“任务恶化”激活驱动奖励作弊",
+    "arxivId": "2611.16369",
+    "title": "Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function",
+    "titleZh": "Bait：通过探测奖励函数缓解有害的智能体强化学习",
     "authors": [],
     "category": null,
     "selected": true,
@@ -28,17 +28,17 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.14996",
-      "aisafetyhot": "https://aisafetyhot.com/items/pduj2jaulnofznfh2sb1am1l8"
+      "paper": "https://arxiv.org/abs/2611.16369",
+      "aisafetyhot": "https://aisafetyhot.com/items/xu6qnc6byk6xacjo50dx13ad6"
     },
-    "publishedAt": "2026-11-11T03:49:11.000Z",
-    "timelineAt": "2026-11-13T08:23:41.542Z",
-    "discoveredAt": "2026-11-13T08:23:41.542Z"
+    "publishedAt": "2026-11-12T06:34:34.000Z",
+    "timelineAt": "2026-11-13T08:03:40.474Z",
+    "discoveredAt": "2026-11-13T08:03:40.474Z"
   },
   {
-    "arxivId": "2611.16722",
-    "title": "Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks",
-    "titleZh": "当心准确性与认可的落差：用户如何在日常任务中评价谄媚的 AI",
+    "arxivId": "2611.14978",
+    "title": "Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter",
+    "titleZh": "在真实世界量化部署中劫持可信 LLM 只需一个伪装的适配器",
     "authors": [],
     "category": null,
     "selected": true,
@@ -46,11 +46,47 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.16722",
-      "aisafetyhot": "https://aisafetyhot.com/items/mpwkw3oiddhmbio26dqckifgg"
+      "paper": "https://arxiv.org/abs/2611.14978",
+      "aisafetyhot": "https://aisafetyhot.com/items/vqqorxzt5ywq3xyqjvqa7a6rb"
     },
-    "publishedAt": "2026-11-12T12:35:03.000Z",
-    "timelineAt": "2026-11-13T08:23:41.650Z",
-    "discoveredAt": "2026-11-13T08:23:41.650Z"
+    "publishedAt": "2026-11-11T03:37:09.000Z",
+    "timelineAt": "2026-11-13T08:03:40.534Z",
+    "discoveredAt": "2026-11-13T08:03:40.534Z"
+  },
+  {
+    "arxivId": "2611.16048",
+    "title": "Privacy Leakage from Recurrent State in LLM Inference",
+    "titleZh": "LLM 推理中来自循环状态的隐私泄露",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.16048",
+      "aisafetyhot": "https://aisafetyhot.com/items/vso7udti125j7xanlb3f5jakt"
+    },
+    "publishedAt": "2026-11-11T21:57:21.000Z",
+    "timelineAt": "2026-11-13T08:03:40.495Z",
+    "discoveredAt": "2026-11-13T08:03:40.495Z"
+  },
+  {
+    "arxivId": "2611.14864",
+    "title": "When Safety Becomes an Attack Surface: Manipulating Abstention in Tool-Using AI Agents",
+    "titleZh": "当安全成为攻击面：操纵使用工具的 AI 智能体的弃答行为",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14864",
+      "aisafetyhot": "https://aisafetyhot.com/items/ekuj0g18yiad76q4huenf8t9i"
+    },
+    "publishedAt": "2026-11-11T00:36:25.000Z",
+    "timelineAt": "2026-11-13T08:03:40.543Z",
+    "discoveredAt": "2026-11-13T08:03:40.543Z"
   }
 ]
