@@ -1,0 +1,56 @@
+[
+  {
+    "arxivId": "2611.14950",
+    "title": "Stress-Testing Sandbagging Detection Under Adaptive Attack",
+    "titleZh": "自适应攻击下对故意藏拙（Sandbagging）检测的压力测试",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14950",
+      "aisafetyhot": "https://aisafetyhot.com/items/s1bwsf259jer7cf71xwqblx1s"
+    },
+    "publishedAt": "2026-11-11T02:56:09.000Z",
+    "timelineAt": "2026-11-13T08:25:40.570Z",
+    "discoveredAt": "2026-11-13T08:25:40.570Z"
+  },
+  {
+    "arxivId": "2611.14996",
+    "title": "Breaking Bad: \"Going Badly\" Activations Drive Reward Hacking",
+    "titleZh": "Breaking Bad：“任务恶化”激活驱动奖励作弊",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14996",
+      "aisafetyhot": "https://aisafetyhot.com/items/pduj2jaulnofznfh2sb1am1l8"
+    },
+    "publishedAt": "2026-11-11T03:49:11.000Z",
+    "timelineAt": "2026-11-13T08:23:41.542Z",
+    "discoveredAt": "2026-11-13T08:23:41.542Z"
+  },
+  {
+    "arxivId": "2611.16722",
+    "title": "Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks",
+    "titleZh": "当心准确性与认可的落差：用户如何在日常任务中评价谄媚的 AI",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.16722",
+      "aisafetyhot": "https://aisafetyhot.com/items/mpwkw3oiddhmbio26dqckifgg"
+    },
+    "publishedAt": "2026-11-12T12:35:03.000Z",
+    "timelineAt": "2026-11-13T08:23:41.650Z",
+    "discoveredAt": "2026-11-13T08:23:41.650Z"
+  }
+]

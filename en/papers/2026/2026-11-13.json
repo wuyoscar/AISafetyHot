@@ -1,0 +1,71 @@
+[
+  {
+    "id": "s1bwsf259jer7cf71xwqblx1s",
+    "arxivId": "2611.14950",
+    "title": "Stress-Testing Sandbagging Detection Under Adaptive Attack",
+    "titleEn": "Stress-testing sandbagging detection under adaptive attacks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14950",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/s1bwsf259jer7cf71xwqblx1s"
+    },
+    "publishedAt": "2026-11-11T02:56:09.000Z",
+    "timelineAt": "2026-11-13T08:25:40.570Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "pduj2jaulnofznfh2sb1am1l8",
+    "arxivId": "2611.14996",
+    "title": "Breaking Bad: \"Going Badly\" Activations Drive Reward Hacking",
+    "titleEn": "Breaking Bad: \"Going Badly\" Activations Drive Reward Hacking",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.14996",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/pduj2jaulnofznfh2sb1am1l8"
+    },
+    "publishedAt": "2026-11-11T03:49:11.000Z",
+    "timelineAt": "2026-11-13T08:23:41.542Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "mpwkw3oiddhmbio26dqckifgg",
+    "arxivId": "2611.16722",
+    "title": "Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks",
+    "titleEn": "Mind the accuracy-approval gap: how users evaluate sycophantic AI in everyday tasks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.16722",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/mpwkw3oiddhmbio26dqckifgg"
+    },
+    "publishedAt": "2026-11-12T12:35:03.000Z",
+    "timelineAt": "2026-11-13T08:23:41.650Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
