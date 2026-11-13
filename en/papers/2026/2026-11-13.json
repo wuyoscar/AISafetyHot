@@ -1,5 +1,28 @@
 [
   {
+    "id": "wxv5d5n9fv0lu0spagzitnqap",
+    "arxivId": "2611.15102",
+    "title": "One Fabrication Is Enough: A Fake News Article Changes the Forecasts of LLM Forecasting Systems",
+    "titleEn": "One fabrication is enough: a single fake news article changes the predictions of an LLM forecasting system",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.15102",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/wxv5d5n9fv0lu0spagzitnqap"
+    },
+    "publishedAt": "2026-11-11T06:29:13.000Z",
+    "timelineAt": "2026-11-13T08:03:40.525Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "s1bwsf259jer7cf71xwqblx1s",
     "arxivId": "2611.14950",
     "title": "Stress-Testing Sandbagging Detection Under Adaptive Attack",
@@ -26,7 +49,7 @@
     "id": "xu6qnc6byk6xacjo50dx13ad6",
     "arxivId": "2611.16369",
     "title": "Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function",
-    "titleEn": "Bait: Mitigating harmful agentic reinforcement learning by probing the reward function",
+    "titleEn": "Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -35,6 +58,29 @@
     },
     "publishedAt": "2026-11-12T06:34:34.000Z",
     "timelineAt": "2026-11-13T08:03:40.474Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "tq0najoxw4wwosiduzl0kmtcn",
+    "arxivId": "2611.15118",
+    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "titleEn": "Lazarus, come forth: reprogramming dormant neurons to implant backdoors in AI agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.15118",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/tq0najoxw4wwosiduzl0kmtcn"
+    },
+    "publishedAt": "2026-11-11T06:53:24.000Z",
+    "timelineAt": "2026-11-13T08:03:40.518Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
@@ -63,55 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 2,
-      "pending": 2,
+      "translated": 3,
+      "pending": 1,
       "status": "partial"
-    }
-  },
-  {
-    "id": "vso7udti125j7xanlb3f5jakt",
-    "arxivId": "2611.16048",
-    "title": "Privacy Leakage from Recurrent State in LLM Inference",
-    "titleEn": "Privacy Leakage from Recurrent State in LLM Inference",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.16048",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/vso7udti125j7xanlb3f5jakt"
-    },
-    "publishedAt": "2026-11-11T21:57:21.000Z",
-    "timelineAt": "2026-11-13T08:03:40.495Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
-    }
-  },
-  {
-    "id": "ekuj0g18yiad76q4huenf8t9i",
-    "arxivId": "2611.14864",
-    "title": "When Safety Becomes an Attack Surface: Manipulating Abstention in Tool-Using AI Agents",
-    "titleEn": "When Safety Becomes an Attack Surface: Manipulating Abstention in Tool-Using AI Agents",
-    "summary": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.14864",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/ekuj0g18yiad76q4huenf8t9i"
-    },
-    "publishedAt": "2026-11-11T00:36:25.000Z",
-    "timelineAt": "2026-11-13T08:03:40.543Z",
-    "translation": {
-      "locale": "en",
-      "scope": "editorial_prose",
-      "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
     }
   }
 ]

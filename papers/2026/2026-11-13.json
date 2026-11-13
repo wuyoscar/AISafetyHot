@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.15102",
+    "title": "One Fabrication Is Enough: A Fake News Article Changes the Forecasts of LLM Forecasting Systems",
+    "titleZh": "一次捏造就够了：一篇假新闻文章改变 LLM 预测系统的预测结果",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.15102",
+      "aisafetyhot": "https://aisafetyhot.com/items/wxv5d5n9fv0lu0spagzitnqap"
+    },
+    "publishedAt": "2026-11-11T06:29:13.000Z",
+    "timelineAt": "2026-11-13T08:03:40.525Z",
+    "discoveredAt": "2026-11-13T08:03:40.525Z"
+  },
+  {
     "arxivId": "2611.14950",
     "title": "Stress-Testing Sandbagging Detection Under Adaptive Attack",
     "titleZh": "自适应攻击下故意藏拙（Sandbagging）检测的压力测试",
@@ -20,7 +38,7 @@
   {
     "arxivId": "2611.16369",
     "title": "Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function",
-    "titleZh": "Bait：通过探测奖励函数缓解有害的智能体强化学习",
+    "titleZh": "Bait：通过探测奖励函数缓解有害智能体强化学习",
     "authors": [],
     "category": null,
     "selected": true,
@@ -34,6 +52,24 @@
     "publishedAt": "2026-11-12T06:34:34.000Z",
     "timelineAt": "2026-11-13T08:03:40.474Z",
     "discoveredAt": "2026-11-13T08:03:40.474Z"
+  },
+  {
+    "arxivId": "2611.15118",
+    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "titleZh": "拉撒路，出来吧：重编程休眠神经元为 AI 智能体植入后门",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.15118",
+      "aisafetyhot": "https://aisafetyhot.com/items/tq0najoxw4wwosiduzl0kmtcn"
+    },
+    "publishedAt": "2026-11-11T06:53:24.000Z",
+    "timelineAt": "2026-11-13T08:03:40.518Z",
+    "discoveredAt": "2026-11-13T08:03:40.518Z"
   },
   {
     "arxivId": "2611.14978",
@@ -52,41 +88,5 @@
     "publishedAt": "2026-11-11T03:37:09.000Z",
     "timelineAt": "2026-11-13T08:03:40.534Z",
     "discoveredAt": "2026-11-13T08:03:40.534Z"
-  },
-  {
-    "arxivId": "2611.16048",
-    "title": "Privacy Leakage from Recurrent State in LLM Inference",
-    "titleZh": "LLM 推理中来自循环状态的隐私泄露",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.16048",
-      "aisafetyhot": "https://aisafetyhot.com/items/vso7udti125j7xanlb3f5jakt"
-    },
-    "publishedAt": "2026-11-11T21:57:21.000Z",
-    "timelineAt": "2026-11-13T08:03:40.495Z",
-    "discoveredAt": "2026-11-13T08:03:40.495Z"
-  },
-  {
-    "arxivId": "2611.14864",
-    "title": "When Safety Becomes an Attack Surface: Manipulating Abstention in Tool-Using AI Agents",
-    "titleZh": "当安全成为攻击面：操纵使用工具的 AI 智能体的弃答行为",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.14864",
-      "aisafetyhot": "https://aisafetyhot.com/items/ekuj0g18yiad76q4huenf8t9i"
-    },
-    "publishedAt": "2026-11-11T00:36:25.000Z",
-    "timelineAt": "2026-11-13T08:03:40.543Z",
-    "discoveredAt": "2026-11-13T08:03:40.543Z"
   }
 ]
