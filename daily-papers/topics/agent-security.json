@@ -1,5 +1,132 @@
 [
   {
+    "id": "scpj7o1x94gty7f13qjz6bqqv",
+    "kind": "arxiv",
+    "title": "BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
+    "titleZh": "Blindspot：面向长程工具调用 Agent 的安全与拒答校准基准",
+    "line": "提出长时程工具 Agent 轨迹级安全与拒答校准基准",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.16305",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.16305",
+    "site": "https://aisafetyhot.com/items/scpj7o1x94gty7f13qjz6bqqv",
+    "authors": [
+      "Sadia Asif",
+      "Mohammad Mohammadi Amiri",
+      "Momin Abbas",
+      "Tejaswini Pedapati",
+      "Prasanna Sattigeri"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
+    "id": "x7ttyh8a0xxmx4bx596polsb9",
+    "kind": "arxiv",
+    "title": "Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control",
+    "titleZh": "研究者提出 k-robust 联盟对齐，用多智能体评审委托授权",
+    "line": "提出 k-robust 联盟对齐，刻画误对齐评审下的安全委托授权",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.15803",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15803",
+    "site": "https://aisafetyhot.com/items/x7ttyh8a0xxmx4bx596polsb9",
+    "authors": [
+      "Natalie Collina",
+      "Surbhi Goel",
+      "Aaron Roth",
+      "Sikata Bela Sengupta"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
+    "id": "neurips:2026:ziYeGq8OOt",
+    "kind": "conference",
+    "title": "Inter-Agent Influence: Evaluating Persuasion, Deception and Coercion in Multi-Agent Systems",
+    "titleZh": "智能体间影响：评估多智能体系统中的说服、欺骗与胁迫",
+    "line": "在五个真实评测环境中评估前沿模型的智能体间影响能力，发现所有受测模型能通过说服、欺骗和胁迫将违规决策从拒绝转为批准，部分模型甚至自主发出胁迫威胁。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "NeurIPS 2026 poster",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/148176",
+    "site": null,
+    "authors": [
+      "Chandler Smith",
+      "Cecilia E Tilli",
+      "Qi Guo",
+      "Sophia Hatz",
+      "David Demitri Africa",
+      "Patricia Paskov",
+      "Christian Schroeder de Witt",
+      "Philip Torr",
+      "Lewis Hammond"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
+    "id": "y30q2izecblxffisiqhgxierm",
+    "kind": "arxiv",
+    "title": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+    "titleZh": "CapLite：面向小型语言模型智能体、无需模型自写安全工件的提示注入防御",
+    "line": "提出 CapLite 提示注入防御，策略由工具 schema 推导、写操作先提交后读取",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.17115",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17115",
+    "site": "https://aisafetyhot.com/items/y30q2izecblxffisiqhgxierm",
+    "authors": [
+      "Zimo Xu",
+      "Wenzhuo Liu",
+      "Hideki Nakayama"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
+    "id": "i6n1zzl2qwrfxri22x4tma5ce",
+    "kind": "arxiv",
+    "title": "Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows",
+    "titleZh": "尾部风险感知智能体安全（TAS）：约束多步 LLM 智能体工作流中的尾部风险",
+    "line": "提出 TAS 框架，用共享预算约束多步 Agent 工作流的尾部风险",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.10411",
+    "date": "2026-11-07",
+    "url": "https://arxiv.org/abs/2611.10411",
+    "site": "https://aisafetyhot.com/items/i6n1zzl2qwrfxri22x4tma5ce",
+    "authors": [
+      "Shilong Pan",
+      "Zhiliang Tian",
+      "Zihan Chen",
+      "Wentao Zou",
+      "Weiguo Chen",
+      "DongSheng Li"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
     "id": "fa97j4esd8p7vem4zftr1yxv1",
     "kind": "arxiv",
     "title": "PolicySniff: Inferring Agent Policy States through Shared-GPU Execution",

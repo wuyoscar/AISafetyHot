@@ -1,5 +1,34 @@
 [
   {
+    "id": "u0y6zdur82m66vnxykutn757h",
+    "kind": "arxiv",
+    "title": "Babel: Jailbreaking Safety Attention via Obfuscation Distribution Optimized Sampling",
+    "titleZh": "Babel 利用混淆分布采样越狱 LLM 安全注意力",
+    "line": "提出 Babel 混淆分布采样，黑盒越狱闭源 LLM 安全注意力",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2605.17971",
+    "date": "2026-05-18",
+    "url": "https://arxiv.org/abs/2605.17971",
+    "site": "https://aisafetyhot.com/items/u0y6zdur82m66vnxykutn757h",
+    "authors": [
+      "Ziwei Wang",
+      "Jing Chen",
+      "Ruichao Liang",
+      "Zhi Wang",
+      "Yebo Feng",
+      "Ju Jia",
+      "Ruiying Du",
+      "Cong Wu",
+      "Yang Liu"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
     "id": "ap5tbrnbbw61z3duinryi8wbi",
     "kind": "arxiv",
     "title": "Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",

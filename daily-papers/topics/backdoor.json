@@ -1,5 +1,31 @@
 [
   {
+    "id": "vqqorxzt5ywq3xyqjvqa7a6rb",
+    "kind": "arxiv",
+    "title": "Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter",
+    "titleZh": "在真实世界量化部署中劫持可信 LLM 只需一个伪装的适配器",
+    "line": "提出 QHijack-LoRA 攻击，伪装适配器在全精度审计下正常、底座量化后劫持决策",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2611.14978",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.14978",
+    "site": "https://aisafetyhot.com/items/vqqorxzt5ywq3xyqjvqa7a6rb",
+    "authors": [
+      "Jiayang Li",
+      "Tianqing Zhu",
+      "Huan Huo",
+      "Heng Xu",
+      "Shang Wang",
+      "Wanlei Zhou"
+    ],
+    "pushedOn": "2026-11-15"
+  },
+  {
     "id": "tq0najoxw4wwosiduzl0kmtcn",
     "kind": "arxiv",
     "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
