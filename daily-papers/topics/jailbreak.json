@@ -1,5 +1,30 @@
 [
   {
+    "id": "ap5tbrnbbw61z3duinryi8wbi",
+    "kind": "arxiv",
+    "title": "Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",
+    "titleZh": "微软团队提出 capability laundering 攻击：弱模型拆分任务向对齐前沿模型套取能力",
+    "line": "提出能力洗钱攻击，拆分任务向对齐模型套取能力",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2609.15383",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15383v1",
+    "site": "https://aisafetyhot.com/items/ap5tbrnbbw61z3duinryi8wbi",
+    "authors": [
+      "Mark Russinovich",
+      "Blake Bullwinkel",
+      "Giorgio Severi",
+      "Cristian Ovadiuc",
+      "Ahmed Salem"
+    ],
+    "pushedOn": "2026-11-14"
+  },
+  {
     "id": "vzefxwismqfzc9di4ag1uh894",
     "kind": "arxiv",
     "title": "Automatic Red Teaming for Implicit Vulnerabilities of Text-to-Image Models",

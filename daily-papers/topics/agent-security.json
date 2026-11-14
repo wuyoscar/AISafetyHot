@@ -1,5 +1,59 @@
 [
   {
+    "id": "fa97j4esd8p7vem4zftr1yxv1",
+    "kind": "arxiv",
+    "title": "PolicySniff: Inferring Agent Policy States through Shared-GPU Execution",
+    "titleZh": "PolicySniff：通过共享 GPU 执行推断智能体策略状态",
+    "line": null,
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.16158",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16158",
+    "site": "https://aisafetyhot.com/items/fa97j4esd8p7vem4zftr1yxv1",
+    "authors": [
+      "Weimin Fu",
+      "Minghao Shao",
+      "Zeng Wang",
+      "Qiying Li",
+      "Yuntao Liu",
+      "Johann Knechtel",
+      "Ozgur Sinanoglu",
+      "Muhammad Shafique",
+      "Ramesh Karri",
+      "Xiaolong Guo"
+    ],
+    "pushedOn": "2026-11-14"
+  },
+  {
+    "id": "vzqv79bbcwfg5tbyguol8cy28",
+    "kind": "arxiv",
+    "title": "Controlling the Probability of Unknown Unknowns in Pre-Deployment Testing of AI Systems",
+    "titleZh": "控制 AI 系统部署前测试中「未知的未知」的发生概率",
+    "line": "提出预部署测试中未见失败概率的序贯上界方法，有统计保证地决定何时停止测试",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.15835",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15835",
+    "site": "https://aisafetyhot.com/items/vzqv79bbcwfg5tbyguol8cy28",
+    "authors": [
+      "Rachel Li",
+      "Chris Hays",
+      "Aaditya Ramdas",
+      "Manish Raghavan"
+    ],
+    "pushedOn": "2026-11-14"
+  },
+  {
     "id": "ql7mi13g1zgo90a66h18378tz",
     "kind": "arxiv",
     "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",

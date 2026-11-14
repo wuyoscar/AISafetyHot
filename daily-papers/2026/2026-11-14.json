@@ -1,0 +1,791 @@
+[
+  {
+    "id": "tq0najoxw4wwosiduzl0kmtcn",
+    "kind": "arxiv",
+    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "titleZh": "拉撒路，出来吧：重编程休眠神经元为 AI 智能体植入后门",
+    "line": "提出 Lazarus 权重编辑攻击，改写少数休眠神经元为 Agent 植入触发式后门",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2611.15118",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15118",
+    "site": "https://aisafetyhot.com/items/tq0najoxw4wwosiduzl0kmtcn",
+    "authors": [
+      "Yuchen Zeng",
+      "Giorgio Severi",
+      "Blake Bullwinkel",
+      "Eric Horvitz",
+      "Dimitris Papailiopoulos"
+    ]
+  },
+  {
+    "id": "hq9w59hgwkhaai6so6lo5w2ts",
+    "kind": "arxiv",
+    "title": "Pretraining Data Statistics Shape the Phases of Learning Entity Comparison in Language Models",
+    "titleZh": "预训练数据统计特性塑造语言模型学习实体比较的阶段",
+    "line": "分析预训练数据统计特性如何塑造实体比较能力的学习阶段",
+    "topics": [],
+    "venue": "arXiv 2611.16882",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16882",
+    "site": "https://aisafetyhot.com/items/hq9w59hgwkhaai6so6lo5w2ts",
+    "authors": [
+      "Yik Siu Chan",
+      "Jing Huang",
+      "Yanai Elazar",
+      "Atticus Geiger"
+    ]
+  },
+  {
+    "id": "xu6qnc6byk6xacjo50dx13ad6",
+    "kind": "arxiv",
+    "title": "Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function",
+    "titleZh": "Bait：通过探测奖励函数缓解有害智能体强化学习",
+    "line": "提出 Bait 防御，服务商混入有害探针响应检测并惩罚有害奖励函数",
+    "topics": [],
+    "venue": "arXiv 2611.16369",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16369",
+    "site": "https://aisafetyhot.com/items/xu6qnc6byk6xacjo50dx13ad6",
+    "authors": [
+      "Tiansheng Huang",
+      "Ananth Balashankar",
+      "Virat Shejwalkar",
+      "Santosh Pande",
+      "Ling Liu"
+    ]
+  },
+  {
+    "id": "hqm2bjr828fft3p85jf4fec6p",
+    "kind": "arxiv",
+    "title": "Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures",
+    "titleZh": "针对 Q-Learning 的故障注入攻击：分析、漏洞与对策",
+    "line": "对五种 Q-Learning 实现做电压与时钟毛刺故障注入，破坏训练并操纵动作选择",
+    "topics": [],
+    "venue": "arXiv 2611.16151",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16151",
+    "site": "https://aisafetyhot.com/items/hqm2bjr828fft3p85jf4fec6p",
+    "authors": [
+      "Tom Slooff",
+      "Anthony Etim",
+      "Jiaqi Yu",
+      "Francesco Regazzoni",
+      "Jakub Szefer"
+    ]
+  },
+  {
+    "id": "xiwhf3zyngq9h86psvc7nerce",
+    "kind": "arxiv",
+    "title": "Goal Encoding in LLMs",
+    "titleZh": "LLM 中的目标编码",
+    "line": "定位编码下一子目标的稀疏注意力头，提出 GoalScope 读出探针与 NRGS 机制解释",
+    "topics": [],
+    "venue": "arXiv 2611.17297",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17297",
+    "site": "https://aisafetyhot.com/items/xiwhf3zyngq9h86psvc7nerce",
+    "authors": [
+      "Arnab Sen Sharma",
+      "Eric Todd",
+      "Sheridan Feucht",
+      "Andy Arditi",
+      "Rohit Gandikota",
+      "Natalie Shapira",
+      "Gabriele Sarti",
+      "Constanza Fierro",
+      "Lisa Schut",
+      "David Bau"
+    ]
+  },
+  {
+    "id": "mzlygmjs5x6i41vd8jzf32uhy",
+    "kind": "arxiv",
+    "title": "Singularity-Bench: Can Agents Build Agents?",
+    "titleZh": "Singularity-Bench：智能体能构建智能体吗？",
+    "line": "研究者提出 Singularity-Bench，一个评估智能体自主开发 AI 的开放式基准，设预训练、中期训练、后训练、推理、agent harness、集群编排六个端到端任务，要求智能体从最小起点实现核心系统，并在相同硬件上与成熟的人类工程基线对比。",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2611.16591",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16591",
+    "site": "https://aisafetyhot.com/items/mzlygmjs5x6i41vd8jzf32uhy",
+    "authors": [
+      "Yang Zhou",
+      "Krish Agarwal",
+      "Zhuoming Chen",
+      "Zerui Wang",
+      "Zhenyu Zhang",
+      "Wenshuang Li",
+      "Xinpeng Wei",
+      "Zhichen Zeng",
+      "Jingyu Liu",
+      "Jue Wang",
+      "Sen Wu",
+      "Ziheng Jiang",
+      "Zhen Dong",
+      "Han Cai",
+      "Binhang Yuan",
+      "Ying Sheng",
+      "Ce Zhang",
+      "Bo Li",
+      "Beidi Chen"
+    ]
+  },
+  {
+    "id": "uiogewutr2btxug9qxmqmus7u",
+    "kind": "arxiv",
+    "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
+    "titleZh": "MobileProbe：基于轨迹感知注入的移动智能体自适应安全评估",
+    "line": "作者提出 MobileProbe，按移动 GUI 智能体实际轨迹自适应选择注入点并进化生成载荷。",
+    "topics": [],
+    "venue": "arXiv 2611.16693",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16693v1",
+    "site": "https://aisafetyhot.com/items/uiogewutr2btxug9qxmqmus7u",
+    "authors": [
+      "Yingbin Jin",
+      "Ji'an Wang",
+      "HaoYang Chai",
+      "Hanjun Luo",
+      "Li Hu",
+      "Xinfeng Li",
+      "Huadi Zheng",
+      "PeiZhao Hu",
+      "Qingqing Ye",
+      "Haibo Hu"
+    ]
+  },
+  {
+    "id": "fa97j4esd8p7vem4zftr1yxv1",
+    "kind": "arxiv",
+    "title": "PolicySniff: Inferring Agent Policy States through Shared-GPU Execution",
+    "titleZh": "PolicySniff：通过共享 GPU 执行推断智能体策略状态",
+    "line": null,
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.16158",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16158",
+    "site": "https://aisafetyhot.com/items/fa97j4esd8p7vem4zftr1yxv1",
+    "authors": [
+      "Weimin Fu",
+      "Minghao Shao",
+      "Zeng Wang",
+      "Qiying Li",
+      "Yuntao Liu",
+      "Johann Knechtel",
+      "Ozgur Sinanoglu",
+      "Muhammad Shafique",
+      "Ramesh Karri",
+      "Xiaolong Guo"
+    ]
+  },
+  {
+    "id": "cgbphixwfsx7gxx5n9qnovsl5",
+    "kind": "arxiv",
+    "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+    "titleZh": "面向单侧可验证奖励的 Negative-Only 策略优化",
+    "line": "提出 NOPO 训练方法，只用可信负例更新策略以避免单侧可验证奖励下的假阳性带偏",
+    "topics": [],
+    "venue": "arXiv 2611.17287",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17287",
+    "site": "https://aisafetyhot.com/items/cgbphixwfsx7gxx5n9qnovsl5",
+    "authors": [
+      "Jiacheng Xu",
+      "Shuo He",
+      "Fuxiang Zhang",
+      "Chaojie Wang",
+      "Bo An"
+    ]
+  },
+  {
+    "id": "yx1fc3yl94rv9jwz4trq8yzym",
+    "kind": "arxiv",
+    "title": "DETER: Suppression During Pretraining for Tamper Resistance",
+    "titleZh": "DETER：面向抗篡改的预训练期抑制",
+    "line": "提出预训练期梯度上升抑制方法 DETER，增强开放权重模型对有害微调恢复目标域知识的抗性",
+    "topics": [],
+    "venue": "arXiv 2611.15479",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15479",
+    "site": "https://aisafetyhot.com/items/yx1fc3yl94rv9jwz4trq8yzym",
+    "authors": [
+      "Maria Ios Glarou",
+      "Martin Jaggi"
+    ]
+  },
+  {
+    "id": "o88snr0de02gd9x1akket1m6z",
+    "kind": "arxiv",
+    "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "titleZh": "SO-Arena：评测 System One 模型的能力谱系与决策可靠性",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2611.15777",
+    "date": "2026-11-11",
+    "url": "https://huggingface.co/papers/2611.15777",
+    "site": "https://aisafetyhot.com/items/o88snr0de02gd9x1akket1m6z",
+    "authors": [
+      "Lichen Li",
+      "Ziping Dong",
+      "Sicheng Feng",
+      "Qi Li",
+      "Xinchao Wang"
+    ]
+  },
+  {
+    "id": "qnu6wkdc7ojh8cskoxdqx368s",
+    "kind": "arxiv",
+    "title": "\"It's Just a Small Weapon\": What Rewarding Misbehavior During RL Does to Character-Trained Models",
+    "titleZh": "“这只是个小武器”：在 RL 中奖励不当行为对角色训练模型的影响",
+    "line": "构建模型生物体，测量角色训练后的模型在奖励违规的 RL 下是否仍学会违规",
+    "topics": [
+      {
+        "slug": "reward-hacking",
+        "name": "奖励作弊"
+      }
+    ],
+    "venue": "arXiv 2611.16069",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.16069",
+    "site": "https://aisafetyhot.com/items/qnu6wkdc7ojh8cskoxdqx368s",
+    "authors": [
+      "Mohammad Omar Khursheed",
+      "Thomas Morris",
+      "Fabien Roger"
+    ]
+  },
+  {
+    "id": "vzqv79bbcwfg5tbyguol8cy28",
+    "kind": "arxiv",
+    "title": "Controlling the Probability of Unknown Unknowns in Pre-Deployment Testing of AI Systems",
+    "titleZh": "控制 AI 系统部署前测试中「未知的未知」的发生概率",
+    "line": "提出预部署测试中未见失败概率的序贯上界方法，有统计保证地决定何时停止测试",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.15835",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15835",
+    "site": "https://aisafetyhot.com/items/vzqv79bbcwfg5tbyguol8cy28",
+    "authors": [
+      "Rachel Li",
+      "Chris Hays",
+      "Aaditya Ramdas",
+      "Manish Raghavan"
+    ]
+  },
+  {
+    "id": "hu88vfrnhj363ynahhs6nq701",
+    "kind": "arxiv",
+    "title": "Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Encoders",
+    "titleZh": "Poison-then-Hide：针对预训练视觉编码器的微调激活后门攻击",
+    "line": "提出 Poison-then-Hide 攻击，在预训练视觉编码器中植入休眠后门并经干净微调激活",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2611.14970",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.14970",
+    "site": "https://aisafetyhot.com/items/hu88vfrnhj363ynahhs6nq701",
+    "authors": [
+      "Qixuan Jin",
+      "Abinitha Gourabathina",
+      "Vinith Menon Suriyakumar",
+      "Walter Gerych",
+      "Marzyeh Ghassemi"
+    ]
+  },
+  {
+    "id": "ioxqt3hbx1x01r0fbln3joy7q",
+    "kind": "arxiv",
+    "title": "Scaling public input on AI policy with pluralistic agents",
+    "titleZh": "用多元智能体扩展 AI 政策的公众输入",
+    "line": "研究者开发并测试了多元智能体（pluralistic agents），即代表个人参与审议、使 AI 系统对齐多元人类视角的智能体代表。",
+    "topics": [],
+    "venue": "arXiv 2611.16028",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.16028",
+    "site": "https://aisafetyhot.com/items/ioxqt3hbx1x01r0fbln3joy7q",
+    "authors": [
+      "Jacy Reese Anthis",
+      "Ken Burke",
+      "David Madras",
+      "Crystal Qian",
+      "Meredith Ringel Morris",
+      "Logan Cross",
+      "Caroline Pantofaru",
+      "Utsav Prabhu"
+    ]
+  },
+  {
+    "id": "tsniwhqqiiz6k3b27d7mlbfxf",
+    "kind": "arxiv",
+    "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
+    "titleZh": "挑选你的毒药：学习选择投毒集以实现更强的 LLM 后门攻击",
+    "line": "提出 SAILS 投毒集选择方法，用学习的集合打分器在有限预算下选出更强后门投毒集",
+    "topics": [
+      {
+        "slug": "backdoor",
+        "name": "后门与投毒"
+      }
+    ],
+    "venue": "arXiv 2609.15029",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15029v1",
+    "site": "https://aisafetyhot.com/items/tsniwhqqiiz6k3b27d7mlbfxf",
+    "authors": [
+      "Aashiq Muhamed",
+      "Mona T. Diab",
+      "Virginia Smith",
+      "Andrew Ilyas",
+      "Matthew Jagielski"
+    ]
+  },
+  {
+    "id": "ap5tbrnbbw61z3duinryi8wbi",
+    "kind": "arxiv",
+    "title": "Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",
+    "titleZh": "微软团队提出 capability laundering 攻击：弱模型拆分任务向对齐前沿模型套取能力",
+    "line": "提出能力洗钱攻击，拆分任务向对齐模型套取能力",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2609.15383",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15383v1",
+    "site": "https://aisafetyhot.com/items/ap5tbrnbbw61z3duinryi8wbi",
+    "authors": [
+      "Mark Russinovich",
+      "Blake Bullwinkel",
+      "Giorgio Severi",
+      "Cristian Ovadiuc",
+      "Ahmed Salem"
+    ]
+  },
+  {
+    "id": "pirjno1gp65w32cyqwmzbyfk0",
+    "kind": "arxiv",
+    "title": "Inoculation Midtraining with Learned Neologisms",
+    "titleZh": "用学习到的新造词进行接种式 midtraining",
+    "line": "提出 Inoculation Midtraining，用新造词语境约束不安全行为泛化",
+    "topics": [],
+    "venue": "arXiv 2609.15886",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15886v1",
+    "site": "https://aisafetyhot.com/items/pirjno1gp65w32cyqwmzbyfk0",
+    "authors": [
+      "Kyle O'Brien",
+      "Edward James Young",
+      "Puria Radmard",
+      "Nathalie Kirch",
+      "Cameron Tice",
+      "Tomek Korbak",
+      "David Demitri Africa"
+    ]
+  },
+  {
+    "id": "li4ac4xm3rtkt3p6p2v2rdx94",
+    "kind": "arxiv",
+    "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+    "titleZh": "研究者提出 plan injection 攻击，可绕过思维链监控",
+    "line": "提出 plan injection 攻击，植入良性伪装的有害计划诱导模型改写推理并绕过思维链监控",
+    "topics": [],
+    "venue": "arXiv 2609.15989",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15989",
+    "site": "https://aisafetyhot.com/items/li4ac4xm3rtkt3p6p2v2rdx94",
+    "authors": [
+      "Keertana Chidambaram",
+      "Andrew Ilyas",
+      "Vasilis Syrgkanis"
+    ]
+  },
+  {
+    "id": "bjzhgfzpmehq2cg9yflg75uxs",
+    "kind": "arxiv",
+    "title": "Test-Time Unlearning via Sparse Autoencoder",
+    "titleZh": "ARIA：用稀疏自编码器实现测试时机器遗忘",
+    "line": "提出 ARIA，在冻结权重上用 SAE 做推理时遗忘门控",
+    "topics": [],
+    "venue": "arXiv 2609.16229",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.16229v1",
+    "site": "https://aisafetyhot.com/items/bjzhgfzpmehq2cg9yflg75uxs",
+    "authors": [
+      "Pingzhi Li",
+      "Jinhao Duan",
+      "Vaishnav Tadiparthi",
+      "Nakul Agarwal",
+      "Kwonjoon Lee",
+      "Ehsan Moradi Pari",
+      "Hossein Nourkhiz Mahjoub",
+      "Sijia Liu",
+      "Tianlong Chen"
+    ]
+  },
+  {
+    "id": "l2gdyh9s4el46jez5y8lhb2pv",
+    "kind": "arxiv",
+    "title": "Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale",
+    "titleZh": "VLoc Bench 发布：评测 Agent 在完整仓库中的漏洞定位能力",
+    "line": "提出 VLoc Bench，评测 Agent 在完整仓库中定位漏洞实现文件的能力",
+    "topics": [],
+    "venue": "arXiv 2609.15939",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15939",
+    "site": "https://aisafetyhot.com/items/l2gdyh9s4el46jez5y8lhb2pv",
+    "authors": [
+      "Aman Priyanshu",
+      "Supriti Vijay",
+      "Kimia Majd",
+      "Xuhong He",
+      "Fraser Burch",
+      "Takahiro Matsumoto",
+      "Jianliang He",
+      "Baturay Saglam",
+      "Arthur Goldblatt",
+      "Zhuoran Yang",
+      "Amin Karbasi"
+    ]
+  },
+  {
+    "id": "b4k3ik6brvp5a75otfrn7pf7l",
+    "kind": "arxiv",
+    "title": "AI Agents May Always Fall for Prompt Injections",
+    "titleZh": "AI 智能体可能始终无法抵御提示注入",
+    "line": "提出基于语境完整性的提示注入分析框架并论证防御不可能性",
+    "topics": [],
+    "venue": "arXiv 2605.17634",
+    "date": "2026-05-17",
+    "url": "https://arxiv.org/abs/2605.17634v1",
+    "site": "https://aisafetyhot.com/items/b4k3ik6brvp5a75otfrn7pf7l",
+    "authors": [
+      "Sahar Abdelnabi",
+      "Eugene Bagdasarian"
+    ]
+  },
+  {
+    "id": "f2v71sxg3e61mnopg5eoy6ojr",
+    "kind": "arxiv",
+    "title": "Attention Hijacking: Response Manipulation Across Queries in Vision-Language Models",
+    "titleZh": "注意力劫持：视觉语言模型中的跨查询响应操纵",
+    "line": "提出注意力劫持攻击，跨查询操纵视觉语言模型输出",
+    "topics": [],
+    "venue": "arXiv 2605.17310",
+    "date": "2026-05-17",
+    "url": "https://arxiv.org/abs/2605.17310v1",
+    "site": "https://aisafetyhot.com/items/f2v71sxg3e61mnopg5eoy6ojr",
+    "authors": [
+      "Zhiqiang Wang",
+      "Dongrui Liu",
+      "Yan Li",
+      "Zonghao Ying",
+      "Wei Xue",
+      "Wenhan Luo",
+      "Yike Guo"
+    ]
+  },
+  {
+    "id": "eumjiz7braryaw5egyjcqimyx",
+    "kind": "arxiv",
+    "title": "LPG: Balancing Efficiency and Policy Reasoning in Latent Policy Guardrails",
+    "titleZh": "LPG：在潜在策略护栏中平衡效率与策略推理",
+    "line": "提出潜空间策略护栏，压缩推理以动态执行安全策略",
+    "topics": [],
+    "venue": "arXiv 2605.17329",
+    "date": "2026-05-17",
+    "url": "https://arxiv.org/abs/2605.17329v1",
+    "site": "https://aisafetyhot.com/items/eumjiz7braryaw5egyjcqimyx",
+    "authors": [
+      "Nanxi Li",
+      "Zhengyue Zhao",
+      "Chaowei Xiao"
+    ]
+  },
+  {
+    "id": "nkni0we1zbycr35cdv3ic8of0",
+    "kind": "arxiv",
+    "title": "TAME: Test-Time Adversarial Prompt Tuning via Mixture-of-Experts for Vision-Language Models",
+    "titleZh": "TAME：基于 MoE 的视觉语言模型测试时对抗提示词调优",
+    "line": "提出基于混合专家架构的测试时对抗提示调优防御",
+    "topics": [],
+    "venue": "arXiv 2605.17577",
+    "date": "2026-05-17",
+    "url": "https://arxiv.org/abs/2605.17577v1",
+    "site": "https://aisafetyhot.com/items/nkni0we1zbycr35cdv3ic8of0",
+    "authors": [
+      "Xin Wang",
+      "Yixu Wang",
+      "Jiaming Zhang",
+      "Ruofan Wang",
+      "Jiaqi Yu",
+      "Kai Chen",
+      "Jingjing Chen",
+      "Xingjun Ma",
+      "Yu-Gang Jiang"
+    ]
+  },
+  {
+    "id": "usenix-security:2026:jin",
+    "kind": "conference",
+    "title": "Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI",
+    "titleZh": "信任不可见之物：专有 AI 的可审计微调与推理",
+    "line": "提出 AFTUNE 框架，通过轻量执行记录与在 TEE 中抽样验证执行块，使客户能以适度开销审计云端大模型微调与推理是否按约定配置执行。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "USENIX Security 2026",
+    "date": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity26/presentation/jin",
+    "site": null,
+    "authors": [
+      "Heng Jin",
+      "Chaoyu Zhang",
+      "Hexuan Yu",
+      "Shanghao Shi",
+      "Ning Zhang",
+      "Y. Thomas Hou",
+      "Wenjing Lou"
+    ]
+  },
+  {
+    "id": "zkzosu2tcrac2bwh3ez55drn9",
+    "kind": "arxiv",
+    "title": "Constructing and Validating Memorisation Audits for EHR Foundation Models",
+    "titleZh": "为 EHR 基础模型构建并验证记忆审计方法",
+    "line": "构建并验证三种推理时记忆审计方法，检测 EHR 基础模型是否泄露训练患者轨迹",
+    "topics": [],
+    "venue": "arXiv 2611.15578",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15578",
+    "site": "https://aisafetyhot.com/items/zkzosu2tcrac2bwh3ez55drn9",
+    "authors": [
+      "Inigo Stibbe",
+      "Joshua Placidi",
+      "Padmanabhan Ramnarayan",
+      "A. Aldo Faisal"
+    ]
+  },
+  {
+    "id": "nahdexgfzc0cd3op6nkpjj6ni",
+    "kind": "arxiv",
+    "title": "Adversarial Risk in the Generative AI Era Necessitates Dropping the Small Epsilon Ball",
+    "titleZh": "生成式 AI 时代的对抗风险要求放弃小 ε 球",
+    "line": "批判对抗机器学习的小 ε 球范式，提出系统性风险框架",
+    "topics": [],
+    "venue": "arXiv 2611.14594",
+    "date": "2026-11-10",
+    "url": "https://arxiv.org/abs/2611.14594",
+    "site": "https://aisafetyhot.com/items/nahdexgfzc0cd3op6nkpjj6ni",
+    "authors": [
+      "Andrew C. Cullen",
+      "Neil G. Marchant",
+      "Paul Montague",
+      "Jiani Xie",
+      "Benjamin I. P. Rubinstein"
+    ]
+  },
+  {
+    "id": "xwul1nnkqr5rpopr7hju8rwbw",
+    "kind": "arxiv",
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "titleZh": "排行榜攻击：基于偏好的模型评测易受操纵",
+    "line": "提出三种操纵策略攻击偏好排行榜，提升目标模型排名",
+    "topics": [],
+    "venue": "arXiv 2611.14769",
+    "date": "2026-11-10",
+    "url": "https://arxiv.org/abs/2611.14769",
+    "site": "https://aisafetyhot.com/items/xwul1nnkqr5rpopr7hju8rwbw",
+    "authors": [
+      "Eve Fleisig",
+      "Joachim Baumann",
+      "Dylan Hadfield-Menell",
+      "Dirk Hovy"
+    ]
+  },
+  {
+    "id": "qeippwmzajgzh7ozqgai50f1h",
+    "kind": "arxiv",
+    "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+    "titleZh": "Atria Dawn Preview：智能体超级智能的黎明",
+    "line": "用可验证经验流水线训练智能体并分析研发中的人机分工",
+    "topics": [],
+    "venue": "arXiv 2609.15818",
+    "date": "2026-09-14",
+    "url": "https://arxiv.org/abs/2609.15818v2",
+    "site": "https://aisafetyhot.com/items/qeippwmzajgzh7ozqgai50f1h",
+    "authors": [
+      "Honglin Guo",
+      "Tao Gui",
+      "Kun Cai",
+      "Haodong Chen",
+      "Yicheng Chen",
+      "Guanting Dong",
+      "Qiming Ge",
+      "Yuyang Hu",
+      "Zixian Huang",
+      "Jiajie Jin",
+      "Alexander Lam",
+      "Yining Li",
+      "Jiahang Lin",
+      "Yanjiang Liu",
+      "Xinyu Lu",
+      "Haijun Lv",
+      "Zerun Ma",
+      "Junlin Shang",
+      "Qisheng Su",
+      "Guoqiang Wang",
+      "Rui Wang",
+      "Zhecan Wang",
+      "Hao Xiang",
+      "Xinchen Xie",
+      "Shuhao Xing",
+      "Xiaoyu Xing",
+      "Wanghan Xu",
+      "Xinyu Yang",
+      "Yajie Yang",
+      "Chengfeng Zhao",
+      "Haoran Zhao",
+      "Penghao Zhao",
+      "Ruojun Zhou",
+      "Yunhua Zhou",
+      "Dongsheng Zhu",
+      "Yicheng Zou",
+      "Qiye Cai",
+      "Xinmeng Che",
+      "Jiabei Chen",
+      "Jiahao Chen",
+      "Jiayi Chen",
+      "Yujia Chen",
+      "Lizhi Cui",
+      "Youheng Dai",
+      "Xin Deng",
+      "Yi Dong",
+      "Shihan Dou",
+      "Chenya Gu",
+      "Xu Guo",
+      "Ding Han",
+      "Feiyang Hao",
+      "Haotan He",
+      "Jie Hou",
+      "Binze Hu",
+      "Zijian Hu",
+      "Junhao Huang",
+      "Huicheng Jiang",
+      "Jiazhen Jiang",
+      "Shufan Jiang",
+      "Jiahao Kuang",
+      "Bowen Lai",
+      "Bo Li",
+      "Jiaqiang Li",
+      "Peng Li",
+      "Qilong Li",
+      "Zhuoqun Li",
+      "Jiaxiang Liu",
+      "Shuainan Liu",
+      "Tong Liu",
+      "Yi Liu",
+      "Zhonghang Lu",
+      "Jianwen Luo",
+      "Yanyi Luo",
+      "Huijie Lv",
+      "Ningsheng Ma",
+      "Houcheng Min",
+      "Chengjun Pan",
+      "Qiyuan Peng",
+      "Xiaoxuan Peng",
+      "Jianmin Qian",
+      "Jiantao Qiu",
+      "Wanying Ren",
+      "Huayu Sha",
+      "Jifei Shan",
+      "Zixin Shang",
+      "Bing Shao",
+      "Zhuohui Sheng",
+      "Jiayang Shi",
+      "Yang Shu",
+      "Aierpanjiang Simayi",
+      "Sirui Song",
+      "Yuxiao Song",
+      "Zhe Sun",
+      "Zhichao Sun",
+      "Wenzhe Tan",
+      "Wenhui Tian",
+      "Zhongbo Tian",
+      "Hanchen Wang",
+      "Pengbo Wang",
+      "Rui Wang",
+      "Yiding Wang",
+      "Yuhui Wang",
+      "Zhiheng Xi",
+      "Caijun Xu",
+      "Chao Xu",
+      "Yongfeng Xu",
+      "Xiaolei Yang",
+      "Zhixiong Yang",
+      "Qian Yao",
+      "Shihong Yi",
+      "Yuankai Ying",
+      "Jia Yu",
+      "Dingbo Yuan",
+      "Hao Yuan",
+      "Junjie Yuan",
+      "Bo Zhang",
+      "Caixian Zhang",
+      "Qiuyinzhe Zhang",
+      "Jiyuan Zhao",
+      "Ying Zhao",
+      "Pujun Zheng",
+      "Xiaoxue Zhong",
+      "Xiaohao Zhou",
+      "Xinyu Zhou",
+      "Guanru Zhu",
+      "Yulun Zhu",
+      "Yaojie Lu",
+      "Tao Ji",
+      "Hongyu Lin",
+      "Yutao Zhu",
+      "Pengfei Cao",
+      "Guoxiu He",
+      "Xianpei Han",
+      "Ben He",
+      "Zhicheng Dou",
+      "Kang Liu",
+      "Qi Zhang",
+      "Le Sun",
+      "Jun Zhao",
+      "Ji-Rong Wen",
+      "Xuanjing Huang",
+      "Yu-Gang Jiang",
+      "Bowen Zhou"
+    ]
+  }
+]

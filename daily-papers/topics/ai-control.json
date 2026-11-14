@@ -1,5 +1,32 @@
 [
   {
+    "id": "usenix-security:2026:jin",
+    "kind": "conference",
+    "title": "Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI",
+    "titleZh": "信任不可见之物：专有 AI 的可审计微调与推理",
+    "line": "提出 AFTUNE 框架，通过轻量执行记录与在 TEE 中抽样验证执行块，使客户能以适度开销审计云端大模型微调与推理是否按约定配置执行。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "USENIX Security 2026",
+    "date": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity26/presentation/jin",
+    "site": null,
+    "authors": [
+      "Heng Jin",
+      "Chaoyu Zhang",
+      "Hexuan Yu",
+      "Shanghao Shi",
+      "Ning Zhang",
+      "Y. Thomas Hou",
+      "Wenjing Lou"
+    ],
+    "pushedOn": "2026-11-14"
+  },
+  {
     "id": "icml:2026:b82fgbMVpz",
     "kind": "conference",
     "title": "Monitoring Monitorability",
