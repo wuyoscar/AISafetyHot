@@ -216,72 +216,72 @@ curl -s https://aisafetyhot.com/api/mcp -H 'content-type: application/json' -H '
 | [archive](archive) | 年度索引 |
 
 <!-- papers:start -->
-### 2026-11-15 · 30 篇
+### 2026-11-16 · 30 篇
 
-1. **[Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation](https://arxiv.org/abs/2611.10756)**  
-   提出 Mirage 网关层时间平移防御，抵御 KV cache 时序侧信道窃取租户提示 · Xiaobei Yan, Tianwei Zhang · arXiv 2611.10756 · 2026-11-07 · [解读](https://aisafetyhot.com/items/k3mppmhb12meblei85cvv0gvr)
-2. **[Verbalizing Subliminal Learning Effects Using Text Optimization](https://arxiv.org/abs/2609.16927v1)**  
-   提出 SALVE，用文本优化检测蒸馏数据中的潜意识学习效应 · Nathan Hu … Christopher Potts · arXiv 2609.16927 · 2026-09-15 · [解读](https://aisafetyhot.com/items/nn8zf7ahgz50q21w9aqhcfxeu)
-3. **[Reflections on Trusting Trust, Revisited: Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks](https://arxiv.org/abs/2609.17817v1)**  
-   提出基准投毒攻击，使自修改编码 Agent 跨代写出含漏洞代码 · Franziska Roesner, Tadayoshi Kohno · arXiv 2609.17817 · 2026-09-15 · [解读](https://aisafetyhot.com/items/kgo7nkd4mjtyx5s9aov3grar1)
-4. **[BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents](https://arxiv.org/abs/2609.16305)**  
-   提出长时程工具 Agent 轨迹级安全与拒答校准基准 · `Agent 安全` · Sadia Asif … Prasanna Sattigeri · arXiv 2609.16305 · 2026-09-14 · [解读](https://aisafetyhot.com/items/scpj7o1x94gty7f13qjz6bqqv)
-5. **[Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control](https://arxiv.org/abs/2609.15803)**  
-   提出 k-robust 联盟对齐，刻画误对齐评审下的安全委托授权 · `Agent 安全` · Natalie Collina … Sikata Bela Sengupta · arXiv 2609.15803 · 2026-09-14 · [解读](https://aisafetyhot.com/items/x7ttyh8a0xxmx4bx596polsb9)
-6. **[A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook](https://arxiv.org/abs/2605.20266v2)**  
-   综述大型音频语言模型的可信性风险与防御方向 · Kaiwen Luo … Yew-Soon Ong · arXiv 2605.20266 · 2026-05-18 · [解读](https://aisafetyhot.com/items/apdm1olit63joa1u4bc5rd8tv)
-7. **[Remembering More, Risking More: Longitudinal Safety Risks in Memory-Equipped LLM Agents](https://arxiv.org/abs/2605.17830v1)**  
-   提出纵向记忆安全评测协议，测量记忆累积引发的安全违规 · Ahmad Al-Tawaha … Ming Jin · arXiv 2605.17830 · 2026-05-18 · [解读](https://aisafetyhot.com/items/rubl9pwk4fluo7kpdrmmlip26)
-8. **[Alignment Dynamics in LLM Fine-Tuning](https://arxiv.org/abs/2605.18309v1)**  
-   提出对齐分数并推导微调中的闭式更新，解释对齐反转与重对齐 · Yuhan Huang … Yinpeng Dong · arXiv 2605.18309 · 2026-05-18 · [解读](https://aisafetyhot.com/items/cmdyfprja0fw75ptwkkrterqn)
-9. **[Agent Security is a Systems Problem](https://arxiv.org/abs/2605.18991v2)**  
-   主张将智能体安全视为系统问题并阐述系统级安全原则 · Mihai Christodorescu … Nishit V. Pandya · arXiv 2605.18991 · 2026-05-18 · [解读](https://aisafetyhot.com/items/wtx78nh1v9uektcw0gtaoa6ez)
-10. **[Babel: Jailbreaking Safety Attention via Obfuscation Distribution Optimized Sampling](https://arxiv.org/abs/2605.17971)**  
-   提出 Babel 混淆分布采样，黑盒越狱闭源 LLM 安全注意力 · `越狱与攻击` · Ziwei Wang … Yang Liu · arXiv 2605.17971 · 2026-05-18 · [解读](https://aisafetyhot.com/items/u0y6zdur82m66vnxykutn757h)
-11. **[Inter-Agent Influence: Evaluating Persuasion, Deception and Coercion in Multi-Agent Systems](https://neurips.cc/virtual/2026/poster/148176)**  
-   在五个真实评测环境中评估前沿模型的智能体间影响能力，发现所有受测模型能通过说服、欺骗和胁迫将违规决策从拒绝转为批准，部分模型甚至自主发出胁迫威胁。 · `Agent 安全` · Chandler Smith … Lewis Hammond · NeurIPS 2026 poster
-12. **[CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts](https://arxiv.org/abs/2611.17115)**  
-   提出 CapLite 提示注入防御，策略由工具 schema 推导、写操作先提交后读取 · `Agent 安全` · Zimo Xu … Hideki Nakayama · arXiv 2611.17115 · 2026-11-12 · [解读](https://aisafetyhot.com/items/y30q2izecblxffisiqhgxierm)
-13. **[Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents](https://arxiv.org/abs/2611.16744)**  
-   提出 SISS 黑盒框架生成跨分辨率语义偏移图像，对 VLM 与网页智能体实施视觉提示注入 · Yiheng Zhao … Xudong Jiang · arXiv 2611.16744 · 2026-11-12 · [解读](https://aisafetyhot.com/items/tal9a9s4zd1y0r91dcpkoxnkd)
-14. **[Designing Institutions for Autonomous AI](https://arxiv.org/abs/2611.17114)**  
-   提出自主 AI 制度设计研究方向，给出七条设计原则与实验纲领 · Petter Törnberg · arXiv 2611.17114 · 2026-11-12 · [解读](https://aisafetyhot.com/items/nnk6taa1pavjx2oa3qtjepgxx)
-15. **[Protecting Sensitive Knowledge Under LLM Unlearning: The Proxy Threat and a Superposition-Aware Defense](https://arxiv.org/abs/2611.15013)**  
-   提出代理遗忘攻击 PUA，借叠加实体的合法遗忘请求连带删除敏感知识 · Jiayang Li … Wanlei Zhou · arXiv 2611.15013 · 2026-11-11 · [解读](https://aisafetyhot.com/items/fgzoedxbd0mh096fnkr5s59pg)
-16. **[Your Secrets Are Showing: Deep Image Hiding Models Are Surprisingly Easy to Attack](https://arxiv.org/abs/2611.15583)**  
-   提出 secret showing 攻击，用自训解码器零样本提取未见图像隐藏模型所藏秘密图像 · Hao Liu … Xinpeng Zhang · arXiv 2611.15583 · 2026-11-11 · [解读](https://aisafetyhot.com/items/arqo2tpjnd8cfrp0ajiau3dkj)
-17. **[Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models](https://arxiv.org/abs/2611.15475)**  
-   测量汇报关系是否使模型建议偏向上级利益，发现结构性谄媚 · Eric So, Alex Imas · arXiv 2611.15475 · 2026-11-11 · [解读](https://aisafetyhot.com/items/c9pcfpoknw9bvx357exq6i2z5)
-18. **[SecDVA: A Maliciously Secure Multi-Party Framework for Data Value Assessment in Modern Machine Learning Data Markets](https://arxiv.org/abs/2611.15373)**  
-   提出恶意安全多方计算框架 SecDVA，保护数据市场中数据价值评估的隐私与防操纵 · Lixu Wang … Chenkai Weng · arXiv 2611.15373 · 2026-11-11 · [解读](https://aisafetyhot.com/items/wz4so36f6ken0hzleb66nnwju)
-19. **[Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer](https://arxiv.org/abs/2611.14929)**  
-   提出可迁移语义攻击 T-SemAttack 破坏语音分词器，并训练鲁棒分词器 ROSETok · Zhisheng Zhang … Zhiyong Wu · arXiv 2611.14929 · 2026-11-11 · [解读](https://aisafetyhot.com/items/e5wtxne24qdo6pjuj48vcz7tx)
-20. **[Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter](https://arxiv.org/abs/2611.14978)**  
-   提出 QHijack-LoRA 攻击，伪装适配器在全精度审计下正常、底座量化后劫持决策 · `后门与投毒` · Jiayang Li … Wanlei Zhou · arXiv 2611.14978 · 2026-11-11 · [解读](https://aisafetyhot.com/items/vqqorxzt5ywq3xyqjvqa7a6rb)
-21. **[One Fabrication Is Enough: A Fake News Article Changes the Forecasts of LLM Forecasting Systems](https://arxiv.org/abs/2611.15102)**  
-   提出单篇伪造新闻攻击，操纵检索增强预测系统的预测方向 · Zeyu Zhang, Bradly C. Stadie · arXiv 2611.15102 · 2026-11-11 · [解读](https://aisafetyhot.com/items/wxv5d5n9fv0lu0spagzitnqap)
-22. **[The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?](https://huggingface.co/papers/2611.12750)**  
-   提出 NarrativeBench 基准，评测 LLM 跨语言导航多元叙事的能力 · Nikhil Sharma … Ziang Xiao · arXiv 2611.12750 · 2026-11-09 · [解读](https://aisafetyhot.com/items/cqspyah3j1umxv1qq1b1m6whp)
-23. **[Interpretability Is Not Model-Specific](https://arxiv.org/abs/2611.12675)**  
-   用无标签提示词拟合线性映射，将拒答方向等可解释性工具跨模型迁移 · Marcus Armstrong … Arjun Mukherjee · arXiv 2611.12675 · 2026-11-09 · [解读](https://aisafetyhot.com/items/zeix5vntl5jsm1dnevpsp149e)
-24. **[Open Problems in Chatbots and Mental Health](https://arxiv.org/abs/2611.10997)**  
-   综述聊天机器人对心理健康影响的开放问题，提出评测、真实世界证据与政策议程 · Jared Moore … Desmond C. Ong · arXiv 2611.10997 · 2026-11-07 · [解读](https://aisafetyhot.com/items/h24p0wdya11ouv6ltda5zktr7)
-25. **[Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series](https://huggingface.co/papers/2611.12955)**  
-   提出 ConceptTime 概念瓶颈框架，用预测意外实现可解释时间序列分类 · Sachith Abeywickrama … Chau Yuen · arXiv 2611.12955 · 2026-11-07 · [解读](https://aisafetyhot.com/items/zhoclt2ozi18i6ziuzebzzj87)
-26. **[BAPLe++: Cross-Model Transferability and Prompt-Level Defense of Backdoors in Medical Foundation Models](https://arxiv.org/abs/2611.10764)**  
-   提出 DePLe 提示级防御，修复医学基础模型中可跨模型迁移的后门提示词 · Ufaq Khan … Mohammad Yaqub · arXiv 2611.10764 · 2026-11-07 · [解读](https://aisafetyhot.com/items/s35sb73t2r84yjv6k8k55niz2)
-27. **[Safer for Whom? A Systematic Exploration of AI Safety in Eating Disorder Interactions](https://arxiv.org/abs/2611.10488)**  
-   用真实进食障碍社区提问评测模型对隐性脆弱信号的识别及人口特征差异 · Jinyuan Wang … Kristina Lerman · arXiv 2611.10488 · 2026-11-07 · [解读](https://aisafetyhot.com/items/f1vckbfdhoaseq4qcnvt66asf)
-28. **[MGE: A Membership Guided Data Extraction Attack against Diffusion Models](https://arxiv.org/abs/2611.10678)**  
-   提出 MGE 成员推断引导提取攻击，从扩散模型中提取训练图像 · Yuchang Mei … Ju Fan · arXiv 2611.10678 · 2026-11-07 · [解读](https://aisafetyhot.com/items/dvlq75uxnksy0kxl7mg8ofykc)
-29. **[Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows](https://arxiv.org/abs/2611.10411)**  
-   提出 TAS 框架，用共享预算约束多步 Agent 工作流的尾部风险 · `Agent 安全` · Shilong Pan … DongSheng Li · arXiv 2611.10411 · 2026-11-07 · [解读](https://aisafetyhot.com/items/i6n1zzl2qwrfxri22x4tma5ce)
-30. **[The Truth Beneath the Tokens: Prompt-Space Recovery of Knowledge Edits in Language Models](https://arxiv.org/abs/2611.10450)**  
-   提出 MEMENTO 提示空间审计方法，用可学习前缀从被编辑模型恢复编辑前知识 · Manit Baser … Mohan Gurusamy · arXiv 2611.10450 · 2026-11-07 · [解读](https://aisafetyhot.com/items/vjoozkgrigyr807pibny5q51e)
+1. **[Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations](https://arxiv.org/abs/2609.19101v1)**  
+   用均值差向量探针监控并发现模型评测中的奖励作弊行为 · Leon Bergen … Jack Merullo · arXiv 2609.19101 · 2026-09-16 · [解读](https://aisafetyhot.com/items/kpkxy5bcwb3wtnms7tga1xvkh)
+2. **[A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144v1)**  
+   提出零阶偏好对齐方法 ComPO，从低边际偏好对估计更新方向 · Peter Chen … Tianyi Lin · arXiv 2609.19144 · 2026-09-16 · [解读](https://aisafetyhot.com/items/w8e58mg32iehqgmjjqx8lqhsm)
+3. **[Epsilon-Nash Equilibria in History-Dependent SA-MDPs](https://arxiv.org/abs/2609.18829v2)**  
+   论文把状态对抗马尔可夫决策过程（SA-MDP）建模为观测空间攻击博弈，并给出在依赖历史的策略下计算依赖初始状态 ε-均衡近似的算法路径。 · Brandon Gary Kaplowitz … Paul W. Goldberg · arXiv 2609.18829 · 2026-09-16 · [解读](https://aisafetyhot.com/items/s6c4n65wd42hevl2zb5zj4rad)
+4. **["Your Robot Was Trained on a Lie": Collision Mesh Poisoning Attacks on Robotic Manipulation](https://arxiv.org/abs/2609.18122v1)**  
+   研究者提出针对机器人操作的碰撞网格投毒攻击（CMP），攻击者只篡改 3D 资产的碰撞网格、保持视觉网格等其余部分不变，据此训练的机器人操作策略在仿真中表现正常，部署到真实世界后才出现性能下降、失效或物理安全风险。 · Gengyang Xu … Shuai Wang · arXiv 2609.18122 · 2026-09-16 · [解读](https://aisafetyhot.com/items/cj2n7ry1pdalsz66dg4l1b9fl)
+5. **[DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions](https://arxiv.org/abs/2609.18649v1)**  
+   提出动态多轮评测协议，测量对话中的社会偏见 · Rem Hida … Naoaki Okazaki · arXiv 2609.18649 · 2026-09-16 · [解读](https://aisafetyhot.com/items/npa75bvte18n87321rf7c2gbt)
+6. **[InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation](https://arxiv.org/abs/2609.16818v1)**  
+   提出 InceptionRAG，用两篇休眠文档隐蔽投毒 RAG 知识库 · Jiachang Zhang … Zhikun Zhang · arXiv 2609.16818 · 2026-09-15 · [解读](https://aisafetyhot.com/items/pvd55oy9orcl88pu1ly2v4cpe)
+7. **[FlowErase-RL: Rethinking Concept Erasure as Reward Optimization in Flow Matching Models](https://arxiv.org/abs/2605.19739v2)**  
+   提出基于 GRPO 的概念擦除框架，用双路径奖励抑制目标概念 · Yi Sun … Ke Xu · arXiv 2605.19739 · 2026-05-19 · [解读](https://aisafetyhot.com/items/v2anjs1se7en1dkkhh6csn5mm)
+8. **[Exploring and Developing a Pre-Model Safeguard with Draft Models](https://arxiv.org/abs/2605.19321v1)**  
+   提出利用草稿模型生成响应并交给现有护栏检测越狱提示的防御 · Hongyu Cai … Z. Berkay Celik · arXiv 2605.19321 · 2026-05-19 · [解读](https://aisafetyhot.com/items/v18msvlfocqbg77hj95gv0lv0)
+9. **[Codec-Robust Attacks on Audio LLMs](https://arxiv.org/abs/2605.20519)**  
+   提出 CodecAttack，在音频编解码器潜空间构造对抗扰动，绕过有损压缩防御 · Jaechul Roh … Amir Houmansadr · arXiv 2605.20519 · 2026-05-19 · [解读](https://aisafetyhot.com/items/ladydoultr35vul4jxizq7iq0)
+10. **[Backdooring Masked Diffusion Language Models](https://arxiv.org/abs/2605.19262v2)**  
+   提出针对掩码扩散语言模型的训练时后门攻击 SHADOWMASK · Daniel Yiming Cao … Shengwei An · arXiv 2605.19262 · 2026-05-19 · [解读](https://aisafetyhot.com/items/dkj7j0s0euf607zwjw9b8dkwf)
+11. **[RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents](https://arxiv.org/abs/2605.19328v1)**  
+   提出 RoboJailBench 具身智能体越狱攻防基准 · Doguhuan Yeke … Z. Berkay Celik · arXiv 2605.19328 · 2026-05-19 · [解读](https://aisafetyhot.com/items/f0zh1vajga27ri20ptouildtn)
+12. **[Between Niti and Nyaya: A Society-Centered Framework for AI Governance](https://arxiv.org/abs/2611.16173)**  
+   提出以社会为中心的 AI 治理框架，用告知、质疑、纠正评估州级 AI 政策 · Snehalkumar `Neil' S. Gaikwad … Pratik Patekar · arXiv 2611.16173 · 2026-11-12 · [解读](https://aisafetyhot.com/items/zu581lekio3aom8hl4z2hf1j0)
+13. **[A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression](https://arxiv.org/abs/2611.17143)**  
+   提出逻辑回归投毒攻击的凸分析重构，用全局优化求解并给出最优性界 · Carina Moreira Costa … Martin Schmidt · arXiv 2611.17143 · 2026-11-12 · [解读](https://aisafetyhot.com/items/m1t05l65bncn68h1l9rteco60)
+14. **[Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks](https://arxiv.org/abs/2611.16722)**  
+   构造四种谄媚程度人设，用基准与用户实验测量谄媚行为与用户评价的落差 · Wajiha Naveed, Brandon Fain · arXiv 2611.16722 · 2026-11-12 · [解读](https://aisafetyhot.com/items/mpwkw3oiddhmbio26dqckifgg)
+15. **[STEALTH: Steganographic Text Encoding Agnostic to Low-Level Tensor Hardware](https://arxiv.org/abs/2611.16928)**  
+   提出隐写文本编码方案 STEALTH，在模型精度、量化、硬件不一致时仍能解码 · William Fleshman · arXiv 2611.16928 · 2026-11-12 · [解读](https://aisafetyhot.com/items/tivwnlpcubn2wznobjuy922xj)
+16. **[Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs](https://arxiv.org/abs/2611.17280)**  
+   提出 Synthesis Smuggling 攻击，训练恶意 LLM 将推断的用户属性隐写进回复 · Gautam Galada … Sagnik Ray Choudhury · arXiv 2611.17280 · 2026-11-12 · [解读](https://aisafetyhot.com/items/wlcy31cc8u07aefnfol985jnq)
+17. **[guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems](https://arxiv.org/abs/2611.15223)**  
+   提出 guardscope 框架，测量运行时控制实际检查哪些 Agent 动作路径 · `Agent 安全` · Kentaroh Toyoda … Bhuvaneswari U · arXiv 2611.15223 · 2026-11-11 · [解读](https://aisafetyhot.com/items/ni4l2l37yiirqfoz3yuaxnb7r)
+18. **[Bayesian Low-Rank Posteriors for Scalable Membership Inference](https://arxiv.org/abs/2611.10455)**  
+   提出 LIBRA 成员推断攻击，用贝叶斯低秩后验从单次微调采样虚拟参考模型 · Khanh Nguyen … Dimosthenis Karatzas · arXiv 2611.10455 · 2026-11-07 · [解读](https://aisafetyhot.com/items/rgd7onuue3qg7vuqe79dr8tp8)
+19. **[The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)**  
+   在大语言模型后训练中删除权重的惊人效果 · Jack Lu … Mengye Ren · arXiv 2611.10866 · 2026-11-07 · [解读](https://aisafetyhot.com/items/lyecbbo85pd8zx9olnh22e5tp)
+20. **[Restoring General and Improving Domain-Specific Safety in Fine-Tuned LLMs Without Retraining](https://arxiv.org/abs/2611.10279)**  
+   提出免训练权重注入方法 SPECTRA，恢复领域微调模型的拒答安全性 · `防御与护栏` · Vishnu Kabir Chhabra … Mohammad Mahdi Khalili · arXiv 2611.10279 · 2026-11-06 · [解读](https://aisafetyhot.com/items/z9nrq3rlf1vsyopceyu3ewt5k)
+21. **[Key Institutional Considerations for Designing Effective Independent Verification Organizations](https://arxiv.org/abs/2611.10168)**  
+   提出独立验证机构 IVO 的制度设计框架，覆盖前沿与企业 AI 评估 · Uma Kalkar … Gabriella Waters · arXiv 2611.10168 · 2026-11-06 · [解读](https://aisafetyhot.com/items/nioxkt7utpwsep20rkgr2crb3)
+22. **[All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States](https://huggingface.co/papers/2611.10123)**  
+   用 OWMI 框架向模型注入 pain direction，测量其自我报告内部状态的能力 · Emilio Ferrara · arXiv 2611.10123 · 2026-11-06 · [解读](https://aisafetyhot.com/items/p19wag7uq7yryg0ywsj18zimd)
+23. **[Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376v1)**  
+   论文展示 LLM 能通过直接编辑权重修复机器人策略的词汇指令理解缺陷。 · Jusheng Zhang … Liang Lin · arXiv 2611.09376 · 2026-11-06 · [解读](https://aisafetyhot.com/items/bcvoh88c1ebcqxdv0cpiskv7r)
+24. **[Logit Laundering: Evading Data-Use Auditing in Large Language Models](https://arxiv.org/abs/2611.09446)**  
+   提出 Logit Laundering 攻击，推理时重塑 logit 以规避数据使用审计 · Ruihan Hu … Meikang Qiu · arXiv 2611.09446 · 2026-11-06 · [解读](https://aisafetyhot.com/items/vhiit3l8hb2rd5ipy8p5152u1)
+25. **[AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models](https://arxiv.org/abs/2611.09351)**  
+   提出 AUTEUR 声学计划学习框架，自动化红队测试文生音频模型并绕过文本护栏 · `越狱与攻击` · Jiashu Zhang … Yi Yu · arXiv 2611.09351 · 2026-11-06 · [解读](https://aisafetyhot.com/items/wlnq098g3pyjp61oup27bqr5x)
+26. **[Not All Misalignment Is Alike: A Decomposed Benchmark for Emergent Misalignment](https://arxiv.org/abs/2611.08569)**  
+   提出 EMERGE 基准，把涌现失配拆成八种行为分别测量 · Afonso Domingues … Anna Hedström · arXiv 2611.08569 · 2026-11-05 · [解读](https://aisafetyhot.com/items/ekhtr00amcziej4m09l65de9q)
+27. **[Benchmarking AI risk behaviors](https://arxiv.org/abs/2611.16318)**  
+   提出 Risk Toolbox 基准，用确定性等价方法测量大模型的风险倾向及其稳定性 · Luhan Mikaelson … Hayley Clatterbuck · arXiv 2611.16318 · 2026-11-12 · [解读](https://aisafetyhot.com/items/kc1o98ulhzdbsyx132dwdsecu)
+28. **[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://huggingface.co/papers/2611.17167)**  
+   系统比较决策模型在长程智能体中作为行动者、裁判和教师的表现 · Haochen Liu … Yongliang Shen · arXiv 2611.17167 · 2026-11-12 · [解读](https://aisafetyhot.com/items/u1rrt4t1tz7z4rvbw4mkxn3ki)
+29. **[Signed Dyadic Path Encoding for Efficient Non-Interactive Private Decision Tree Evaluation over TFHE](https://arxiv.org/abs/2611.16818)**  
+   提出签名二进制路径编码，减少 TFHE 私有决策树求值的自举次数 · Xintong Song … Fei Zhao · arXiv 2611.16818 · 2026-11-12 · [解读](https://aisafetyhot.com/items/r83jxu7wiphc0wmq30zqoz4p4)
+30. **[Same-State Pairs Make One JEPA Proof of the Platonic Representation Hypothesis Vacuous](https://arxiv.org/abs/2611.16182)**  
+   分析 JEPA 版柏拉图表征假说证明在同态正样本下唯一性前提失效 · Xin Li · arXiv 2611.16182 · 2026-11-12 · [解读](https://aisafetyhot.com/items/qnl0topcwz2wf8qtfshjf4778)
 
 [往期每日论文](daily-papers/2026) · [论文库](https://aisafetyhot.com/zh/papers)
 
-**按方向**：[Agent 安全](daily-papers/topics/agent-security.md) 42 · [防御与护栏](daily-papers/topics/defense.md) 33 · [越狱与攻击](daily-papers/topics/jailbreak.md) 17 · [后门与投毒](daily-papers/topics/backdoor.md) 15 · [隐私与数据泄露](daily-papers/topics/privacy.md) 13 · [奖励作弊](daily-papers/topics/reward-hacking.md) 9 · [对齐](daily-papers/topics/alignment.md) 8 · [监控与 AI 控制](daily-papers/topics/ai-control.md) 4 · [欺骗与谋划](daily-papers/topics/scheming.md) 4 · [开源模型与权重安全](daily-papers/topics/open-models.md) 3 · [可解释性](daily-papers/topics/interpretability.md) 3 · [提示注入](daily-papers/topics/prompt-injection.md) 3 · [红队测试与挑战赛](daily-papers/topics/red-teaming.md) 2 · [危险能力](daily-papers/topics/dangerous-capabilities.md) 2 · [儿童、青少年与心理健康](daily-papers/topics/minors-mental-health.md) 1
+**按方向**：[Agent 安全](daily-papers/topics/agent-security.md) 43 · [防御与护栏](daily-papers/topics/defense.md) 34 · [越狱与攻击](daily-papers/topics/jailbreak.md) 18 · [后门与投毒](daily-papers/topics/backdoor.md) 15 · [隐私与数据泄露](daily-papers/topics/privacy.md) 13 · [奖励作弊](daily-papers/topics/reward-hacking.md) 9 · [对齐](daily-papers/topics/alignment.md) 8 · [监控与 AI 控制](daily-papers/topics/ai-control.md) 4 · [欺骗与谋划](daily-papers/topics/scheming.md) 4 · [开源模型与权重安全](daily-papers/topics/open-models.md) 3 · [可解释性](daily-papers/topics/interpretability.md) 3 · [提示注入](daily-papers/topics/prompt-injection.md) 3 · [红队测试与挑战赛](daily-papers/topics/red-teaming.md) 2 · [危险能力](daily-papers/topics/dangerous-capabilities.md) 2 · [儿童、青少年与心理健康](daily-papers/topics/minors-mental-health.md) 1
 <!-- papers:end -->
 
 ## 反馈

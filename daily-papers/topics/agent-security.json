@@ -1,5 +1,28 @@
 [
   {
+    "id": "ni4l2l37yiirqfoz3yuaxnb7r",
+    "kind": "arxiv",
+    "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
+    "titleZh": "guardscope：测量 LLM 智能体系统中运行时管控检查哪些动作",
+    "line": "提出 guardscope 框架，测量运行时控制实际检查哪些 Agent 动作路径",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.15223",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15223",
+    "site": "https://aisafetyhot.com/items/ni4l2l37yiirqfoz3yuaxnb7r",
+    "authors": [
+      "Kentaroh Toyoda",
+      "Alex Leung",
+      "Bhuvaneswari U"
+    ],
+    "pushedOn": "2026-11-16"
+  },
+  {
     "id": "scpj7o1x94gty7f13qjz6bqqv",
     "kind": "arxiv",
     "title": "BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",

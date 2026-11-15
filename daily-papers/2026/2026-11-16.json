@@ -1,0 +1,598 @@
+[
+  {
+    "id": "kpkxy5bcwb3wtnms7tga1xvkh",
+    "kind": "arxiv",
+    "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+    "titleZh": "用内部表征监控与发现 LLM 评测中的奖励作弊",
+    "line": "用均值差向量探针监控并发现模型评测中的奖励作弊行为",
+    "topics": [],
+    "venue": "arXiv 2609.19101",
+    "date": "2026-09-16",
+    "url": "https://arxiv.org/abs/2609.19101v1",
+    "site": "https://aisafetyhot.com/items/kpkxy5bcwb3wtnms7tga1xvkh",
+    "authors": [
+      "Leon Bergen",
+      "Usha Bhalla",
+      "Andrew Lee",
+      "Barak Widawsky",
+      "Linas Nasvytis",
+      "Connor Watts",
+      "Siddharth Boppana",
+      "Sidharth Baskaran",
+      "Dron Hazra",
+      "Michael Byun",
+      "Atticus Geiger",
+      "Owen Lewis",
+      "Matthew Kowal",
+      "Vasudev Shyam",
+      "Thomas Fel",
+      "Thomas McGrath",
+      "Ekdeep Singh Lubana",
+      "Jack Merullo"
+    ]
+  },
+  {
+    "id": "w8e58mg32iehqgmjjqx8lqhsm",
+    "kind": "arxiv",
+    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+    "titleZh": "面向 LLM 偏好对齐的零阶范式：ComPO 方法",
+    "line": "提出零阶偏好对齐方法 ComPO，从低边际偏好对估计更新方向",
+    "topics": [],
+    "venue": "arXiv 2609.19144",
+    "date": "2026-09-16",
+    "url": "https://arxiv.org/abs/2609.19144v1",
+    "site": "https://aisafetyhot.com/items/w8e58mg32iehqgmjjqx8lqhsm",
+    "authors": [
+      "Peter Chen",
+      "Xi Chen",
+      "Wotao Yin",
+      "Tianyi Lin"
+    ]
+  },
+  {
+    "id": "s6c4n65wd42hevl2zb5zj4rad",
+    "kind": "arxiv",
+    "title": "Epsilon-Nash Equilibria in History-Dependent SA-MDPs",
+    "titleZh": "依赖历史的 SA-MDP 中的 ε-纳什均衡",
+    "line": "论文把状态对抗马尔可夫决策过程（SA-MDP）建模为观测空间攻击博弈，并给出在依赖历史的策略下计算依赖初始状态 ε-均衡近似的算法路径。",
+    "topics": [],
+    "venue": "arXiv 2609.18829",
+    "date": "2026-09-16",
+    "url": "https://arxiv.org/abs/2609.18829v2",
+    "site": "https://aisafetyhot.com/items/s6c4n65wd42hevl2zb5zj4rad",
+    "authors": [
+      "Brandon Gary Kaplowitz",
+      "Dominik Bohnet Zurcher",
+      "Akash Agrawal",
+      "Tala Jafari",
+      "Christian Schroeder de Witt",
+      "Paul W. Goldberg"
+    ]
+  },
+  {
+    "id": "cj2n7ry1pdalsz66dg4l1b9fl",
+    "kind": "arxiv",
+    "title": "\"Your Robot Was Trained on a Lie\": Collision Mesh Poisoning Attacks on Robotic Manipulation",
+    "titleZh": "“你的机器人被谎言训练”：针对机器人操作的碰撞网格投毒攻击",
+    "line": "研究者提出针对机器人操作的碰撞网格投毒攻击（CMP），攻击者只篡改 3D 资产的碰撞网格、保持视觉网格等其余部分不变，据此训练的机器人操作策略在仿真中表现正常，部署到真实世界后才出现性能下降、失效或物理安全风险。",
+    "topics": [],
+    "venue": "arXiv 2609.18122",
+    "date": "2026-09-16",
+    "url": "https://arxiv.org/abs/2609.18122v1",
+    "site": "https://aisafetyhot.com/items/cj2n7ry1pdalsz66dg4l1b9fl",
+    "authors": [
+      "Gengyang Xu",
+      "Dongwei Xiao",
+      "Yiteng Peng",
+      "Yanbo Dai",
+      "Ruochen Zhou",
+      "Shing-Chi Cheung",
+      "Xiaoyu Ji",
+      "Wenyuan Xu",
+      "Shuai Wang"
+    ]
+  },
+  {
+    "id": "npa75bvte18n87321rf7c2gbt",
+    "kind": "arxiv",
+    "title": "DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions",
+    "titleZh": "DyMT-ESB：用户与大语言模型交互中社会偏见的动态多轮评估",
+    "line": "提出动态多轮评测协议，测量对话中的社会偏见",
+    "topics": [],
+    "venue": "arXiv 2609.18649",
+    "date": "2026-09-16",
+    "url": "https://arxiv.org/abs/2609.18649v1",
+    "site": "https://aisafetyhot.com/items/npa75bvte18n87321rf7c2gbt",
+    "authors": [
+      "Rem Hida",
+      "Masahiro Kaneko",
+      "Daisuke Oba",
+      "Danushka Bollegala",
+      "Naoaki Okazaki"
+    ]
+  },
+  {
+    "id": "pvd55oy9orcl88pu1ly2v4cpe",
+    "kind": "arxiv",
+    "title": "InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation",
+    "titleZh": "InceptionRAG：针对检索增强生成的隐蔽投毒攻击",
+    "line": "提出 InceptionRAG，用两篇休眠文档隐蔽投毒 RAG 知识库",
+    "topics": [],
+    "venue": "arXiv 2609.16818",
+    "date": "2026-09-15",
+    "url": "https://arxiv.org/abs/2609.16818v1",
+    "site": "https://aisafetyhot.com/items/pvd55oy9orcl88pu1ly2v4cpe",
+    "authors": [
+      "Jiachang Zhang",
+      "Min Chen",
+      "Xiao Ren",
+      "Zhenyong Zhang",
+      "Yuanchao Shu",
+      "Yunjun Gao",
+      "Zhikun Zhang"
+    ]
+  },
+  {
+    "id": "v2anjs1se7en1dkkhh6csn5mm",
+    "kind": "arxiv",
+    "title": "FlowErase-RL: Rethinking Concept Erasure as Reward Optimization in Flow Matching Models",
+    "titleZh": "FlowErase-RL：将流匹配模型中的概念擦除重构为奖励优化",
+    "line": "提出基于 GRPO 的概念擦除框架，用双路径奖励抑制目标概念",
+    "topics": [],
+    "venue": "arXiv 2605.19739",
+    "date": "2026-05-19",
+    "url": "https://arxiv.org/abs/2605.19739v2",
+    "site": "https://aisafetyhot.com/items/v2anjs1se7en1dkkhh6csn5mm",
+    "authors": [
+      "Yi Sun",
+      "Zhiqi Zhang",
+      "Xinhao Zhong",
+      "Yimin Zhou",
+      "Shuoyang Sun",
+      "Bin Chen",
+      "Shu-Tao Xia",
+      "Ke Xu"
+    ]
+  },
+  {
+    "id": "v18msvlfocqbg77hj95gv0lv0",
+    "kind": "arxiv",
+    "title": "Exploring and Developing a Pre-Model Safeguard with Draft Models",
+    "titleZh": "探索并开发基于草稿模型的前置护栏",
+    "line": "提出利用草稿模型生成响应并交给现有护栏检测越狱提示的防御",
+    "topics": [],
+    "venue": "arXiv 2605.19321",
+    "date": "2026-05-19",
+    "url": "https://arxiv.org/abs/2605.19321v1",
+    "site": "https://aisafetyhot.com/items/v18msvlfocqbg77hj95gv0lv0",
+    "authors": [
+      "Hongyu Cai",
+      "Arjun Arunasalam",
+      "Yiming Liang",
+      "Antonio Bianchi",
+      "Z. Berkay Celik"
+    ]
+  },
+  {
+    "id": "ladydoultr35vul4jxizq7iq0",
+    "kind": "arxiv",
+    "title": "Codec-Robust Attacks on Audio LLMs",
+    "titleZh": "CodecAttack：在音频编解码器潜空间构造对抗扰动，绕过有损压缩防御",
+    "line": "提出 CodecAttack，在音频编解码器潜空间构造对抗扰动，绕过有损压缩防御",
+    "topics": [],
+    "venue": "arXiv 2605.20519",
+    "date": "2026-05-19",
+    "url": "https://arxiv.org/abs/2605.20519",
+    "site": "https://aisafetyhot.com/items/ladydoultr35vul4jxizq7iq0",
+    "authors": [
+      "Jaechul Roh",
+      "Jean-Philippe Monteuuis",
+      "Jonathan Petit",
+      "Amir Houmansadr"
+    ]
+  },
+  {
+    "id": "dkj7j0s0euf607zwjw9b8dkwf",
+    "kind": "arxiv",
+    "title": "Backdooring Masked Diffusion Language Models",
+    "titleZh": "SHADOWMASK：针对掩码扩散语言模型的后门攻击",
+    "line": "提出针对掩码扩散语言模型的训练时后门攻击 SHADOWMASK",
+    "topics": [],
+    "venue": "arXiv 2605.19262",
+    "date": "2026-05-19",
+    "url": "https://arxiv.org/abs/2605.19262v2",
+    "site": "https://aisafetyhot.com/items/dkj7j0s0euf607zwjw9b8dkwf",
+    "authors": [
+      "Daniel Yiming Cao",
+      "Chengzhong Wang",
+      "Sheng-Yen Chou",
+      "Chengyu Huang",
+      "Pin-Yu Chen",
+      "Shengwei An"
+    ]
+  },
+  {
+    "id": "f0zh1vajga27ri20ptouildtn",
+    "kind": "arxiv",
+    "title": "RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents",
+    "titleZh": "RoboJailBench：具身机器人智能体的对抗攻击与防御基准评测",
+    "line": "提出 RoboJailBench 具身智能体越狱攻防基准",
+    "topics": [],
+    "venue": "arXiv 2605.19328",
+    "date": "2026-05-19",
+    "url": "https://arxiv.org/abs/2605.19328v1",
+    "site": "https://aisafetyhot.com/items/f0zh1vajga27ri20ptouildtn",
+    "authors": [
+      "Doguhuan Yeke",
+      "Yanming Zhou",
+      "Leo Y. Lin",
+      "Hongyu Cai",
+      "Antonio Bianchi",
+      "Z. Berkay Celik"
+    ]
+  },
+  {
+    "id": "zu581lekio3aom8hl4z2hf1j0",
+    "kind": "arxiv",
+    "title": "Between Niti and Nyaya: A Society-Centered Framework for AI Governance",
+    "titleZh": "在 Niti 与 Nyaya 之间：一个以社会为中心的 AI 治理框架",
+    "line": "提出以社会为中心的 AI 治理框架，用告知、质疑、纠正评估州级 AI 政策",
+    "topics": [],
+    "venue": "arXiv 2611.16173",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16173",
+    "site": "https://aisafetyhot.com/items/zu581lekio3aom8hl4z2hf1j0",
+    "authors": [
+      "Snehalkumar `Neil' S. Gaikwad",
+      "Punya Aragula",
+      "Shiva Kruthi Palpanoori",
+      "Pratik Patekar"
+    ]
+  },
+  {
+    "id": "m1t05l65bncn68h1l9rteco60",
+    "kind": "arxiv",
+    "title": "A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression",
+    "titleZh": "逻辑回归投毒攻击的凸分析重构",
+    "line": "提出逻辑回归投毒攻击的凸分析重构，用全局优化求解并给出最优性界",
+    "topics": [],
+    "venue": "arXiv 2611.17143",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17143",
+    "site": "https://aisafetyhot.com/items/m1t05l65bncn68h1l9rteco60",
+    "authors": [
+      "Carina Moreira Costa",
+      "Maria Eduarda Pinheiro",
+      "Martin Schmidt"
+    ]
+  },
+  {
+    "id": "mpwkw3oiddhmbio26dqckifgg",
+    "kind": "arxiv",
+    "title": "Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks",
+    "titleZh": "当心准确性与认可的落差：用户如何在日常任务中评价谄媚的 AI",
+    "line": "构造四种谄媚程度人设，用基准与用户实验测量谄媚行为与用户评价的落差",
+    "topics": [],
+    "venue": "arXiv 2611.16722",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16722",
+    "site": "https://aisafetyhot.com/items/mpwkw3oiddhmbio26dqckifgg",
+    "authors": [
+      "Wajiha Naveed",
+      "Brandon Fain"
+    ]
+  },
+  {
+    "id": "tivwnlpcubn2wznobjuy922xj",
+    "kind": "arxiv",
+    "title": "STEALTH: Steganographic Text Encoding Agnostic to Low-Level Tensor Hardware",
+    "titleZh": "STEALTH：与底层张量硬件无关的隐写文本编码",
+    "line": "提出隐写文本编码方案 STEALTH，在模型精度、量化、硬件不一致时仍能解码",
+    "topics": [],
+    "venue": "arXiv 2611.16928",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16928",
+    "site": "https://aisafetyhot.com/items/tivwnlpcubn2wznobjuy922xj",
+    "authors": [
+      "William Fleshman"
+    ]
+  },
+  {
+    "id": "wlcy31cc8u07aefnfol985jnq",
+    "kind": "arxiv",
+    "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+    "titleZh": "Synthesis Smuggling：在 LLM 输出中恶意隐藏推断出的个人属性",
+    "line": "提出 Synthesis Smuggling 攻击，训练恶意 LLM 将推断的用户属性隐写进回复",
+    "topics": [],
+    "venue": "arXiv 2611.17280",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17280",
+    "site": "https://aisafetyhot.com/items/wlcy31cc8u07aefnfol985jnq",
+    "authors": [
+      "Gautam Galada",
+      "Supreeth Shastri",
+      "Sagnik Ray Choudhury"
+    ]
+  },
+  {
+    "id": "ni4l2l37yiirqfoz3yuaxnb7r",
+    "kind": "arxiv",
+    "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
+    "titleZh": "guardscope：测量 LLM 智能体系统中运行时管控检查哪些动作",
+    "line": "提出 guardscope 框架，测量运行时控制实际检查哪些 Agent 动作路径",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.15223",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.15223",
+    "site": "https://aisafetyhot.com/items/ni4l2l37yiirqfoz3yuaxnb7r",
+    "authors": [
+      "Kentaroh Toyoda",
+      "Alex Leung",
+      "Bhuvaneswari U"
+    ]
+  },
+  {
+    "id": "rgd7onuue3qg7vuqe79dr8tp8",
+    "kind": "arxiv",
+    "title": "Bayesian Low-Rank Posteriors for Scalable Membership Inference",
+    "titleZh": "用于可扩展成员推断攻击的贝叶斯低秩后验",
+    "line": "提出 LIBRA 成员推断攻击，用贝叶斯低秩后验从单次微调采样虚拟参考模型",
+    "topics": [],
+    "venue": "arXiv 2611.10455",
+    "date": "2026-11-07",
+    "url": "https://arxiv.org/abs/2611.10455",
+    "site": "https://aisafetyhot.com/items/rgd7onuue3qg7vuqe79dr8tp8",
+    "authors": [
+      "Khanh Nguyen",
+      "Antonio Emanuele Cinà",
+      "Andrey Barsky",
+      "Alejandra Reinares",
+      "Fabio Roli",
+      "Dimosthenis Karatzas"
+    ]
+  },
+  {
+    "id": "lyecbbo85pd8zx9olnh22e5tp",
+    "kind": "arxiv",
+    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+    "titleZh": "在大语言模型后训练中删除权重的惊人效果",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2611.10866",
+    "date": "2026-11-07",
+    "url": "https://huggingface.co/papers/2611.10866",
+    "site": "https://aisafetyhot.com/items/lyecbbo85pd8zx9olnh22e5tp",
+    "authors": [
+      "Jack Lu",
+      "Zhenbang Yang",
+      "Mike Lasby",
+      "Tejas Pote",
+      "Yani Ioannou",
+      "Mengye Ren"
+    ]
+  },
+  {
+    "id": "z9nrq3rlf1vsyopceyu3ewt5k",
+    "kind": "arxiv",
+    "title": "Restoring General and Improving Domain-Specific Safety in Fine-Tuned LLMs Without Retraining",
+    "titleZh": "无需重新训练即可恢复微调大语言模型的通用安全性并改善领域特定安全性",
+    "line": "提出免训练权重注入方法 SPECTRA，恢复领域微调模型的拒答安全性",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2611.10279",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.10279",
+    "site": "https://aisafetyhot.com/items/z9nrq3rlf1vsyopceyu3ewt5k",
+    "authors": [
+      "Vishnu Kabir Chhabra",
+      "Ding Zhu",
+      "Zhihui Zhu",
+      "Xueru Zhang",
+      "Mohammad Mahdi Khalili"
+    ]
+  },
+  {
+    "id": "nioxkt7utpwsep20rkgr2crb3",
+    "kind": "arxiv",
+    "title": "Key Institutional Considerations for Designing Effective Independent Verification Organizations",
+    "titleZh": "设计有效 AI 独立验证机构的关键制度考量",
+    "line": "提出独立验证机构 IVO 的制度设计框架，覆盖前沿与企业 AI 评估",
+    "topics": [],
+    "venue": "arXiv 2611.10168",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.10168",
+    "site": "https://aisafetyhot.com/items/nioxkt7utpwsep20rkgr2crb3",
+    "authors": [
+      "Uma Kalkar",
+      "Rumman Chowdhury",
+      "Reva Schwartz",
+      "Gabriella Waters"
+    ]
+  },
+  {
+    "id": "p19wag7uq7yryg0ywsj18zimd",
+    "kind": "arxiv",
+    "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+    "titleZh": "神经前线无战事：语言模型不报告被注入的疼痛状态",
+    "line": "用 OWMI 框架向模型注入 pain direction，测量其自我报告内部状态的能力",
+    "topics": [],
+    "venue": "arXiv 2611.10123",
+    "date": "2026-11-06",
+    "url": "https://huggingface.co/papers/2611.10123",
+    "site": "https://aisafetyhot.com/items/p19wag7uq7yryg0ywsj18zimd",
+    "authors": [
+      "Emilio Ferrara"
+    ]
+  },
+  {
+    "id": "bcvoh88c1ebcqxdv0cpiskv7r",
+    "kind": "arxiv",
+    "title": "Can LLMs Debug Robots by Editing Their Weights?",
+    "titleZh": "LLM 能通过编辑权重来调试机器人吗？",
+    "line": "论文展示 LLM 能通过直接编辑权重修复机器人策略的词汇指令理解缺陷。",
+    "topics": [],
+    "venue": "arXiv 2611.09376",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.09376v1",
+    "site": "https://aisafetyhot.com/items/bcvoh88c1ebcqxdv0cpiskv7r",
+    "authors": [
+      "Jusheng Zhang",
+      "Keze Wang",
+      "Liang Lin"
+    ]
+  },
+  {
+    "id": "vhiit3l8hb2rd5ipy8p5152u1",
+    "kind": "arxiv",
+    "title": "Logit Laundering: Evading Data-Use Auditing in Large Language Models",
+    "titleZh": "Logit Laundering：规避大语言模型数据使用审计",
+    "line": "提出 Logit Laundering 攻击，推理时重塑 logit 以规避数据使用审计",
+    "topics": [],
+    "venue": "arXiv 2611.09446",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.09446",
+    "site": "https://aisafetyhot.com/items/vhiit3l8hb2rd5ipy8p5152u1",
+    "authors": [
+      "Ruihan Hu",
+      "Wei Luo",
+      "Yu-Ming Shang",
+      "Jiakai Wang",
+      "Chuxuan Zhang",
+      "Mei Li",
+      "Xi Zhang",
+      "Meikang Qiu"
+    ]
+  },
+  {
+    "id": "wlnq098g3pyjp61oup27bqr5x",
+    "kind": "arxiv",
+    "title": "AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models",
+    "titleZh": "AUTEUR：面向文生音频模型红队测试的声学计划学习",
+    "line": "提出 AUTEUR 声学计划学习框架，自动化红队测试文生音频模型并绕过文本护栏",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2611.09351",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.09351",
+    "site": "https://aisafetyhot.com/items/wlnq098g3pyjp61oup27bqr5x",
+    "authors": [
+      "Jiashu Zhang",
+      "Jiaming He",
+      "Zheming Zhang",
+      "Kaizheng Wang",
+      "Bing Li",
+      "Zhiyuan Zha",
+      "Yi Yu"
+    ]
+  },
+  {
+    "id": "ekhtr00amcziej4m09l65de9q",
+    "kind": "arxiv",
+    "title": "Not All Misalignment Is Alike: A Decomposed Benchmark for Emergent Misalignment",
+    "titleZh": "失配并不都一样：一个面向涌现失配的分解式基准",
+    "line": "提出 EMERGE 基准，把涌现失配拆成八种行为分别测量",
+    "topics": [],
+    "venue": "arXiv 2611.08569",
+    "date": "2026-11-05",
+    "url": "https://arxiv.org/abs/2611.08569",
+    "site": "https://aisafetyhot.com/items/ekhtr00amcziej4m09l65de9q",
+    "authors": [
+      "Afonso Domingues",
+      "Mubashara Akhtar",
+      "Bhada Yun",
+      "Xin Chen",
+      "Lukas Fluri",
+      "Anna Hedström"
+    ]
+  },
+  {
+    "id": "kc1o98ulhzdbsyx132dwdsecu",
+    "kind": "arxiv",
+    "title": "Benchmarking AI risk behaviors",
+    "titleZh": "对 AI 风险行为进行基准测试",
+    "line": "提出 Risk Toolbox 基准，用确定性等价方法测量大模型的风险倾向及其稳定性",
+    "topics": [],
+    "venue": "arXiv 2611.16318",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16318",
+    "site": "https://aisafetyhot.com/items/kc1o98ulhzdbsyx132dwdsecu",
+    "authors": [
+      "Luhan Mikaelson",
+      "Robert Adragna",
+      "Emmett Brosowsky",
+      "Hayley Clatterbuck"
+    ]
+  },
+  {
+    "id": "u1rrt4t1tz7z4rvbw4mkxn3ki",
+    "kind": "arxiv",
+    "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+    "titleZh": "行动者、裁判还是教师？理解长程智能体中的决策模型",
+    "line": "系统比较决策模型在长程智能体中作为行动者、裁判和教师的表现",
+    "topics": [],
+    "venue": "arXiv 2611.17167",
+    "date": "2026-11-12",
+    "url": "https://huggingface.co/papers/2611.17167",
+    "site": "https://aisafetyhot.com/items/u1rrt4t1tz7z4rvbw4mkxn3ki",
+    "authors": [
+      "Haochen Liu",
+      "Qianhao Zhu",
+      "Zixuan Wang",
+      "Dingming Li",
+      "Tongbo Chen",
+      "Peng Qiu",
+      "Yingqi Qu",
+      "Weiming Lu",
+      "Jun Xiao",
+      "Yongliang Shen"
+    ]
+  },
+  {
+    "id": "r83jxu7wiphc0wmq30zqoz4p4",
+    "kind": "arxiv",
+    "title": "Signed Dyadic Path Encoding for Efficient Non-Interactive Private Decision Tree Evaluation over TFHE",
+    "titleZh": "用于 TFHE 上高效非交互式隐私决策树求值的带符号二进路径编码",
+    "line": "提出签名二进制路径编码，减少 TFHE 私有决策树求值的自举次数",
+    "topics": [],
+    "venue": "arXiv 2611.16818",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16818",
+    "site": "https://aisafetyhot.com/items/r83jxu7wiphc0wmq30zqoz4p4",
+    "authors": [
+      "Xintong Song",
+      "Yiqiang Zhao",
+      "Qizhi Zhang",
+      "Yao Li",
+      "Jiaji He",
+      "Fei Zhao"
+    ]
+  },
+  {
+    "id": "qnl0topcwz2wf8qtfshjf4778",
+    "kind": "arxiv",
+    "title": "Same-State Pairs Make One JEPA Proof of the Platonic Representation Hypothesis Vacuous",
+    "titleZh": "同状态样本对使某个 JEPA 对柏拉图表征假说的证明失去内容",
+    "line": "分析 JEPA 版柏拉图表征假说证明在同态正样本下唯一性前提失效",
+    "topics": [],
+    "venue": "arXiv 2611.16182",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.16182",
+    "site": "https://aisafetyhot.com/items/qnl0topcwz2wf8qtfshjf4778",
+    "authors": [
+      "Xin Li"
+    ]
+  }
+]

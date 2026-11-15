@@ -1,5 +1,32 @@
 [
   {
+    "id": "wlnq098g3pyjp61oup27bqr5x",
+    "kind": "arxiv",
+    "title": "AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models",
+    "titleZh": "AUTEUR：面向文生音频模型红队测试的声学计划学习",
+    "line": "提出 AUTEUR 声学计划学习框架，自动化红队测试文生音频模型并绕过文本护栏",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2611.09351",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.09351",
+    "site": "https://aisafetyhot.com/items/wlnq098g3pyjp61oup27bqr5x",
+    "authors": [
+      "Jiashu Zhang",
+      "Jiaming He",
+      "Zheming Zhang",
+      "Kaizheng Wang",
+      "Bing Li",
+      "Zhiyuan Zha",
+      "Yi Yu"
+    ],
+    "pushedOn": "2026-11-16"
+  },
+  {
     "id": "u0y6zdur82m66vnxykutn757h",
     "kind": "arxiv",
     "title": "Babel: Jailbreaking Safety Attention via Obfuscation Distribution Optimized Sampling",

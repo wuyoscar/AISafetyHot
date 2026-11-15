@@ -1,5 +1,30 @@
 [
   {
+    "id": "z9nrq3rlf1vsyopceyu3ewt5k",
+    "kind": "arxiv",
+    "title": "Restoring General and Improving Domain-Specific Safety in Fine-Tuned LLMs Without Retraining",
+    "titleZh": "无需重新训练即可恢复微调大语言模型的通用安全性并改善领域特定安全性",
+    "line": "提出免训练权重注入方法 SPECTRA，恢复领域微调模型的拒答安全性",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2611.10279",
+    "date": "2026-11-06",
+    "url": "https://arxiv.org/abs/2611.10279",
+    "site": "https://aisafetyhot.com/items/z9nrq3rlf1vsyopceyu3ewt5k",
+    "authors": [
+      "Vishnu Kabir Chhabra",
+      "Ding Zhu",
+      "Zhihui Zhu",
+      "Xueru Zhang",
+      "Mohammad Mahdi Khalili"
+    ],
+    "pushedOn": "2026-11-16"
+  },
+  {
     "id": "icml:2026:o3SFLhXkvX",
     "kind": "conference",
     "title": "Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP",
