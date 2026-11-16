@@ -1,0 +1,25 @@
+[
+  {
+    "id": "fxafmziktxxltvw1owro217yf",
+    "arxivId": "2611.17481",
+    "title": "Creating Steering Vectors via Input Optimisation",
+    "titleEn": "Constructing a steering vector via input optimization",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.17481",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/fxafmziktxxltvw1owro217yf"
+    },
+    "publishedAt": "2026-11-12T20:06:14.000Z",
+    "timelineAt": "2026-11-16T05:47:38.588Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
