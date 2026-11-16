@@ -1,5 +1,26 @@
 [
   {
+    "id": "fxafmziktxxltvw1owro217yf",
+    "kind": "arxiv",
+    "title": "Creating Steering Vectors via Input Optimisation",
+    "titleZh": "通过输入优化构造 steering vector",
+    "line": "提出 ActGCG，用 GCG 搜索输入后缀复现 steering vector 的激活与行为",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2611.17481",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17481",
+    "site": "https://aisafetyhot.com/items/fxafmziktxxltvw1owro217yf",
+    "authors": [
+      "Batuhan Akar"
+    ],
+    "pushedOn": "2026-11-17"
+  },
+  {
     "id": "wlnq098g3pyjp61oup27bqr5x",
     "kind": "arxiv",
     "title": "AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models",

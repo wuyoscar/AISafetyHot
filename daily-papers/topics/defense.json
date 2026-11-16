@@ -1,5 +1,29 @@
 [
   {
+    "id": "omqqywlnvksd7ideassvhul6y",
+    "kind": "arxiv",
+    "title": "Local Sparsity Enables Unsupervised LLM Safety Detection",
+    "titleZh": "局部稀疏性实现无监督 LLM 安全检测",
+    "line": "提出局部稀疏无监督安全检测，标记偏离安全分布的输入",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2609.20129",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20129v1",
+    "site": "https://aisafetyhot.com/items/omqqywlnvksd7ideassvhul6y",
+    "authors": [
+      "Xin Chen",
+      "Gil Kur",
+      "Alexander Shevchenko",
+      "Andreas Krause"
+    ],
+    "pushedOn": "2026-11-17"
+  },
+  {
     "id": "z9nrq3rlf1vsyopceyu3ewt5k",
     "kind": "arxiv",
     "title": "Restoring General and Improving Domain-Specific Safety in Fine-Tuned LLMs Without Retraining",

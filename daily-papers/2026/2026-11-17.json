@@ -1,0 +1,600 @@
+[
+  {
+    "id": "twe2tlczkudc4zei04rnq876b",
+    "kind": "arxiv",
+    "title": "An Operationalization of Opaque Serial Depth",
+    "titleZh": "不透明串行深度的一种操作化定义",
+    "line": "提出 NLS depth 度量，量化模型不经可解释瓶颈的串行认知深度",
+    "topics": [],
+    "venue": "arXiv 2611.17495",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17495",
+    "site": "https://aisafetyhot.com/items/twe2tlczkudc4zei04rnq876b",
+    "authors": [
+      "Nathan Sheffield",
+      "Alek Westover",
+      "Lukas Finnveden",
+      "Alexa Pan",
+      "Julian Stastny",
+      "Ryan Greenblatt"
+    ]
+  },
+  {
+    "id": "w1wqaeg4wzjplcnts5tjbfhod",
+    "kind": "arxiv",
+    "title": "Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents",
+    "titleZh": "Soteria：面向安全 LLM 智能体的形式化验证规划与运行时强制执行",
+    "line": "Soteria 框架通过形式化验证的分层规划与运行时强制执行，让 LLM 智能体兼顾安全与任务效用。",
+    "topics": [],
+    "venue": "arXiv 2611.17880",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17880",
+    "site": "https://aisafetyhot.com/items/w1wqaeg4wzjplcnts5tjbfhod",
+    "authors": [
+      "Mike He",
+      "Ankush Desai",
+      "Sharad Malik",
+      "Aarti Gupta"
+    ]
+  },
+  {
+    "id": "k0c5m2kjgagd8c9s6t6e77wrg",
+    "kind": "arxiv",
+    "title": "Adaptable Watermarking: Transforming Image Watermarking Models via Lightweight Adapters",
+    "titleZh": "可适配水印：通过轻量级适配器转换图像水印模型",
+    "line": "新框架让图像水印模型通过轻量级适配器即可转换为其他水印风格，无需重训完整模型。适配器以多域残差对齐损失微调，同时保持比特准确率。",
+    "topics": [],
+    "venue": "arXiv 2611.18363",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18363",
+    "site": "https://aisafetyhot.com/items/k0c5m2kjgagd8c9s6t6e77wrg",
+    "authors": [
+      "Mehrdad Saberi",
+      "Vishal Asnani",
+      "Shruti Agarwal",
+      "Soheil Feizi",
+      "John Collomosse"
+    ]
+  },
+  {
+    "id": "xm83aydb5r75ljxzzgw45b9wc",
+    "kind": "arxiv",
+    "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+    "titleZh": "WebArena-Pro：面向网页智能体的异构、多模态、可复现基准",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2611.17955",
+    "date": "2026-11-13",
+    "url": "https://huggingface.co/papers/2611.17955",
+    "site": "https://aisafetyhot.com/items/xm83aydb5r75ljxzzgw45b9wc",
+    "authors": [
+      "Imene Kerboua",
+      "Fatemeh Pesaran Zadeh",
+      "Xing Han Lù",
+      "Weijian Qi",
+      "Alexander Miller",
+      "Junyi Song",
+      "Yunjia Tian",
+      "Dongjin Kang",
+      "Seyeon Choi",
+      "Marzia Nouri",
+      "Ewen Gueguen",
+      "Matteo Boglioni",
+      "Fengyuan Liu",
+      "Zeyi Liao",
+      "Mengqi Yuan",
+      "Yue Li",
+      "Alexandre Lacoste",
+      "Alexandre Drouin",
+      "Spandana Gella",
+      "Huan Sun",
+      "Gunhee Kim",
+      "Siva Reddy"
+    ]
+  },
+  {
+    "id": "a3j6av1gft2o4myvp2oioueae",
+    "kind": "arxiv",
+    "title": "Auditing Chatbots for Incursion into Professional Legal Practice",
+    "titleZh": "审计聊天机器人对专业法律执业领域的侵入",
+    "line": "构建 UPLBench 审计聊天机器人是否越界提供构成无证执业的法律建议",
+    "topics": [],
+    "venue": "arXiv 2611.17622",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17622",
+    "site": "https://aisafetyhot.com/items/a3j6av1gft2o4myvp2oioueae",
+    "authors": [
+      "Nel Escher",
+      "Megan Elliott",
+      "Isabelle Qian",
+      "Yana Sharifullina",
+      "Svenja Guhr",
+      "Deja Davis",
+      "Deirdre Mulligan"
+    ]
+  },
+  {
+    "id": "fvyh2qqf5mw3jw85dxflitatx",
+    "kind": "arxiv",
+    "title": "Beyond Attack-Based Accuracy: Rethinking Adversarial Robustness Evaluation Through Structural Gradient Alignment",
+    "titleZh": "超越基于攻击的准确率：通过结构梯度对齐重新思考对抗鲁棒性评估",
+    "line": "提出 SGA 指标，用输入梯度结构对齐评估视觉模型对抗鲁棒性排序",
+    "topics": [],
+    "venue": "arXiv 2611.17377",
+    "date": "2026-11-11",
+    "url": "https://arxiv.org/abs/2611.17377",
+    "site": "https://aisafetyhot.com/items/fvyh2qqf5mw3jw85dxflitatx",
+    "authors": [
+      "Hanrui Wang",
+      "Yu Luo",
+      "Shuo Wang",
+      "Xingbo Dong",
+      "Zhe Jin",
+      "Isao Echizen"
+    ]
+  },
+  {
+    "id": "sxcs1qxjh16iq223azuc5do78",
+    "kind": "arxiv",
+    "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
+    "titleZh": "红队测试 Auto Mode：用注入与多上下文攻击绕过编码 Agent 阻断监控器",
+    "line": "提出 Auto Mode ++，加固编码 Agent 阻断监视器",
+    "topics": [],
+    "venue": "arXiv 2609.19587",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.19587v2",
+    "site": "https://aisafetyhot.com/items/sxcs1qxjh16iq223azuc5do78",
+    "authors": [
+      "Alex Remedios",
+      "Simon Storf",
+      "Fabien Roger",
+      "John Hughes"
+    ]
+  },
+  {
+    "id": "g7lx5640c28tm2xzw6ki619hw",
+    "kind": "arxiv",
+    "title": "Coding Agents with Harness for Safe Robot Control",
+    "titleZh": "带护栏的编码 Agent 实现安全的机器人控制",
+    "line": "研究者评估了由大模型编写机器人控制程序的编码 Agent 在避障约束下的安全性，并提出护栏方案 SafeHarness。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.20822",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20822v2",
+    "site": "https://aisafetyhot.com/items/g7lx5640c28tm2xzw6ki619hw",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
+    ]
+  },
+  {
+    "id": "gpxdtop770qo1xou6e2nvoco7",
+    "kind": "arxiv",
+    "title": "Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation",
+    "titleZh": "Provenance-Aware Transformers：用来源感知架构分离可信边界以防御间接提示注入",
+    "line": "提出 Provenance-Aware Transformers，隔离不可信来源防御间接提示注入",
+    "topics": [],
+    "venue": "arXiv 2609.21088",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.21088v1",
+    "site": "https://aisafetyhot.com/items/gpxdtop770qo1xou6e2nvoco7",
+    "authors": [
+      "Yuxuan Zhang",
+      "Jeff Huang",
+      "Guofei Gu"
+    ]
+  },
+  {
+    "id": "omqqywlnvksd7ideassvhul6y",
+    "kind": "arxiv",
+    "title": "Local Sparsity Enables Unsupervised LLM Safety Detection",
+    "titleZh": "局部稀疏性实现无监督 LLM 安全检测",
+    "line": "提出局部稀疏无监督安全检测，标记偏离安全分布的输入",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2609.20129",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20129v1",
+    "site": "https://aisafetyhot.com/items/omqqywlnvksd7ideassvhul6y",
+    "authors": [
+      "Xin Chen",
+      "Gil Kur",
+      "Alexander Shevchenko",
+      "Andreas Krause"
+    ]
+  },
+  {
+    "id": "et5aips3hnx63jzbaft4m4950",
+    "kind": "arxiv",
+    "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+    "titleZh": "推理引擎指纹识别攻击具备可行性：模型驱动的环境发现、利用与逃逸",
+    "line": "提出推理引擎指纹识别攻击，误对齐模型探测引擎并发起逃逸链",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.20614",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20614v1",
+    "site": "https://aisafetyhot.com/items/et5aips3hnx63jzbaft4m4950",
+    "authors": [
+      "Sarah Radway",
+      "Andrew Cheng",
+      "Vijay Janapa Reddi",
+      "James Mickens"
+    ]
+  },
+  {
+    "id": "v49il6da9kmf3wr1pwgybqo98",
+    "kind": "arxiv",
+    "title": "Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection",
+    "titleZh": "ROGUE：通过对抗学习为音频深度伪造检测生成鲁棒工作流",
+    "line": "提出 ROGUE 对抗学习框架，生成抗真实扰动的音频深伪检测工作流",
+    "topics": [],
+    "venue": "arXiv 2609.20063",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20063v1",
+    "site": "https://aisafetyhot.com/items/v49il6da9kmf3wr1pwgybqo98",
+    "authors": [
+      "Xiang Li",
+      "Pin-Yu Chen",
+      "Wenqi Wei"
+    ]
+  },
+  {
+    "id": "ggt3eoxtkir75tjj9arch3dw5",
+    "kind": "arxiv",
+    "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+    "titleZh": "SoK 论文提出 FARSIGHT 框架，评测 15 个学术金融 LLM 交易 Agent 的鲁棒性与安全失败",
+    "line": "用 FARSIGHT 方案级评测金融 LLM 交易 Agent 的稳健性与安全失败",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.19705",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.19705v1",
+    "site": "https://aisafetyhot.com/items/ggt3eoxtkir75tjj9arch3dw5",
+    "authors": [
+      "Mengxiao Wang",
+      "Nitesh Saxena"
+    ]
+  },
+  {
+    "id": "no1uz68wculdyvou942m1qp35",
+    "kind": "arxiv",
+    "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+    "titleZh": "DPO 与 RLHF 的条件等价性：隐含假设、失效模式与可证明对齐",
+    "line": "证明 DPO 与 RLHF 等价有条件，揭示失效并提出 CPO 约束优化",
+    "topics": [],
+    "venue": "arXiv 2605.20834",
+    "date": "2026-05-20",
+    "url": "https://arxiv.org/abs/2605.20834v1",
+    "site": "https://aisafetyhot.com/items/no1uz68wculdyvou942m1qp35",
+    "authors": [
+      "Zhiqin Yang",
+      "Yonggang Zhang",
+      "Wei Xue",
+      "Dong Fang",
+      "Bo Han",
+      "Yike Guo"
+    ]
+  },
+  {
+    "id": "r6w68ixmg06epskgii3g473nd",
+    "kind": "arxiv",
+    "title": "Latent-space Attacks for Refusal Evasion in Language Models",
+    "titleZh": "语言模型中规避拒答的潜空间攻击",
+    "line": "提出受控潜空间规避攻击，将表征推过拒绝边界以绕过拒答",
+    "topics": [],
+    "venue": "arXiv 2605.21706",
+    "date": "2026-05-20",
+    "url": "https://arxiv.org/abs/2605.21706v2",
+    "site": "https://aisafetyhot.com/items/r6w68ixmg06epskgii3g473nd",
+    "authors": [
+      "Giorgio Piras",
+      "Raffaele Mura",
+      "Fabio Brau",
+      "Maura Pintor",
+      "Luca Oneto",
+      "Fabio Roli",
+      "Battista Biggio"
+    ]
+  },
+  {
+    "id": "iq6w5n55cxisb0hse5bdhq21t",
+    "kind": "arxiv",
+    "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
+    "titleZh": "面向 LLM 分布外对齐失败的监控器基准评测与改进",
+    "line": "提出 MOOD 基准并组合护栏与 OOD 检测器改进失准监控",
+    "topics": [],
+    "venue": "arXiv 2605.21602",
+    "date": "2026-05-20",
+    "url": "https://arxiv.org/abs/2605.21602v2",
+    "site": "https://aisafetyhot.com/items/iq6w5n55cxisb0hse5bdhq21t",
+    "authors": [
+      "Dylan Feng",
+      "Pragya Srivastava",
+      "Anca Dragan",
+      "Cassidy Laidlaw"
+    ]
+  },
+  {
+    "id": "sgx5ksmts6mnjdfm0lo4qxp5x",
+    "kind": "arxiv",
+    "title": "Disentangling Forgetting from Utility: Lightweight LLM Unlearning via Orthogonal Null-Space Projection",
+    "titleZh": "将遗忘与效用解耦：基于正交零空间投影的轻量级 LLM 遗忘",
+    "line": "提出 UUE 零空间投影遗忘方法，在删除指定知识时保留模型效用",
+    "topics": [],
+    "venue": "arXiv 2611.17864",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17864",
+    "site": "https://aisafetyhot.com/items/sgx5ksmts6mnjdfm0lo4qxp5x",
+    "authors": [
+      "Xiuyuan Wang",
+      "Weiming Liu",
+      "Zongxin Yang",
+      "Fan Wang",
+      "Liemiao Jin",
+      "Rubin Qin",
+      "Wei Chen",
+      "Bin Shi",
+      "Chaochao Chen",
+      "Xiaolin Zheng"
+    ]
+  },
+  {
+    "id": "vgr97lqeojzprpq5lrai97d1a",
+    "kind": "arxiv",
+    "title": "Representational Geometry as a Diagnostic for Adversarial Robustness",
+    "titleZh": "表征几何作为对抗鲁棒性的诊断工具",
+    "line": "用 M-PHATE 嵌入与几何指标诊断对抗训练如何重塑网络表示几何",
+    "topics": [],
+    "venue": "arXiv 2611.17684",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17684",
+    "site": "https://aisafetyhot.com/items/vgr97lqeojzprpq5lrai97d1a",
+    "authors": [
+      "Brandon Ismalej",
+      "Alex Cloninger",
+      "Gal Mishne"
+    ]
+  },
+  {
+    "id": "t9a33pqkeoyjlmqztex6e1ul3",
+    "kind": "arxiv",
+    "title": "Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption",
+    "titleZh": "抗蒸馏很便宜：通过风格破坏实现轻量级蒸馏抵抗",
+    "line": "提出向教师激活注入风格转向向量的反蒸馏防御，降低黑盒蒸馏克隆效果",
+    "topics": [],
+    "venue": "arXiv 2611.17772",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17772",
+    "site": "https://aisafetyhot.com/items/t9a33pqkeoyjlmqztex6e1ul3",
+    "authors": [
+      "Anh Tu Ngo",
+      "Anupam Chattopadhyay"
+    ]
+  },
+  {
+    "id": "q7warhppkxh5sabs6rxhcuwar",
+    "kind": "arxiv",
+    "title": "A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space",
+    "titleZh": "一种基于显式约束空间的可泛化安全感知机器人行为规划方法",
+    "line": "提出显式约束空间的安全机器人行为规划框架，执行前检查并纠正计划",
+    "topics": [],
+    "venue": "arXiv 2611.18026",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18026",
+    "site": "https://aisafetyhot.com/items/q7warhppkxh5sabs6rxhcuwar",
+    "authors": [
+      "Xianxu Wu",
+      "Shang-Ching Liu",
+      "Zhaocong Liang",
+      "Hengxiang Chen",
+      "Yujian Ma",
+      "Shenwen Deng",
+      "Qiang Li",
+      "Jianwei Zhang"
+    ]
+  },
+  {
+    "id": "pp5jn5vjyuhrchv30433hlamm",
+    "kind": "arxiv",
+    "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+    "titleZh": "通过社会化实现对齐：选择压力下的权衡学习",
+    "line": "提出进化选择框架比较三类裁决策略，称经验学习策略能收敛人类权衡",
+    "topics": [],
+    "venue": "arXiv 2611.18531",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18531",
+    "site": "https://aisafetyhot.com/items/pp5jn5vjyuhrchv30433hlamm",
+    "authors": [
+      "Thomas Brennan",
+      "Andrew W. Lo",
+      "Chaoyi Zhao"
+    ]
+  },
+  {
+    "id": "blnigo0xa5fk07w2c39111hf0",
+    "kind": "arxiv",
+    "title": "Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners",
+    "titleZh": "对 LLM 规划器中符号词汇漏洞的对抗攻击",
+    "line": "研究者提出名为 Symbolic Swapper 的基于 LLM 的攻击模型，可自动生成使用非标准符号词汇的混淆规划域，系统性破坏强推理模型的规划能力。",
+    "topics": [],
+    "venue": "arXiv 2611.17910",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17910",
+    "site": "https://aisafetyhot.com/items/blnigo0xa5fk07w2c39111hf0",
+    "authors": [
+      "Stephen Obadinma",
+      "Xiaodan Zhu"
+    ]
+  },
+  {
+    "id": "w3pxqya4w4i0qni4rbtpa0tr3",
+    "kind": "arxiv",
+    "title": "Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots",
+    "titleZh": "指导LLM控制的助理机器人的基本与道德价值观个性化",
+    "line": "用三份心理量表测用户期望与 LLM 默认价值画像，评估助理机器人价值观个性化",
+    "topics": [],
+    "venue": "arXiv 2611.18230",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18230",
+    "site": "https://aisafetyhot.com/items/w3pxqya4w4i0qni4rbtpa0tr3",
+    "authors": [
+      "Mateusz Wozniak",
+      "Qi Gao",
+      "Agnieszka Wykowska"
+    ]
+  },
+  {
+    "id": "uuod2lmmngq5ublmreu12dp7s",
+    "kind": "arxiv",
+    "title": "Securing Multi-Agent Systems by Design",
+    "titleZh": "从设计上保障多智能体系统安全",
+    "line": "提出响应操纵攻击 ReMA 与安全聚合规则 SecMAS，防御恶意智能体操纵多智能体聚合结果",
+    "topics": [],
+    "venue": "arXiv 2611.17883",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.17883",
+    "site": "https://aisafetyhot.com/items/uuod2lmmngq5ublmreu12dp7s",
+    "authors": [
+      "Xilong Wang",
+      "Xiaoxing Chen",
+      "Neil Gong"
+    ]
+  },
+  {
+    "id": "oybuujjgoq2oppld87gkgk62g",
+    "kind": "arxiv",
+    "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+    "titleZh": "机制可解释性能否帮助解释 LLM 智能体失败？网页元素幻觉案例研究",
+    "line": "用机制可解释性工具分析网页智能体的元素幻觉，探针可预测、引导可修复但无法完整解释",
+    "topics": [],
+    "venue": "arXiv 2611.18514",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18514",
+    "site": "https://aisafetyhot.com/items/oybuujjgoq2oppld87gkgk62g",
+    "authors": [
+      "Mohamed Aghzal",
+      "Mor Geva",
+      "Gregory J. Stein",
+      "Ziyu Yao"
+    ]
+  },
+  {
+    "id": "fxafmziktxxltvw1owro217yf",
+    "kind": "arxiv",
+    "title": "Creating Steering Vectors via Input Optimisation",
+    "titleZh": "通过输入优化构造 steering vector",
+    "line": "提出 ActGCG，用 GCG 搜索输入后缀复现 steering vector 的激活与行为",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2611.17481",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17481",
+    "site": "https://aisafetyhot.com/items/fxafmziktxxltvw1owro217yf",
+    "authors": [
+      "Batuhan Akar"
+    ]
+  },
+  {
+    "id": "nu2b0qt8zbparlcmgf150arwo",
+    "kind": "arxiv",
+    "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+    "titleZh": "Unfinished-Bench：测量持久智能体在真实工作环境中的规则违反行为",
+    "line": "构建 Unfinished-Bench，测量持久化对 Agent 违反内部文档规则的影响",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.17460",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17460",
+    "site": "https://aisafetyhot.com/items/nu2b0qt8zbparlcmgf150arwo",
+    "authors": [
+      "Seunghyun Lee",
+      "Jaehui Hwang",
+      "Dongyoon Han",
+      "Sangdoo Yun"
+    ]
+  },
+  {
+    "id": "o58o1l2igncs5mb6qth7yi66s",
+    "kind": "arxiv",
+    "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
+    "titleZh": "通过行为轨迹解读编码智能体",
+    "line": null,
+    "topics": [],
+    "venue": "arXiv 2611.17440",
+    "date": "2026-11-12",
+    "url": "https://huggingface.co/papers/2611.17440",
+    "site": "https://aisafetyhot.com/items/o58o1l2igncs5mb6qth7yi66s",
+    "authors": [
+      "Ibragim Badertdinov",
+      "Alexander Golubev"
+    ]
+  },
+  {
+    "id": "s022pevgpbqtrt9cw643refi5",
+    "kind": "arxiv",
+    "title": "From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States",
+    "titleZh": "从字节到行为：来自运行中 GPU 隐藏状态的请求级归因",
+    "line": "用非修改调试器从运行中 GPU 进程读取残差流，实现请求级行为归因",
+    "topics": [],
+    "venue": "arXiv 2611.18272",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18272",
+    "site": "https://aisafetyhot.com/items/s022pevgpbqtrt9cw643refi5",
+    "authors": [
+      "Jonathan Pan",
+      "Yidi Yuan",
+      "Xin Wei Chia",
+      "Xinhui Su",
+      "Vincent Tan",
+      "Brenda Ong"
+    ]
+  },
+  {
+    "id": "c5ypiuprfqp0eakk5ev3dkh8u",
+    "kind": "arxiv",
+    "title": "Causal AI-Driven Secure mmWave Beam Alignment with Defensive Variational Autoencoders",
+    "titleZh": "基于防御性变分自编码器的因果 AI 驱动安全毫米波波束对齐",
+    "line": "提出因果特征选择加 DVAE 去噪的毫米波波束对齐防御，抵御 RSSI 对抗扰动",
+    "topics": [],
+    "venue": "arXiv 2611.18321",
+    "date": "2026-11-13",
+    "url": "https://arxiv.org/abs/2611.18321",
+    "site": "https://aisafetyhot.com/items/c5ypiuprfqp0eakk5ev3dkh8u",
+    "authors": [
+      "Nasir Khan",
+      "Asmaa Abdallah",
+      "Abdulkadir Celik",
+      "Ahmed M. Eltawil",
+      "Sinem Coleri",
+      "Cicek Cavdar"
+    ]
+  }
+]

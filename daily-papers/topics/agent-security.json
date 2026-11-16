@@ -1,5 +1,99 @@
 [
   {
+    "id": "g7lx5640c28tm2xzw6ki619hw",
+    "kind": "arxiv",
+    "title": "Coding Agents with Harness for Safe Robot Control",
+    "titleZh": "带护栏的编码 Agent 实现安全的机器人控制",
+    "line": "研究者评估了由大模型编写机器人控制程序的编码 Agent 在避障约束下的安全性，并提出护栏方案 SafeHarness。",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.20822",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20822v2",
+    "site": "https://aisafetyhot.com/items/g7lx5640c28tm2xzw6ki619hw",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
+    ],
+    "pushedOn": "2026-11-17"
+  },
+  {
+    "id": "et5aips3hnx63jzbaft4m4950",
+    "kind": "arxiv",
+    "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+    "titleZh": "推理引擎指纹识别攻击具备可行性：模型驱动的环境发现、利用与逃逸",
+    "line": "提出推理引擎指纹识别攻击，误对齐模型探测引擎并发起逃逸链",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.20614",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.20614v1",
+    "site": "https://aisafetyhot.com/items/et5aips3hnx63jzbaft4m4950",
+    "authors": [
+      "Sarah Radway",
+      "Andrew Cheng",
+      "Vijay Janapa Reddi",
+      "James Mickens"
+    ],
+    "pushedOn": "2026-11-17"
+  },
+  {
+    "id": "ggt3eoxtkir75tjj9arch3dw5",
+    "kind": "arxiv",
+    "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+    "titleZh": "SoK 论文提出 FARSIGHT 框架，评测 15 个学术金融 LLM 交易 Agent 的鲁棒性与安全失败",
+    "line": "用 FARSIGHT 方案级评测金融 LLM 交易 Agent 的稳健性与安全失败",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.19705",
+    "date": "2026-09-17",
+    "url": "https://arxiv.org/abs/2609.19705v1",
+    "site": "https://aisafetyhot.com/items/ggt3eoxtkir75tjj9arch3dw5",
+    "authors": [
+      "Mengxiao Wang",
+      "Nitesh Saxena"
+    ],
+    "pushedOn": "2026-11-17"
+  },
+  {
+    "id": "nu2b0qt8zbparlcmgf150arwo",
+    "kind": "arxiv",
+    "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+    "titleZh": "Unfinished-Bench：测量持久智能体在真实工作环境中的规则违反行为",
+    "line": "构建 Unfinished-Bench，测量持久化对 Agent 违反内部文档规则的影响",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.17460",
+    "date": "2026-11-12",
+    "url": "https://arxiv.org/abs/2611.17460",
+    "site": "https://aisafetyhot.com/items/nu2b0qt8zbparlcmgf150arwo",
+    "authors": [
+      "Seunghyun Lee",
+      "Jaehui Hwang",
+      "Dongyoon Han",
+      "Sangdoo Yun"
+    ],
+    "pushedOn": "2026-11-17"
+  },
+  {
     "id": "ni4l2l37yiirqfoz3yuaxnb7r",
     "kind": "arxiv",
     "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
