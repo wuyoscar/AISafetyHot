@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.19886",
+    "title": "Recovery Gone Too Far: Understanding and Repairing Risky Fallback in LLM Agents",
+    "titleZh": "恢复走得太远：理解并修复 LLM 智能体中的风险回退",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.19886",
+      "aisafetyhot": "https://aisafetyhot.com/items/ntl7bgq7ng4m5siw8g7ixwrix"
+    },
+    "publishedAt": "2026-11-15T09:05:21.000Z",
+    "timelineAt": "2026-11-17T09:58:33.388Z",
+    "discoveredAt": "2026-11-17T09:58:33.388Z"
+  },
+  {
     "arxivId": "2611.19764",
     "title": "Compositional Exploits in Autonomous Coding Agents: Attack Mechanics and Ephemeral Defense",
     "titleZh": "自主编码智能体中的组合式漏洞利用：攻击机制与临时防御",
@@ -54,9 +72,9 @@
     "discoveredAt": "2026-11-17T08:55:18.391Z"
   },
   {
-    "arxivId": "2611.18790",
-    "title": "Same Evidence, Different Verdicts: Delivery of CT Images and DICOM Metadata Changes VLM Quality-Control Decisions",
-    "titleZh": "相同证据，不同判定：CT 图像与 DICOM 元数据的送达方式改变 VLM 质量控制决策",
+    "arxivId": "2611.21538",
+    "title": "Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle",
+    "titleZh": "乐观验证器会被钻空子：精确过程预言机下的奖励作弊",
     "authors": [],
     "category": null,
     "selected": true,
@@ -64,29 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.18790",
-      "aisafetyhot": "https://aisafetyhot.com/items/dc6njsstvbkd9nye4qfl7x2jg"
+      "paper": "https://arxiv.org/abs/2611.21538",
+      "aisafetyhot": "https://aisafetyhot.com/items/lqurhllu8fk4rcseguz3nv5pm"
     },
-    "publishedAt": "2026-11-13T01:10:59.000Z",
-    "timelineAt": "2026-11-17T08:55:18.100Z",
-    "discoveredAt": "2026-11-17T08:55:18.100Z"
-  },
-  {
-    "arxivId": "2611.20148",
-    "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
-    "titleZh": "Centered Ablation：末层方向消融为何欠触发或崩溃，以及一个闭式修正",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.20148",
-      "aisafetyhot": "https://aisafetyhot.com/items/k00ibh7rzr8whh9n4mj188pa4"
-    },
-    "publishedAt": "2026-11-15T17:30:14.000Z",
-    "timelineAt": "2026-11-17T07:59:18.568Z",
-    "discoveredAt": "2026-11-17T07:59:18.568Z"
+    "publishedAt": "2026-11-16T18:25:42.000Z",
+    "timelineAt": "2026-11-17T08:55:19.844Z",
+    "discoveredAt": "2026-11-17T08:55:19.844Z"
   }
 ]
