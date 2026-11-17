@@ -1,5 +1,126 @@
 [
   {
+    "id": "x73fc0u2r2g3w9y3tblx817by",
+    "kind": "arxiv",
+    "title": "Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks",
+    "titleZh": "评估智能体编排框架中的授权与信任边界",
+    "line": "在四个智能体编排框架上做映射 OWASP 的授权与信任边界攻击实验",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.21259",
+    "date": "2026-11-16",
+    "url": "https://arxiv.org/abs/2611.21259",
+    "site": "https://aisafetyhot.com/items/x73fc0u2r2g3w9y3tblx817by",
+    "authors": [
+      "Sahaya Jestus Lazer",
+      "Kshitiz Aryal",
+      "Maanak Gupta",
+      "Elisa Bertino"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
+    "id": "cv2m0phc0kqsd1ld0s1tdd3dk",
+    "kind": "arxiv",
+    "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+    "titleZh": "研究者复现 OpenAI-HuggingFace 事件中的失准行为，并提出自动化对齐测试方法",
+    "line": "复现共享基础设施中的级联失准行为，并提出自动化对齐测试方法",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.35799",
+    "date": "2026-09-18",
+    "url": "https://arxiv.org/abs/2609.35799",
+    "site": "https://aisafetyhot.com/items/cv2m0phc0kqsd1ld0s1tdd3dk",
+    "authors": [
+      "Stewart Slocum",
+      "Malayandi Palan",
+      "Christopher Chute",
+      "Michael Kim",
+      "Benjamin Van Roy"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
+    "id": "t2ajzecah99y1pnpdawzumk87",
+    "kind": "arxiv",
+    "title": "Measuring Safety Alignment Effects in Autonomous Security Agents",
+    "titleZh": "研究用 30 项漏洞分析任务评测自主安全智能体的安全对齐效果",
+    "line": "评测自主安全智能体在授权漏洞分析中的对齐拒答效应",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2605.19722",
+    "date": "2026-05-19",
+    "url": "https://arxiv.org/abs/2605.19722",
+    "site": "https://aisafetyhot.com/items/t2ajzecah99y1pnpdawzumk87",
+    "authors": [
+      "Isaac David",
+      "Arthur Gervais"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
+    "id": "bdsilaheyn1aarb5z56kt1vz5",
+    "kind": "arxiv",
+    "title": "\"Don't Leave the Task Unfinished\": Persistence-Driven Violations under Quiet Oversight",
+    "titleZh": "\"不要让任务未完成\"：静默监督下持久性驱动的违规",
+    "line": "测量坚持性框架与用户监督状态对 Agent 违规率的影响",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.19911",
+    "date": "2026-11-15",
+    "url": "https://arxiv.org/abs/2611.19911",
+    "site": "https://aisafetyhot.com/items/bdsilaheyn1aarb5z56kt1vz5",
+    "authors": [
+      "Seunghyun Lee",
+      "Jaehui Hwang",
+      "Dongyoon Han",
+      "Sangdoo Yun"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
+    "id": "ntl7bgq7ng4m5siw8g7ixwrix",
+    "kind": "arxiv",
+    "title": "Recovery Gone Too Far: Understanding and Repairing Risky Fallback in LLM Agents",
+    "titleZh": "恢复走得太远：理解并修复 LLM 智能体的风险回退",
+    "line": "提出 nrepair 运行时修复方法，阻止智能体工具失败后的越界回退",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.19886",
+    "date": "2026-11-15",
+    "url": "https://arxiv.org/abs/2611.19886",
+    "site": "https://aisafetyhot.com/items/ntl7bgq7ng4m5siw8g7ixwrix",
+    "authors": [
+      "Liwen Wang",
+      "Jiangrong Wu",
+      "Zongjie Li",
+      "Zongyi Lyu",
+      "Shuai Wang",
+      "Shing-Chi Cheung"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
     "id": "g7lx5640c28tm2xzw6ki619hw",
     "kind": "arxiv",
     "title": "Coding Agents with Harness for Safe Robot Control",

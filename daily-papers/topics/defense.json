@@ -1,5 +1,52 @@
 [
   {
+    "id": "uw13lti5iayn4wj2lq45gqacf",
+    "kind": "arxiv",
+    "title": "Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models",
+    "titleZh": "基于示例的空间引导：扩散模型中的免训练概念擦除",
+    "line": "提出免训练概念擦除方法 EBSG，推理时空间引导抑制扩散模型违规内容",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2611.20623",
+    "date": "2026-11-16",
+    "url": "https://arxiv.org/abs/2611.20623",
+    "site": "https://aisafetyhot.com/items/uw13lti5iayn4wj2lq45gqacf",
+    "authors": [
+      "Younghwan Kil",
+      "Giung Nam",
+      "Joonhyeong Park",
+      "Jinwoo Shin",
+      "Juho Lee"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
+    "id": "eov3mpxiwmow36bak37pbh6t8",
+    "kind": "arxiv",
+    "title": "Protecting Safety during Reasoning Training with Low-Rank Fisher Regularisation",
+    "titleZh": "用低秩 Fisher 正则化在推理训练中保护安全性",
+    "line": "提出 SP-EWC 正则化方法，在推理微调中保持模型的越狱抵抗能力",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2611.20288",
+    "date": "2026-11-15",
+    "url": "https://arxiv.org/abs/2611.20288",
+    "site": "https://aisafetyhot.com/items/eov3mpxiwmow36bak37pbh6t8",
+    "authors": [
+      "Neel Rajani",
+      "Ivan Titov"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
     "id": "omqqywlnvksd7ideassvhul6y",
     "kind": "arxiv",
     "title": "Local Sparsity Enables Unsupervised LLM Safety Detection",

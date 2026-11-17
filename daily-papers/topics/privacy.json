@@ -1,5 +1,31 @@
 [
   {
+    "id": "usenix-security:2026:zhou",
+    "kind": "conference",
+    "title": "Orbit: Optimizing Rescale and Bootstrap Placement with Integer Linear Programming Techniques for Secure Inference",
+    "titleZh": "Orbit：用整数线性规划优化安全推理中的重缩放与自举放置",
+    "line": "提出 FHE 编译器 Orbit，联合优化自举与重缩放放置，在五种负载上较 DaCapo、Orion、ReSBM 分别取得 19%、73%、52% 的几何平均加速，精度损失在 0.3% 以内。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "USENIX Security 2026",
+    "date": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity26/presentation/zhou",
+    "site": null,
+    "authors": [
+      "Zikai Zhou",
+      "William Seo",
+      "Edward Chen",
+      "Alex Ozdemir",
+      "Fraser Brown",
+      "Wenting Zheng"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
     "id": "icml:2026:48suUeYKdb",
     "kind": "conference",
     "title": "SlaClip: Gradient Norm Slacks can be Indicator for Adaptive Clipping in DP-SGD",

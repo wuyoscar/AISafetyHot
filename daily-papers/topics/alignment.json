@@ -1,5 +1,33 @@
 [
   {
+    "id": "neurips:2026:BDgXsrFjIF",
+    "kind": "conference",
+    "title": "Rubric-Align: Safety Alignment through Dynamically Co-Evolving Rubrics",
+    "titleZh": "Rubric-Align：动态共演评分准则的安全对齐",
+    "line": "用动态演化的自然语言评分准则替代静态标量奖励进行安全对齐RL训练，提供细粒度可解释反馈，提升对有害与越狱提示的鲁棒性并基本保持通用能力。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "NeurIPS 2026 poster",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/154753",
+    "site": null,
+    "authors": [
+      "Ruipeng Wang",
+      "Junfeng Fang",
+      "Houcheng Jiang",
+      "Kai Tang",
+      "Pengyu Cheng",
+      "xiaoxi jiang",
+      "Guanjun Jiang",
+      "Xiang Wang"
+    ],
+    "pushedOn": "2026-11-18"
+  },
+  {
     "id": "neurips:2026:2zZdeKdoc6",
     "kind": "conference",
     "title": "Inference-time Alignment via Sparse Junction Steering",
