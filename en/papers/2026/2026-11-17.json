@@ -1,9 +1,101 @@
 [
   {
+    "id": "v43agepabs2k00ufdytycqte5",
+    "arxivId": "2611.19764",
+    "title": "Compositional Exploits in Autonomous Coding Agents: Attack Mechanics and Ephemeral Defense",
+    "titleEn": "Compositional Exploits in Autonomous Coding Agents: Attack Mechanics and Ephemeral Defense",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.19764",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/v43agepabs2k00ufdytycqte5"
+    },
+    "publishedAt": "2026-11-15T03:46:10.000Z",
+    "timelineAt": "2026-11-17T08:41:14.758Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
+    "id": "xfl6h6e25cxcpd8s0um4pdgwf",
+    "arxivId": "2611.18887",
+    "title": "We Have All the Cards: Securing Agent Cards at the Operational Trust Boundary of the Agent2Agent Protocol",
+    "titleEn": "We Have All the Cards: Securing Agent Cards at the Operational Trust Boundary of the Agent2Agent Protocol",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.18887",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/xfl6h6e25cxcpd8s0um4pdgwf"
+    },
+    "publishedAt": "2026-11-13T19:46:07.000Z",
+    "timelineAt": "2026-11-17T08:41:14.818Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "dgj4m1sgwgf8rggzbul6q0oni",
+    "arxivId": "2611.19176",
+    "title": "A Bag of Concepts? Testing Role-Filler Binding in the Verbalizable Workspace",
+    "titleEn": "A Bag of Concepts? Testing Role-Filler Binding in the Verbalizable Workspace",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.19176",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/dgj4m1sgwgf8rggzbul6q0oni"
+    },
+    "publishedAt": "2026-11-14T05:52:00.000Z",
+    "timelineAt": "2026-11-17T08:55:18.391Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "dc6njsstvbkd9nye4qfl7x2jg",
+    "arxivId": "2611.18790",
+    "title": "Same Evidence, Different Verdicts: Delivery of CT Images and DICOM Metadata Changes VLM Quality-Control Decisions",
+    "titleEn": "Same Evidence, Different Verdicts: How Delivery of CT Images and DICOM Metadata Changes VLM Quality Control Decisions",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.18790",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/dc6njsstvbkd9nye4qfl7x2jg"
+    },
+    "publishedAt": "2026-11-13T01:10:59.000Z",
+    "timelineAt": "2026-11-17T08:55:18.100Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "k00ibh7rzr8whh9n4mj188pa4",
     "arxivId": "2611.20148",
     "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
-    "titleEn": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
+    "titleEn": "Centered Ablation: why last-layer direction ablation under-triggers or collapses, and a closed-form correction",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 37,
-      "translated": 13,
-      "pending": 24,
-      "status": "partial"
+      "translated": 37,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]

@@ -1,5 +1,77 @@
 [
   {
+    "arxivId": "2611.19764",
+    "title": "Compositional Exploits in Autonomous Coding Agents: Attack Mechanics and Ephemeral Defense",
+    "titleZh": "自主编码智能体中的组合式漏洞利用：攻击机制与临时防御",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.19764",
+      "aisafetyhot": "https://aisafetyhot.com/items/v43agepabs2k00ufdytycqte5"
+    },
+    "publishedAt": "2026-11-15T03:46:10.000Z",
+    "timelineAt": "2026-11-17T08:41:14.758Z",
+    "discoveredAt": "2026-11-17T08:41:14.758Z"
+  },
+  {
+    "arxivId": "2611.18887",
+    "title": "We Have All the Cards: Securing Agent Cards at the Operational Trust Boundary of the Agent2Agent Protocol",
+    "titleZh": "我们握有全部卡片：在 Agent2Agent 协议的运行信任边界上保障 Agent Card 安全",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.18887",
+      "aisafetyhot": "https://aisafetyhot.com/items/xfl6h6e25cxcpd8s0um4pdgwf"
+    },
+    "publishedAt": "2026-11-13T19:46:07.000Z",
+    "timelineAt": "2026-11-17T08:41:14.818Z",
+    "discoveredAt": "2026-11-17T08:41:14.818Z"
+  },
+  {
+    "arxivId": "2611.19176",
+    "title": "A Bag of Concepts? Testing Role-Filler Binding in the Verbalizable Workspace",
+    "titleZh": "一袋概念吗？检验可言语化工作区中的角色填充绑定",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.19176",
+      "aisafetyhot": "https://aisafetyhot.com/items/dgj4m1sgwgf8rggzbul6q0oni"
+    },
+    "publishedAt": "2026-11-14T05:52:00.000Z",
+    "timelineAt": "2026-11-17T08:55:18.391Z",
+    "discoveredAt": "2026-11-17T08:55:18.391Z"
+  },
+  {
+    "arxivId": "2611.18790",
+    "title": "Same Evidence, Different Verdicts: Delivery of CT Images and DICOM Metadata Changes VLM Quality-Control Decisions",
+    "titleZh": "相同证据，不同判定：CT 图像与 DICOM 元数据的送达方式改变 VLM 质量控制决策",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.18790",
+      "aisafetyhot": "https://aisafetyhot.com/items/dc6njsstvbkd9nye4qfl7x2jg"
+    },
+    "publishedAt": "2026-11-13T01:10:59.000Z",
+    "timelineAt": "2026-11-17T08:55:18.100Z",
+    "discoveredAt": "2026-11-17T08:55:18.100Z"
+  },
+  {
     "arxivId": "2611.20148",
     "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
     "titleZh": "Centered Ablation：末层方向消融为何欠触发或崩溃，以及一个闭式修正",
