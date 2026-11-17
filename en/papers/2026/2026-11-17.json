@@ -3,7 +3,7 @@
     "id": "ntl7bgq7ng4m5siw8g7ixwrix",
     "arxivId": "2611.19886",
     "title": "Recovery Gone Too Far: Understanding and Repairing Risky Fallback in LLM Agents",
-    "titleEn": "Recovery Gone Too Far: Understanding and Repairing Risky Fallback in LLM Agents",
+    "titleEn": "Recovery Goes Too Far: Understanding and Fixing Risky Fallback in LLM Agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -62,8 +62,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 38,
+      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
@@ -92,26 +92,26 @@
     }
   },
   {
-    "id": "lqurhllu8fk4rcseguz3nv5pm",
-    "arxivId": "2611.21538",
-    "title": "Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle",
-    "titleEn": "Optimistic verifiers get gamed: reward hacking under exact process oracles",
+    "id": "gfixn2d66mm4ad693o5nqnd8z",
+    "arxivId": "2611.20291",
+    "title": "Where the Savings Go: The Limits of Hiding Cross-Tenant Cache Hits in LLM Serving",
+    "titleEn": "Where the Savings Go: The Limits of Hiding Cross-Tenant Cache Hits in LLM Serving",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.21538",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/lqurhllu8fk4rcseguz3nv5pm"
+      "paper": "https://arxiv.org/abs/2611.20291",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gfixn2d66mm4ad693o5nqnd8z"
     },
-    "publishedAt": "2026-11-16T18:25:42.000Z",
-    "timelineAt": "2026-11-17T08:55:19.844Z",
+    "publishedAt": "2026-11-15T22:38:13.000Z",
+    "timelineAt": "2026-11-17T08:55:19.130Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
     }
   }
 ]

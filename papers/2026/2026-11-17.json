@@ -2,7 +2,7 @@
   {
     "arxivId": "2611.19886",
     "title": "Recovery Gone Too Far: Understanding and Repairing Risky Fallback in LLM Agents",
-    "titleZh": "恢复走得太远：理解并修复 LLM 智能体中的风险回退",
+    "titleZh": "恢复走得太远：理解并修复 LLM 智能体的风险回退",
     "authors": [],
     "category": null,
     "selected": true,
@@ -72,9 +72,9 @@
     "discoveredAt": "2026-11-17T08:55:18.391Z"
   },
   {
-    "arxivId": "2611.21538",
-    "title": "Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle",
-    "titleZh": "乐观验证器会被钻空子：精确过程预言机下的奖励作弊",
+    "arxivId": "2611.20291",
+    "title": "Where the Savings Go: The Limits of Hiding Cross-Tenant Cache Hits in LLM Serving",
+    "titleZh": "省下的时间去了哪里：在 LLM 服务中隐藏跨租户缓存命中的局限",
     "authors": [],
     "category": null,
     "selected": true,
@@ -82,11 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.21538",
-      "aisafetyhot": "https://aisafetyhot.com/items/lqurhllu8fk4rcseguz3nv5pm"
+      "paper": "https://arxiv.org/abs/2611.20291",
+      "aisafetyhot": "https://aisafetyhot.com/items/gfixn2d66mm4ad693o5nqnd8z"
     },
-    "publishedAt": "2026-11-16T18:25:42.000Z",
-    "timelineAt": "2026-11-17T08:55:19.844Z",
-    "discoveredAt": "2026-11-17T08:55:19.844Z"
+    "publishedAt": "2026-11-15T22:38:13.000Z",
+    "timelineAt": "2026-11-17T08:55:19.130Z",
+    "discoveredAt": "2026-11-17T08:55:19.130Z"
   }
 ]
