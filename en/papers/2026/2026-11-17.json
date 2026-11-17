@@ -1,0 +1,25 @@
+[
+  {
+    "id": "k00ibh7rzr8whh9n4mj188pa4",
+    "arxivId": "2611.20148",
+    "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
+    "titleEn": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.20148",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/k00ibh7rzr8whh9n4mj188pa4"
+    },
+    "publishedAt": "2026-11-15T17:30:14.000Z",
+    "timelineAt": "2026-11-17T07:59:18.568Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 1,
+      "pending": 2,
+      "status": "partial"
+    }
+  }
+]
