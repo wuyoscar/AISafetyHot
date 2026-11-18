@@ -1,0 +1,28 @@
+[
+  {
+    "id": "icse:2026:ea824b23-9911-4788-97cd-1c332df869be",
+    "kind": "conference",
+    "title": "Agentic Predicates Reasoning for Directed Fuzzing",
+    "titleZh": "Locus：基于智能体谓词推理的定向模糊测试",
+    "line": "提出用智能体合成语义谓词引导定向fuzzing的框架，使八个主流fuzzer发现真实漏洞平均提速50.4倍，含六个未修补bug。",
+    "topics": [
+      {
+        "slug": "cyber",
+        "name": "AI 与网络攻防"
+      }
+    ],
+    "venue": "ICSE 2026",
+    "date": null,
+    "url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/61/Agentic-Predicates-Reasoning-for-Directed-Fuzzing",
+    "site": null,
+    "authors": [
+      "Jie Zhu",
+      "Chihao Shen",
+      "Ziyang Li",
+      "Jiahao Yu",
+      "Yizheng Chen",
+      "Kexin Pei"
+    ],
+    "pushedOn": "2026-11-19"
+  }
+]

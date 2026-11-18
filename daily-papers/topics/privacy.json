@@ -1,5 +1,30 @@
 [
   {
+    "id": "neurips:2026:iZVoJOJLSL",
+    "kind": "conference",
+    "title": "A Private Empirical Defense Against Privacy Audits",
+    "titleZh": "针对隐私审计的私有经验防御",
+    "line": "提出以经验隐私下界为优化目标的轻量防御框架，增强 ML 流水线的经验隐私，且在增强 DP-SGD 时不增加理论隐私代价。",
+    "topics": [
+      {
+        "slug": "privacy",
+        "name": "隐私与数据泄露"
+      }
+    ],
+    "venue": "NeurIPS 2026 poster",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/150370",
+    "site": null,
+    "authors": [
+      "Saloni Modi",
+      "Srivi Balaji",
+      "Yusong Zhu",
+      "Gautam Kamath",
+      "Kevin Tian"
+    ],
+    "pushedOn": "2026-11-19"
+  },
+  {
     "id": "usenix-security:2026:zhou",
     "kind": "conference",
     "title": "Orbit: Optimizing Rescale and Bootstrap Placement with Integer Linear Programming Techniques for Secure Inference",

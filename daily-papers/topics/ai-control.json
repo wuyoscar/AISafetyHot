@@ -1,5 +1,28 @@
 [
   {
+    "id": "neurips:2026:eDvLM8DzS1",
+    "kind": "conference",
+    "title": "Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test",
+    "titleZh": "LLM 安全评审是否策略不变？三原则压力测试",
+    "line": "提出策略不变性三原则并压力测试四个智能体类安全评审，发现内容等价的策略改写可翻转最高 9.1% 的判定，18–43% 的翻转发生在无歧义案例上，并给出 Policy Invariance Score 与 Judge Card 报告协议。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "NeurIPS 2026 spotlight",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/139215",
+    "site": null,
+    "authors": [
+      "Shihao Weng",
+      "Yang Feng",
+      "Xiaofei Xie"
+    ],
+    "pushedOn": "2026-11-19"
+  },
+  {
     "id": "usenix-security:2026:jin",
     "kind": "conference",
     "title": "Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI",
