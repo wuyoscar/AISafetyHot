@@ -3,7 +3,7 @@
     "id": "nlvoia57n2ttumbh1r8jaaj6s",
     "arxivId": "2611.21799",
     "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-    "titleEn": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "titleEn": "Chain-of-thought controllability reduces chain-of-thought monitorability",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,101 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 0,
-      "pending": 4,
-      "status": "original"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "w57xmn6o3piowg6kg8cz9q88j",
+    "arxivId": "2611.21832",
+    "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+    "titleEn": "Auditors struggle to detect deliberate sabotage from end-to-end records of AI safety research",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.21832",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/w57xmn6o3piowg6kg8cz9q88j"
+    },
+    "publishedAt": "2026-11-16T19:52:38.000Z",
+    "timelineAt": "2026-11-18T05:02:26.020Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "puu5q8bexo7hygpv7cp1bb908",
+    "arxivId": "2611.22223",
+    "title": "GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk",
+    "titleEn": "GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.22223",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/puu5q8bexo7hygpv7cp1bb908"
+    },
+    "publishedAt": "2026-11-17T05:06:25.000Z",
+    "timelineAt": "2026-11-18T05:02:26.328Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "xejcbvrux23ss93k23aj18e14",
+    "arxivId": "2611.22971",
+    "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
+    "titleEn": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.22971",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/xejcbvrux23ss93k23aj18e14"
+    },
+    "publishedAt": "2026-11-17T15:53:58.000Z",
+    "timelineAt": "2026-11-18T05:02:26.727Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "gopisf8d6t19ejsvvzz0gd9dh",
+    "arxivId": "2611.22612",
+    "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
+    "titleEn": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.22612",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gopisf8d6t19ejsvvzz0gd9dh"
+    },
+    "publishedAt": "2026-11-17T11:26:37.000Z",
+    "timelineAt": "2026-11-18T05:02:26.541Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "arxivId": "2611.21799",
     "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-    "titleZh": "思维链可控性可能降低思维链可监控性",
+    "titleZh": "思维链可控性会降低思维链可监控性",
     "authors": [],
     "category": null,
     "selected": true,
@@ -16,5 +16,77 @@
     "publishedAt": "2026-11-16T19:17:47.000Z",
     "timelineAt": "2026-11-18T05:02:25.991Z",
     "discoveredAt": "2026-11-18T05:02:25.991Z"
+  },
+  {
+    "arxivId": "2611.21832",
+    "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+    "titleZh": "审计员难以从AI安全研究的端到端记录中发现蓄意破坏",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.21832",
+      "aisafetyhot": "https://aisafetyhot.com/items/w57xmn6o3piowg6kg8cz9q88j"
+    },
+    "publishedAt": "2026-11-16T19:52:38.000Z",
+    "timelineAt": "2026-11-18T05:02:26.020Z",
+    "discoveredAt": "2026-11-18T05:02:26.020Z"
+  },
+  {
+    "arxivId": "2611.22223",
+    "title": "GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk",
+    "titleZh": "GapLeak：当隐私保护的 LLM 网页智能体成为隐私风险",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.22223",
+      "aisafetyhot": "https://aisafetyhot.com/items/puu5q8bexo7hygpv7cp1bb908"
+    },
+    "publishedAt": "2026-11-17T05:06:25.000Z",
+    "timelineAt": "2026-11-18T05:02:26.328Z",
+    "discoveredAt": "2026-11-18T05:02:26.328Z"
+  },
+  {
+    "arxivId": "2611.22971",
+    "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
+    "titleZh": "SEAM：计算机使用智能体知道屏幕之间的危害，却仍然实施",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.22971",
+      "aisafetyhot": "https://aisafetyhot.com/items/xejcbvrux23ss93k23aj18e14"
+    },
+    "publishedAt": "2026-11-17T15:53:58.000Z",
+    "timelineAt": "2026-11-18T05:02:26.727Z",
+    "discoveredAt": "2026-11-18T05:02:26.727Z"
+  },
+  {
+    "arxivId": "2611.22612",
+    "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
+    "titleZh": "诊断正确，路径不安全：审计临床AI决策轨迹与纠正性监督的有效性和潜在危害",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.22612",
+      "aisafetyhot": "https://aisafetyhot.com/items/gopisf8d6t19ejsvvzz0gd9dh"
+    },
+    "publishedAt": "2026-11-17T11:26:37.000Z",
+    "timelineAt": "2026-11-18T05:02:26.541Z",
+    "discoveredAt": "2026-11-18T05:02:26.541Z"
   }
 ]
