@@ -1,0 +1,25 @@
+[
+  {
+    "id": "nlvoia57n2ttumbh1r8jaaj6s",
+    "arxivId": "2611.21799",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "titleEn": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.21799",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/nlvoia57n2ttumbh1r8jaaj6s"
+    },
+    "publishedAt": "2026-11-16T19:17:47.000Z",
+    "timelineAt": "2026-11-18T05:02:25.991Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "arxivId": "2611.21799",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "titleZh": "思维链可控性可能降低思维链可监控性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.21799",
+      "aisafetyhot": "https://aisafetyhot.com/items/nlvoia57n2ttumbh1r8jaaj6s"
+    },
+    "publishedAt": "2026-11-16T19:17:47.000Z",
+    "timelineAt": "2026-11-18T05:02:25.991Z",
+    "discoveredAt": "2026-11-18T05:02:25.991Z"
+  }
+]
