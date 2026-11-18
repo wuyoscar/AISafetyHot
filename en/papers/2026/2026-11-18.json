@@ -3,7 +3,7 @@
     "id": "nlvoia57n2ttumbh1r8jaaj6s",
     "arxivId": "2611.21799",
     "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-    "titleEn": "Chain-of-thought controllability reduces chain-of-thought monitorability",
+    "titleEn": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,17 +16,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
     "id": "w57xmn6o3piowg6kg8cz9q88j",
     "arxivId": "2611.21832",
     "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-    "titleEn": "Auditors struggle to detect deliberate sabotage from end-to-end records of AI safety research",
+    "titleEn": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -39,10 +39,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 12,
+      "translated": 8,
+      "pending": 4,
+      "status": "partial"
     }
   },
   {
