@@ -3,7 +3,7 @@
     "id": "l1fz2asvl86zjhx3xcgchnvun",
     "arxivId": "2611.23068",
     "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
-    "titleEn": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+    "titleEn": "Resolution Hypothesis: the key to agent evolution is recognizing improvement",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 3,
-      "translated": 0,
-      "pending": 3,
-      "status": "original"
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
