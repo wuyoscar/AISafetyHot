@@ -95,7 +95,7 @@
     "id": "gopisf8d6t19ejsvvzz0gd9dh",
     "arxivId": "2611.22612",
     "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
-    "titleEn": "Correct diagnosis, unsafe path: auditing clinical AI decision trajectories and the effectiveness and potential harms of corrective oversight",
+    "titleEn": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -108,10 +108,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 37,
+      "translated": 27,
+      "pending": 10,
+      "status": "partial"
     }
   }
 ]

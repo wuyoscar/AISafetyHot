@@ -1,5 +1,51 @@
 [
   {
+    "id": "b2urbzsynhri6b9k8goc4yyeo",
+    "arxivId": "2611.24276",
+    "title": "When Shuffling Fails: Token Recovery from Obfuscated KV Caches",
+    "titleEn": "When Shuffling Fails: Token Recovery from Obfuscated KV Caches",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.24276",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/b2urbzsynhri6b9k8goc4yyeo"
+    },
+    "publishedAt": "2026-11-18T11:53:51.000Z",
+    "timelineAt": "2026-11-19T05:08:24.394Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  },
+  {
+    "id": "oh77wa3faozsd9omt3xkvbip2",
+    "arxivId": "2611.23335",
+    "title": "Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks",
+    "titleEn": "Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.23335",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/oh77wa3faozsd9omt3xkvbip2"
+    },
+    "publishedAt": "2026-11-17T01:43:45.000Z",
+    "timelineAt": "2026-11-19T05:08:24.699Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
+    }
+  },
+  {
     "id": "l1fz2asvl86zjhx3xcgchnvun",
     "arxivId": "2611.23068",
     "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
@@ -16,10 +62,56 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 3,
+      "total": 37,
+      "translated": 37,
       "pending": 0,
       "status": "complete"
+    }
+  },
+  {
+    "id": "xzxvr1xhfl9qaj2bu3yoxxka7",
+    "arxivId": "2611.23365",
+    "title": "Training Language Models for Introspective Oversight",
+    "titleEn": "Training Language Models for Introspective Oversight",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.23365",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/xzxvr1xhfl9qaj2bu3yoxxka7"
+    },
+    "publishedAt": "2026-11-17T18:59:07.000Z",
+    "timelineAt": "2026-11-19T05:08:23.786Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "svdbbeiavrcxb8iao4l3fy121",
+    "arxivId": "2611.23305",
+    "title": "Dependency Fabrication in Repository Deployment Agents",
+    "titleEn": "Dependency Fabrication in Repository Deployment Agents",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.23305",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/svdbbeiavrcxb8iao4l3fy121"
+    },
+    "publishedAt": "2026-11-10T17:18:53.000Z",
+    "timelineAt": "2026-11-19T05:14:23.490Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "status": "original"
     }
   }
 ]

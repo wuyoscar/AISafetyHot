@@ -1,5 +1,41 @@
 [
   {
+    "arxivId": "2611.24276",
+    "title": "When Shuffling Fails: Token Recovery from Obfuscated KV Caches",
+    "titleZh": "当洗牌失效时：从被混淆的 KV 缓存中恢复 token",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.24276",
+      "aisafetyhot": "https://aisafetyhot.com/items/b2urbzsynhri6b9k8goc4yyeo"
+    },
+    "publishedAt": "2026-11-18T11:53:51.000Z",
+    "timelineAt": "2026-11-19T05:08:24.394Z",
+    "discoveredAt": "2026-11-19T05:08:24.394Z"
+  },
+  {
+    "arxivId": "2611.23335",
+    "title": "Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks",
+    "titleZh": "Truthgate：对照编码智能体无法编辑的记录核查其行为——不可能任务上的作弊、威慑与披露",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.23335",
+      "aisafetyhot": "https://aisafetyhot.com/items/oh77wa3faozsd9omt3xkvbip2"
+    },
+    "publishedAt": "2026-11-17T01:43:45.000Z",
+    "timelineAt": "2026-11-19T05:08:24.699Z",
+    "discoveredAt": "2026-11-19T05:08:24.699Z"
+  },
+  {
     "arxivId": "2611.23068",
     "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
     "titleZh": "分辨率假说：智能体进化的关键在于识别改进",
@@ -16,5 +52,41 @@
     "publishedAt": "2026-11-17T16:57:03.000Z",
     "timelineAt": "2026-11-19T03:22:27.866Z",
     "discoveredAt": "2026-11-19T03:22:27.866Z"
+  },
+  {
+    "arxivId": "2611.23365",
+    "title": "Training Language Models for Introspective Oversight",
+    "titleZh": "训练语言模型进行内省监督",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.23365",
+      "aisafetyhot": "https://aisafetyhot.com/items/xzxvr1xhfl9qaj2bu3yoxxka7"
+    },
+    "publishedAt": "2026-11-17T18:59:07.000Z",
+    "timelineAt": "2026-11-19T05:08:23.786Z",
+    "discoveredAt": "2026-11-19T05:08:23.786Z"
+  },
+  {
+    "arxivId": "2611.23305",
+    "title": "Dependency Fabrication in Repository Deployment Agents",
+    "titleZh": "仓库部署智能体中的依赖伪造",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.23305",
+      "aisafetyhot": "https://aisafetyhot.com/items/svdbbeiavrcxb8iao4l3fy121"
+    },
+    "publishedAt": "2026-11-10T17:18:53.000Z",
+    "timelineAt": "2026-11-19T05:14:23.490Z",
+    "discoveredAt": "2026-11-19T05:14:23.490Z"
   }
 ]
