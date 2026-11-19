@@ -26,7 +26,7 @@
     "id": "oh77wa3faozsd9omt3xkvbip2",
     "arxivId": "2611.23335",
     "title": "Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks",
-    "titleEn": "Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks",
+    "titleEn": "Truthgate: Checking coding agents' behavior against records they cannot edit—cheating, deterrence and disclosure on impossible tasks",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -40,9 +40,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 12,
-      "translated": 8,
-      "pending": 4,
-      "status": "partial"
+      "translated": 12,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -95,7 +95,7 @@
     "id": "svdbbeiavrcxb8iao4l3fy121",
     "arxivId": "2611.23305",
     "title": "Dependency Fabrication in Repository Deployment Agents",
-    "titleEn": "Dependency Fabrication in Repository Deployment Agents",
+    "titleEn": "Dependency fabrication in repository deployment agents",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 12,
-      "translated": 8,
-      "pending": 4,
-      "status": "partial"
+      "translated": 12,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
