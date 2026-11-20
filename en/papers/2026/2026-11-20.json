@@ -3,7 +3,7 @@
     "id": "tbzayb692zxhpc7pjgwj4ypez",
     "arxivId": "2611.25945",
     "title": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
-    "titleEn": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
+    "titleEn": "BlockJack: a cross-tenant redirection fault attack targeting paged KV cache address translation in LLM serving",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
