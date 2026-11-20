@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tbzayb692zxhpc7pjgwj4ypez",
+    "arxivId": "2611.25945",
+    "title": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
+    "titleEn": "BlockJack: a cross-tenant redirection fault attack on paged KV cache address translation in LLM serving",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.25945",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/tbzayb692zxhpc7pjgwj4ypez"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-20T05:11:25.041Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "u3ub009vuq0nr9k5nxb7g4bo4",
+    "arxivId": "2611.25469",
+    "title": "A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps",
+    "titleEn": "Wolves in sheep's pixel clothing: visual camouflage attacks based on HDR gain maps",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.25469",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/u3ub009vuq0nr9k5nxb7g4bo4"
+    },
+    "publishedAt": "2026-11-19T03:55:38.000Z",
+    "timelineAt": "2026-11-20T05:17:27.437Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "qrj1hm45liii2jsn58dacfjfu",
+    "arxivId": "2611.26564",
+    "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild",
+    "titleEn": "GEOHunter: Mapping Generative Engine Optimization Networks in Real Environments",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.26564",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/qrj1hm45liii2jsn58dacfjfu"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-20T05:17:28.025Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "e3cu18yfw6wgojm4kk185opmd",
+    "arxivId": "2611.26009",
+    "title": "Evaluating safeguarding in multi-turn conversations with AI assistants",
+    "titleEn": "Evaluating Safety Guardrails of AI Assistants in Multi-Turn Conversations",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.26009",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/e3cu18yfw6wgojm4kk185opmd"
+    },
+    "publishedAt": "2026-11-19T12:28:53.000Z",
+    "timelineAt": "2026-11-20T05:17:27.820Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "isvxew2a3t85heabaa7phv8lt",
+    "arxivId": "2611.26601",
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "titleEn": "SoK: evaluating the evolution of LLM capabilities in software vulnerability research",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.26601",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/isvxew2a3t85heabaa7phv8lt"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-20T05:11:25.006Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]

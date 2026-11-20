@@ -1,0 +1,92 @@
+[
+  {
+    "arxivId": "2611.25945",
+    "title": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
+    "titleZh": "BlockJack：针对 LLM 服务中分页 KV 缓存地址翻译的跨租户重定向故障攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.25945",
+      "aisafetyhot": "https://aisafetyhot.com/items/tbzayb692zxhpc7pjgwj4ypez"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-20T05:11:25.041Z",
+    "discoveredAt": "2026-11-20T05:11:25.041Z"
+  },
+  {
+    "arxivId": "2611.25469",
+    "title": "A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps",
+    "titleZh": "披着羊皮像素的狼：基于 HDR 增益图的视觉伪装攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.25469",
+      "aisafetyhot": "https://aisafetyhot.com/items/u3ub009vuq0nr9k5nxb7g4bo4"
+    },
+    "publishedAt": "2026-11-19T03:55:38.000Z",
+    "timelineAt": "2026-11-20T05:17:27.437Z",
+    "discoveredAt": "2026-11-20T05:17:27.437Z"
+  },
+  {
+    "arxivId": "2611.26564",
+    "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild",
+    "titleZh": "GEOHunter：在真实环境中测绘生成式引擎优化网络",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.26564",
+      "aisafetyhot": "https://aisafetyhot.com/items/qrj1hm45liii2jsn58dacfjfu"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-20T05:17:28.025Z",
+    "discoveredAt": "2026-11-20T05:17:28.025Z"
+  },
+  {
+    "arxivId": "2611.26009",
+    "title": "Evaluating safeguarding in multi-turn conversations with AI assistants",
+    "titleZh": "评估 AI 助手多轮对话中的安全防护",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.26009",
+      "aisafetyhot": "https://aisafetyhot.com/items/e3cu18yfw6wgojm4kk185opmd"
+    },
+    "publishedAt": "2026-11-19T12:28:53.000Z",
+    "timelineAt": "2026-11-20T05:17:27.820Z",
+    "discoveredAt": "2026-11-20T05:17:27.820Z"
+  },
+  {
+    "arxivId": "2611.26601",
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "titleZh": "SoK：评估 LLM 在软件漏洞研究中能力的演进",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.26601",
+      "aisafetyhot": "https://aisafetyhot.com/items/isvxew2a3t85heabaa7phv8lt"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-20T05:11:25.006Z",
+    "discoveredAt": "2026-11-20T05:11:25.006Z"
+  }
+]
