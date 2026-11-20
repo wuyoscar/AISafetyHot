@@ -2,7 +2,7 @@
   {
     "arxivId": "2611.25945",
     "title": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
-    "titleZh": "BlockJack：针对 LLM 服务中分页 KV 缓存地址翻译的跨租户重定向故障攻击",
+    "titleZh": "BlockJack：针对 LLM 服务中分页 KV 缓存地址转换的跨租户重定向故障攻击",
     "authors": [],
     "category": null,
     "selected": true,
@@ -13,7 +13,7 @@
       "paper": "https://arxiv.org/abs/2611.25945",
       "aisafetyhot": "https://aisafetyhot.com/items/tbzayb692zxhpc7pjgwj4ypez"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-19T11:31:29.000Z",
     "timelineAt": "2026-11-20T05:11:25.041Z",
     "discoveredAt": "2026-11-20T05:11:25.041Z"
   },
@@ -49,7 +49,7 @@
       "paper": "https://arxiv.org/abs/2611.26564",
       "aisafetyhot": "https://aisafetyhot.com/items/qrj1hm45liii2jsn58dacfjfu"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-19T18:33:42.000Z",
     "timelineAt": "2026-11-20T05:17:28.025Z",
     "discoveredAt": "2026-11-20T05:17:28.025Z"
   },
@@ -74,7 +74,7 @@
   {
     "arxivId": "2611.26601",
     "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
-    "titleZh": "SoK：评估 LLM 在软件漏洞研究中能力的演进",
+    "titleZh": "SoK：评估软件漏洞研究中 LLM 能力的演进",
     "authors": [],
     "category": null,
     "selected": true,
@@ -85,7 +85,7 @@
       "paper": "https://arxiv.org/abs/2611.26601",
       "aisafetyhot": "https://aisafetyhot.com/items/isvxew2a3t85heabaa7phv8lt"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-19T18:54:19.000Z",
     "timelineAt": "2026-11-20T05:11:25.006Z",
     "discoveredAt": "2026-11-20T05:11:25.006Z"
   }

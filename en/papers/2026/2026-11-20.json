@@ -3,23 +3,23 @@
     "id": "tbzayb692zxhpc7pjgwj4ypez",
     "arxivId": "2611.25945",
     "title": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
-    "titleEn": "BlockJack: a cross-tenant redirection fault attack on paged KV cache address translation in LLM serving",
+    "titleEn": "BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving",
     "summary": null,
     "quickRead": null,
     "links": {
       "paper": "https://arxiv.org/abs/2611.25945",
       "aisafetyhot": "https://aisafetyhot.com/en/items/tbzayb692zxhpc7pjgwj4ypez"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-19T11:31:29.000Z",
     "timelineAt": "2026-11-20T05:11:25.041Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "translated": 3,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -56,7 +56,7 @@
       "paper": "https://arxiv.org/abs/2611.26564",
       "aisafetyhot": "https://aisafetyhot.com/en/items/qrj1hm45liii2jsn58dacfjfu"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-19T18:33:42.000Z",
     "timelineAt": "2026-11-20T05:17:28.025Z",
     "translation": {
       "locale": "en",
@@ -95,14 +95,14 @@
     "id": "isvxew2a3t85heabaa7phv8lt",
     "arxivId": "2611.26601",
     "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
-    "titleEn": "SoK: evaluating the evolution of LLM capabilities in software vulnerability research",
+    "titleEn": "SoK: Evaluating the evolution of LLM capabilities in software vulnerability research",
     "summary": null,
     "quickRead": null,
     "links": {
       "paper": "https://arxiv.org/abs/2611.26601",
       "aisafetyhot": "https://aisafetyhot.com/en/items/isvxew2a3t85heabaa7phv8lt"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-19T18:54:19.000Z",
     "timelineAt": "2026-11-20T05:11:25.006Z",
     "translation": {
       "locale": "en",
