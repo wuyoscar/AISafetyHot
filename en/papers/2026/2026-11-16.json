@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "t3v6heigtictrhkxwj5spr2kj",
+    "arxivId": "2611.21053",
+    "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+    "titleEn": "System 1 agents: a local, reliable, fast agentic AI approach",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.21053",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/t3v6heigtictrhkxwj5spr2kj"
+    },
+    "publishedAt": "2026-11-16T13:05:32.000Z",
+    "timelineAt": "2026-11-16T13:05:32.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "fxafmziktxxltvw1owro217yf",
     "arxivId": "2611.17481",
     "title": "Creating Steering Vectors via Input Optimisation",

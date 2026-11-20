@@ -1,5 +1,62 @@
 [
   {
+    "id": "neurips:2026:MG5vjzQiWq",
+    "kind": "conference",
+    "title": "Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamic Mechanisms and Efficient Alignment",
+    "titleZh": "跨模态冲突下的全模态安全：漏洞、动态机制与高效对齐",
+    "line": "构建AdvBench-Omni揭示全模态LLM的跨模态安全漏洞，发现中层拒答向量幅值缩减现象，提出OmniSteer将有害输入拒答成功率从69.9%提升至91.2%。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "NeurIPS 2026 poster",
+    "date": null,
+    "url": "https://neurips.cc/virtual/2026/poster/153308",
+    "site": null,
+    "authors": [
+      "Kun Wang",
+      "Zherui Li",
+      "Zhenhong Zhou",
+      "Jie Zhang",
+      "Yitong Zhang",
+      "Yan Mi",
+      "Kun Yang",
+      "Yiming Zhang",
+      "Zhongxiang Sun",
+      "Qiankun Li",
+      "Yang Liu"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
+    "id": "acl:2026:2026.acl-long.748",
+    "kind": "conference",
+    "title": "Domain Generalizable AI Guardrails with Augmented Policy Training",
+    "titleZh": "基于增强策略训练的域泛化 AI 护栏",
+    "line": "指出现有护栏过拟合训练策略，提出增强策略训练 APT，1B 小模型在未见策略上达到或超过现有 8B 护栏的表现。",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "ACL 2026 long",
+    "date": null,
+    "url": "https://aclanthology.org/2026.acl-long.748/",
+    "site": null,
+    "authors": [
+      "Minqian Liu",
+      "Ioana Baldini",
+      "David Rabinowitz",
+      "David S Rosenberg",
+      "Sebastian Gehrmann",
+      "Mark Dredze"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
     "id": "uw13lti5iayn4wj2lq45gqacf",
     "kind": "arxiv",
     "title": "Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models",

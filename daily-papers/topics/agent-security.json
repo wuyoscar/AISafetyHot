@@ -1,5 +1,130 @@
 [
   {
+    "id": "vjujkk059nhdo2k5c4xw5g5h6",
+    "kind": "arxiv",
+    "title": "Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents",
+    "titleZh": "Tether：经形式化验证、用于智能体系统级监控的有状态策略引擎",
+    "line": "提出 Tether 运行时监控器，用形式化验证策略拦截智能体危险操作",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.25599",
+    "date": "2026-11-19",
+    "url": "https://arxiv.org/abs/2611.25599",
+    "site": "https://aisafetyhot.com/items/vjujkk059nhdo2k5c4xw5g5h6",
+    "authors": [
+      "Meghana Aparna Sistla",
+      "Alaia Solko-Breslin",
+      "Somesh Jha",
+      "Aditya Kanade",
+      "Krishnamurthy Dj Dvijotham"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
+    "id": "j1yrjsoe7y39znmu37e5b8372",
+    "kind": "arxiv",
+    "title": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+    "titleZh": "智能体安全事件复现：审计与调查（ROGUE-AI）",
+    "line": "提出 ROGUE-AI 基准，离线复现公开报道的智能体事故并设对照检验根因",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.26553",
+    "date": "2026-11-19",
+    "url": "https://arxiv.org/abs/2611.26553",
+    "site": "https://aisafetyhot.com/items/j1yrjsoe7y39znmu37e5b8372",
+    "authors": [
+      "Mengxiao Wang",
+      "Mahbub Alam",
+      "Kalyan Nakka",
+      "Nitesh Saxena"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
+    "id": "zic25or6oe89wwustoevhnwpj",
+    "kind": "arxiv",
+    "title": "Embedded Assessments for Frontier AI",
+    "titleZh": "论文提议前沿 AI 开发者开展嵌入式评估",
+    "line": "提议前沿开发者托管嵌入式评估，审查内部智能体监控、权限与对齐",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.25413",
+    "date": "2026-09-21",
+    "url": "https://arxiv.org/abs/2609.25413v1",
+    "site": "https://aisafetyhot.com/items/zic25or6oe89wwustoevhnwpj",
+    "authors": [
+      "Jacob Charnock",
+      "Sophie Williams",
+      "Zaheed Kara",
+      "Markus Anderljung",
+      "Alejandro Tlaie Boria",
+      "Stephen Casper",
+      "Anka Reuel",
+      "Jonas Freund"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
+    "id": "u87jr35ru1x6of1r0cwqmnnw3",
+    "kind": "arxiv",
+    "title": "ActGov: Governing LLM Agent Actions via Policy-Constrained Validation",
+    "titleZh": "ActGov：用策略约束校验治理 LLM Agent 的工具动作",
+    "line": "提出 ActGov，在工具调用前用策略校验拦截间接提示注入",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2609.24446",
+    "date": "2026-09-21",
+    "url": "https://arxiv.org/abs/2609.24446v2",
+    "site": "https://aisafetyhot.com/items/u87jr35ru1x6of1r0cwqmnnw3",
+    "authors": [
+      "Kaiyuan Zhang",
+      "Yuke Peng",
+      "Ke Jiang",
+      "Yinqian Zhang"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
+    "id": "wxws2d17g793bmb2fowrv72ww",
+    "kind": "arxiv",
+    "title": "Memory-Induced Tool-Drift in LLM Agents",
+    "titleZh": "LLM 智能体中的记忆诱导工具漂移",
+    "line": "构建 MEMDRIFT 基准，测量记忆诱导工具漂移",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2605.24941",
+    "date": "2026-05-24",
+    "url": "https://arxiv.org/abs/2605.24941v2",
+    "site": "https://aisafetyhot.com/items/wxws2d17g793bmb2fowrv72ww",
+    "authors": [
+      "Mahavir Dabas",
+      "Jihyun Jeong",
+      "Ming Jin",
+      "Ruoxi Jia"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
     "id": "x73fc0u2r2g3w9y3tblx817by",
     "kind": "arxiv",
     "title": "Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks",

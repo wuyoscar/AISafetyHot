@@ -1,5 +1,28 @@
 [
   {
+    "id": "iclr:2026:FONB5dIxSB",
+    "kind": "conference",
+    "title": "Humanline: Online Alignment as Perceptual Loss",
+    "titleZh": "Humanline：作为感知损失的在线对齐",
+    "line": "从前景理论解释在线对齐优于离线对齐的原因，提出将概率感知失真融入DPO/KTO/GRPO的humanline变体，离线训练可匹配在线性能。",
+    "topics": [
+      {
+        "slug": "alignment",
+        "name": "对齐"
+      }
+    ],
+    "venue": "ICLR 2026 Poster",
+    "date": null,
+    "url": "https://openreview.net/forum?id=FONB5dIxSB",
+    "site": null,
+    "authors": [
+      "Sijia Liu",
+      "Niklas Muennighoff",
+      "Kawin Ethayarajh"
+    ],
+    "pushedOn": "2026-11-21"
+  },
+  {
     "id": "neurips:2026:BDgXsrFjIF",
     "kind": "conference",
     "title": "Rubric-Align: Safety Alignment through Dynamically Co-Evolving Rubrics",
