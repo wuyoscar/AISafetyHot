@@ -3,7 +3,7 @@
     "id": "gg5xii54v3zuurvxi130gj7fc",
     "arxivId": "2611.21885",
     "title": "Language Models Can Rewrite Their Own Weights",
-    "titleEn": "Language models can rewrite their own weights",
+    "titleEn": "Language Models Can Rewrite Their Own Weights",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 3,
-      "pending": 0,
-      "status": "complete"
+      "total": 37,
+      "translated": 36,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
