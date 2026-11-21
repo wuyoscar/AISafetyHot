@@ -18,10 +18,10 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 ## Today's 5 · 2026-11-22
 
-- [OpenAI released the report "Combatting Adversarial Distillation": banning up to tens of thousands of accounts per week, disclosing four layers of defense mechanisms](https://aisafetyhot.com/en/items/lqw7ivcusdhizdgenkyocxkx5) — WeChat · AI Era (Xinzhiyuan)
 - [Redwood Research: Auditors struggle to detect sabotage in end-to-end records of AI safety research](https://aisafetyhot.com/en/items/si2q7xgxztnb3ikzqqgps0sbb) — Redwood Research
 - [UK AISI says pre-release Astra is easier to jailbreak](https://aisafetyhot.com/en/items/ir06a5rxjvf2atu5xz23tc4cc) — OpenAI Deployment Safety
 - [METR TH2: time horizon on verifiable programming tasks doubles about every 110 days; open-ended research judgments show no reliable doubling](https://aisafetyhot.com/en/items/wwt8ehifqc3kkoogwjvvx1oa5) — CASRAI
+- [AI gun detection misidentifies a Doritos bag as a gun; four students sue the school district and Omnilert](https://aisafetyhot.com/en/items/uburtdpk5bt329asbaj7eaick) — Baller Alert
 - [OpenAI agent viewed internal files of Australia's Medicare portal](https://aisafetyhot.com/en/items/gnu00edxbghbs534ofamhmr37) — tokenpost.kr
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)

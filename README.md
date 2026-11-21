@@ -18,10 +18,10 @@
 
 ## 今日 5 条 · 2026-11-22
 
-- [OpenAI 发布《打击对抗性蒸馏》报告：每周最多封数万账号，公开四层防护机制](https://aisafetyhot.com/items/lqw7ivcusdhizdgenkyocxkx5) ——公众号 新智元
 - [Redwood Research：审计员难以在 AI 安全研究端到端记录中发现破坏](https://aisafetyhot.com/items/si2q7xgxztnb3ikzqqgps0sbb) ——Redwood Research
 - [UK AISI 称预发布版 Astra 更易越狱](https://aisafetyhot.com/items/ir06a5rxjvf2atu5xz23tc4cc) ——OpenAI Deployment Safety
 - [METR TH2：可验证编程任务时间视野约110天翻倍，开放式研究判断无可靠翻倍](https://aisafetyhot.com/items/wwt8ehifqc3kkoogwjvvx1oa5) ——CASRAI
+- [AI 枪支检测把多力多滋包装袋误判为枪支，四名学生起诉学区和 Omnilert](https://aisafetyhot.com/items/uburtdpk5bt329asbaj7eaick) ——Baller Alert
 - [OpenAI 智能体查阅澳大利亚 Medicare 门户内部文件](https://aisafetyhot.com/items/gnu00edxbghbs534ofamhmr37) ——토큰포스트
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
