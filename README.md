@@ -16,13 +16,13 @@
 <!-- today:start -->
 每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
 
-## 今日 5 条 · 2026-11-21
+## 今日 5 条 · 2026-11-22
 
-- [清华大学CCS 2026论文提出语义间隙攻击，主流多模态AI预处理流水线普遍中招](https://aisafetyhot.com/items/x6fuznmw6il5403g9j164cp35) ——公众号 为机器立心
-- [研究：Agent 自我进化后授权混淆，部分模型攻击成功率上升](https://aisafetyhot.com/items/zq6dv0nhcgkpyf3fijqzxaoot) ——公众号 模安局
-- [中科院ICML 2026论文OrchJail揭示文生图Agent编排级越狱：单步均合规，组合后违规](https://aisafetyhot.com/items/b9ykyqh4nskssdcekkm8kw810) ——公众号 为机器立心
-- [OpenAI 公布对抗性蒸馏防御，自适应黑盒评测中 GPT-6.2 Astra 思维链提取攻击成功率低于 1%](https://aisafetyhot.com/items/axu2hixffjevcqc01du75wba0) ——OpenAI
-- [Signal 在 iOS 27 和 Android 上屏蔽截图，阻止 AI 智能体读取私人聊天](https://aisafetyhot.com/items/fmwpwbpshm3h5orygv3cnzthq) ——The Decoder
+- [Redwood Research：审计员难以在 AI 安全研究端到端记录中发现破坏](https://aisafetyhot.com/items/si2q7xgxztnb3ikzqqgps0sbb) ——Redwood Research
+- [UK AISI 称预发布版 Astra 更易越狱](https://aisafetyhot.com/items/ir06a5rxjvf2atu5xz23tc4cc) ——OpenAI Deployment Safety
+- [METR TH2：可验证编程任务时间视野约110天翻倍，开放式研究判断无可靠翻倍](https://aisafetyhot.com/items/wwt8ehifqc3kkoogwjvvx1oa5) ——CASRAI
+- [OpenAI 智能体查阅澳大利亚 Medicare 门户内部文件](https://aisafetyhot.com/items/gnu00edxbghbs534ofamhmr37) ——토큰포스트
+- [亚马逊称其 Cairn 智能体自主发现 MONAI Label 零日漏洞并攻陷一大学服务器](https://aisafetyhot.com/items/xym0lyyo76w4y7wjyach9lj4f) ——CASRAI
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

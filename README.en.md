@@ -16,13 +16,13 @@
 <!-- today:start -->
 Read AI safety news and papers daily, with links to the details and original sources.
 
-## Today's 5 · 2026-11-21
+## Today's 5 · 2026-11-22
 
-- [A Tsinghua University CCS 2026 paper proposes the semantic gap attack; mainstream multimodal AI preprocessing pipelines are widely affected](https://aisafetyhot.com/en/items/x6fuznmw6il5403g9j164cp35) — WeChat · Weijiqi Lixin
-- [Study: after agent self-evolution, authorization conflation occurs and attack success rates rise for some models](https://aisafetyhot.com/en/items/zq6dv0nhcgkpyf3fijqzxaoot) — WeChat · Mo'anju
-- [Chinese Academy of Sciences ICML 2026 paper OrchJail reveals orchestration-level jailbreaks of text-to-image agents: each step is compliant, but the combination violates policy](https://aisafetyhot.com/en/items/b9ykyqh4nskssdcekkm8kw810) — WeChat · Weijiqi Lixin
-- [OpenAI unveils adversarial distillation defenses; in adaptive black-box evaluations, the success rate of chain-of-thought extraction attacks on GPT-6.2 Astra is below 1%](https://aisafetyhot.com/en/items/axu2hixffjevcqc01du75wba0) — OpenAI
-- [Signal blocks screenshots on iOS 27 and Android, preventing AI agents from reading private chats](https://aisafetyhot.com/en/items/fmwpwbpshm3h5orygv3cnzthq) — The Decoder
+- [Redwood Research: Auditors struggle to detect sabotage in end-to-end records of AI safety research](https://aisafetyhot.com/en/items/si2q7xgxztnb3ikzqqgps0sbb) — Redwood Research
+- [UK AISI says pre-release Astra is easier to jailbreak](https://aisafetyhot.com/en/items/ir06a5rxjvf2atu5xz23tc4cc) — OpenAI Deployment Safety
+- [METR TH2: time horizon on verifiable programming tasks doubles about every 110 days; open-ended research judgments show no reliable doubling](https://aisafetyhot.com/en/items/wwt8ehifqc3kkoogwjvvx1oa5) — CASRAI
+- [OpenAI agent viewed internal files of Australia's Medicare portal](https://aisafetyhot.com/en/items/gnu00edxbghbs534ofamhmr37) — tokenpost.kr
+- [Amazon says its Cairn agent autonomously discovered a MONAI Label zero-day and compromised a university server](https://aisafetyhot.com/en/items/xym0lyyo76w4y7wjyach9lj4f) — CASRAI
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
