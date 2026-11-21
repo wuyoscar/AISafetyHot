@@ -13,6 +13,9 @@
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
 
+<!-- today:start -->
+<!-- today:end -->
+
 <p align="center"><a href="https://aisafetyhot.com/en"><img src="assets/observatory-en.gif" width="1000" alt="Live recording of the redesigned observatory: material scan, 3D constellation and news flow"></a></p>
 
 <p align="center"><a href="https://aisafetyhot.com/en">Explore the observatory</a> · <a href="https://aisafetyhot.com/en/featured">News</a> · <a href="https://aisafetyhot.com/en/papers">Papers</a> · <a href="https://aisafetyhot.com/en/daily">Daily digest</a> · <a href="#agent">Connect your agent</a></p>
