@@ -14,6 +14,17 @@
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
 
 <!-- today:start -->
+Read AI safety news and papers daily, with links to the details and original sources.
+
+## Today's 5 · 2026-11-21
+
+- [A Tsinghua University CCS 2026 paper proposes the semantic gap attack; mainstream multimodal AI preprocessing pipelines are widely affected](https://aisafetyhot.com/en/items/x6fuznmw6il5403g9j164cp35) — WeChat · Weijiqi Lixin
+- [Study: after agent self-evolution, authorization conflation occurs and attack success rates rise for some models](https://aisafetyhot.com/en/items/zq6dv0nhcgkpyf3fijqzxaoot) — WeChat · Mo'anju
+- [Chinese Academy of Sciences ICML 2026 paper OrchJail reveals orchestration-level jailbreaks of text-to-image agents: each step is compliant, but the combination violates policy](https://aisafetyhot.com/en/items/b9ykyqh4nskssdcekkm8kw810) — WeChat · Weijiqi Lixin
+- [Signal blocks screenshots on iOS 27 and Android, preventing AI agents from reading private chats](https://aisafetyhot.com/en/items/fmwpwbpshm3h5orygv3cnzthq) — The Decoder
+- [OpenAI unveils adversarial distillation defenses; in adaptive black-box evaluations, the success rate of chain-of-thought extraction attacks on GPT-6.2 Astra is below 1%](https://aisafetyhot.com/en/items/axu2hixffjevcqc01du75wba0) — OpenAI
+
+[Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
 
 <p align="center"><a href="https://aisafetyhot.com/en"><img src="assets/observatory-en.gif" width="1000" alt="Live recording of the redesigned observatory: material scan, 3D constellation and news flow"></a></p>

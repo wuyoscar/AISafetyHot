@@ -14,6 +14,17 @@
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a></p>
 
 <!-- today:start -->
+每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
+
+## 今日 5 条 · 2026-11-21
+
+- [清华大学CCS 2026论文提出语义间隙攻击，主流多模态AI预处理流水线普遍中招](https://aisafetyhot.com/items/x6fuznmw6il5403g9j164cp35) ——公众号 为机器立心
+- [研究：Agent 自我进化后授权混淆，部分模型攻击成功率上升](https://aisafetyhot.com/items/zq6dv0nhcgkpyf3fijqzxaoot) ——公众号 模安局
+- [中科院ICML 2026论文OrchJail揭示文生图Agent编排级越狱：单步均合规，组合后违规](https://aisafetyhot.com/items/b9ykyqh4nskssdcekkm8kw810) ——公众号 为机器立心
+- [Signal 在 iOS 27 和 Android 上屏蔽截图，阻止 AI 智能体读取私人聊天](https://aisafetyhot.com/items/fmwpwbpshm3h5orygv3cnzthq) ——The Decoder
+- [OpenAI 公布对抗性蒸馏防御，自适应黑盒评测中 GPT-6.2 Astra 思维链提取攻击成功率低于 1%](https://aisafetyhot.com/items/axu2hixffjevcqc01du75wba0) ——OpenAI
+
+[网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
 
 <p align="center"><a href="https://aisafetyhot.com/zh"><img src="assets/observatory.gif" width="1000" alt="新版科研观测台实录：材料扫描、立体星图与新闻流"></a></p>
