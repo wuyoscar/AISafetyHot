@@ -1,5 +1,33 @@
 [
   {
+    "id": "d2l39463p9i98uo2wezdml08h",
+    "kind": "arxiv",
+    "title": "D²-Monitor: Dynamic Safety Monitoring for Diffusion LLMs via Hesitation Signals",
+    "titleZh": "D²-Monitor：基于犹豫信号的扩散大语言模型动态安全监控",
+    "line": "提出 D²-Monitor，按犹豫步数把难提示路由到更强探针",
+    "topics": [
+      {
+        "slug": "defense",
+        "name": "防御与护栏"
+      }
+    ],
+    "venue": "arXiv 2605.25893",
+    "date": "2026-05-25",
+    "url": "https://arxiv.org/abs/2605.25893",
+    "site": "https://aisafetyhot.com/items/d2l39463p9i98uo2wezdml08h",
+    "authors": [
+      "Aoxi Liu",
+      "Yupeng Chen",
+      "James Oldfield",
+      "Guanzhe Hong",
+      "Junchi Yu",
+      "Baoyuan Wu",
+      "Philip Torr",
+      "Adel Bibi"
+    ],
+    "pushedOn": "2026-11-22"
+  },
+  {
     "id": "neurips:2026:MG5vjzQiWq",
     "kind": "conference",
     "title": "Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamic Mechanisms and Efficient Alignment",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "iclr:2026:yjFkeQ2ynQ",
+    "kind": "conference",
+    "title": "All Code, No Thought: Language Models Struggle to Reason in Ciphered Language",
+    "titleZh": "只有密码没有思考：语言模型难以用加密语言推理",
+    "line": "测试 28 种密码下的加密推理能力，发现模型虽能准确翻译密文但用密文推理时数学准确率显著下降，表明用加密推理规避思维链监控对当前模型可能是无效策略。",
+    "topics": [
+      {
+        "slug": "ai-control",
+        "name": "监控与 AI 控制"
+      }
+    ],
+    "venue": "ICLR 2026 Poster",
+    "date": null,
+    "url": "https://openreview.net/forum?id=yjFkeQ2ynQ",
+    "site": null,
+    "authors": [
+      "Shiyuan Guo",
+      "Henry Sleight",
+      "Fabien Roger"
+    ],
+    "pushedOn": "2026-11-22"
+  },
+  {
     "id": "neurips:2026:eDvLM8DzS1",
     "kind": "conference",
     "title": "Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test",

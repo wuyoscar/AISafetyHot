@@ -1,5 +1,23 @@
 [
   {
+    "id": "aui59p72k3q9xp592j1ff2moa",
+    "kind": "arxiv",
+    "title": "Question, Then Affirm: Restoring Commitment Does Not Restore Refusal",
+    "titleZh": "先提问，再肯定：恢复承诺并不能恢复拒答",
+    "line": "研究者在多个商用图像生成器上发现，把被拦截的有害陈述改写成问句、再附加对勾等肯定元素，系统会生成支持原主张的图像，作者称之为延迟语义承诺（DSC）。",
+    "topics": [
+      {
+        "slug": "jailbreak",
+        "name": "越狱与攻击"
+      }
+    ],
+    "venue": "arXiv 2611.25929",
+    "date": "2026-11-19",
+    "url": "https://arxiv.org/abs/2611.25929",
+    "site": "https://aisafetyhot.com/items/aui59p72k3q9xp592j1ff2moa",
+    "pushedOn": "2026-11-22"
+  },
+  {
     "id": "fxafmziktxxltvw1owro217yf",
     "kind": "arxiv",
     "title": "Creating Steering Vectors via Input Optimisation",

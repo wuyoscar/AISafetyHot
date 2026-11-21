@@ -1,5 +1,23 @@
 [
   {
+    "id": "tyz9cw77d1arhcb5ezub3brxl",
+    "kind": "arxiv",
+    "title": "MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control",
+    "titleZh": "MATE：面向安全高效移动控制的移动智能体可信执行",
+    "line": "提出执行层系统 MATE，在移动智能体动作生效前做安全拦截与路由复用",
+    "topics": [
+      {
+        "slug": "agent-security",
+        "name": "Agent 安全"
+      }
+    ],
+    "venue": "arXiv 2611.25526",
+    "date": "2026-11-19",
+    "url": "https://arxiv.org/abs/2611.25526",
+    "site": "https://aisafetyhot.com/items/tyz9cw77d1arhcb5ezub3brxl",
+    "pushedOn": "2026-11-22"
+  },
+  {
     "id": "vjujkk059nhdo2k5c4xw5g5h6",
     "kind": "arxiv",
     "title": "Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents",
