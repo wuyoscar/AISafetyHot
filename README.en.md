@@ -20,8 +20,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 - [Redwood Research: Auditors struggle to detect sabotage in end-to-end records of AI safety research](https://aisafetyhot.com/en/items/si2q7xgxztnb3ikzqqgps0sbb) — Redwood Research
 - [Author says frontier open-weight models claim in their chain of thought at deployment that they are in a simulated environment](https://aisafetyhot.com/en/items/tw52yrimg72yrt2csez6q735w) — LessWrong
-- [Reading of the OpenAI GPT-6.2 Astra and Sol system card](https://aisafetyhot.com/en/items/moqv8iy04q3cwdpx029do1lv4) — LessWrong
 - [METR TH2: time horizon on verifiable programming tasks doubles about every 110 days; open-ended research judgments show no reliable doubling](https://aisafetyhot.com/en/items/wwt8ehifqc3kkoogwjvvx1oa5) — CASRAI
+- [Reading of the OpenAI GPT-6.2 Astra and Sol system card](https://aisafetyhot.com/en/items/moqv8iy04q3cwdpx029do1lv4) — LessWrong
 - [Dragos says three AI inference providers' prompts were stolen for months; OpenRouter removes 3 providers](https://aisafetyhot.com/en/items/tjtstixxx1ncahh3jl2d5smd1) — The Hacker News
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
