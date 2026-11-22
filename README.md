@@ -16,13 +16,13 @@
 <!-- today:start -->
 每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
 
-## 今日 5 条 · 2026-11-22
+## 今日 5 条 · 2026-11-23
 
-- [Redwood Research：审计员难以在 AI 安全研究端到端记录中发现破坏](https://aisafetyhot.com/items/si2q7xgxztnb3ikzqqgps0sbb) ——Redwood Research
-- [作者称前沿开放权重模型部署时在思维链中自称处于模拟环境](https://aisafetyhot.com/items/tw52yrimg72yrt2csez6q735w) ——LessWrong
-- [OpenAI GPT-6.2 Astra 与 Sol 系统卡解读](https://aisafetyhot.com/items/moqv8iy04q3cwdpx029do1lv4) ——LessWrong
-- [METR TH2：可验证编程任务时间视野约110天翻倍，开放式研究判断无可靠翻倍](https://aisafetyhot.com/items/wwt8ehifqc3kkoogwjvvx1oa5) ——CASRAI
-- [Dragos 称三家 AI 推理提供商提示词遭窃数月，OpenRouter 移除 3 家提供商](https://aisafetyhot.com/items/tjtstixxx1ncahh3jl2d5smd1) ——The Hacker News
+- [METR 警告：AI 能力提升快于专家可靠测试新系统是否安全的速度](https://aisafetyhot.com/items/ovxi73o8vrcoeb0zc1wgensp5) ——The Decoder
+- [作者称AI执行中国民族团结法能力不足](https://aisafetyhot.com/items/faa59josqj7ue05553vpdkwyf) ——ChinaTalk
+- [Dragos 安全研究人员展示廉价 AI 推理服务商如何窃取密钥并窥探用户](https://aisafetyhot.com/items/iyw7ay1g0v5ruqqtlks9q7ggx) ——The Decoder
+- [欧盟委员会遭 AI 工具网络攻击：给防守方的教训](https://aisafetyhot.com/items/zjozda744tjqkgz6choydkpyd) ——CSA Labs Research
+- [Puppet CVE-2026-115731：持有CA签名证书者可远程执行代码](https://aisafetyhot.com/items/b1catezgk33vm5gx2b5huimqr) ——CSA Labs Research
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

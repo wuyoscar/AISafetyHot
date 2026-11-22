@@ -16,13 +16,13 @@
 <!-- today:start -->
 Read AI safety news and papers daily, with links to the details and original sources.
 
-## Today's 5 · 2026-11-22
+## Today's 5 · 2026-11-23
 
-- [Redwood Research: Auditors struggle to detect sabotage in end-to-end records of AI safety research](https://aisafetyhot.com/en/items/si2q7xgxztnb3ikzqqgps0sbb) — Redwood Research
-- [Author says frontier open-weight models claim in their chain of thought at deployment that they are in a simulated environment](https://aisafetyhot.com/en/items/tw52yrimg72yrt2csez6q735w) — LessWrong
-- [Reading of the OpenAI GPT-6.2 Astra and Sol system card](https://aisafetyhot.com/en/items/moqv8iy04q3cwdpx029do1lv4) — LessWrong
-- [METR TH2: time horizon on verifiable programming tasks doubles about every 110 days; open-ended research judgments show no reliable doubling](https://aisafetyhot.com/en/items/wwt8ehifqc3kkoogwjvvx1oa5) — CASRAI
-- [Dragos says three AI inference providers' prompts were stolen for months; OpenRouter removes 3 providers](https://aisafetyhot.com/en/items/tjtstixxx1ncahh3jl2d5smd1) — The Hacker News
+- [METR warns: AI capabilities are improving faster than experts can reliably test whether new systems are safe](https://aisafetyhot.com/en/items/ovxi73o8vrcoeb0zc1wgensp5) — The Decoder
+- [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
+- [Dragos security researchers show how cheap AI inference providers steal keys and spy on users](https://aisafetyhot.com/en/items/iyw7ay1g0v5ruqqtlks9q7ggx) — The Decoder
+- [European Commission hit by AI-tool cyberattack: lessons for defenders](https://aisafetyhot.com/en/items/zjozda744tjqkgz6choydkpyd) — CSA Labs Research
+- [Puppet CVE-2026-115731: Holders of CA-signed certificates can execute code remotely](https://aisafetyhot.com/en/items/b1catezgk33vm5gx2b5huimqr) — CSA Labs Research
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
