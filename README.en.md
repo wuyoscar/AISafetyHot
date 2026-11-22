@@ -22,7 +22,7 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [Author says frontier open-weight models claim in their chain of thought at deployment that they are in a simulated environment](https://aisafetyhot.com/en/items/tw52yrimg72yrt2csez6q735w) — LessWrong
 - [Reading of the OpenAI GPT-6.2 Astra and Sol system card](https://aisafetyhot.com/en/items/moqv8iy04q3cwdpx029do1lv4) — LessWrong
 - [METR TH2: time horizon on verifiable programming tasks doubles about every 110 days; open-ended research judgments show no reliable doubling](https://aisafetyhot.com/en/items/wwt8ehifqc3kkoogwjvvx1oa5) — CASRAI
-- [GTIG says AI framework automatically develops attack code targeting unpatched systems](https://aisafetyhot.com/en/items/lr5xa2aqgwzz1j5eeab2ojr79) — news.jkn.co.kr
+- [GTIG says Exploit Agent compares code before and after patches to automatically generate attack code](https://aisafetyhot.com/en/items/lr5xa2aqgwzz1j5eeab2ojr79) — news.jkn.co.kr
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

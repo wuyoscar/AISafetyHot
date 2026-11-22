@@ -22,7 +22,7 @@
 - [作者称前沿开放权重模型部署时在思维链中自称处于模拟环境](https://aisafetyhot.com/items/tw52yrimg72yrt2csez6q735w) ——LessWrong
 - [OpenAI GPT-6.2 Astra 与 Sol 系统卡解读](https://aisafetyhot.com/items/moqv8iy04q3cwdpx029do1lv4) ——LessWrong
 - [METR TH2：可验证编程任务时间视野约110天翻倍，开放式研究判断无可靠翻倍](https://aisafetyhot.com/items/wwt8ehifqc3kkoogwjvvx1oa5) ——CASRAI
-- [GTIG称AI框架自动开发攻击代码，针对未打补丁系统](https://aisafetyhot.com/items/lr5xa2aqgwzz1j5eeab2ojr79) ——재경일보
+- [GTIG 称 Exploit Agent 比对补丁前后代码自动生成攻击代码](https://aisafetyhot.com/items/lr5xa2aqgwzz1j5eeab2ojr79) ——재경일보
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
