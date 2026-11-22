@@ -18,11 +18,11 @@
 
 ## 今日 5 条 · 2026-11-23
 
-- [大模型安全周报：每一步都合规，拼起来就是一次入侵](https://aisafetyhot.com/items/ohn3cf0atysp5i1bf8wzcwcgl) ——公众号 大模型安全研究
-- [METR 警告：AI 能力提升快于专家可靠测试新系统是否安全的速度](https://aisafetyhot.com/items/ovxi73o8vrcoeb0zc1wgensp5) ——The Decoder
 - [作者称AI执行中国民族团结法能力不足](https://aisafetyhot.com/items/faa59josqj7ue05553vpdkwyf) ——ChinaTalk
+- [METR 警告：AI 能力提升快于专家可靠测试新系统是否安全的速度](https://aisafetyhot.com/items/ovxi73o8vrcoeb0zc1wgensp5) ——The Decoder
 - [Dragos 安全研究人员展示廉价 AI 推理服务商如何窃取密钥并窥探用户](https://aisafetyhot.com/items/iyw7ay1g0v5ruqqtlks9q7ggx) ——The Decoder
 - [OpenRouter 供应商 GMI Cloud 被曝遭入侵，提示词与对话泄露](https://aisafetyhot.com/items/twydzegzyp0rl2fx6seap66g0) ——X @AISecHub
+- [欧盟委员会遭 AI 工具网络攻击：给防守方的教训](https://aisafetyhot.com/items/zjozda744tjqkgz6choydkpyd) ——CSA Labs Research
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
