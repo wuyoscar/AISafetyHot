@@ -54,6 +54,24 @@
     "discoveredAt": "2026-11-18T05:02:26.328Z"
   },
   {
+    "arxivId": "2611.24100",
+    "title": "Lost Between Mind, Model Collaboration, and Motion: Understanding and Measuring Cross-Model Action Misalignment in Commercial Robots",
+    "titleZh": "迷失在心智、模型协作与运动之间：理解并测量商用机器人的跨模型动作失配",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.24100",
+      "aisafetyhot": "https://aisafetyhot.com/items/mthesd4u5smcb95zzb0npaqrh"
+    },
+    "publishedAt": "2026-11-18T09:22:20.000Z",
+    "timelineAt": "2026-11-18T09:22:20.000Z",
+    "discoveredAt": "2026-11-22T19:03:04.961Z"
+  },
+  {
     "arxivId": "2611.22971",
     "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
     "titleZh": "SEAM：计算机使用智能体知道屏幕之间的危害，却仍然实施",
@@ -70,23 +88,5 @@
     "publishedAt": "2026-11-17T15:53:58.000Z",
     "timelineAt": "2026-11-18T05:02:26.727Z",
     "discoveredAt": "2026-11-18T05:02:26.727Z"
-  },
-  {
-    "arxivId": "2611.22612",
-    "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
-    "titleZh": "诊断正确，路径不安全：审计临床AI决策轨迹与纠正性监督的有效性和潜在危害",
-    "authors": [],
-    "category": null,
-    "selected": true,
-    "attention": null,
-    "summaryZh": null,
-    "quickRead": null,
-    "links": {
-      "paper": "https://arxiv.org/abs/2611.22612",
-      "aisafetyhot": "https://aisafetyhot.com/items/gopisf8d6t19ejsvvzz0gd9dh"
-    },
-    "publishedAt": "2026-11-17T11:26:37.000Z",
-    "timelineAt": "2026-11-18T05:02:26.541Z",
-    "discoveredAt": "2026-11-18T05:02:26.541Z"
   }
 ]
