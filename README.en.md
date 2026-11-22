@@ -18,11 +18,11 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 ## Today's 5 · 2026-11-23
 
-- [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
 - [UK AISI says pre-release GPT-6.2 Astra is easier to jailbreak](https://aisafetyhot.com/en/items/ir06a5rxjvf2atu5xz23tc4cc) — OpenAI Deployment Safety
-- [METR warns: AI capabilities are improving faster than experts can reliably test whether new systems are safe](https://aisafetyhot.com/en/items/ovxi73o8vrcoeb0zc1wgensp5) — The Decoder
+- [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
 - [Dragos security researchers show how cheap AI inference providers steal keys and spy on users](https://aisafetyhot.com/en/items/iyw7ay1g0v5ruqqtlks9q7ggx) — The Decoder
 - [OpenRouter provider GMI Cloud reported compromised, prompts and conversations leaked](https://aisafetyhot.com/en/items/twydzegzyp0rl2fx6seap66g0) — X @AISecHub
+- [ICRC warns: it will soon be too late to regulate the use of autonomous weapons](https://aisafetyhot.com/en/items/j2ygcofavbcnwaxf0axqyborl) — The Guardian · AI
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
