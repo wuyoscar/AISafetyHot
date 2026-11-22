@@ -18,8 +18,8 @@
 
 ## 今日 5 条 · 2026-11-23
 
-- [METR 警告：AI 能力提升快于专家可靠测试新系统是否安全的速度](https://aisafetyhot.com/items/ovxi73o8vrcoeb0zc1wgensp5) ——The Decoder
 - [作者称AI执行中国民族团结法能力不足](https://aisafetyhot.com/items/faa59josqj7ue05553vpdkwyf) ——ChinaTalk
+- [METR 警告：AI 能力提升快于专家可靠测试新系统是否安全的速度](https://aisafetyhot.com/items/ovxi73o8vrcoeb0zc1wgensp5) ——The Decoder
 - [Dragos 安全研究人员展示廉价 AI 推理服务商如何窃取密钥并窥探用户](https://aisafetyhot.com/items/iyw7ay1g0v5ruqqtlks9q7ggx) ——The Decoder
 - [欧盟委员会遭 AI 工具网络攻击：给防守方的教训](https://aisafetyhot.com/items/zjozda744tjqkgz6choydkpyd) ——CSA Labs Research
 - [Puppet CVE-2026-115731：持有CA签名证书者可远程执行代码](https://aisafetyhot.com/items/b1catezgk33vm5gx2b5huimqr) ——CSA Labs Research

@@ -18,8 +18,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 ## Today's 5 · 2026-11-23
 
-- [METR warns: AI capabilities are improving faster than experts can reliably test whether new systems are safe](https://aisafetyhot.com/en/items/ovxi73o8vrcoeb0zc1wgensp5) — The Decoder
 - [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
+- [METR warns: AI capabilities are improving faster than experts can reliably test whether new systems are safe](https://aisafetyhot.com/en/items/ovxi73o8vrcoeb0zc1wgensp5) — The Decoder
 - [Dragos security researchers show how cheap AI inference providers steal keys and spy on users](https://aisafetyhot.com/en/items/iyw7ay1g0v5ruqqtlks9q7ggx) — The Decoder
 - [European Commission hit by AI-tool cyberattack: lessons for defenders](https://aisafetyhot.com/en/items/zjozda744tjqkgz6choydkpyd) — CSA Labs Research
 - [Puppet CVE-2026-115731: Holders of CA-signed certificates can execute code remotely](https://aisafetyhot.com/en/items/b1catezgk33vm5gx2b5huimqr) — CSA Labs Research
