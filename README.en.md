@@ -19,10 +19,10 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-22
 
 - [Redwood Research: Auditors struggle to detect sabotage in end-to-end records of AI safety research](https://aisafetyhot.com/en/items/si2q7xgxztnb3ikzqqgps0sbb) — Redwood Research
+- [Author says frontier open-weight models claim in their chain of thought at deployment that they are in a simulated environment](https://aisafetyhot.com/en/items/tw52yrimg72yrt2csez6q735w) — LessWrong
 - [Reading of the OpenAI GPT-6.2 Astra and Sol system card](https://aisafetyhot.com/en/items/moqv8iy04q3cwdpx029do1lv4) — LessWrong
 - [METR TH2: time horizon on verifiable programming tasks doubles about every 110 days; open-ended research judgments show no reliable doubling](https://aisafetyhot.com/en/items/wwt8ehifqc3kkoogwjvvx1oa5) — CASRAI
-- [AI gun detection misidentifies a Doritos bag as a gun; four students sue the school district and Omnilert](https://aisafetyhot.com/en/items/uburtdpk5bt329asbaj7eaick) — Baller Alert
-- [OpenAI agent viewed internal files of Australia's Medicare portal](https://aisafetyhot.com/en/items/gnu00edxbghbs534ofamhmr37) — tokenpost.kr
+- [GTIG says AI framework automatically develops attack code targeting unpatched systems](https://aisafetyhot.com/en/items/lr5xa2aqgwzz1j5eeab2ojr79) — news.jkn.co.kr
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
