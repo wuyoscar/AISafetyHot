@@ -20,9 +20,9 @@
 
 - [UK AISI 称预发布版 GPT-6.2 Astra 更易越狱](https://aisafetyhot.com/items/ir06a5rxjvf2atu5xz23tc4cc) ——OpenAI Deployment Safety
 - [作者称AI执行中国民族团结法能力不足](https://aisafetyhot.com/items/faa59josqj7ue05553vpdkwyf) ——ChinaTalk
+- [微软披露GitHub Copilot CLI设备验证码钓鱼风险，特定条件下或可远程操控AI智能体](https://aisafetyhot.com/items/znr3ec9s4wwfou11zms9ue8qw) ——iThome（台湾）
 - [Dragos 安全研究人员展示廉价 AI 推理服务商如何窃取密钥并窥探用户](https://aisafetyhot.com/items/iyw7ay1g0v5ruqqtlks9q7ggx) ——The Decoder
 - [OpenRouter 供应商 GMI Cloud 被曝遭入侵，提示词与对话泄露](https://aisafetyhot.com/items/twydzegzyp0rl2fx6seap66g0) ——X @AISecHub
-- [红十字国际委员会警告：监管自主武器使用很快将为时过晚](https://aisafetyhot.com/items/j2ygcofavbcnwaxf0axqyborl) ——The Guardian · 人工智能
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
