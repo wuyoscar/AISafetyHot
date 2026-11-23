@@ -20,7 +20,7 @@
 
 - [Rubrik演示一份文档劫持Copilot的ChatMate攻击，微软已修复并支付4.8万美元赏金](https://aisafetyhot.com/items/ck13p8qr4tfpswgfzdkrc5aqt) ——ITmedia Mobile
 - [BypassGym：评估 AI 智能体终端防御规避能力的基准](https://aisafetyhot.com/items/mpwgam9c8ehsqgxseudav1h9s) ——X @AISecHub
-- [黑客用自主 AI 入侵 10 家组织并获取超 100 万条个人记录](https://aisafetyhot.com/items/kro8vmmoc8a4gomm8h5mlvwk3) ——Cybersecuritynews
+- [为了智能体安全对齐，Google 造了个假互联网，每天可验证 1000 多个提示词注入测试候选](https://aisafetyhot.com/items/ni6ooq5p65v26nr3kj2cfy5xl) ——公众号 大模型安全研究
 - [「代码已被到处复制」：AI 黑客工具 ARTEX 正在全球造成破坏](https://aisafetyhot.com/items/ytgjj82gegni5cwwk78q2elx6) ——404 Media
 - [疑似中国黑客用 AI 攻击框架 Cairn 锁定东亚高校，11 分钟内发现并利用 MONAI Label 零日漏洞](https://aisafetyhot.com/items/nznc9155blgniotp8oome52tm) ——iThome（台湾）
 
