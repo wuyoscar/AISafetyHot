@@ -95,7 +95,7 @@
     "id": "gqbystxgnbapd5voy91qssgwe",
     "arxivId": "2611.27860",
     "title": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
-    "titleEn": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+    "titleEn": "Who grades the agents? Privilege separation for coding agent benchmarks",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -109,9 +109,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 1,
-      "pending": 3,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]

@@ -21,8 +21,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [Microsoft exposes GitHub Copilot CLI phishing attack risk; hackers may use legitimate login procedures to control AI agents](https://aisafetyhot.com/en/items/znr3ec9s4wwfou11zms9ue8qw) — iThome (Taiwan)
 - [UK AISI says pre-release GPT-6.2 Astra is easier to jailbreak](https://aisafetyhot.com/en/items/ir06a5rxjvf2atu5xz23tc4cc) — OpenAI Deployment Safety
 - [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
+- [Dutch Data Protection Authority tests 6 AI glasses and reveals security vulnerabilities, recommends consumers not buy them for now](https://aisafetyhot.com/en/items/wmum76zwpxr6v5hgtpvz2xe99) — iThome (Taiwan)
 - [Suspected Chinese hackers used the AI attack framework Cairn to target East Asian universities, discovering and exploiting a MONAI Label zero-day vulnerability within 11 minutes](https://aisafetyhot.com/en/items/nznc9155blgniotp8oome52tm) — iThome (Taiwan)
-- [Dragos says at least 3 AI inference providers were breached; OpenRouter suspends services of 3 providers](https://aisafetyhot.com/en/items/w7qlifi652afbxc30ilfi5d0a) — iThome (Taiwan)
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
