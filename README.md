@@ -21,8 +21,8 @@
 - [微软揭露 GitHub Copilot CLI 钓鱼攻击风险，黑客恐藉合法登入程序操控 AI 智能体](https://aisafetyhot.com/items/znr3ec9s4wwfou11zms9ue8qw) ——iThome（台湾）
 - [UK AISI 称预发布版 GPT-6.2 Astra 更易越狱](https://aisafetyhot.com/items/ir06a5rxjvf2atu5xz23tc4cc) ——OpenAI Deployment Safety
 - [作者称AI执行中国民族团结法能力不足](https://aisafetyhot.com/items/faa59josqj7ue05553vpdkwyf) ——ChinaTalk
+- [疑似中国黑客用 AI 攻击框架 Cairn 锁定东亚高校，11 分钟内发现并利用 MONAI Label 零日漏洞](https://aisafetyhot.com/items/nznc9155blgniotp8oome52tm) ——iThome（台湾）
 - [Dragos称至少3家AI推理供应商遭入侵，OpenRouter停用3家供应商服务](https://aisafetyhot.com/items/w7qlifi652afbxc30ilfi5d0a) ——iThome（台湾）
-- [媒体称中国黑客用AI攻击框架Cairn利用MONAI Label零日漏洞入侵大学服务器](https://aisafetyhot.com/items/nznc9155blgniotp8oome52tm) ——iThome（台湾）
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
