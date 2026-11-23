@@ -16,13 +16,13 @@
 <!-- today:start -->
 Read AI safety news and papers daily, with links to the details and original sources.
 
-## Today's 5 · 2026-11-23
+## Today's 5 · 2026-11-24
 
 - [Rubrik demonstrated a document-hijacking ChatMate attack on Copilot; Microsoft has fixed it and paid a \$48,000 bounty](https://aisafetyhot.com/en/items/ck13p8qr4tfpswgfzdkrc5aqt) — ITmedia Mobile
-- [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
 - [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
-- ["The code has been copied everywhere": AI hacking tool ARTEX is causing damage worldwide](https://aisafetyhot.com/en/items/ytgjj82gegni5cwwk78q2elx6) — 404 Media
-- [Suspected Chinese hackers used the AI attack framework Cairn to target East Asian universities, discovering and exploiting a MONAI Label zero-day vulnerability within 11 minutes](https://aisafetyhot.com/en/items/nznc9155blgniotp8oome52tm) — iThome (Taiwan)
+- [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
+- [Hackers used autonomous AI to breach 10 organizations and obtain more than 1 million personal records](https://aisafetyhot.com/en/items/kro8vmmoc8a4gomm8h5mlvwk3) — Cybersecuritynews
+- [Canary token evidence shows AI inference provider suffered prompt theft](https://aisafetyhot.com/en/items/iozvwtmaiin2zpiyo5nfb0amf) — CSA Labs Research
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
