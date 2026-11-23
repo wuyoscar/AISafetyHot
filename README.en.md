@@ -19,8 +19,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-24
 
 - [Rubrik demonstrated a document-hijacking ChatMate attack on Copilot; Microsoft has fixed it and paid a \$48,000 bounty](https://aisafetyhot.com/en/items/ck13p8qr4tfpswgfzdkrc5aqt) — ITmedia Mobile
-- [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
 - [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
+- [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
 - [Hackers used autonomous AI to breach 10 organizations and obtain more than 1 million personal records](https://aisafetyhot.com/en/items/kro8vmmoc8a4gomm8h5mlvwk3) — Cybersecuritynews
 - [Canary token evidence shows AI inference provider suffered prompt theft](https://aisafetyhot.com/en/items/iozvwtmaiin2zpiyo5nfb0amf) — CSA Labs Research
 
