@@ -19,8 +19,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-23
 
 - [Microsoft exposes GitHub Copilot CLI phishing attack risk; hackers may use legitimate login procedures to control AI agents](https://aisafetyhot.com/en/items/znr3ec9s4wwfou11zms9ue8qw) — iThome (Taiwan)
-- [Dutch Data Protection Authority tested 6 models of AI camera glasses and found security vulnerabilities, recommending that consumers refrain from buying them for the time being](https://aisafetyhot.com/en/items/wmum76zwpxr6v5hgtpvz2xe99) — iThome (Taiwan)
 - [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
+- [Dutch Data Protection Authority tested 6 models of AI camera glasses and found security vulnerabilities, recommending that consumers refrain from buying them for the time being](https://aisafetyhot.com/en/items/wmum76zwpxr6v5hgtpvz2xe99) — iThome (Taiwan)
 - [Suspected Chinese hackers used the AI attack framework Cairn to target East Asian universities, discovering and exploiting a MONAI Label zero-day vulnerability within 11 minutes](https://aisafetyhot.com/en/items/nznc9155blgniotp8oome52tm) — iThome (Taiwan)
 - [Dragos says at least 3 AI inference providers were breached; OpenRouter suspends services of 3 providers](https://aisafetyhot.com/en/items/w7qlifi652afbxc30ilfi5d0a) — iThome (Taiwan)
 

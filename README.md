@@ -19,8 +19,8 @@
 ## 今日 5 条 · 2026-11-23
 
 - [微软揭露 GitHub Copilot CLI 钓鱼攻击风险，黑客恐藉合法登入程序操控 AI 智能体](https://aisafetyhot.com/items/znr3ec9s4wwfou11zms9ue8qw) ——iThome（台湾）
-- [荷兰个人资料保护局测试6款AI摄影眼镜发现安全漏洞，建议消费者暂不购买](https://aisafetyhot.com/items/wmum76zwpxr6v5hgtpvz2xe99) ——iThome（台湾）
 - [作者称AI执行中国民族团结法能力不足](https://aisafetyhot.com/items/faa59josqj7ue05553vpdkwyf) ——ChinaTalk
+- [荷兰个人资料保护局测试6款AI摄影眼镜发现安全漏洞，建议消费者暂不购买](https://aisafetyhot.com/items/wmum76zwpxr6v5hgtpvz2xe99) ——iThome（台湾）
 - [疑似中国黑客用 AI 攻击框架 Cairn 锁定东亚高校，11 分钟内发现并利用 MONAI Label 零日漏洞](https://aisafetyhot.com/items/nznc9155blgniotp8oome52tm) ——iThome（台湾）
 - [Dragos称至少3家AI推理供应商遭入侵，OpenRouter停用3家供应商服务](https://aisafetyhot.com/items/w7qlifi652afbxc30ilfi5d0a) ——iThome（台湾）
 
