@@ -1,0 +1,92 @@
+[
+  {
+    "arxivId": "2611.27046",
+    "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
+    "titleZh": "行胜于言：经由网页交互中的行为隐蔽信道对 LLM 智能体进行有状态隐私嗅探",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27046",
+      "aisafetyhot": "https://aisafetyhot.com/items/dxiahv1feknzz5sy2yc9gsoau"
+    },
+    "publishedAt": "2026-11-20T03:17:51.000Z",
+    "timelineAt": "2026-11-23T05:43:40.738Z",
+    "discoveredAt": "2026-11-23T05:43:40.738Z"
+  },
+  {
+    "arxivId": "2611.27115",
+    "title": "A Footprint-Sensitive Cross-GPU Timing Channel Through the Shared Host Memory Subsystem",
+    "titleZh": "一种经共享主机内存子系统的足迹敏感跨 GPU 时序信道",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27115",
+      "aisafetyhot": "https://aisafetyhot.com/items/bkxujjvxubfhgyybys7fhrvj3"
+    },
+    "publishedAt": "2026-11-20T04:39:40.000Z",
+    "timelineAt": "2026-11-23T05:43:40.793Z",
+    "discoveredAt": "2026-11-23T05:43:40.793Z"
+  },
+  {
+    "arxivId": "2611.27426",
+    "title": "Cleave: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs",
+    "titleZh": "Cleave：切断开放权重 LLM 的护栏并审计谱耦合",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27426",
+      "aisafetyhot": "https://aisafetyhot.com/items/ucaus22y2mdv7nnhu7h28z861"
+    },
+    "publishedAt": "2026-11-20T10:25:54.000Z",
+    "timelineAt": "2026-11-23T05:43:40.983Z",
+    "discoveredAt": "2026-11-23T05:43:40.983Z"
+  },
+  {
+    "arxivId": "2611.27155",
+    "title": "The Vulnerability Window: Decision Instability in Quantized Reward Models",
+    "titleZh": "脆弱性窗口：量化奖励模型中的决策不稳定性",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27155",
+      "aisafetyhot": "https://aisafetyhot.com/items/bqngvddf3l4h0qyn6b36pvqsh"
+    },
+    "publishedAt": "2026-11-20T05:39:34.000Z",
+    "timelineAt": "2026-11-23T05:43:40.813Z",
+    "discoveredAt": "2026-11-23T05:43:40.813Z"
+  },
+  {
+    "arxivId": "2611.27860",
+    "title": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+    "titleZh": "谁来给智能体打分？面向编码智能体基准的特权分离",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27860",
+      "aisafetyhot": "https://aisafetyhot.com/items/gqbystxgnbapd5voy91qssgwe"
+    },
+    "publishedAt": "2026-11-20T17:09:10.000Z",
+    "timelineAt": "2026-11-23T05:43:41.179Z",
+    "discoveredAt": "2026-11-23T05:43:41.179Z"
+  }
+]

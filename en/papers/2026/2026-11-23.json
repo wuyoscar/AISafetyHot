@@ -1,0 +1,117 @@
+[
+  {
+    "id": "dxiahv1feknzz5sy2yc9gsoau",
+    "arxivId": "2611.27046",
+    "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
+    "titleEn": "Actions Speak Louder Than Words: Stateful Privacy Sniffing against LLM Agents via Behavioral Covert Channels in Web Interaction",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27046",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/dxiahv1feknzz5sy2yc9gsoau"
+    },
+    "publishedAt": "2026-11-20T03:17:51.000Z",
+    "timelineAt": "2026-11-23T05:43:40.738Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "bkxujjvxubfhgyybys7fhrvj3",
+    "arxivId": "2611.27115",
+    "title": "A Footprint-Sensitive Cross-GPU Timing Channel Through the Shared Host Memory Subsystem",
+    "titleEn": "A footprint-sensitive cross-GPU timing channel via the shared host memory subsystem",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27115",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/bkxujjvxubfhgyybys7fhrvj3"
+    },
+    "publishedAt": "2026-11-20T04:39:40.000Z",
+    "timelineAt": "2026-11-23T05:43:40.793Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "ucaus22y2mdv7nnhu7h28z861",
+    "arxivId": "2611.27426",
+    "title": "Cleave: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs",
+    "titleEn": "Cleave: Cutting open-weight LLM guardrails and auditing spectral coupling",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27426",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/ucaus22y2mdv7nnhu7h28z861"
+    },
+    "publishedAt": "2026-11-20T10:25:54.000Z",
+    "timelineAt": "2026-11-23T05:43:40.983Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "bqngvddf3l4h0qyn6b36pvqsh",
+    "arxivId": "2611.27155",
+    "title": "The Vulnerability Window: Decision Instability in Quantized Reward Models",
+    "titleEn": "Fragility window: decision instability in quantized reward models",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27155",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/bqngvddf3l4h0qyn6b36pvqsh"
+    },
+    "publishedAt": "2026-11-20T05:39:34.000Z",
+    "timelineAt": "2026-11-23T05:43:40.813Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "gqbystxgnbapd5voy91qssgwe",
+    "arxivId": "2611.27860",
+    "title": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+    "titleEn": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.27860",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gqbystxgnbapd5voy91qssgwe"
+    },
+    "publishedAt": "2026-11-20T17:09:10.000Z",
+    "timelineAt": "2026-11-23T05:43:41.179Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 1,
+      "pending": 3,
+      "status": "partial"
+    }
+  }
+]
