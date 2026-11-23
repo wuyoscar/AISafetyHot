@@ -19,10 +19,10 @@
 ## 今日 5 条 · 2026-11-24
 
 - [Rubrik演示一份文档劫持Copilot的ChatMate攻击，微软已修复并支付4.8万美元赏金](https://aisafetyhot.com/items/ck13p8qr4tfpswgfzdkrc5aqt) ——ITmedia Mobile
-- [BypassGym：评估 AI 智能体终端防御规避能力的基准](https://aisafetyhot.com/items/mpwgam9c8ehsqgxseudav1h9s) ——X @AISecHub
+- [英国 AI 安全研究所红队：攻击策略选择可能使监控器评估产生误导](https://aisafetyhot.com/items/yf175hffj6mirjx6xoq26vwmg) ——UK AI Security Institute
 - [为了智能体安全对齐，Google 造了个假互联网，每天可验证 1000 多个提示词注入测试候选](https://aisafetyhot.com/items/ni6ooq5p65v26nr3kj2cfy5xl) ——公众号 大模型安全研究
-- [疑似中国黑客用 AI 攻击框架 Cairn 锁定东亚高校，11 分钟内发现并利用 MONAI Label 零日漏洞](https://aisafetyhot.com/items/nznc9155blgniotp8oome52tm) ——iThome（台湾）
-- [Dragos 调查后，OpenRouter 收紧 Zero Data Retention 选项](https://aisafetyhot.com/items/rtdg3p7jd6rz17kbbywwov10z) ——ActuIA
+- [BypassGym：评估 AI 智能体终端防御规避能力的基准](https://aisafetyhot.com/items/mpwgam9c8ehsqgxseudav1h9s) ——X @AISecHub
+- [黑客用自主 AI 入侵 10 家组织并获取超 100 万条个人记录](https://aisafetyhot.com/items/kro8vmmoc8a4gomm8h5mlvwk3) ——Cybersecuritynews
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
