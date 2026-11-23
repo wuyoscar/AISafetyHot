@@ -21,7 +21,7 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [Rubrik demonstrated a document-hijacking ChatMate attack on Copilot; Microsoft has fixed it and paid a \$48,000 bounty](https://aisafetyhot.com/en/items/ck13p8qr4tfpswgfzdkrc5aqt) — ITmedia Mobile
 - [Signal blocks AI assistants from snooping on users' private messages](https://aisafetyhot.com/en/items/fgfkkowm61u3c8qrzofo36es4) — Help Net Security AI
 - [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
-- [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
+- [Hackers used autonomous AI to breach 10 organizations and obtain over 1 million personal records](https://aisafetyhot.com/en/items/kro8vmmoc8a4gomm8h5mlvwk3) — Cybersecuritynews
 - [Suspected Chinese hackers used the AI attack framework Cairn to target East Asian universities, discovering and exploiting a MONAI Label zero-day vulnerability within 11 minutes](https://aisafetyhot.com/en/items/nznc9155blgniotp8oome52tm) — iThome (Taiwan)
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
