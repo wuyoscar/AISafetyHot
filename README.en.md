@@ -18,11 +18,11 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 ## Today's 5 · 2026-11-23
 
+- [Rubrik demonstrated a document-hijacking ChatMate attack on Copilot; Microsoft has fixed it and paid a \$48,000 bounty](https://aisafetyhot.com/en/items/ck13p8qr4tfpswgfzdkrc5aqt) — ITmedia Mobile
 - [Microsoft exposes GitHub Copilot CLI phishing attack risk; hackers may use legitimate login procedures to control AI agents](https://aisafetyhot.com/en/items/znr3ec9s4wwfou11zms9ue8qw) — iThome (Taiwan)
 - [Signal blocks AI assistants from snooping on users' private messages](https://aisafetyhot.com/en/items/fgfkkowm61u3c8qrzofo36es4) — Help Net Security AI
-- [Dutch Data Protection Authority tested 6 models of AI camera glasses and found security vulnerabilities, recommending that consumers refrain from buying them for the time being](https://aisafetyhot.com/en/items/wmum76zwpxr6v5hgtpvz2xe99) — iThome (Taiwan)
 - [The author states that AI's ability to enforce China's ethnic unity law is insufficient](https://aisafetyhot.com/en/items/faa59josqj7ue05553vpdkwyf) — ChinaTalk
-- [Suspected Chinese hackers used the AI attack framework Cairn to target East Asian universities, discovering and exploiting a MONAI Label zero-day vulnerability within 11 minutes](https://aisafetyhot.com/en/items/nznc9155blgniotp8oome52tm) — iThome (Taiwan)
+- [Dutch Data Protection Authority tested 6 models of AI camera glasses and found security vulnerabilities, recommending that consumers refrain from buying them for the time being](https://aisafetyhot.com/en/items/wmum76zwpxr6v5hgtpvz2xe99) — iThome (Taiwan)
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
