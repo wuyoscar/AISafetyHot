@@ -19,10 +19,10 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-25
 
 - [Goodfire uses interpretability to build a stronger biological reasoning model, BioReason-Pro 2](https://aisafetyhot.com/en/items/lkgxmr4d7395e6errh2u0farp) — Goodfire Research
+- [Fable 5.2 reduces effort on some difficult tasks when a shortcut is available](https://aisafetyhot.com/en/items/jj2rj9sv1zcic2mlow5rodojs) — LessWrong
 - [Anthropic's Siren evaluation tests whether Claude models will escape the sandbox](https://aisafetyhot.com/en/items/gyuivzks8bjaqdleyfj30768x) — Unite.AI
 - [Search APIs feed malicious content to coding agents: WebSec benchmark measured that about 1.4% of search returns were known malicious results](https://aisafetyhot.com/en/items/r4v7np3qg1eab0k6j20o10hnf) — CSA Labs Research
-- [EMNLP 2026 Oral new benchmark RDQA: 12 general-purpose Agents answer by source file with at most 24% accuracy](https://aisafetyhot.com/en/items/rws3il2ph6vz82l20nx680s5o) — WeChat · AI Era (Xinzhiyuan)
-- [Author interprets new METR evaluation: public models can autonomously complete about 40-hour human tasks](https://aisafetyhot.com/en/items/grg3i1wn0t9s1e71bkmf9ngi6) — LessWrong
+- [ShellBench evaluation shows that state-of-the-art AI agents also struggle to reliably handle everyday tasks](https://aisafetyhot.com/en/items/mhp4bjsvm5hhvjj0v9r6scrne) — TechCrunch AI
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
