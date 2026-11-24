@@ -22,7 +22,7 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [UK AI Safety Institute red team: attack strategy choice may make monitor evaluations misleading](https://aisafetyhot.com/en/items/yf175hffj6mirjx6xoq26vwmg) — UK AI Security Institute
 - [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
 - [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
-- [OpenAI releases the System Card for GPT-6.2 in ChatGPT](https://aisafetyhot.com/en/items/q0wqq5zdhldsvltxns7kcj8x7) — OpenAI Deployment Safety
+- [GAO covert testing: after bypassing guardrails, four AI platforms generated viable attack plans within hours](https://aisafetyhot.com/en/items/n1j0lebjetvpv2m7xrcvdu8fh) — Legis1
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
