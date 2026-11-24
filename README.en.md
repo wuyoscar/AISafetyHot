@@ -19,10 +19,10 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-24
 
 - [Rubrik demonstrated a document-hijacking ChatMate attack on Copilot; Microsoft has fixed it and paid a \$48,000 bounty](https://aisafetyhot.com/en/items/ck13p8qr4tfpswgfzdkrc5aqt) — ITmedia Mobile
-- [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
 - [UK AI Safety Institute red team: attack strategy choice may make monitor evaluations misleading](https://aisafetyhot.com/en/items/yf175hffj6mirjx6xoq26vwmg) — UK AI Security Institute
+- [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
+- [GPT-6.2 (ChatGPT version) System Card: self-assessed biological and chemical capabilities reach the High threshold](https://aisafetyhot.com/en/items/q0wqq5zdhldsvltxns7kcj8x7) — OpenAI Deployment Safety
 - [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
-- [EMNLP 2026 Oral new benchmark RDQA: 12 general-purpose Agents answer by source file with at most 24% accuracy](https://aisafetyhot.com/en/items/rws3il2ph6vz82l20nx680s5o) — WeChat · AI Era (Xinzhiyuan)
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
