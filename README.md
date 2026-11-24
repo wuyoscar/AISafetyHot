@@ -20,8 +20,8 @@
 
 - [Rubrik演示一份文档劫持Copilot的ChatMate攻击，微软已修复并支付4.8万美元赏金](https://aisafetyhot.com/items/ck13p8qr4tfpswgfzdkrc5aqt) ——ITmedia Mobile
 - [英国 AI 安全研究所红队：攻击策略选择可能使监控器评估产生误导](https://aisafetyhot.com/items/yf175hffj6mirjx6xoq26vwmg) ——UK AI Security Institute
-- [BypassGym：评估 AI 智能体终端防御规避能力的基准](https://aisafetyhot.com/items/mpwgam9c8ehsqgxseudav1h9s) ——X @AISecHub
 - [为了智能体安全对齐，Google 造了个假互联网，每天可验证 1000 多个提示词注入测试候选](https://aisafetyhot.com/items/ni6ooq5p65v26nr3kj2cfy5xl) ——公众号 大模型安全研究
+- [BypassGym：评估 AI 智能体终端防御规避能力的基准](https://aisafetyhot.com/items/mpwgam9c8ehsqgxseudav1h9s) ——X @AISecHub
 - [EMNLP 2026 Oral新基准RDQA：12个通用Agent按源文件作答最高24%](https://aisafetyhot.com/items/rws3il2ph6vz82l20nx680s5o) ——公众号 新智元
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
