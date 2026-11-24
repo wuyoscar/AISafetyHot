@@ -1,8 +1,8 @@
 [
   {
-    "arxivId": "2611.30207",
-    "title": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym",
-    "titleZh": "什么才是训练编码智能体的好数据？对 SWE-Gym 的系统性研究",
+    "arxivId": "2611.30259",
+    "title": "Attributing Security Outcomes in LLM-Agent Evaluations: The Role of Content-Free State",
+    "titleZh": "LLM 智能体评测中的安全结果归因：内容无关状态的作用",
     "authors": [],
     "category": null,
     "selected": true,
@@ -10,11 +10,83 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.30207",
-      "aisafetyhot": "https://aisafetyhot.com/items/m22g5e30rtdrathmenswbbglk"
+      "paper": "https://arxiv.org/abs/2611.30259",
+      "aisafetyhot": "https://aisafetyhot.com/items/s29dg58ck4wlm5skv8nm6rlg2"
     },
-    "publishedAt": "2026-11-23T07:45:13.000Z",
-    "timelineAt": "2026-11-24T07:13:34.549Z",
-    "discoveredAt": "2026-11-24T07:13:34.549Z"
+    "publishedAt": "2026-11-23T08:24:44.000Z",
+    "timelineAt": "2026-11-24T08:43:29.546Z",
+    "discoveredAt": "2026-11-24T08:43:29.546Z"
+  },
+  {
+    "arxivId": "2611.30185",
+    "title": "Causal Evidence for the Emergence and Spread of Reward Hacking in AI Agent Swarms",
+    "titleZh": "AI 智能体集群中奖励作弊涌现与传播的因果证据",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.30185",
+      "aisafetyhot": "https://aisafetyhot.com/items/v9xdi5ba4a3qsi4xc1uwb548a"
+    },
+    "publishedAt": "2026-11-23T07:30:56.000Z",
+    "timelineAt": "2026-11-24T09:08:20.569Z",
+    "discoveredAt": "2026-11-24T09:08:20.569Z"
+  },
+  {
+    "arxivId": "2611.30624",
+    "title": "Oops!... I Parsed It Again: Tool-Call Smuggling Against LLM Agents",
+    "titleZh": "糟糕！……我又解析了一遍：针对 LLM 智能体的工具调用走私（Tool-Call Smuggling）攻击",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.30624",
+      "aisafetyhot": "https://aisafetyhot.com/items/x1makrnaiiihm50brrih3pwgo"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-24T09:08:22.118Z",
+    "discoveredAt": "2026-11-24T09:08:22.118Z"
+  },
+  {
+    "arxivId": "2611.30932",
+    "title": "Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills",
+    "titleZh": "LLM Agent Skills 供应链中的承袭型与智能体原生威胁",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.30932",
+      "aisafetyhot": "https://aisafetyhot.com/items/h3spbaquqd05je7sm7gqc7t1p"
+    },
+    "publishedAt": "2026-11-23T16:20:29.000Z",
+    "timelineAt": "2026-11-24T08:43:29.501Z",
+    "discoveredAt": "2026-11-24T08:43:29.501Z"
+  },
+  {
+    "arxivId": "2611.30004",
+    "title": "EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution",
+    "titleZh": "EnvTrap：通过后果盲的动作执行揭示具身 AI 的纯环境攻击面",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.30004",
+      "aisafetyhot": "https://aisafetyhot.com/items/yzrtmpdo5n66b0fxsnxbncjv6"
+    },
+    "publishedAt": null,
+    "timelineAt": "2026-11-24T08:43:29.576Z",
+    "discoveredAt": "2026-11-24T08:43:29.576Z"
   }
 ]
