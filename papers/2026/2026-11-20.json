@@ -72,9 +72,9 @@
     "discoveredAt": "2026-11-20T05:17:27.820Z"
   },
   {
-    "arxivId": "2611.26863",
-    "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
-    "titleZh": "LLM 在后训练中记住自身产生的幻觉",
+    "arxivId": "2611.26601",
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "titleZh": "SoK：评估软件漏洞研究中 LLM 能力的演进",
     "authors": [],
     "category": null,
     "selected": true,
@@ -82,11 +82,11 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.26863",
-      "aisafetyhot": "https://aisafetyhot.com/items/gh8jaejx4wv9ygcm5rq58m1rj"
+      "paper": "https://arxiv.org/abs/2611.26601",
+      "aisafetyhot": "https://aisafetyhot.com/items/isvxew2a3t85heabaa7phv8lt"
     },
-    "publishedAt": "2026-11-19T22:28:14.000Z",
-    "timelineAt": "2026-11-19T22:28:14.000Z",
-    "discoveredAt": "2026-11-24T13:23:22.390Z"
+    "publishedAt": "2026-11-19T18:54:19.000Z",
+    "timelineAt": "2026-11-20T05:11:25.006Z",
+    "discoveredAt": "2026-11-20T05:11:25.006Z"
   }
 ]
