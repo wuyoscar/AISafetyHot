@@ -3,7 +3,7 @@
     "id": "m22g5e30rtdrathmenswbbglk",
     "arxivId": "2611.30207",
     "title": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym",
-    "titleEn": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym",
+    "titleEn": "What makes good data for training coding agents? A systematic study of SWE-Gym",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -17,9 +17,9 @@
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
       "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
     }
   }
 ]
