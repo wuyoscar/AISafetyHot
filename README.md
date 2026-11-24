@@ -16,13 +16,13 @@
 <!-- today:start -->
 每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
 
-## 今日 5 条 · 2026-11-24
+## 今日 5 条 · 2026-11-25
 
-- [Rubrik演示一份文档劫持Copilot的ChatMate攻击，微软已修复并支付4.8万美元赏金](https://aisafetyhot.com/items/ck13p8qr4tfpswgfzdkrc5aqt) ——ITmedia Mobile
-- [英国 AI 安全研究所红队：攻击策略选择可能使监控器评估产生误导](https://aisafetyhot.com/items/yf175hffj6mirjx6xoq26vwmg) ——UK AI Security Institute
-- [BypassGym：评估 AI 智能体终端防御规避能力的基准](https://aisafetyhot.com/items/mpwgam9c8ehsqgxseudav1h9s) ——X @AISecHub
-- [为了智能体安全对齐，Google 造了个假互联网，每天可验证 1000 多个提示词注入测试候选](https://aisafetyhot.com/items/ni6ooq5p65v26nr3kj2cfy5xl) ——公众号 大模型安全研究
+- [搜索 API 向编码智能体投喂恶意内容：WebSec 基准测得约 1.4% 的搜索返回已知恶意结果](https://aisafetyhot.com/items/r4v7np3qg1eab0k6j20o10hnf) ——CSA Labs Research
 - [EMNLP 2026 Oral新基准RDQA：12个通用Agent按源文件作答最高24%](https://aisafetyhot.com/items/rws3il2ph6vz82l20nx680s5o) ——公众号 新智元
+- [作者解读METR新评测：公开模型可自主完成约40小时人类任务](https://aisafetyhot.com/items/grg3i1wn0t9s1e71bkmf9ngi6) ——LessWrong
+- [亚马逊称黑客的AI智能体在极少人工干预下发现并利用0-day漏洞](https://aisafetyhot.com/items/f1q2h2r3i8rrzcllbm9a373sz) ——Ars Technica AI
+- [NanoGPT 安全通告：多家服务商数据泄露及平台应对措施](https://aisafetyhot.com/items/x4ccfm30bdxlhi521002ms6py) ——NanoGPT
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

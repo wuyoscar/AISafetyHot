@@ -16,13 +16,13 @@
 <!-- today:start -->
 Read AI safety news and papers daily, with links to the details and original sources.
 
-## Today's 5 · 2026-11-24
+## Today's 5 · 2026-11-25
 
-- [Rubrik demonstrated a document-hijacking ChatMate attack on Copilot; Microsoft has fixed it and paid a \$48,000 bounty](https://aisafetyhot.com/en/items/ck13p8qr4tfpswgfzdkrc5aqt) — ITmedia Mobile
-- [UK AI Safety Institute red team: attack strategy choice may make monitor evaluations misleading](https://aisafetyhot.com/en/items/yf175hffj6mirjx6xoq26vwmg) — UK AI Security Institute
-- [BypassGym: a benchmark for evaluating AI agents' endpoint defense evasion capability](https://aisafetyhot.com/en/items/mpwgam9c8ehsqgxseudav1h9s) — X @AISecHub
-- [For agent safety alignment, Google built a fake internet that can validate more than 1000 prompt injection test candidates per day](https://aisafetyhot.com/en/items/ni6ooq5p65v26nr3kj2cfy5xl) — WeChat · LLM Security Research
+- [Search APIs feed malicious content to coding agents: WebSec benchmark measured that about 1.4% of search returns were known malicious results](https://aisafetyhot.com/en/items/r4v7np3qg1eab0k6j20o10hnf) — CSA Labs Research
 - [EMNLP 2026 Oral new benchmark RDQA: 12 general-purpose Agents answer by source file with at most 24% accuracy](https://aisafetyhot.com/en/items/rws3il2ph6vz82l20nx680s5o) — WeChat · AI Era (Xinzhiyuan)
+- [Author interprets new METR evaluation: public models can autonomously complete about 40-hour human tasks](https://aisafetyhot.com/en/items/grg3i1wn0t9s1e71bkmf9ngi6) — LessWrong
+- [Amazon says hackers' AI agent discovered and exploited a 0-day vulnerability with minimal human intervention](https://aisafetyhot.com/en/items/f1q2h2r3i8rrzcllbm9a373sz) — Ars Technica AI
+- [NanoGPT security notice: data breaches at multiple providers and platform response measures](https://aisafetyhot.com/en/items/x4ccfm30bdxlhi521002ms6py) — NanoGPT
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
