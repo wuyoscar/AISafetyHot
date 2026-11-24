@@ -19,10 +19,10 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-25
 
 - [Search APIs feed malicious content to coding agents: WebSec benchmark measured that about 1.4% of search returns were known malicious results](https://aisafetyhot.com/en/items/r4v7np3qg1eab0k6j20o10hnf) — CSA Labs Research
+- [Anthropic builds honeypot test Siren to lure AI agents into crossing boundaries](https://aisafetyhot.com/en/items/mrza37axoc3mxel2uzycfkagm) — WIRED Security and AI
 - [EMNLP 2026 Oral new benchmark RDQA: 12 general-purpose Agents answer by source file with at most 24% accuracy](https://aisafetyhot.com/en/items/rws3il2ph6vz82l20nx680s5o) — WeChat · AI Era (Xinzhiyuan)
 - [Author interprets new METR evaluation: public models can autonomously complete about 40-hour human tasks](https://aisafetyhot.com/en/items/grg3i1wn0t9s1e71bkmf9ngi6) — LessWrong
 - [Amazon says hackers' AI agent discovered and exploited a 0-day vulnerability with minimal human intervention](https://aisafetyhot.com/en/items/f1q2h2r3i8rrzcllbm9a373sz) — Ars Technica AI
-- [NanoGPT security notice: data breaches at multiple providers and platform response measures](https://aisafetyhot.com/en/items/x4ccfm30bdxlhi521002ms6py) — NanoGPT
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
