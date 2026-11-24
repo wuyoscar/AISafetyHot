@@ -1,0 +1,20 @@
+[
+  {
+    "arxivId": "2611.28833",
+    "title": "Self-WSP: Can Language Models Improve Themselves Through Weight-Space Programming?",
+    "titleZh": "Self-WSP：语言模型能通过权重空间编程自我改进吗？",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.28833",
+      "aisafetyhot": "https://aisafetyhot.com/items/pw53xlcarytoszsggoc4lzgsr"
+    },
+    "publishedAt": "2026-11-21T14:36:04.000Z",
+    "timelineAt": "2026-11-21T14:36:04.000Z",
+    "discoveredAt": "2026-11-24T03:36:46.543Z"
+  }
+]
