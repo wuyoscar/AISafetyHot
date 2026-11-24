@@ -18,11 +18,11 @@
 
 ## 今日 5 条 · 2026-11-25
 
-- [搜索 API 向编码智能体投喂恶意内容：WebSec 基准测得约 1.4% 的搜索返回已知恶意结果](https://aisafetyhot.com/items/r4v7np3qg1eab0k6j20o10hnf) ——CSA Labs Research
+- [Goodfire 用可解释性构建更强的生物推理模型 BioReason-Pro 2](https://aisafetyhot.com/items/lkgxmr4d7395e6errh2u0farp) ——Goodfire Research
 - [Anthropic 打造蜜罐测试 Siren，引诱 AI 智能体越界](https://aisafetyhot.com/items/mrza37axoc3mxel2uzycfkagm) ——WIRED Security and AI
+- [搜索 API 向编码智能体投喂恶意内容：WebSec 基准测得约 1.4% 的搜索返回已知恶意结果](https://aisafetyhot.com/items/r4v7np3qg1eab0k6j20o10hnf) ——CSA Labs Research
 - [EMNLP 2026 Oral新基准RDQA：12个通用Agent按源文件作答最高24%](https://aisafetyhot.com/items/rws3il2ph6vz82l20nx680s5o) ——公众号 新智元
 - [作者解读METR新评测：公开模型可自主完成约40小时人类任务](https://aisafetyhot.com/items/grg3i1wn0t9s1e71bkmf9ngi6) ——LessWrong
-- [亚马逊称黑客的AI智能体在极少人工干预下发现并利用0-day漏洞](https://aisafetyhot.com/items/f1q2h2r3i8rrzcllbm9a373sz) ——Ars Technica AI
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
