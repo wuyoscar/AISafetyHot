@@ -49,14 +49,14 @@
     "id": "x1makrnaiiihm50brrih3pwgo",
     "arxivId": "2611.30624",
     "title": "Oops!... I Parsed It Again: Tool-Call Smuggling Against LLM Agents",
-    "titleEn": "Oops! ... I parsed it again: tool-call smuggling attacks against LLM agents",
+    "titleEn": "Oops! ... I Parsed It Again: Tool-Call Smuggling Against LLM Agents",
     "summary": null,
     "quickRead": null,
     "links": {
       "paper": "https://arxiv.org/abs/2611.30624",
       "aisafetyhot": "https://aisafetyhot.com/en/items/x1makrnaiiihm50brrih3pwgo"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T12:56:26.000Z",
     "timelineAt": "2026-11-24T09:08:22.118Z",
     "translation": {
       "locale": "en",
@@ -95,14 +95,14 @@
     "id": "yzrtmpdo5n66b0fxsnxbncjv6",
     "arxivId": "2611.30004",
     "title": "EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution",
-    "titleEn": "EnvTrap: Revealing the pure environment attack surface of embodied AI through consequence-blind action execution",
+    "titleEn": "EnvTrap: revealing the pure-environment attack surface of embodied AI through consequence-blind action execution",
     "summary": null,
     "quickRead": null,
     "links": {
       "paper": "https://arxiv.org/abs/2611.30004",
       "aisafetyhot": "https://aisafetyhot.com/en/items/yzrtmpdo5n66b0fxsnxbncjv6"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T04:08:50.000Z",
     "timelineAt": "2026-11-24T08:43:29.576Z",
     "translation": {
       "locale": "en",

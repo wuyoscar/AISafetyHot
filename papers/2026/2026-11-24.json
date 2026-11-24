@@ -38,7 +38,7 @@
   {
     "arxivId": "2611.30624",
     "title": "Oops!... I Parsed It Again: Tool-Call Smuggling Against LLM Agents",
-    "titleZh": "糟糕！……我又解析了一遍：针对 LLM 智能体的工具调用走私（Tool-Call Smuggling）攻击",
+    "titleZh": "哎呀！……我又解析了一遍：针对 LLM 智能体的工具调用走私",
     "authors": [],
     "category": null,
     "selected": true,
@@ -49,7 +49,7 @@
       "paper": "https://arxiv.org/abs/2611.30624",
       "aisafetyhot": "https://aisafetyhot.com/items/x1makrnaiiihm50brrih3pwgo"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T12:56:26.000Z",
     "timelineAt": "2026-11-24T09:08:22.118Z",
     "discoveredAt": "2026-11-24T09:08:22.118Z"
   },
@@ -74,7 +74,7 @@
   {
     "arxivId": "2611.30004",
     "title": "EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution",
-    "titleZh": "EnvTrap：通过后果盲的动作执行揭示具身 AI 的纯环境攻击面",
+    "titleZh": "EnvTrap：通过后果盲动作执行揭示具身 AI 的纯环境攻击面",
     "authors": [],
     "category": null,
     "selected": true,
@@ -85,7 +85,7 @@
       "paper": "https://arxiv.org/abs/2611.30004",
       "aisafetyhot": "https://aisafetyhot.com/items/yzrtmpdo5n66b0fxsnxbncjv6"
     },
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T04:08:50.000Z",
     "timelineAt": "2026-11-24T08:43:29.576Z",
     "discoveredAt": "2026-11-24T08:43:29.576Z"
   }
