@@ -1,0 +1,20 @@
+[
+  {
+    "arxivId": "2611.30207",
+    "title": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym",
+    "titleZh": "什么才是训练编码智能体的好数据？对 SWE-Gym 的系统性研究",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.30207",
+      "aisafetyhot": "https://aisafetyhot.com/items/m22g5e30rtdrathmenswbbglk"
+    },
+    "publishedAt": "2026-11-23T07:45:13.000Z",
+    "timelineAt": "2026-11-24T07:13:34.549Z",
+    "discoveredAt": "2026-11-24T07:13:34.549Z"
+  }
+]

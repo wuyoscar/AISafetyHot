@@ -1,5 +1,28 @@
 [
   {
+    "id": "w3j9c73csrenojul4frruzm8f",
+    "arxivId": "2611.28665",
+    "title": "Seeing Right, Writing Wrong: Where Short Chain-of-Thought Breaks Spatial VQA",
+    "titleEn": "Seeing Right, Writing Wrong: Where Short Chain of Thought Hurts Spatial VQA",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.28665",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/w3j9c73csrenojul4frruzm8f"
+    },
+    "publishedAt": "2026-11-21T08:45:39.000Z",
+    "timelineAt": "2026-11-21T08:45:39.000Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 3,
+      "translated": 3,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
     "id": "pw53xlcarytoszsggoc4lzgsr",
     "arxivId": "2611.28833",
     "title": "Self-WSP: Can Language Models Improve Themselves Through Weight-Space Programming?",
@@ -16,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 3,
-      "translated": 3,
+      "total": 11,
+      "translated": 11,
       "pending": 0,
       "status": "complete"
     }

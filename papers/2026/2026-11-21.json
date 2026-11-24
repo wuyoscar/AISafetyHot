@@ -1,5 +1,23 @@
 [
   {
+    "arxivId": "2611.28665",
+    "title": "Seeing Right, Writing Wrong: Where Short Chain-of-Thought Breaks Spatial VQA",
+    "titleZh": "看得对，写得错：短思维链在何处损害空间 VQA",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.28665",
+      "aisafetyhot": "https://aisafetyhot.com/items/w3j9c73csrenojul4frruzm8f"
+    },
+    "publishedAt": "2026-11-21T08:45:39.000Z",
+    "timelineAt": "2026-11-21T08:45:39.000Z",
+    "discoveredAt": "2026-11-24T07:13:34.539Z"
+  },
+  {
     "arxivId": "2611.28833",
     "title": "Self-WSP: Can Language Models Improve Themselves Through Weight-Space Programming?",
     "titleZh": "Self-WSP：语言模型能通过权重空间编程自我改进吗？",
