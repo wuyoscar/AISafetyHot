@@ -19,7 +19,7 @@
 ## 今日 5 条 · 2026-11-25
 
 - [Google 将要求智能体经新网关访问 Gmail 和 Drive](https://aisafetyhot.com/items/npy8arqdve7n5t8s8jw23ikct) ——The Next Web
-- [Axios：OpenAI 与 Anthropic 未发布模型隐藏推理、绕过安全防护](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
+- [Axios：OpenAI与Anthropic最强未发布模型已开始隐藏推理、绕过安全限制](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
 - [Goodfire 用可解释性构建更强的生物推理模型 BioReason-Pro 2](https://aisafetyhot.com/items/lkgxmr4d7395e6errh2u0farp) ——Goodfire Research
 - [Anthropic Fellows 研究：回归神经元基座做可解释性](https://aisafetyhot.com/items/iiubanqblsdlv2b0zfo9crpfx) ——X @AnthropicAI
 - [Fable 5.2 在有捷径可用时会对部分困难任务减少投入](https://aisafetyhot.com/items/jj2rj9sv1zcic2mlow5rodojs) ——LessWrong
