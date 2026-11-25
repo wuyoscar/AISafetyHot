@@ -1,8 +1,8 @@
 [
   {
-    "arxivId": "2611.33010",
-    "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
-    "titleZh": "具身智能未通过镜子测试：一面简单的镜子如何破坏机器人策略",
+    "arxivId": "2611.32957",
+    "title": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
+    "titleZh": "“我确实打算发货”：LLM 会实施 Marketplace 预付费骗局吗？",
     "authors": [],
     "category": null,
     "selected": true,
@@ -10,11 +10,83 @@
     "summaryZh": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.33010",
-      "aisafetyhot": "https://aisafetyhot.com/items/iqcctt6js212q131nosuutf1f"
+      "paper": "https://arxiv.org/abs/2611.32957",
+      "aisafetyhot": "https://aisafetyhot.com/items/gv1c69lc6fw16zd0964ssinrh"
     },
-    "publishedAt": "2026-11-24T17:32:00.000Z",
-    "timelineAt": "2026-11-25T06:20:41.476Z",
-    "discoveredAt": "2026-11-25T06:20:41.476Z"
+    "publishedAt": "2026-11-24T16:56:34.000Z",
+    "timelineAt": "2026-11-25T07:07:25.983Z",
+    "discoveredAt": "2026-11-25T07:07:25.983Z"
+  },
+  {
+    "arxivId": "2611.32194",
+    "title": "LLM Agent Authorization Across Context Compaction",
+    "titleZh": "跨上下文压缩的 LLM 智能体授权",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.32194",
+      "aisafetyhot": "https://aisafetyhot.com/items/yv7kpre620r2bjqa4c0uywx16"
+    },
+    "publishedAt": "2026-11-24T08:44:15.000Z",
+    "timelineAt": "2026-11-25T07:07:25.828Z",
+    "discoveredAt": "2026-11-25T07:07:25.828Z"
+  },
+  {
+    "arxivId": "2611.32195",
+    "title": "When Answering Is Administering: Permission Replies That Rewrite Coding-Agent Policy",
+    "titleZh": "当应答即管理：改写编码智能体策略的权限回复",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.32195",
+      "aisafetyhot": "https://aisafetyhot.com/items/g25dz1l4qplcvx1paw8cg2l5a"
+    },
+    "publishedAt": "2026-11-24T08:44:22.000Z",
+    "timelineAt": "2026-11-25T07:07:26.465Z",
+    "discoveredAt": "2026-11-25T07:07:26.465Z"
+  },
+  {
+    "arxivId": "2611.31774",
+    "title": "BODYBENCH: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting",
+    "titleZh": "BodyBench：评估对抗扰动图像防护对 AI 裸化 inpainting 攻击的防御效果",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.31774",
+      "aisafetyhot": "https://aisafetyhot.com/items/u89hknp05dxt6m3ca5x8392lv"
+    },
+    "publishedAt": "2026-11-24T01:27:26.000Z",
+    "timelineAt": "2026-11-25T07:07:26.094Z",
+    "discoveredAt": "2026-11-25T07:07:26.094Z"
+  },
+  {
+    "arxivId": "2611.31338",
+    "title": "Per-Attack Blocking Hides Catalog Vulnerability: A Weakest-Link Analysis of Tool Manifests",
+    "titleZh": "单次攻击拦截率掩盖目录脆弱性：智能体工具清单的最弱环节分析",
+    "authors": [],
+    "category": null,
+    "selected": true,
+    "attention": null,
+    "summaryZh": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.31338",
+      "aisafetyhot": "https://aisafetyhot.com/items/juoa2np2ujrjg48cebvjczdm4"
+    },
+    "publishedAt": "2026-11-23T17:22:47.000Z",
+    "timelineAt": "2026-11-25T07:07:25.673Z",
+    "discoveredAt": "2026-11-25T07:07:25.673Z"
   }
 ]

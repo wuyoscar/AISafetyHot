@@ -1,17 +1,109 @@
 [
   {
-    "id": "iqcctt6js212q131nosuutf1f",
-    "arxivId": "2611.33010",
-    "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
-    "titleEn": "Embodied intelligence fails the mirror test: how a simple mirror breaks robot policies",
+    "id": "gv1c69lc6fw16zd0964ssinrh",
+    "arxivId": "2611.32957",
+    "title": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
+    "titleEn": "“I do intend to ship”: Will LLMs Carry Out Marketplace Advance-Fee Scams?",
     "summary": null,
     "quickRead": null,
     "links": {
-      "paper": "https://arxiv.org/abs/2611.33010",
-      "aisafetyhot": "https://aisafetyhot.com/en/items/iqcctt6js212q131nosuutf1f"
+      "paper": "https://arxiv.org/abs/2611.32957",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/gv1c69lc6fw16zd0964ssinrh"
     },
-    "publishedAt": "2026-11-24T17:32:00.000Z",
-    "timelineAt": "2026-11-25T06:20:41.476Z",
+    "publishedAt": "2026-11-24T16:56:34.000Z",
+    "timelineAt": "2026-11-25T07:07:25.983Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "yv7kpre620r2bjqa4c0uywx16",
+    "arxivId": "2611.32194",
+    "title": "LLM Agent Authorization Across Context Compaction",
+    "titleEn": "LLM agent authorization across context compression",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.32194",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/yv7kpre620r2bjqa4c0uywx16"
+    },
+    "publishedAt": "2026-11-24T08:44:15.000Z",
+    "timelineAt": "2026-11-25T07:07:25.828Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "g25dz1l4qplcvx1paw8cg2l5a",
+    "arxivId": "2611.32195",
+    "title": "When Answering Is Administering: Permission Replies That Rewrite Coding-Agent Policy",
+    "titleEn": "When responding is managing: rewriting permission replies in coding agent policies",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.32195",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/g25dz1l4qplcvx1paw8cg2l5a"
+    },
+    "publishedAt": "2026-11-24T08:44:22.000Z",
+    "timelineAt": "2026-11-25T07:07:26.465Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "u89hknp05dxt6m3ca5x8392lv",
+    "arxivId": "2611.31774",
+    "title": "BODYBENCH: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting",
+    "titleEn": "BodyBench: Evaluating the defense effectiveness of adversarial perturbation image protections against AI nudification inpainting attacks",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.31774",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/u89hknp05dxt6m3ca5x8392lv"
+    },
+    "publishedAt": "2026-11-24T01:27:26.000Z",
+    "timelineAt": "2026-11-25T07:07:26.094Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  },
+  {
+    "id": "juoa2np2ujrjg48cebvjczdm4",
+    "arxivId": "2611.31338",
+    "title": "Per-Attack Blocking Hides Catalog Vulnerability: A Weakest-Link Analysis of Tool Manifests",
+    "titleEn": "Single-Attack Interception Rates Mask Catalog Vulnerability: A Weakest-Link Analysis of Agent Tool Inventories",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.31338",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/juoa2np2ujrjg48cebvjczdm4"
+    },
+    "publishedAt": "2026-11-23T17:22:47.000Z",
+    "timelineAt": "2026-11-25T07:07:25.673Z",
     "translation": {
       "locale": "en",
       "scope": "editorial_prose",
