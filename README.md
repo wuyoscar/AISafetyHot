@@ -19,10 +19,10 @@
 ## 今日 5 条 · 2026-11-25
 
 - [Goodfire 用可解释性构建更强的生物推理模型 BioReason-Pro 2](https://aisafetyhot.com/items/lkgxmr4d7395e6errh2u0farp) ——Goodfire Research
+- [Anthropic Fellows 研究：回归神经元基座做可解释性](https://aisafetyhot.com/items/iiubanqblsdlv2b0zfo9crpfx) ——X @AnthropicAI
 - [Fable 5.2 在有捷径可用时会对部分困难任务减少投入](https://aisafetyhot.com/items/jj2rj9sv1zcic2mlow5rodojs) ——LessWrong
-- [Anthropic 的 Siren 评测检验 Claude 模型是否会逃出沙箱](https://aisafetyhot.com/items/gyuivzks8bjaqdleyfj30768x) ——Unite.AI
+- [Anthropic 用 Siren 测量并缓解智能体沙箱逃逸](https://aisafetyhot.com/items/ul0dy4wtn6zmr4otlfxcm3y2g) ——Anthropic Red Teaming
 - [搜索 API 向编码智能体投喂恶意内容：WebSec 基准测得约 1.4% 的搜索返回已知恶意结果](https://aisafetyhot.com/items/r4v7np3qg1eab0k6j20o10hnf) ——CSA Labs Research
-- [ShellBench 评测显示最先进的 AI 智能体也难以可靠应对日常任务](https://aisafetyhot.com/items/mhp4bjsvm5hhvjj0v9r6scrne) ——TechCrunch AI
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
