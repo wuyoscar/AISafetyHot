@@ -22,7 +22,7 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [Goodfire uses interpretability to build a stronger biological reasoning model, BioReason-Pro 2](https://aisafetyhot.com/en/items/lkgxmr4d7395e6errh2u0farp) — Goodfire Research
 - [Goodhart Labs says Fable 5.2 invests less effort when a task appears impossible and a shortcut exists](https://aisafetyhot.com/en/items/ndxe68mzod6uxc1hzmzwojvd2) — Goodhart Labs
 - [Anthropic Fellows research: returning to neuron bases for interpretability](https://aisafetyhot.com/en/items/iiubanqblsdlv2b0zfo9crpfx) — X @AnthropicAI
-- [Anthropic uses Siren to measure and mitigate agent sandbox escape](https://aisafetyhot.com/en/items/ul0dy4wtn6zmr4otlfxcm3y2g) — Anthropic Red Teaming
+- [Anthropic Introduces Siren Safety Evaluation Mechanism, Using Honeypots to Test AI Agents' Sandbox Escape Risk](https://aisafetyhot.com/en/items/km6xxvqvl0hmykgjuc6jrvxjc) — iThome (Taiwan)
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

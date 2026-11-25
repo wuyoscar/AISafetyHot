@@ -22,7 +22,7 @@
 - [Goodfire 用可解释性构建更强的生物推理模型 BioReason-Pro 2](https://aisafetyhot.com/items/lkgxmr4d7395e6errh2u0farp) ——Goodfire Research
 - [Goodhart Labs 称 Fable 5.2 在看似不可能且有捷径时投入更少](https://aisafetyhot.com/items/ndxe68mzod6uxc1hzmzwojvd2) ——Goodhart Labs
 - [Anthropic Fellows 研究：回归神经元基座做可解释性](https://aisafetyhot.com/items/iiubanqblsdlv2b0zfo9crpfx) ——X @AnthropicAI
-- [Anthropic 用 Siren 测量并缓解智能体沙箱逃逸](https://aisafetyhot.com/items/ul0dy4wtn6zmr4otlfxcm3y2g) ——Anthropic Red Teaming
+- [Anthropic推出Siren安全评估机制，以蜜罐测试AI智能体的沙箱逃逸风险](https://aisafetyhot.com/items/km6xxvqvl0hmykgjuc6jrvxjc) ——iThome（台湾）
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
