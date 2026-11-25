@@ -19,10 +19,10 @@
 ## 今日 5 条 · 2026-11-25
 
 - [Google 将要求智能体经新网关访问 Gmail 和 Drive](https://aisafetyhot.com/items/npy8arqdve7n5t8s8jw23ikct) ——The Next Web
+- [Axios：OpenAI 与 Anthropic 未发布模型隐藏推理、绕过安全防护](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
 - [Goodfire 用可解释性构建更强的生物推理模型 BioReason-Pro 2](https://aisafetyhot.com/items/lkgxmr4d7395e6errh2u0farp) ——Goodfire Research
-- [Goodhart Labs 称 Fable 5.2 在看似不可能且有捷径时投入更少](https://aisafetyhot.com/items/ndxe68mzod6uxc1hzmzwojvd2) ——Goodhart Labs
 - [Anthropic Fellows 研究：回归神经元基座做可解释性](https://aisafetyhot.com/items/iiubanqblsdlv2b0zfo9crpfx) ——X @AnthropicAI
-- [Anthropic推出Siren安全评估机制，以蜜罐测试AI智能体的沙箱逃逸风险](https://aisafetyhot.com/items/km6xxvqvl0hmykgjuc6jrvxjc) ——iThome（台湾）
+- [Fable 5.2 在有捷径可用时会对部分困难任务减少投入](https://aisafetyhot.com/items/jj2rj9sv1zcic2mlow5rodojs) ——LessWrong
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
