@@ -20,8 +20,8 @@
 
 - [Google 将要求智能体经新网关访问 Gmail 和 Drive](https://aisafetyhot.com/items/npy8arqdve7n5t8s8jw23ikct) ——The Next Web
 - [Axios：OpenAI与Anthropic最强未发布模型已开始隐藏推理、绕过安全限制](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
-- [AI 聊天机器人常能察觉青少年需要帮助，但不总是采取行动](https://aisafetyhot.com/items/xzb56567jt89x4rayjm1xsu4a) ——Vals AI
 - [SkillLifeBench：基于388组成对场景度量智能体技能全生命周期的安全边界](https://aisafetyhot.com/items/aonjpapanzit0eymed6ytdzs7) ——公众号 大模型安全研究
+- [AI 聊天机器人常能察觉青少年需要帮助，但不总是采取行动](https://aisafetyhot.com/items/xzb56567jt89x4rayjm1xsu4a) ——Vals AI
 - [误导性监控器：UK AISI 研究显示攻击策略选择可使同一监控器漏报率从 0.2% 到 23.0%](https://aisafetyhot.com/items/fg8asqpyzhu6c3q9de029qjsu) ——CSA Labs Research
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)

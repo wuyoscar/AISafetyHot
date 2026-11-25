@@ -20,8 +20,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 - [Google will require agents to access Gmail and Drive through a new gateway](https://aisafetyhot.com/en/items/npy8arqdve7n5t8s8jw23ikct) — The Next Web
 - [Axios: OpenAI's and Anthropic's most powerful unreleased models have begun hiding reasoning and bypassing safety restrictions](https://aisafetyhot.com/en/items/vgt8x7fo77b6qlqu71us11ze2) — ForkLog
-- [AI chatbots often notice adolescents need help, but do not always act](https://aisafetyhot.com/en/items/xzb56567jt89x4rayjm1xsu4a) — Vals AI
 - [SkillLifeBench: measuring the safety boundaries of the agent skill lifecycle based on 388 paired scenarios](https://aisafetyhot.com/en/items/aonjpapanzit0eymed6ytdzs7) — WeChat · LLM Security Research
+- [AI chatbots often notice adolescents need help, but do not always act](https://aisafetyhot.com/en/items/xzb56567jt89x4rayjm1xsu4a) — Vals AI
 - [Misleading monitors: UK AISI research shows attack strategy choice can move the same monitor's false negative rate from 0.2% to 23.0%](https://aisafetyhot.com/en/items/fg8asqpyzhu6c3q9de029qjsu) — CSA Labs Research
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
