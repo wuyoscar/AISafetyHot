@@ -1,0 +1,25 @@
+[
+  {
+    "id": "iqcctt6js212q131nosuutf1f",
+    "arxivId": "2611.33010",
+    "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
+    "titleEn": "Embodied intelligence fails the mirror test: how a simple mirror breaks robot policies",
+    "summary": null,
+    "quickRead": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2611.33010",
+      "aisafetyhot": "https://aisafetyhot.com/en/items/iqcctt6js212q131nosuutf1f"
+    },
+    "publishedAt": "2026-11-24T17:32:00.000Z",
+    "timelineAt": "2026-11-25T06:20:41.476Z",
+    "translation": {
+      "locale": "en",
+      "scope": "editorial_prose",
+      "policy": "public-en-v1:localize-public@f623634f95",
+      "total": 4,
+      "translated": 4,
+      "pending": 0,
+      "status": "complete"
+    }
+  }
+]
