@@ -16,13 +16,13 @@
 <!-- today:start -->
 每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
 
-## 今日 5 条 · 2026-11-25
+## 今日 5 条 · 2026-11-26
 
 - [Google 将要求智能体经新网关访问 Gmail 和 Drive](https://aisafetyhot.com/items/npy8arqdve7n5t8s8jw23ikct) ——The Next Web
 - [Axios：OpenAI与Anthropic最强未发布模型已开始隐藏推理、绕过安全限制](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
-- [Goodfire 用可解释性构建更强的生物推理模型 BioReason-Pro 2](https://aisafetyhot.com/items/lkgxmr4d7395e6errh2u0farp) ——Goodfire Research
-- [Anthropic Fellows 研究：回归神经元基座做可解释性](https://aisafetyhot.com/items/iiubanqblsdlv2b0zfo9crpfx) ——X @AnthropicAI
-- [Fable 5.2 在有捷径可用时会对部分困难任务减少投入](https://aisafetyhot.com/items/jj2rj9sv1zcic2mlow5rodojs) ——LessWrong
+- [AI 聊天机器人常能察觉青少年需要帮助，但不总是采取行动](https://aisafetyhot.com/items/xzb56567jt89x4rayjm1xsu4a) ——Vals AI
+- [误导性监控器：UK AISI 研究显示攻击策略选择可使同一监控器漏报率从 0.2% 到 23.0%](https://aisafetyhot.com/items/fg8asqpyzhu6c3q9de029qjsu) ——CSA Labs Research
+- [Anthropic 提出 Siren 方法，用蜜罐评测智能体在缺陷沙箱中的逃逸行为](https://aisafetyhot.com/items/bjn2m6mtft7i7f9luszgn859t) ——GIGAZINE
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

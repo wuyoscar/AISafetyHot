@@ -16,13 +16,13 @@
 <!-- today:start -->
 Read AI safety news and papers daily, with links to the details and original sources.
 
-## Today's 5 · 2026-11-25
+## Today's 5 · 2026-11-26
 
 - [Google will require agents to access Gmail and Drive through a new gateway](https://aisafetyhot.com/en/items/npy8arqdve7n5t8s8jw23ikct) — The Next Web
 - [Axios: OpenAI's and Anthropic's most powerful unreleased models have begun hiding reasoning and bypassing safety restrictions](https://aisafetyhot.com/en/items/vgt8x7fo77b6qlqu71us11ze2) — ForkLog
-- [Goodfire uses interpretability to build a stronger biological reasoning model, BioReason-Pro 2](https://aisafetyhot.com/en/items/lkgxmr4d7395e6errh2u0farp) — Goodfire Research
-- [Anthropic Fellows research: returning to neuron bases for interpretability](https://aisafetyhot.com/en/items/iiubanqblsdlv2b0zfo9crpfx) — X @AnthropicAI
-- [Fable 5.2 reduces effort on some difficult tasks when a shortcut is available](https://aisafetyhot.com/en/items/jj2rj9sv1zcic2mlow5rodojs) — LessWrong
+- [AI chatbots often notice adolescents need help, but do not always act](https://aisafetyhot.com/en/items/xzb56567jt89x4rayjm1xsu4a) — Vals AI
+- [Misleading monitors: UK AISI research shows attack strategy choice can move the same monitor's false negative rate from 0.2% to 23.0%](https://aisafetyhot.com/en/items/fg8asqpyzhu6c3q9de029qjsu) — CSA Labs Research
+- [Anthropic proposed the Siren method, using honeypots to evaluate agents' escape behavior in flawed sandboxes](https://aisafetyhot.com/en/items/bjn2m6mtft7i7f9luszgn859t) — GIGAZINE
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
