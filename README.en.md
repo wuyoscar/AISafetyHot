@@ -20,8 +20,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 - [Google will require agents to access Gmail and Drive through a new gateway](https://aisafetyhot.com/en/items/npy8arqdve7n5t8s8jw23ikct) — The Next Web
 - [Goodfire uses interpretability to build a stronger biological reasoning model, BioReason-Pro 2](https://aisafetyhot.com/en/items/lkgxmr4d7395e6errh2u0farp) — Goodfire Research
+- [Goodhart Labs says Fable 5.2 invests less effort when a task appears impossible and a shortcut exists](https://aisafetyhot.com/en/items/ndxe68mzod6uxc1hzmzwojvd2) — Goodhart Labs
 - [Anthropic Fellows research: returning to neuron bases for interpretability](https://aisafetyhot.com/en/items/iiubanqblsdlv2b0zfo9crpfx) — X @AnthropicAI
-- [Fable 5.2 reduces effort on some difficult tasks when a shortcut is available](https://aisafetyhot.com/en/items/jj2rj9sv1zcic2mlow5rodojs) — LessWrong
 - [Anthropic uses Siren to measure and mitigate agent sandbox escape](https://aisafetyhot.com/en/items/ul0dy4wtn6zmr4otlfxcm3y2g) — Anthropic Red Teaming
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
