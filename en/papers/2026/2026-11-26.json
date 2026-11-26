@@ -3,7 +3,7 @@
     "id": "j1j7tj0hnogao7zyg7f05ecsv",
     "arxivId": "2611.34934",
     "title": "Attack Policy Selection can Mislead Monitor Evaluators",
-    "titleEn": "Attack strategy selection can mislead monitor evaluations",
+    "titleEn": "Attack Policy Selection can Mislead Monitor Evaluators",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
-      "pending": 0,
-      "status": "complete"
+      "total": 38,
+      "translated": 14,
+      "pending": 24,
+      "status": "partial"
     }
   },
   {
@@ -62,9 +62,9 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 3,
-      "pending": 1,
+      "total": 37,
+      "translated": 31,
+      "pending": 6,
       "status": "partial"
     }
   },
