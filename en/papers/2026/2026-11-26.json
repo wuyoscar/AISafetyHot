@@ -3,7 +3,7 @@
     "id": "j1j7tj0hnogao7zyg7f05ecsv",
     "arxivId": "2611.34934",
     "title": "Attack Policy Selection can Mislead Monitor Evaluators",
-    "titleEn": "Attack Policy Selection can Mislead Monitor Evaluators",
+    "titleEn": "Attack strategy selection can mislead monitor evaluations",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 38,
-      "translated": 14,
-      "pending": 24,
-      "status": "partial"
+      "total": 43,
+      "translated": 43,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -39,17 +39,17 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 3,
-      "pending": 1,
-      "status": "partial"
+      "total": 39,
+      "translated": 39,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
     "id": "qu7aculnix6c0y4z1h97658xj",
     "arxivId": "2611.34278",
     "title": "Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems",
-    "titleEn": "Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems",
+    "titleEn": "Latent-in-the-Middle: On the Security of Cross-Model Latent Space Communication in Multi-Agent Systems",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -62,10 +62,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 37,
-      "translated": 31,
-      "pending": 6,
-      "status": "partial"
+      "total": 46,
+      "translated": 46,
+      "pending": 0,
+      "status": "complete"
     }
   },
   {
@@ -85,8 +85,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 4,
-      "translated": 4,
+      "total": 43,
+      "translated": 43,
       "pending": 0,
       "status": "complete"
     }
