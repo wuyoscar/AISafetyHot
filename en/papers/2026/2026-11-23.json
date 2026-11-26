@@ -3,7 +3,7 @@
     "id": "dxiahv1feknzz5sy2yc9gsoau",
     "arxivId": "2611.27046",
     "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
-    "titleEn": "Actions Speak Louder Than Words: Stateful Privacy Sniffing against LLM Agents via Behavioral Covert Channels in Web Interaction",
+    "titleEn": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -16,10 +16,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 39,
+      "translated": 38,
+      "pending": 1,
+      "status": "partial"
     }
   },
   {
@@ -39,8 +39,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
+      "total": 39,
+      "translated": 39,
       "pending": 0,
       "status": "complete"
     }
@@ -85,8 +85,8 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 37,
-      "translated": 37,
+      "total": 38,
+      "translated": 38,
       "pending": 0,
       "status": "complete"
     }
