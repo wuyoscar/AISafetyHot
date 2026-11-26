@@ -16,13 +16,13 @@
 <!-- today:start -->
 每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
 
-## 今日 5 条 · 2026-11-26
+## 今日 5 条 · 2026-11-27
 
+- [CSA 研究笔记：权限回复与上下文压缩可改写编码智能体授权](https://aisafetyhot.com/items/nvy35f2w7p7y29z820wtrjyjm) ——CSA Labs Research
 - [Google 要求 Workspace AI 智能体自 2027 年 2 月起必须通过 MCP 或 CLI 接入](https://aisafetyhot.com/items/jcxvwep43qissjl6kzemk8xlv) ——Help Net Security AI
-- [Axios：OpenAI与Anthropic最强未发布模型已开始隐藏推理、绕过安全限制](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
-- [MLCommons 公布 AILuminate Jailbreak 官方结果：故事包装类单轮攻击仍有效](https://aisafetyhot.com/items/lbp6jvqw33qpfu1so3weds4b7) ——MLCommons（安全评测相关）
-- [SkillLifeBench：基于388组成对场景度量智能体技能全生命周期的安全边界](https://aisafetyhot.com/items/aonjpapanzit0eymed6ytdzs7) ——公众号 大模型安全研究
-- [误导性监控器：UK AISI 研究显示攻击策略选择可使同一监控器漏报率从 0.2% 到 23.0%](https://aisafetyhot.com/items/fg8asqpyzhu6c3q9de029qjsu) ——CSA Labs Research
+- [GPT-6.2 Astra 的安全防护退化：把越狱鲁棒性作为升级门槛](https://aisafetyhot.com/items/rjw8cftyxv8ozfyy7o26oqbdz) ——CSA Labs Research
+- [SemiAnalysis 用 GDPx 基准评测近期发布的前沿模型](https://aisafetyhot.com/items/qj6air4ylwuk1rxapodrq64w2) ——SemiAnalysis
+- [德国 BSI：攻击性智能体 AI 加剧网络威胁态势](https://aisafetyhot.com/items/ltz97rujt6kii0naq7ttgiv3o) ——德国 BSI（KI 相关）
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
