@@ -21,8 +21,8 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [CSA research note: permission replies and context compaction can rewrite coding agent authorization](https://aisafetyhot.com/en/items/nvy35f2w7p7y29z820wtrjyjm) — CSA Labs Research
 - [Google requires Workspace AI agents to connect via MCP or CLI starting February 2027](https://aisafetyhot.com/en/items/jcxvwep43qissjl6kzemk8xlv) — Help Net Security AI
 - [Safety defenses regress in GPT-6.2 Astra: making jailbreak robustness an upgrade gate](https://aisafetyhot.com/en/items/rjw8cftyxv8ozfyy7o26oqbdz) — CSA Labs Research
-- [SemiAnalysis evaluates recently released frontier models with the GDPx benchmark](https://aisafetyhot.com/en/items/qj6air4ylwuk1rxapodrq64w2) — SemiAnalysis
 - [Germany's BSI: offensive agentic AI intensifies the cyber threat landscape](https://aisafetyhot.com/en/items/ltz97rujt6kii0naq7ttgiv3o) — BSI (Germany)
+- [SemiAnalysis evaluates recently released frontier models with the GDPx benchmark](https://aisafetyhot.com/en/items/qj6air4ylwuk1rxapodrq64w2) — SemiAnalysis
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->

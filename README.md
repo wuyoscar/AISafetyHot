@@ -21,8 +21,8 @@
 - [CSA 研究笔记：权限回复与上下文压缩可改写编码智能体授权](https://aisafetyhot.com/items/nvy35f2w7p7y29z820wtrjyjm) ——CSA Labs Research
 - [Google 要求 Workspace AI 智能体自 2027 年 2 月起必须通过 MCP 或 CLI 接入](https://aisafetyhot.com/items/jcxvwep43qissjl6kzemk8xlv) ——Help Net Security AI
 - [GPT-6.2 Astra 的安全防护退化：把越狱鲁棒性作为升级门槛](https://aisafetyhot.com/items/rjw8cftyxv8ozfyy7o26oqbdz) ——CSA Labs Research
-- [SemiAnalysis 用 GDPx 基准评测近期发布的前沿模型](https://aisafetyhot.com/items/qj6air4ylwuk1rxapodrq64w2) ——SemiAnalysis
 - [德国 BSI：攻击性智能体 AI 加剧网络威胁态势](https://aisafetyhot.com/items/ltz97rujt6kii0naq7ttgiv3o) ——德国 BSI（KI 相关）
+- [SemiAnalysis 用 GDPx 基准评测近期发布的前沿模型](https://aisafetyhot.com/items/qj6air4ylwuk1rxapodrq64w2) ——SemiAnalysis
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
