@@ -95,7 +95,7 @@
     "id": "juoa2np2ujrjg48cebvjczdm4",
     "arxivId": "2611.31338",
     "title": "Per-Attack Blocking Hides Catalog Vulnerability: A Weakest-Link Analysis of Tool Manifests",
-    "titleEn": "Single-Attack Interception Rates Mask Catalog Vulnerability: A Weakest-Link Analysis of Agent Tool Inventories",
+    "titleEn": "Per-Attack Blocking Hides Catalog Vulnerability: A Weakest-Link Analysis of Tool Manifests",
     "summary": null,
     "quickRead": null,
     "links": {
@@ -108,10 +108,10 @@
       "locale": "en",
       "scope": "editorial_prose",
       "policy": "public-en-v1:localize-public@f623634f95",
-      "total": 12,
-      "translated": 12,
-      "pending": 0,
-      "status": "complete"
+      "total": 38,
+      "translated": 14,
+      "pending": 24,
+      "status": "partial"
     }
   }
 ]
