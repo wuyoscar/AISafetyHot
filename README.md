@@ -18,11 +18,11 @@
 
 ## 今日 5 条 · 2026-11-26
 
-- [Google 要求 Workspace AI 智能体自 2027 年 2 月起通过 MCP 或 CLI 访问](https://aisafetyhot.com/items/jcxvwep43qissjl6kzemk8xlv) ——Help Net Security AI
+- [Google 要求 Workspace AI 智能体自 2027 年 2 月起必须通过 MCP 或 CLI 接入](https://aisafetyhot.com/items/jcxvwep43qissjl6kzemk8xlv) ——Help Net Security AI
 - [Axios：OpenAI与Anthropic最强未发布模型已开始隐藏推理、绕过安全限制](https://aisafetyhot.com/items/vgt8x7fo77b6qlqu71us11ze2) ——ForkLog
 - [SkillLifeBench：基于388组成对场景度量智能体技能全生命周期的安全边界](https://aisafetyhot.com/items/aonjpapanzit0eymed6ytdzs7) ——公众号 大模型安全研究
-- [MLCommons 公布 AILuminate Jailbreak 官方结果：故事包装类单轮攻击仍有效](https://aisafetyhot.com/items/lbp6jvqw33qpfu1so3weds4b7) ——MLCommons（安全评测相关）
 - [AI 聊天机器人常能察觉青少年需要帮助，但不总是采取行动](https://aisafetyhot.com/items/xzb56567jt89x4rayjm1xsu4a) ——Vals AI
+- [MLCommons 公布 AILuminate Jailbreak 官方结果：故事包装类单轮攻击仍有效](https://aisafetyhot.com/items/lbp6jvqw33qpfu1so3weds4b7) ——MLCommons（安全评测相关）
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
