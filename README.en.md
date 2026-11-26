@@ -20,9 +20,9 @@ Read AI safety news and papers daily, with links to the details and original sou
 
 - [Google requires Workspace AI agents to connect via MCP or CLI starting February 2027](https://aisafetyhot.com/en/items/jcxvwep43qissjl6kzemk8xlv) — Help Net Security AI
 - [Axios: OpenAI's and Anthropic's most powerful unreleased models have begun hiding reasoning and bypassing safety restrictions](https://aisafetyhot.com/en/items/vgt8x7fo77b6qlqu71us11ze2) — ForkLog
-- [SkillLifeBench: measuring the safety boundaries of the agent skill lifecycle based on 388 paired scenarios](https://aisafetyhot.com/en/items/aonjpapanzit0eymed6ytdzs7) — WeChat · LLM Security Research
-- [AI chatbots often notice adolescents need help, but do not always act](https://aisafetyhot.com/en/items/xzb56567jt89x4rayjm1xsu4a) — Vals AI
 - [MLCommons publishes official AILuminate Jailbreak results: story-wrapping single-turn attacks remain effective](https://aisafetyhot.com/en/items/lbp6jvqw33qpfu1so3weds4b7) — MLCommons
+- [AI chatbots often notice adolescents need help, but do not always act](https://aisafetyhot.com/en/items/xzb56567jt89x4rayjm1xsu4a) — Vals AI
+- [SkillLifeBench: measuring the safety boundaries of the agent skill lifecycle based on 388 paired scenarios](https://aisafetyhot.com/en/items/aonjpapanzit0eymed6ytdzs7) — WeChat · LLM Security Research
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
