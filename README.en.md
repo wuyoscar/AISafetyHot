@@ -22,7 +22,7 @@ Read AI safety news and papers daily, with links to the details and original sou
 - [arXiv paper says attackers who know the rules can bypass NVIDIA's open-source skill scanner in synthetic tests](https://aisafetyhot.com/en/items/ythahsto5zycj846rwbr0pujh) — WeChat · LLM Security Research
 - [Anthropic exposes AI's fake unlearning! Adjust a few dozen of 460,000 neurons, and hacker knowledge comes back to life](https://aisafetyhot.com/en/items/egwgd6cqvawzx7l95g8yn6mfe) — WeChat · AI Era (Xinzhiyuan)
 - [Anthropic releases Siren evaluation, testing Claude models' tendency to escape sandboxes](https://aisafetyhot.com/en/items/nhob8kkq8vvcbmjobj5mdo3mu) — zhiding.cn
-- [Amazon says open-source AI agent almost autonomously exploited a zero-day vulnerability to launch attack](https://aisafetyhot.com/en/items/uyrxkszucq81qy5r60fvkpv6w) — zhiding.cn
+- [GitHub 上存在人眼不可见的隐藏文字，部分意在操纵小型 AI，研究调查 1亿4500万条内容](https://aisafetyhot.com/en/items/ywhqhk2use9v41ejrux09ohyj) — Infoseek (English translation pending; the original title is shown.)
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
