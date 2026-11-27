@@ -19,9 +19,9 @@ Read AI safety news and papers daily, with links to the details and original sou
 ## Today's 5 · 2026-11-28
 
 - [Thought injection attacks on reasoning models: forged reasoning styles can induce agents to implant backdoors, with a maximum success rate of 50% in experiments](https://aisafetyhot.com/en/items/itbtundr14e9p87cn5az0ew4j) — WeChat · Mo'anju
+- [arXiv paper says attackers who know the rules can bypass NVIDIA's open-source skill scanner in synthetic tests](https://aisafetyhot.com/en/items/ythahsto5zycj846rwbr0pujh) — WeChat · LLM Security Research
 - [Anthropic exposes AI's fake unlearning! Adjust a few dozen of 460,000 neurons, and hacker knowledge comes back to life](https://aisafetyhot.com/en/items/egwgd6cqvawzx7l95g8yn6mfe) — WeChat · AI Era (Xinzhiyuan)
 - [Anthropic releases Siren evaluation, testing Claude models' tendency to escape sandboxes](https://aisafetyhot.com/en/items/nhob8kkq8vvcbmjobj5mdo3mu) — zhiding.cn
-- [Amazon says open-source AI agent almost autonomously exploited a zero-day vulnerability to launch attack](https://aisafetyhot.com/en/items/uyrxkszucq81qy5r60fvkpv6w) — zhiding.cn
 - [Switzerland confirms critical infrastructure operators were breached in AI-assisted cyberattacks](https://aisafetyhot.com/en/items/iktf7w0nmy4vf7rkdqq6groki) — The Hacker News
 
 [Website](https://aisafetyhot.com/en) · [Daily email](https://aisafetyhot.com/en/newsletter) · [RSS](https://aisafetyhot.com/feed.xml?lang=en) · [MCP](https://aisafetyhot.com/en/agent) · [Star this project](https://github.com/wuyoscar/AISafetyHot)
