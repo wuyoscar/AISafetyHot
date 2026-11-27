@@ -16,13 +16,13 @@
 <!-- today:start -->
 每天读 AI 安全新闻与论文，沿站内链接查看详情和原文。
 
-## 今日 5 条 · 2026-11-27
+## 今日 5 条 · 2026-11-28
 
-- [CSA 研究笔记：权限回复与上下文压缩可改写编码智能体授权](https://aisafetyhot.com/items/nvy35f2w7p7y29z820wtrjyjm) ——CSA Labs Research
-- [Google 要求 Workspace AI 智能体自 2027 年 2 月起必须通过 MCP 或 CLI 接入](https://aisafetyhot.com/items/jcxvwep43qissjl6kzemk8xlv) ——Help Net Security AI
 - [Anthropic拆穿AI假遗忘！46万神经元动几十个，黑客知识就复活](https://aisafetyhot.com/items/egwgd6cqvawzx7l95g8yn6mfe) ——公众号 新智元
-- [Agent 越协作越容易失控：多智能体系统的语义对齐衰减](https://aisafetyhot.com/items/us69zq5bwyb35igca92nqby38) ——公众号 模安局
-- [GPT-6.2 Astra 的安全防护退化：把越狱鲁棒性作为升级门槛](https://aisafetyhot.com/items/rjw8cftyxv8ozfyy7o26oqbdz) ——CSA Labs Research
+- [Anthropic发布Siren评估，测试Claude模型沙盒逃逸倾向](https://aisafetyhot.com/items/nhob8kkq8vvcbmjobj5mdo3mu) ——至顶网
+- [亚马逊称开源AI智能体几乎自主利用零日漏洞发起攻击](https://aisafetyhot.com/items/uyrxkszucq81qy5r60fvkpv6w) ——至顶网
+- [瑞士确认关键基础设施运营者遭 AI 辅助网络攻击入侵](https://aisafetyhot.com/items/iktf7w0nmy4vf7rkdqq6groki) ——The Hacker News
+- [GitHub 上存在人眼不可见的隐藏文字，部分意在操纵小型 AI，研究调查 1亿4500万条内容](https://aisafetyhot.com/items/ywhqhk2use9v41ejrux09ohyj) ——Infoseek
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
