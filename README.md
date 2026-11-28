@@ -22,7 +22,7 @@
 - [arXiv 论文称知道规则的攻击者可在合成测试中绕过英伟达开源技能扫描器](https://aisafetyhot.com/items/ythahsto5zycj846rwbr0pujh) ——公众号 大模型安全研究
 - [Anthropic拆穿AI假遗忘！46万神经元动几十个，黑客知识就复活](https://aisafetyhot.com/items/egwgd6cqvawzx7l95g8yn6mfe) ——公众号 新智元
 - [Anthropic发布Siren评估，测试Claude模型沙盒逃逸倾向](https://aisafetyhot.com/items/nhob8kkq8vvcbmjobj5mdo3mu) ——至顶网
-- [GitHub 上存在人眼不可见的隐藏文字，部分意在操纵小型 AI，研究调查 1亿4500万条内容](https://aisafetyhot.com/items/ywhqhk2use9v41ejrux09ohyj) ——Infoseek
+- [亚马逊称开源AI智能体几乎自主利用零日漏洞发起攻击](https://aisafetyhot.com/items/uyrxkszucq81qy5r60fvkpv6w) ——至顶网
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
