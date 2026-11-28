@@ -21,8 +21,8 @@
 - [研究人员：Thinking 标签下自身推理轨迹注入，使 MiniMax-M2.5 代码仓库后门植入达 50%](https://aisafetyhot.com/items/itbtundr14e9p87cn5az0ew4j) ——公众号 模安局
 - [arXiv 论文称知道规则的攻击者可在合成测试中绕过英伟达开源技能扫描器](https://aisafetyhot.com/items/ythahsto5zycj846rwbr0pujh) ——公众号 大模型安全研究
 - [Anthropic拆穿AI假遗忘！46万神经元动几十个，黑客知识就复活](https://aisafetyhot.com/items/egwgd6cqvawzx7l95g8yn6mfe) ——公众号 新智元
+- [DeepSeek 委托第三方对 V4 Pro 0813 进行安全评估](https://aisafetyhot.com/items/f59q4d6alnea0meql5j7i2xfa) ——TOKENPOST
 - [Anthropic发布Siren评估，测试Claude模型沙盒逃逸倾向](https://aisafetyhot.com/items/nhob8kkq8vvcbmjobj5mdo3mu) ——至顶网
-- [亚马逊称开源AI智能体几乎自主利用零日漏洞发起攻击](https://aisafetyhot.com/items/uyrxkszucq81qy5r60fvkpv6w) ——至顶网
 
 [网站](https://aisafetyhot.com/zh) · [邮件日报](https://aisafetyhot.com/zh/newsletter) · [RSS](https://aisafetyhot.com/feed.xml) · [MCP](https://aisafetyhot.com/zh/agent) · [喜欢本站，请点 Star](https://github.com/wuyoscar/AISafetyHot)
 <!-- today:end -->
